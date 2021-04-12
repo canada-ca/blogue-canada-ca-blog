@@ -1,0 +1,50 @@
+name: [GitHub_action_template]
+on:
+  pull_request:
+    branches:
+    - master #snapshot
+  push:
+    branches:
+    - master #snapshot
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    # checks out master branch
+    - uses: actions/checkout@v2
+      with:
+        ref: 'master'
+
+    # Should be used if app requires logins or tokens outside of the usual deployment logins or tokens
+    # see config.ini.gpg for more instructions
+    - name: Decrypt large secret
+      run: ./decrypt.sh
+      env:
+        CONFIG_INI_PASSPHRASE: ${{ secrets.CONFIG_INI_PASSPHRASE }}
+
+    - uses: Azure/docker-login@v1
+      with:
+        login-server: tbsacr.azurecr.io
+        username: ${{ secrets.ACR_USERNAME }}
+        password: ${{ secrets.ACR_PASSWORD }}
+
+    - run: |
+        docker build -f ./docker/Dockerfile . -t tbsacr.azurecr.io/[DNS_NAME]:${{ github.sha }}
+        docker push tbsacr.azurecr.io/[DNS_NAME]:${{ github.sha }}
+
+    # Set the target AKS cluster.
+    - uses: Azure/aks-set-context@v1
+      with:
+        creds: '${{ secrets.AZURE_CREDENTIALS }}'
+        cluster-name: tbs-prod-aks
+        resource-group: tbs-prod-rg
+    # Deploys docker image created to kubernetes
+    - uses: Azure/k8s-deploy@v1
+      with:
+        manifests: |
+          kubernetes/[DNS_NAME]-deployment.yaml
+          kubernetes/[DNS_NAME]-service.yaml
+        images: |
+          tbsacr.azurecr.io/[DNS_NAME]:${{ github.sha }}
+        namespace: |
+          [DNS_NAME]

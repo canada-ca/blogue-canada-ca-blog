@@ -1,0 +1,21 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: template-ingress
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+spec:
+  tls:
+  - hosts:
+    - template.tbs.alpha.canada.ca
+    secretName: template-tls-secret-prod
+  rules:
+  - host: template.tbs.alpha.canada.ca
+    http:
+      paths:
+      - backend:
+          serviceName: template
+          servicePort: 5000
+        path: /
+      
