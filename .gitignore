@@ -29,3 +29,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Jekyll
+.jekyll-cache
+_site
+vendor

@@ -1,0 +1,37 @@
+
+# Site settings
+urlalt:
+  en: https://blog.tbs.alpha.canada.ca
+  fr: https://blogue.tbs.alpha.canada.ca
+
+# Files excluded from Jekyll builds
+exclude:
+- .editorconfig
+- .jekyll-cache
+- .gitignore
+- .github
+- "*.gpg"
+- "*.tmp"
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- CNAME
+- gcweb-jekyll.gemspec
+- Gemfile
+- Gemfile.lock
+- LICENSE*
+- node_modules
+- screenshot.png
+- SECURITY.md
+- README.md
+- vendor/*
+
+# Jekyll settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+remote_theme: wet-boew/gcweb-jekyll
+title: Canada.ca Blog
+collections:
+  pages:
+    output: true
+    permalink: /:path
