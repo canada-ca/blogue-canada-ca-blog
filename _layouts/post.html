@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="blogholder img-responsive">
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="post-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+  </article>
+</div>
+<nav class="mrgn-tp-xl">
+	<h2 class="wb-inv">Document navigation</h2>
+	<ul class="pager">
+		{% if page.previous.url %}
+		<li class="next"><a href="{{page.previous.url}}">{{page.previous.title}}&nbsp;&raquo;</a></li>
+		{% endif %}
+		{% if page.next.url %}
+		<li class="previous"><a href="{{page.next.url}}">&laquo;&nbsp;{{page.next.title}}</a></li>
+		{% endif %}
+	  </div>
+	</ul>
+</nav>
