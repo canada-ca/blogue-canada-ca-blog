@@ -31,7 +31,3 @@ plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca Blog
-collections:
-  pages:
-    output: true
-    permalink: /:path

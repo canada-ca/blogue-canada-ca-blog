@@ -1,0 +1,27 @@
+intro:
+  en: "Evidence and insights: use the guidance from the <a href=\"https://www.canada.ca/en/government/about/design-system.html\">Canada.ca design system</a> to improve your web content."
+  fr: "Données probantes et observations : utiliser les lignes directrices du <a href=\"https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html\">système de conception de Canada.ca</a> pour améliorer votre contenu Web."
+feed:
+  en: ATOM RSS feed
+  fr: Fil RSS
+feedurl:
+  en: feed.html
+  fr: flux.html
+followus:
+  en: "Follow:"
+  fr: "Suivez&nbsp;:"
+newest:
+  en: Newest articles
+  fr: Nouveaux articles
+signup:
+  en: Sign up for our mailing list
+  fr: Abonnement par courriel
+searchblog:
+  en: Search all blog posts
+  fr: Recherche dans tous les billets de blogue
+signupurl:
+  en: signup.html
+  fr: inscrire.html
+twitterhandle:
+  en: digitalcdn?lang=en
+  fr: CDNnumerique?lang=fr
