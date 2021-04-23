@@ -5,8 +5,8 @@ feed:
   en: ATOM RSS feed
   fr: Fil RSS
 feedurl:
-  en: feed.html
-  fr: flux.html
+  en: feed.xml
+  fr: flux.xml
 followus:
   en: "Follow:"
   fr: "Suivez&nbsp;:"
