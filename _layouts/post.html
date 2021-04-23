@@ -11,12 +11,30 @@ layout: default
 <nav class="mrgn-tp-xl">
 	<h2 class="wb-inv">Document navigation</h2>
 	<ul class="pager">
-		{% if page.previous.url %}
-		<li class="next"><a href="{{page.previous.url}}">{{page.previous.title}}&nbsp;&raquo;</a></li>
-		{% endif %}
-		{% if page.next.url %}
-		<li class="previous"><a href="{{page.next.url}}">&laquo;&nbsp;{{page.next.title}}</a></li>
-		{% endif %}
-	  </div>
+		{% for post in site.posts %}
+			{%- if post.lang == page.lang -%}
+				{%- if prev -%}
+		<li class="next">
+			<a href="{{ post.url | remove_first: '/' | remove: page.lang }}">{{ post.title }}&nbsp;&raquo;</a>
+		</li>
+				{%- endif -%}
+				{%- assign prev = false -%}
+				{%- if post.id == page.id -%}
+					{%- assign prev = true -%}
+				{%- endif -%}
+			{%- endif -%}
+		{% endfor %}
+		{% for post in site.posts reversed %}
+			{%- if post.lang == page.lang -%}
+				{%- if next -%}
+		<li class="previous"><a href="{{ post.url | remove_first: '/' | remove: page.lang }}">&laquo;&nbsp;{{ post.title }}</a></li>
+					{%- break -%}
+				{%- endif -%}
+				{%- assign next = false -%}
+				{%- if post.id == page.id -%}
+					{%- assign next = true -%}
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor -%}
 	</ul>
 </nav>
