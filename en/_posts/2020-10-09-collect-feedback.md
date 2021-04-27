@@ -1,18 +1,10 @@
 ---
-alt: "Collect feedback, find issues"
-altLangPage: "https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/10/09/recueillir-la-retroaction"
 date:   2020-10-09
 description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Collect feedback, find issues"
 ---
 In 2020, the main way most Canadians interact with their government is online. Government of Canada web pages are more than just a communications tool. They’re an important service delivery point.
@@ -52,7 +44,7 @@ Service Canada/Principal Publisher built the widget. By embedding it into pages,
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-1.png" width="700">
+src="/images/feedback-1.png" >
 </figure>
 <details>
   <summary>Page Feedback Widget</summary>
@@ -61,7 +53,7 @@ src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-1.png" width="700">
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-2.png" width="700">
+src="/images/feedback-2.png" >
 </figure>
 <details>
   <summary>Next screen of Page Feedback Widget.</summary>
@@ -101,7 +93,7 @@ When people answered that they had not found what they were looking for, their a
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-graph-1.png" width="700">
+src="/images/feedback-graph-1.png" >
 </figure>
 <details>
   <summary>Results of radio buttons analysis.</summary>
@@ -122,7 +114,7 @@ Using this feedback, we started to get a better picture of what was causing issu
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-graph-2.png" width="700">
+src="/images/feedback-graph-2.png" >
 </figure>
 <details>
   <summary>Results of open text analysis.</summary>
@@ -177,8 +169,3 @@ Finally, a big thank you goes to our partners on this pilot.
 
 * [Increase the feedback - Gerry McGovern](https://medium.com/@gerrymcgovern/increase-the-feedback-3a0d4c904762)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

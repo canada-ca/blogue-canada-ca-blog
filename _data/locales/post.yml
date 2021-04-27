@@ -1,0 +1,30 @@
+abouturl:
+  en: https://www.canada.ca/en/government/about.html
+  fr: https://www.canada.ca/fr/gouvernement/a-propos.html
+abouttitle:
+  en: About Canada.ca
+  fr: A propos de Canada.ca
+connect:
+  en: Connect with the Digital Transformation Office at Treasury Board Secretariat
+  fr: Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
+navigation:
+  en: Document navigation
+  fr: Navigation dans le document
+email:
+  en: Email
+  fr: Courriel&nbsp;
+twitter:
+  en: Twitter
+  fr: Twitter&nbsp;
+twitterhandle:
+  en: "#CanadaDotCa (English) / #CanadaPointCa (French)"
+  fr: "#Canadapointca (français) / #Canadadotca (anglais)"
+slack:
+  en: Slack
+  fr: Slack&nbsp;
+next:
+  en: Next blog post
+  fr: Billet suivant
+previous:
+  en: Previous blog post
+  fr: Billet précédent

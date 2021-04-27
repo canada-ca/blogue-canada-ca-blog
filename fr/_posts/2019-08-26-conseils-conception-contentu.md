@@ -1,31 +1,28 @@
 ---
-layout: post
-title:  "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
-pubdate: "26 août 2019"
-langpage: "https://blog.canada.ca/2019/08/26/content-design-tips.html"
-date:   2019-08-26
-published: true
-draft: true
+altLangPage: "/2019/08/26/content-design-tips"
+date: 2019-08-26
+description: "En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
 lang: fr
-alt: "Six conseils en matière de conception de contenu."
-description: "En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation : un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
+layout: post
+pageclass: cnt-wdth-lmtd
+title: "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
 ---
 
 <style>
-figcaption {
-  font-size: 17px !important;
-  line-height: 1.5;
-  max-width: 80ch;
-  padding-bottom: 10px;
-  padding-top: 5px;
-}
-.nobreak {
-  white-space: nowrap !important;
-}
+  figcaption {
+    font-size: 17px !important;
+    line-height: 1.5;
+    max-width: 80ch;
+    padding-bottom: 10px;
+    padding-top: 5px;
+  }
+
+  .nobreak {
+    white-space: nowrap !important;
+  }
 </style>
 
-En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation : un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
-
+En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
 
 ## 1. Retirer des couches pour aider les gens à obtenir des réponses plus rapidement
 
@@ -33,36 +30,26 @@ Bien que le gouvernement du Canada soit responsable de financer les prêts étud
 
 La répétition de renseignements gérés par d’autres organisations peut entraîner la surcharge du contenu. Il devient alors plus difficile pour les utilisateurs de trouver ce qu’ils cherchent. La création de «&nbsp;portes de sortie&nbsp;» explicites, lorsque possible, et la réduction du désordre et du bruit entraînent une augmentation du taux de réussite des utilisateurs.
 
-
 ## 2. Regrouper le contenu en fonction des tâches et non en fonction de l’équipe responsable de le gérer
 
 L’une des difficultés liées au projet sur les prêts étudiants découlait de la façon dont le contenu était divisé pour les bourses et les prêts. Comme différentes équipes de programme géraient ce contenu, l’information était répartie sur différentes pages du site. Cette division n’avait cependant aucun sens aux yeux des étudiants. Ceux-ci demandent leurs prêts et bourses au moyen d’un seul formulaire. Dans le prototype restructuré, l’équipe de projet a combiné les prêts et les bourses en une seule page de sujet. Le parcours et le processus s’en sont retrouvés beaucoup plus simples.
 
-
 Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs vous aidera à regrouper le contenu de façon plus appropriée. Brisez les silos internes ministériels. Même si ces silos facilitent la division du travail dans la gestion de certains programmes, ils ne font que rendre le parcours de l’utilisateur plus compliqué. La conception de services exige que nous discutons avec des collègues au-delà de nos propres équipes et se mettre à la place des utilisateurs, afin de concevoir un parcours de l’utilisateur élégant et sensé.
 
-
 <figure>
-<img class="img-responsive border" alt="La page Web pour les prêts étudiants avant et après."
- src="{{ site.baseurl }}/{{ page.lang }}/images/prets-etudiants/pret-subvention-etudiants.jpg"/>
-<figcaption>Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat : une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
+  <img class="img-responsive border" alt="La page Web pour les prêts étudiants avant et après." src="/images/prets-etudiants/pret-subvention-etudiants.jpg"/>
+  <figcaption>Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat&nbsp;: une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
 </figure>
-
 <details class="col-md-8">
-<summary>
-Description détaillée
-</summary>
-
-<p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre «&nbsp;Bourses et prêts aux étudiants&nbsp;». Le sous-titre est suivi de trois liens&nbsp;:</p>
-
-<ol>
-<li>Faire une demande de bourses et de prêts d’études</li>
-<li>Gérer votre prêt au CSNPE</li>
-<li>Rembourser votre prêt d’études</li>
-</ol>
-
+  <summary>Description détaillée</summary>
+  <p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre «&nbsp;Bourses et prêts aux étudiants&nbsp;». Le sous-titre est suivi de trois liens&nbsp;:</p>
+  <ol>
+    <li>Faire une demande de bourses et de prêts d’études</li>
+    <li>Gérer votre prêt au CSNPE</li>
+    <li>Rembourser votre prêt d’études</li>
+  </ol>
 </details>
-<br>
+
 
 ## 3. Utiliser les données probantes pour éclairer la formulation
 
@@ -72,35 +59,25 @@ On oublie souvent que les gens à l’extérieur de nos propres équipes n’emp
 
 ## 4. Ne demandez pas aux gens de faire les calculs
 
-Dans la première étape du projet sur les prestations de maternité de l’assurance-emploi, seulement 5 % des participants sont parvenus à calculer correctement la durée maximale du congé payé que peut prendre une mère après l’accouchement. Le contenu comportait toutes les valeurs nécessaires au calcul, mais les gens avaient de la difficulté à les combiner. Il fallait un carnet, un crayon et des compétences en arithmétique simplement pour déterminer la question de base posée par l’ensemble des parents : «&nbsp;Combien de temps puis-je passer à la maison avec mon bébé&nbsp;».
+Dans la première étape du projet sur les prestations de maternité de l’assurance-emploi, seulement 5&nbsp;% des participants sont parvenus à calculer correctement la durée maximale du congé payé que peut prendre une mère après l’accouchement. Le contenu comportait toutes les valeurs nécessaires au calcul, mais les gens avaient de la difficulté à les combiner. Il fallait un carnet, un crayon et des compétences en arithmétique simplement pour déterminer la question de base posée par l’ensemble des parents&nbsp;: «&nbsp;Combien de temps puis-je passer à la maison avec mon bébé&nbsp;».
 
-L’équipe de projet a abordé le problème par deux angles. Nous avons d’abord créé un estimateur, au moyen d’un assistant de configuration interactif. Cet assistant permet aux gens d’entrer des données de base en vue d’obtenir une estimation du nombre de semaines et du montant d’argent auxquels ils peuvent s’attendre. Pour ceux qui préfèrent consulter un aperçu des options, nous avons retiré les chiffres des paragraphes et créé un tableau simple. Ce dernier permet de consulter rapidement le nombre de semaines, les taux de prestation et les montants en argent qui leur sont associés, pour chaque option de prestation. Sous le tableau se trouvent deux exemples qui illustrent comment effectuer le calcul. Montrer aux gens comment effectuer le calcul, en plus de leur donner un outil qui le facilite, a entraîné une augmentation du taux de réussite pour cette tâche de 74 points de pourcentage (psst, 5 % + 74 points de pourcentage = un taux de réussite de 79 %).
-
+L’équipe de projet a abordé le problème par deux angles. Nous avons d’abord créé un estimateur, au moyen d’un assistant de configuration interactif. Cet assistant permet aux gens d’entrer des données de base en vue d’obtenir une estimation du nombre de semaines et du montant d’argent auxquels ils peuvent s’attendre. Pour ceux qui préfèrent consulter un aperçu des options, nous avons retiré les chiffres des paragraphes et créé un tableau simple. Ce dernier permet de consulter rapidement le nombre de semaines, les taux de prestation et les montants en argent qui leur sont associés, pour chaque option de prestation. Sous le tableau se trouvent deux exemples qui illustrent comment effectuer le calcul. Montrer aux gens comment effectuer le calcul, en plus de leur donner un outil qui le facilite, a entraîné une augmentation du taux de réussite pour cette tâche de 74 points de pourcentage (psst, 5&nbsp;% + 74 points de pourcentage = un taux de réussite de 79&nbsp;%).
 
 ### Les gens ne font pas de maths
 
 <figure>
-<img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations avant."
- src="{{ site.baseurl }}/{{ page.lang }}/images/prestations-mat-ae/prestations-mat-avant.jpg"/>
-<figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total.</figcaption>
+  <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations avant." src="/images/prestations-mat-ae/prestations-mat-avant.jpg"/>
+  <figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total.</figcaption>
 </figure>
-
 <figure>
-<img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations après."
- src="{{ site.baseurl }}/{{ page.lang }}/images/prestations-mat-ae/prestations-mat-apres.jpg"/>
-<figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.</figcaption>
+  <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations après." src="/images/prestations-mat-ae/prestations-mat-apres.jpg"/>
+  <figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.</figcaption>
 </figure>
-
 <details class="col-md-8">
-<summary>
-Description détaillée
-</summary>
-<p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title="Assurance-emploi">AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
-<p>Sous cette capture d’écran s’en trouve une autre, celle de la version équivalente tirée du prototype. Une simple équation mathématique est encadrée de vert. L’équation montre 15 semaines de prestations de maternité plus 61 semaines de prestations parentales prolongées est égal à un total de 76 semaines pour Janelle. </p>
-
+  <summary>Description détaillée</summary>
+  <p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title="Assurance-emploi">AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
+  <p>Sous cette capture d’écran s’en trouve une autre, celle de la version équivalente tirée du prototype. Une simple équation mathématique est encadrée de vert. L’équation montre 15 semaines de prestations de maternité plus 61 semaines de prestations parentales prolongées est égal à un total de 76 semaines pour Janelle. </p>
 </details>
-
-<br>
 
 ## 5. Utiliser les chiffres avec modération
 
@@ -108,39 +85,32 @@ Les gens ont de la difficulté à assimiler les chiffres sur les sites Web. On a
 
 La simplification du contenu ne se limite pas aux mots d’une page. Lorsque les gens cherchent des réponses pour une question commençant par «&nbsp;combien&nbsp;», ils ont tendance à porter leur attention au premier ou au plus gros nombre qu’ils voient. Lorsque le contenu est parsemé de nombres, le taux de réussite devient très inconstant. Les gens deviennent perplexes devant un grand nombre de chiffres. Faites très attention à la façon dont vous les utilisez. Des énoncés de fait simples et clairs comportant un minimum de chiffres entraîneront des taux de réussite plus constants.
 
-
 ### Trop de chiffres entraînent la surcharge
 
 <figure>
-<img class="img-responsive border" alt="La page Web des prestations avant et après."
- src="{{ site.baseurl }}/{{ page.lang }}/images/prestations-mat-ae/chiffres.jpg"/>
-
-<figcaption>Des énoncés de faits clairs et simples ont beaucoup plus de succès
-</figcaption>
+  <img class="img-responsive border" alt="La page Web des prestations avant et après." src="/images/prestations-mat-ae/chiffres.jpg"/>
+  <figcaption>Des énoncés de faits clairs et simples ont beaucoup plus de succès</figcaption>
 </figure>
-
 <details class="col-md-8">
-<summary>
-Description détaillée
-</summary>
-
-<p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête «&nbsp;Circonstances spéciales&nbsp;» se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve sous celui-ci un autre en-tête, «&nbsp;Admissibilité&nbsp;». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>
-
+  <summary>Description détaillée</summary>
+  <p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête «&nbsp;Circonstances spéciales&nbsp;» se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve sous celui-ci un autre en-tête, «&nbsp;Admissibilité&nbsp;». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>
 </details>
 
-<br>
 ## 6. Mettre des réponses là où les gens les cherchent
 
-Il s’agit ici d’un conseil que nous répétons dans presque tous les projets d’optimisation. Il semble simple, mais ce n’est pas toujours évident. Notre propre compréhension approfondie du sujet en question peut devenir un obstacle. Ce qui est évident pour nous ne concorde pas toujours avec la façon dont les utilisateurs naviguent et réfléchissent. Dans le projet sur les prestations parentales de l’<abbr title="Assurance-emploi">AE</abbr>, il y avait une tâche demandant si une mère devait utiliser son congé de maternité lorsqu’elle tombe malade et doit arrêter de travailler avant la naissance de son bébé. La réponse est non; elle peut demander des prestations de maladie d’<abbr title="Assurance-emploi">AE</abbr>. Dans nos tests de référence, cette tâche n’était réussie que dans 22 % des cas. Nous avons constaté un phénomène que nous surnommons «&nbsp;du rebondissage&nbsp;». Les gens sautent d’une page à l’autre, en cherchant où trouver les réponses. Aucun titre de page ne donnait de piste claire permettant de trouver l’information, dans ce scénario.
+Il s’agit ici d’un conseil que nous répétons dans presque tous les projets d’optimisation. Il semble simple, mais ce n’est pas toujours évident. Notre propre compréhension approfondie du sujet en question peut devenir un obstacle. Ce qui est évident pour nous ne concorde pas toujours avec la façon dont les utilisateurs naviguent et réfléchissent. Dans le projet sur les prestations parentales de l’<abbr title="Assurance-emploi">AE</abbr>, il y avait une tâche demandant si une mère devait utiliser son congé de maternité lorsqu’elle tombe malade et doit arrêter de travailler avant la naissance de son bébé. La réponse est non; elle peut demander des prestations de maladie d’<abbr title="Assurance-emploi">AE</abbr>. Dans nos tests de référence, cette tâche n’était réussie que dans 22&nbsp;% des cas. Nous avons constaté un phénomène que nous surnommons «&nbsp;du rebondissage&nbsp;». Les gens sautent d’une page à l’autre, en cherchant où trouver les réponses. Aucun titre de page ne donnait de piste claire permettant de trouver l’information, dans ce scénario.
 
-Dans le prototype, l’équipe de projet a créé une nouvelle page intitulée «&nbsp;Circonstances spéciales&nbsp;», où elle a inscrit la réponse. Durant la ronde de validation, la majorité des participants se sont rendus sur cette page pour accomplir la tâche. Elle concordait avec leur modèle mental. Nous avons également examiné nos données de référence afin de déterminer à quels autres endroits les gens pourraient chercher. Nous avons constaté que la page sur l’admissibilité était la plus populaire. Nous avons donc également intégré la réponse à cette page, dans le prototype. Avec ces deux changements, le taux de réussite de cette tâche a grimpé à 80 %, lors de la ronde de validation.
+Dans le prototype, l’équipe de projet a créé une nouvelle page intitulée «&nbsp;Circonstances spéciales&nbsp;», où elle a inscrit la réponse. Durant la ronde de validation, la majorité des participants se sont rendus sur cette page pour accomplir la tâche. Elle concordait avec leur modèle mental. Nous avons également examiné nos données de référence afin de déterminer à quels autres endroits les gens pourraient chercher. Nous avons constaté que la page sur l’admissibilité était la plus populaire. Nous avons donc également intégré la réponse à cette page, dans le prototype. Avec ces deux changements, le taux de réussite de cette tâche a grimpé à 80&nbsp;%, lors de la ronde de validation.
 
 ## Conclusion
+
 Les projets d’optimisation ont pour but de connecter l’expérience vécue de nos utilisateurs avec la façon dont nous concevons le contenu. Une compréhension plus approfondie de la façon dont les gens naviguent et consomment notre contenu nous donne des perspectives importantes. Lorsque ces perspectives sont appliquées à la conception de contenu, elles peuvent nous aider à offrir de meilleurs services aux Canadiens.
 
 ## Nous voulons vos commentaires
+
 Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à <span class="nobreak">[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)</span>, ou publiez un gazouillis avec le mot-clic #Canadapointca.
 
 ## Pour en apprendre davantage
-* [Résumé de recherche : Prêts étudiants](https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html)
-* [Résumé de recherche : Prestations de maternité et prestations parentales de l’assurance-emploi](https://blogue.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html)
+
+* [Résumé de recherche&nbsp;: Prêts étudiants]( {{ "/resumes-recherche/prets-etudiants-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de recherche&nbsp;: Prestations de maternité et prestations parentales de l’assurance-emploi]( {{ "/resumes-recherche/maternite-parentales-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )

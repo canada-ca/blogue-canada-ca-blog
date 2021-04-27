@@ -74,7 +74,7 @@ Dans le but de favoriser un environnement ouvert et accueillant, nous nous engag
 
 ## Nos normes
 
-Exemples de comportements qui contribuent à créer un environnement positif incluent :
+Exemples de comportements qui contribuent à créer un environnement positif incluent&nbsp;:
 
 * Utiliser un langage accueillant et inclusif
 * Être respectueux des différents points de vue et expériences
@@ -82,7 +82,7 @@ Exemples de comportements qui contribuent à créer un environnement positif inc
 * Se concentrer sur ce qui est le mieux pour la communauté
 * Faire preuve d'empathie envers les autres membres de la communauté
 
-Voici des exemples de comportements inacceptables de la part des participants :
+Voici des exemples de comportements inacceptables de la part des participants&nbsp;:
 
 * L'utilisation d'un langage ou d'images sexualisés et d'une attention sexuelle importunée, ou percées
 * Trollage, commentaires insultants ou méprisants, et attaques personnelles ou politiques
@@ -104,7 +104,7 @@ La représentation d'un projet peut être mieux défini et clarifié par les res
 
 ## Application des règles
 
-Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :[`ux.eu@tbs-sct.gc.ca`].
+Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante&nbsp;:[`ux.eu@tbs-sct.gc.ca`].
 Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
 L'équipe de projet est dans l'obligation de respecter la confidentialité à l'égard du déclarant d'un incident.
 De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.

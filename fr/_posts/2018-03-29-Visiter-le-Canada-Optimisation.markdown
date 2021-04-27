@@ -1,19 +1,18 @@
 ---
-layout: post
-title:  "Visiter le Canada : optimisation"
-pubdate: "29 mars 2018"
-langpage: "https://blog.canada.ca/2018/03/29/Visit-Canada-Optimization.html"
-date:   2018-03-29 16:34:44 +0100
-published: true
-lang: fr
-alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
+altLangPage: "/2018/03/29/Visit-Canada-Optimization.html"
+date:   2018-03-29
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+lang: fr
+layout: post
+pageclass: "cnt-wdth-lmtd"
+title:  "Visiter le Canada&nbsp;: optimisation"
 ---
+
 **Par Eric Cooper, Bureau de la transformation numérique**
 
 Le Canada est un grand et beau pays dans lequel il y a beaucoup à voir et de nombreuses expériences à vivre. En 2017, année du 150e anniversaire de la Confédération du Canada, nous avons accueilli environ 20,8 millions de visiteurs. Nous avons ainsi battu notre précédent record.
 
-Il ne faut donc pas s’étonner que 2 des 5 services les plus populaires sur Canada.ca soient « Obtenez un visa de visiteur » et « Obtenez une autorisation de voyage électronique (AVE) ». Immigration, Réfugiés et Citoyenneté Canada (IRCC) ces deux documents de voyage.
+Il ne faut donc pas s’étonner que 2 des 5 services les plus populaires sur Canada.ca soient «&nbsp;Obtenez un visa de visiteur&nbsp;» et «&nbsp;Obtenez une autorisation de voyage électronique (AVE)&nbsp;». Immigration, Réfugiés et Citoyenneté Canada (IRCC) ces deux documents de voyage.
 
 Il n’est pas toujours facile de savoir quel document vous devez demander pour entrer au Canada. Ou même si vous devez en demander un. Plusieurs personnes ont eu du mal à déterminer de quel document elles avaient besoin. Quelques personnes n’ont pas pu monter à bord de l’avion pour le Canada parce qu’elles n’avaient pas le bon document
 
@@ -22,7 +21,8 @@ Il n’est pas toujours facile de savoir quel document vous devez demander pour 
 En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de la transformation numérique (BTN) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 
 ## Comprendre le problème
-Lors de nos recherches initiales, nous avons élaboré différents scénarios pour des personnes qui visitent le Canada. Ce dont elles ont besoins dépend de divers critères :
+
+Lors de nos recherches initiales, nous avons élaboré différents scénarios pour des personnes qui visitent le Canada. Ce dont elles ont besoins dépend de divers critères&nbsp;:
 
 - De quel pays viennent elles?
 - Quelle est leur nationalité actuelle d’un pays étranger?
@@ -30,7 +30,7 @@ Lors de nos recherches initiales, nous avons élaboré différents scénarios po
 - Quel mode de transport utilisent elles pour franchir la frontière canadienne?
 
 
-Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC :
+Nous avons ensuite rétréci notre champ d’examen aux tâches les plus courantes. Pour ce faire, nous sommes appuyés sur les données et les connaissances d’IRCC&nbsp;:
 
 Découvrir ce dont j’ai besoin pour venir au Canada...
 
@@ -48,12 +48,12 @@ Nous avons fait exécuter ces tâches à des centaines de personnes dans le cadr
 Voici à quoi ressemblait la page principale du processus lorsque nous avons commencé. Remarquez le texte au sommet de la page. Ce texte comprend des liens pour les exceptions, les citoyens qui ont la double nationalité et les résidents permanents canadiens. Des tests ont montré que les gens n’étaient pas capables de voir ces liens avec régularité. Ils allaient plutôt directement à la liste déroulante.
 
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant l'optimisation.">
 
 
 <details>
 		<summary>Version texte</summary>
-	<p>Cette image montre ce qu'était la page « Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur » avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers :</p><ul>
+	<p>Cette image montre ce qu'était la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers&nbsp;:</p><ul>
 	<li>visiter en touriste</li>
 	<li>visiter ses enfants ou petits-enfants</li>
 	<li>visiter pour affaires</li>
@@ -64,7 +64,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 </details>
 
 ## Remaniement du processus
-À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections :
+À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections&nbsp;:
 
 
 - adopter une approche de questions et réponses pour guider les gens qui effectuent la tâche
@@ -75,11 +75,11 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page « Vérifiez si vous avez besoin d'un visa » après l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après l'optimisation.">
 
 <details>
 		<summary>Version texte</summary>
-	<p>Cette image montre la page  « Vérifiez si vous avez besoin d'un visa » après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous :», suivi de cinq choix possibles : </p>
+	<p>Cette image montre la page  «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous&nbsp;:», suivi de cinq choix possibles&nbsp;: </p>
 	<ul>
 		<li>un citoyen du Canada et d’un autre pays (double nationalité)</li>
 		<li>un résident permanent du Canada (Carte RP)</li>
@@ -88,24 +88,24 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 		<li>un ancien résident du Canada</li>
 		<li>aucune de ces situations</li>
 	</ul>
-	La page a beaucoup moins de « bruit visuel » qu'avant l'optimisation.
+	La page a beaucoup moins de «&nbsp;bruit visuel&nbsp;» qu'avant l'optimisation.
 </details>
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
 ## Validation des prototypes
-Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91 %. Cela représente une amélioration de 47 points de pourcentage par rapport aux mêmes tâches sur le site en direct.
+Pour comprendre si les prototypes produisaient de meilleurs résultats pour les personnes qui essaient de visiter le Canada, nous avons organisé 46 séances d’essai de style Café. Le taux de réussite global pour les prototypes était de 91&nbsp;%. Cela représente une amélioration de 47 points de pourcentage par rapport aux mêmes tâches sur le site en direct.
 
 ## Voir son fonctionnement dans le monde réel
 Après l’intégration des prototypes au site en direct en mars 2017, les analyses ont montré une amélioration marquée du nombre de personnes qui sont passées de la page thématique Visiter le Canada aux pages de présentation de demande.
 
-<b>Avant et après l’optimisation : </b> février 2017 et juin 2017
+**Avant et après l’optimisation&nbsp;: ** février 2017 et juin 2017
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.">
 
 <details>
 		<summary>Version texte</summary>
-	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes :</p>
+	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes&nbsp;:</p>
 	<ul>
 		<li>déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur</li>
 		<li>présenter une demande de visa</li>
@@ -115,7 +115,7 @@ Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont a
 
 </details>
 
-Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
+Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35&nbsp;% avant à 62&nbsp;% après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
 
 ## Qu’en pensez-vous?
 Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou un gazouillis au moyen du mot-clic #Canadapointca.
@@ -129,8 +129,8 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 
 ## À propos d'Eric Cooper
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="{{ site.baseurl }}/{{ page.lang }}/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
+   <div class="pull-left mrgn-bttm-md">
+   <img class="img-responsive"  src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
       Eric Cooper<br>
       <b>Coordonnateur de projet</b>
    </div>

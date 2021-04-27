@@ -1,18 +1,10 @@
 ---
-alt: "Improving Canada.ca by focusing on COVID-19 top tasks"
-altLangPage: "https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/09/24/taches-principales-a-la-COVID-19"
 date:   2020-09-24
 description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 ---
 Canada.ca's site structure is designed to reflect the top tasks Canadians are trying to complete on the site. Using data to understand their changing needs is key to ensuring the right content is always up front and centre.
@@ -51,7 +43,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 
 <figure>
   <img class="img-responsive border" alt=" A pie chart shows 7 tasks received the top 25% of votes. The chart shows the next 25% of votes were spread over 11 tasks, then 18 tasks and the final 25% of votes were spread over 42 tasks."
- src="{{ site.baseurl }}/{{ page.lang }}/images/top-task.png" width="700" >
+ src="/images/top-task.png" >
 </figure>
 <details>
   <summary>The Canadian top task study results.</summary>
@@ -91,14 +83,9 @@ Even during a pandemic, evidence from Canadians should drive decisions and chang
 
 ## Learn more
 
-* [Improve digital services by measuring outcomes](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
-* [How we’re optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
+* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.lang ] }} )
+* [How we’re optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.lang ] }} )
 * [What really matters: focusing on top tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [Gerry McGovern’s website](http://www.gerrymcgovern.com/)
-* [Labelling study: which words work best](https://blog.canada.ca/2020/10/02/labelling-study.html)
+* [Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.lang ] }} )
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

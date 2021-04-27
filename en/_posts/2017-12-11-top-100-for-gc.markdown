@@ -1,18 +1,10 @@
 ---
-alt: Pie chart of top tasks. 1. Get a local weather forecast 28% 2. Get a visitor visa 9% 3. Apply to immigrate to Canada 7% 4. Get marine conditions 6% 5. Get an eTA 6%. Rest of chart is divided into smaller sections.
-altLangPage: "https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2017-12-11 09:48:44 +0100
+altLangPage: "/2017/12/11/100-taches-du-gc"
+date:   2017-12-11
 description: There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize?
-gradelevel: 7.8
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "How we identify top tasks for Canada.ca"
 ---
 
@@ -25,7 +17,7 @@ There are thousands of Government of Canada (GC) tasks out there, some small, an
 <figure class="mrgn-tp-lg" >
     <div class="col-md-6">
         <div class="center-block">
-            <img class="img-responsive center-block mrgn-tp-lg" src="{{ site.baseurl }}/{{ page.lang }}/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
+            <img class="img-responsive center-block mrgn-tp-lg" src="/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
         </div>
     </div>
     <div class="col-md-6">

@@ -1,18 +1,10 @@
 ---
-alt: "Using interactive checklists to simplify eligibility criteria"
-altLangPage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/11/12/listes-de-verification-interactives"
 date: 2020-11-12
 description: "In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Using interactive checklists to simplify eligibility criteria"
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.
@@ -26,8 +18,7 @@ The behavioural principle behind using interactive elements is that people slow 
 Checklists help people break down complex eligibility lists to ensure that they meet all criteria.
 
 <figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/eligibility-1.PNG" width="700">
+  <img class="img-responsive border" alt="A long description can be found after the image." src="/images/eligibility-1.PNG">
 </figure>
 <details>
 <summary>Eligibility checklist for the Canada Recovery Benefit</summary>
@@ -76,12 +67,7 @@ Carefully analyzing how to break things down using interactive elements can sign
 
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
-* [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
-* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

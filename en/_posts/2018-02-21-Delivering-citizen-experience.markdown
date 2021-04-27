@@ -1,17 +1,10 @@
 ---
-altLangPage: "https://blogue.canada.ca/2018/02/21/Offrir-une-excellente-expérience-citoyen.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2018-02-21 09:48:44 +0100
+altLangPage: "/2018/02/21/Offrir-une-excellente-experience-citoyen"
+date:   2018-02-21
 description: Blog post by the Honourable Scott Brison, President of the Treasury Board.
-gradelevel: 11.1
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Delivering a great citizen experience"
 ---
 
@@ -24,7 +17,7 @@ Last week, public servants and members of the community gathered for a bracing m
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
 <figure>
-    <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="{{ site.baseurl }}/{{ page.lang }}/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
+    <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
     <figcaption><small>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
 </figure>
 

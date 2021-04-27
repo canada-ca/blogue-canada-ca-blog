@@ -1,19 +1,11 @@
 ---
-alt: "The magic of using interactive questions"
-altLangPage: "/2021/04/08/utilisation-de-questions-interactives.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2021-04-08
+altLangPage: "/2021/04/08/utilisation-de-questions-interactives"
+date: 2021-04-08
 description: "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
-title:  "The magic of using interactive questions"
+title: "The magic of using interactive questions"
 ---
 Sometimes we refer to the interactive question pattern as a “wizard”.
 
@@ -73,16 +65,16 @@ To help people find answers specific to their personal situation, teams across g
 
 [Find out if you can enter Canada](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
 
-<br>
+
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/interactive questions_EN.JPG" width="500">
+src="/images/interactive questions_EN.JPG" >
 </figure>
 <details>
 <summary>Interactive questions for travel restrictions</summary>
 <p>The "Find out if you can travel to Canada" wizard displays all the answers you've provided as a persistent list at the top of the page above each new question it asks you.</p>
 </details>
-<br>
+
 
 Other successful examples of this design pattern include:
 * CRA: [How to apply to CERB](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#apply)
@@ -94,7 +86,7 @@ Creating a successful set of interactive questions is very different from tradit
 
 To start out, talk to your call centre to see where there might be a need for this design approach. Chances are, if people are calling frequently about complex services, the text on the web isn’t doing enough for them.
 
-[The importance of working with call centres](https://blog.canada.ca/2021/03/01/work-with-call-centres.html) (blog post)
+[The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.lang ] }} ) (blog post)
 
 First, map out the flow of decisions people need to make. You can start by sketching on a whiteboard. Then progress to a flowchart in Visio, a jamboard or even in a spreadsheet.
 
@@ -117,16 +109,11 @@ They help more than just visitors though. Interactive questions can:
 
 ## Learn more
 
-* [Optimize your content for voice search](https://blog.canada.ca/2020/01/28/voice-search-optimization.html)
-* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Optimize your content for voice search]( {{ "/2020/01/28/voice-search-optimization" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 * [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 * [Google Conversation design learning material](https://developers.google.com/actions/design/)
-* [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [Voice First: The Future of Interaction? (Nielsen Norman Group)]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
 * [DialogFlow documentation](https://dialogflow.com/docs)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

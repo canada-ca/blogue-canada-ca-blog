@@ -1,17 +1,11 @@
 ---
-alt: This image shows two funnels comparing before and after optimization.
-altLangPage: "https://blogue.canada.ca/2018/03/29/Visiter-le-Canada-Optimisation.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2018-03-29 16:34:44 +0100
+altLangPage: "/2018/03/29/Visiter-le-Canada-Optimisation"
+date:   2018-03-29
 pageclass: "cnt-wdth-lmtd"
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 lang: en
 layout: post
-published: true
+pageclass: "cnt-wdth-lmtd"
 title:  "Visit Canada: Optimization"
 ---
 **By Eric Cooper, Digital Transformation Office**
@@ -52,7 +46,7 @@ We ran hundreds of people through these tasks in a combination of online and mod
 
 This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
 
 <details>
 	<summary>Text version of this image</summary>
@@ -77,7 +71,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 - reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path
 - adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization">
 
 <details>
 	<summary>Text version of this image</summary>
@@ -104,7 +98,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 **Before and after optimization:** February 2017 and June 2017
 
-<img class="img-responsive border" src="{{ site.baseurl }}/{{ page.lang }}/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization.">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization.">
 
 <details>
 	<summary>Text version of this image</summary>
@@ -133,8 +127,8 @@ Let us know what you think about this project. Email us at [dto.btn@tbs-sct.gc.c
 ## About Eric
 
 <div class="col-md-3 col-xs-12">
-   <div class="pull-left" style="margin-bottom: 15px;">
-   <img class="img-responsive"  style="margin-bottom: 15px;" src="{{ site.baseurl }}/{{ page.lang }}/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" width="185px" alt="Eric Cooper" />
+   <div class="pull-left mrgn-bttm-md">
+   <img class="img-responsive mrgn-bttm-md" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
     Eric Cooper<br>
     <b>Project Coordinator</b>
    </div>

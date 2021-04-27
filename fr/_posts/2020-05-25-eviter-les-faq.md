@@ -1,14 +1,11 @@
 ---
-layout: post
-title:  "Éviter les FAQ, à une exception près"
-pubdate: "25 mai 2020"
-langpage: "https://blog.canada.ca/2020/05/25/avoiding-faqs.html"
+altLangPage: "/2020/05/25/avoiding-faqs"
 date:   2020-05-25
-published: true
-draft: true
-lang: fr
-alt: "Éviter les FAQ, à une exception près"
 description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
+lang: fr
+layout: post
+pageclass: "cnt-wdth-lmtd"
+title:  "Éviter les FAQ, à une exception près"
 ---
 
 Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
@@ -19,7 +16,7 @@ Notre réponse, presque toujours, est non; les FAQ ne sont pas efficaces, alors 
 
 Au lieu d’être un outil de navigation intuitif, les FAQ tendent à devenir un lieu de décharge pour les messages que l’organisation veut promouvoir. Elles rendent votre travail facile – tout ce que les gens veulent probablement savoir est regroupé sur une seule page. Toutefois, elles rendent le parcours de votre utilisateur plus difficile.
 
-Gerry McGovern, expert reconnu en expérience client numérique, appelle les FAQ « l’une des formes de navigation les plus paresseuses et les moins utiles qui se développe comme une mauvaise herbe sur le Web ». Il les qualifie de « l’un des pires exemples de pensée centrée sur l’organisation ».
+Gerry McGovern, expert reconnu en expérience client numérique, appelle les FAQ «&nbsp;l’une des formes de navigation les plus paresseuses et les moins utiles qui se développe comme une mauvaise herbe sur le Web&nbsp;». Il les qualifie de «&nbsp;l’un des pires exemples de pensée centrée sur l’organisation&nbsp;».
 ([Concevoir la navigation pour plus de clarté et de fidélité](https://gerrymcgovern.com/design-navigation-for-clarity-and-fidelity/)) (en anglais seulement)
 
 C’est parce que les FAQ permettent à vos utilisateurs d’examiner soigneusement les collections de questions verbeuses que vous pensez avoir, ou pire, des questions que vous voulez qu’ils aient. Certaines de ces questions peuvent être pertinentes pour leur tâche. Beaucoup d’entre elles ne le sont pas.
@@ -32,21 +29,20 @@ En plus de faire passer les gens à travers du contenu qui n’est pas pertinent
 
 Quiconque a vu une carte thermique de la façon dont les gens lisent une page Web connaîtra le modèle F, que le balayage oculaire suit souvent. Les yeux des gens traversent de moins en moins une page lorsqu’ils scannent.
 
-<br><figure>
-<img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
- src="{{ site.baseurl }}/{{ page.lang }}/images/heatmap.jpg" width="500">
-</figure><br>
+<figure>
+  <img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base" src="/images/heatmap.jpg">
+</figure>
 
-Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de « chargement frontal », qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu.
-([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots : Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/)) (en anglais seulement)
+Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de «&nbsp;chargement frontal&nbsp;», qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu.
+([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots&nbsp;: Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/)) (en anglais seulement)
 
 Lorsque vous transformez vos titres en questions, vous finissez par placer des mots inutiles dans la position la plus puissante pour le balayage oculaire.
 
-Prenons par exemple ces deux titres :
-* <b>Quelles sont les sources de pollution atmosphérique liée au trafic?</b>
-* <b>Sources de pollution atmosphérique liée au trafic </b>
+Prenons par exemple ces deux titres&nbsp;:
+* **Quelles sont les sources de pollution atmosphérique liée au trafic?**
+* **Sources de pollution atmosphérique liée au trafic**
 
-Dans le premier exemple, vous avez trois mots inutiles dans la position la plus puissante. Le fait de remplacer ces mots dans la « réponse » signifie que les mots clés sont plus à gauche, où le balayage oculaire est plus susceptible de les remarquer.
+Dans le premier exemple, vous avez trois mots inutiles dans la position la plus puissante. Le fait de remplacer ces mots dans la «&nbsp;réponse&nbsp;» signifie que les mots clés sont plus à gauche, où le balayage oculaire est plus susceptible de les remarquer.
 
 ## Un cas d’utilisation positive pour les FAQ
 
@@ -66,17 +62,16 @@ De nombreux appels au numéro pour Renseignements généraux <span class="nobrea
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
-<br><figure>
-<img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
- src="{{ site.baseurl }}/{{ page.lang }}/images/faq_fr.png" width="500">
-</figure><br>
+<figure>
+  <img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page" src="/images/faq_fr.png">
+</figure>
 
 ## Lignes directrices sur l’utilisation limitée des FAQ
 
 Bien que nous disposions d’une façon légitime pour vous d’utiliser une FAQ, nous vous supplions de procéder avec prudence! Quelques lignes directrices sont importantes à suivre.
 
-1. Lorsque les utilisateurs <b>ont déjà pris la décision de vous contacter directement</b>, envisagez de mettre des <b>réponses</b> aux principales questions sur une <b>page Contactez-nous<b>
-2. Travaillez avec les centres d’appels pour déterminer ce que sont réellement les principaux facteurs d’appels, et inclure <b>seulement</b> ces derniers
+1. Lorsque les utilisateurs **ont déjà pris la décision de vous contacter directement**, envisagez de mettre des **réponses** aux principales questions sur une **page Contactez-nous**
+2. Travaillez avec les centres d’appels pour déterminer ce que sont réellement les principaux facteurs d’appels, et inclure **seulement** ces derniers
 3. Limitez votre liste à au plus sept car la tâche principale de l’utilisateur qui vient à cette page est de vous contacter, alors ne les faites pas défiler sans fin
 4. Utilisez le modèle afficher/masquer pour que les utilisateurs n’aient qu’à examiner la réponse qui leur est pertinente
 5. Mettez les réponses au-dessus du numéro de téléphone ou de l’adresse de courriel car c’est un effort ultime pour encourager le comportement libre-service
@@ -91,15 +86,10 @@ Demandez-vous qui profite de votre FAQ – vous ou vos clients. Faites alors le 
 
 ## Plus d’encouragements pour éviter les FAQ
 
-* [Plus jamais de FAQ : Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/) (en anglais seulement)
+* [Plus jamais de FAQ&nbsp;: Créer des informations utiles pour une expérience utilisateur plus efficace](https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/) (en anglais seulement)
 * [Pourquoi les pages de FAQ sont presque toujours une mauvaise idée (et que faire à ce sujet)](https://thegood.com/insights/faq-pages/)(en anglais seulement)
-* [Les FAQ : pourquoi ne les avons-nous pas (gouv. du R.-U.)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/) (en anglais seulement)
+* [Les FAQ&nbsp;: pourquoi ne les avons-nous pas (gouv. du R.-U.)](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/) (en anglais seulement)
 * [Guide de contenu 18F – Ne pas utiliser de FAQ (gouvernement américain) ](https://content-guide.18f.gov/structure-the-content/#dont-use-faqs) (en anglais seulement)
 * [Pourquoi ne devriez-vous pas utiliser une page de FAQ](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page) (en anglais seulement)
 * [Les FAQ sont les dinosaures de la navigation Web – Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/) (en anglais seulement)
 
-## Communiquez avec le Bureau de la transformation numérique du SCT:
-
-* Courriel: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadapointca (français) / #Canadadotca (anglais)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

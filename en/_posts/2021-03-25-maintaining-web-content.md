@@ -1,18 +1,11 @@
 ---
-altLangPage: "/2021/03/25/maintenir-le-contenu-web.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2021-03-25
+altLangPage: "/2021/03/25/maintenir-le-contenu-web"
+date: 2021-03-25
 description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
-title:  "Maintaining and improving web content through its life cycle"
+title: "Maintaining and improving web content through its life cycle"
 ---
 Content on Canada.ca needs to be continuously maintained to keep it relevant, accurate, and current. The "set it and forget it" days of publishing do not exist on the web.
 
@@ -31,7 +24,7 @@ Sources of data include:
 
 See our previous post about how to use the different types of data you may be collecting.
 
-[Using data to make better content](https://blog.canada.ca/2021/02/04/data-to-action.html)
+[Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
 
 When you get insights into user behaviour or points of failure, make it a priority to take immediate action and improve content. This can be hard when you’re short on time and resources, but even small changes can make a big difference in helping people find answers on Canada.ca.
 
@@ -49,7 +42,7 @@ However, you should also always consider whether there is a false information sc
 
 Reconsider your information architecture and information scent. We often put a lot of effort into the information architecture when we launch new sections, but it’s just as important to review it regularly as the web content evolves. Look at link labels.
 
-[A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html) (blog post)
+[A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} ) (blog post)
 
 ### 2. People don’t seem to understand the answer
 
@@ -59,7 +52,7 @@ Take a hard look at your content. Could you simplify it? Are you missing an impo
 
 Look at doing a plain language edit. Find out what words people are using when talking about this topic, and make sure you’re using the same ones. Then test your proposed content before publishing.
 
-[Labelling study: which words work best](https://blog.canada.ca/2020/10/02/labelling-study.html)
+[Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.lang ] }} )
 
 [Web readability score - Experimental](https://readability-lisibilite.tbs.alpha.canada.ca/)
 
@@ -99,15 +92,10 @@ Share this post with your colleagues who might be interested.
 
 ## Learn more
 
-* [Using data to make better content](https://blog.canada.ca/2021/02/04/data-to-action.html)
-* [The importance of working with call centres](https://blog.canada.ca/2021/03/01/work-with-call-centres.html)
+* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
+* [The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.lang ] }} )
 * [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
-* [Collect feedback, find issues](https://blog.canada.ca/2020/10/09/collect-feedback.html)
-* [Designing for accessibility](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.lang ] }} )
+* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

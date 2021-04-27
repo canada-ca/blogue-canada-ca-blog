@@ -1,18 +1,10 @@
 ﻿---
-alt: "A case for descriptive link text"
-altLangPage: "https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/05/26/texte-de-lien-descriptif"
 date:   2020-05-26
 description: "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "A case for descriptive link text"
 ---
 Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily. The names of programs, apps and tools don’t always work well as descriptive link text for people who don’t already know the name.
@@ -51,8 +43,3 @@ Refer to the Canada.ca Content Style Guide to learn [how to write descriptive li
   </dl>
 </div>
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

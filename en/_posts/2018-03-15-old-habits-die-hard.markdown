@@ -1,17 +1,10 @@
 ---
-alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
-altLangPage: "https://blogue.canada.ca/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2018-03-14 09:48:44 +0100
+altLangPage: "/2018/03/14/debarrasse-difficilement-vieilles-habitudes"
+date:   2018-03-14
 description: The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Old habits die hard (when feelings get in the way)"
 ---
 **By Celeste Côté, Privy Council Office**
@@ -23,7 +16,7 @@ Gerry McGovern’s talk on top tasks and UX (user experience) hit the nail on th
 The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
 
 <figure>
-    <img class="img-responsive" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" src="{{ site.baseurl }}/{{ page.lang }}/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
+    <img class="img-responsive" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
     <figcaption><small>Celeste Côté during Gerry McGovern's master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
 </figure>
 

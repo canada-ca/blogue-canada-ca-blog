@@ -1,17 +1,10 @@
 ---
-alt: "Before and after screenshot of the Canada.ca home page."
-altLangPage: "https://blogue.canada.ca/2019/03/29/mise-a-jour-conception.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2019/03/29/mise-a-jour-conception"
 date:   2019-03-29
 description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "About the Canada.ca design update"
 ---
 
@@ -23,11 +16,11 @@ Canada.ca hadn’t had a significant update to its design in over five years. In
 
 <figure>
   <img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
-  src="{{ site.baseurl }}/{{ page.lang }}/images/design-refresh/before-after-refresh.jpg"/>
+  src="/images/design-refresh/before-after-refresh.jpg"/>
   <figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
 </figure>
 
-## What we focused on ##
+## What we focused on
 
 The design update focused on the standard Canada.ca template for public-facing web pages that provide services and information. As such, it included the following elements:
 
@@ -36,7 +29,7 @@ The design update focused on the standard Canada.ca template for public-facing w
 * new typography and fonts to enhance readability
 * updated colours with improved contrast
 
-## Designing based on evidence ##
+## Designing based on evidence
 
 The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions.
 
@@ -58,7 +51,7 @@ We did extensive testing and evaluation of multiple iterations of the updated de
 
 Overall, we saw that participants were comfortable using the new home page and menu. They perceived the final design as modern, open, helpful and credible. As expected, when navigating the prototype, most people were happy to click links on the page. They only resorted to the menus or site search when they didn’t immediately see what they were looking for.
 
-## Implementation and next steps ##
+## Implementation and next steps
 We worked with our implementation partners at Service Canada to launch the design update for all pages on the Managed Web Service (MWS) on January 31, 2019. This included 18 organizations that account for about 70% of user demand for web content from across the Government of Canada.
 
 This design update sets the stage for more frequent iterative improvements to Canada.ca based on real-world evidence. Now that the design update is live, follow-up activities are already underway.
@@ -75,5 +68,5 @@ In the coming months, we plan to:
 * develop design solutions for specialized situations beyond the scope of this update, such as quasi-judicial organizations, marketing and promotional campaigns, and transactional services
 * ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html">content improvement projects</a>
 
-## We want to hear from you ##
+## We want to hear from you
 Let us know what you think about the Canada.ca design update. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.

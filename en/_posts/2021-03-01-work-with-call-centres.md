@@ -1,17 +1,10 @@
 ---
-altLangPage: 'https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html'
-breadcrumbs:
-  - title: About Canada.ca
-    link: 'https://www.canada.ca/en/government/about.html'
-  - title: Canada.ca blog
-    link: 'https://blog.canada.ca/'
+altLangPage: '/2021/03/01/collaborer-avec-centres-appels'
 date: 2021-03-01
 description: 'Whether you run an in-house call centre or outsource your call centre to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.'
 lang: en
-draft: true
 layout: post
-pageclass: cnt-wdth-lmtd
-published: true
+pageclass: "cnt-wdth-lmtd"
 title: The importance of working with call centres
 ---
 “Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints?
@@ -57,7 +50,7 @@ Testing these solutions showed positive results. People looked for the answers o
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/alert-2.PNG" width="400">
+src="/images/alert-2.PNG" >
 </figure>
 <details>
   <summary>Alert banner - before (over one full mobile screen)</summary>
@@ -66,7 +59,7 @@ src="{{ site.baseurl }}/{{ page.lang }}/images/alert-2.PNG" width="400">
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/phone-3.PNG" width="700">
+src="/images/phone-3.PNG" >
 </figure>
 <details>
   <summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
@@ -114,7 +107,7 @@ When we ask people to follow a link to read more information, we place an extra 
 
 When users have **already made the decision to contact you directly**, consider putting **answers** to top questions **on a Contact us page**.
 
-[Avoiding FAQs, with one exception (blog post)](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
+[Avoiding FAQs, with one exception (blog post)]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
 
 ## Enacting change
 
@@ -132,14 +125,9 @@ The more closely you collaborate with your frontline call centre staff, the more
 
 ## Learn more
 
-* [Using data to make better content](https://blog.canada.ca/2021/02/04/data-to-action.html)
-* [Avoiding FAQs, with one exception](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
+* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
+* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
 * [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

@@ -1,17 +1,10 @@
 ---
-altLangPage: "https://blogue.canada.ca/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2018-02-23 09:48:44 +0100
+altLangPage: "/2018/02/23/Mesurer-resultats-ameliorer-services-numeriques"
+date:   2018-02-23
 description: Gerry McGovern offers his thoughts on his visit to Ottawa last week.
-gradelevel: 11.1
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Improve digital services by measuring outcomes"
 ---
 
@@ -22,7 +15,7 @@ In 2007, I first visited Ottawa. It was winter. Very cold. But what I remember m
 I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa. It’s been a thrill! So many wonderful, enthusiastic and talented people. So much energy and desire to deliver the very best services possible.
 
 <figure>
-    <img class="img-responsive" alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018" src="{{ site.baseurl }}/{{ page.lang }}/images/gerry-week/2018_02_18-4058.jpg">
+    <img class="img-responsive" alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
     <figcaption><small>Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
 </figure>
 

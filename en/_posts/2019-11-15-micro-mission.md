@@ -1,18 +1,10 @@
 ---
-alt: "Micro-missions"
-altLangPage: "https://blogue.canada.ca/2019/11/15/une-micro-mission.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2019/11/15/une-micro-mission"
 date: 2019-11-15
 description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely!"
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "A micro-mission, why it’s worth a try"
 ---
 
@@ -62,5 +54,5 @@ If ever the opportunity presents itself to you… seize it!
 
 ## Learn more
 
-* [Improving content on Canada.ca](https://blog.canada.ca/pages/project-overview.html)
+* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
 * [Digitial Transformation Office](https://www.canada.ca/en/government/about/about-digital-transformation-office.html)

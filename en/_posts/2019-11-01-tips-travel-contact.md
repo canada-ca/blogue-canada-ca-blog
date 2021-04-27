@@ -1,18 +1,10 @@
 ---
-alt: "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
-altLangPage: "https://blogue.canada.ca/2019/11/01/conseils-voyageurs-contact.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2019-11-1
+altLangPage: "/2019/11/01/conseils-voyageurs-contact"
+date: 2019-11-01
 description: "In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the CRA. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year."
-draft: true
-pageclass: "cnt-wdth-lmtd"
 lang: en
 layout: post
-published: true
+pageclass: "cnt-wdth-lmtd"
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 ---
 <style>
@@ -39,7 +31,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
 
 <figure>
   <img class="img-responsive" alt="Brochure publications redesigned as web content."
- src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/brochure-to-web-content.png"/>
+ src="/images/tips-travel-contact/brochure-to-web-content.png"/>
 </figure>
 
 <details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
@@ -66,7 +58,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 
 <figure>
   <img class="img-responsive" alt="Before and after web page for travel risks."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/travel-risks.png"/>
+  src="/images/tips-travel-contact/travel-risks.png"/>
   <figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
 </figure>
 
@@ -92,7 +84,7 @@ Check out the [alpha version of the Contact block pattern.](https://canada-ca.gi
 
 <figure>
   <img class="img-responsive border" alt="A screenshot of a simplified contact page."
- src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/contact-pattern.png"/>
+ src="/images/tips-travel-contact/contact-pattern.png"/>
 </figure>
 
 <details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
@@ -104,7 +96,7 @@ Check out the [alpha version of the Contact block pattern.](https://canada-ca.gi
 
 <abbr title="Canada Revenue Agency">CRA</abbr> is responsible for web content related to several top tasks for Canadians. These include filing your taxes and accessing the Canada Child Benefit. Many of these tasks require you to contact the <abbr title="Canada Revenue Agency">CRA</abbr> or send them a form. <abbr title="Canada Revenue Agency">CRA</abbr> call centers receive millions of calls each year. Often people contact the call centres because they can’t figure out what office to call for their specific request or because they can’t find which address to send their form to when the address isn’t printed on the form. Imagine how much more quickly people could receive service for complex questions, if the answers to these simple questions were easy to find online.
 
-In 2018, during the [<abbr title="Canada Revenue Agency">CRA</abbr> business registration and account maintenance optimization project](https://blog.canada.ca/research-summaries/business-account-research-summary.html), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different <abbr title="Canada Revenue Agency">CRA</abbr> addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
+In 2018, during the [<abbr title="Canada Revenue Agency">CRA</abbr> business registration and account maintenance optimization project]( {{ "/research-summaries/business-account-research-summary" | prepend: site.urlalt[ page.lang ] }} ), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different <abbr title="Canada Revenue Agency">CRA</abbr> addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
 
 The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.
 
@@ -115,21 +107,21 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
     <h3>Original content</h3> <p class="text-success">18% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA mailing address original content."
-     src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/mailing-success-1.png"/>
+     src="/images/tips-travel-contact/mailing-success-1.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>1st design: wizard</h3><p class="text-success">61% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA mailing address wizard success."
-     src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/mailing-success-2.png"/>
+     src="/images/tips-travel-contact/mailing-success-2.png"/>
     </figure>
   </div>
   <div class="col-md-4">
     <h3>2nd design: lookup</h3><p class="text-success">94% success</p>
     <figure>
     <img class="img-responsive border" alt="CRA postal code lookup success."
-     src="{{ site.baseurl }}/{{ page.lang }}/images/tips-travel-contact/mailing-success-3.png"/>
+     src="/images/tips-travel-contact/mailing-success-3.png"/>
     </figure>
   </div>
 </div>
@@ -145,5 +137,5 @@ In our optimization projects we seek to find and understand the pain points for 
 Let us know what you think. Email us at <span class="nobreak">[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)</span> or tweet using the hashtag #Canadadotca.
 
 ## Learn more
-* [Research summary: Travel advice and advisories](https://blog.canada.ca/research-summaries/travel-advice-research-summary.html)
-* [Research summary: Contact the <abbr title="Canada Revenue Agency">CRA</abbr>](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Research summary: Travel advice and advisories]( {{ "/research-summaries/travel-advice-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Contact the <abbr title="Canada Revenue Agency">CRA</abbr>]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )

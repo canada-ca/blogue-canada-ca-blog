@@ -1,18 +1,10 @@
 ---
-alt: "Using data to make better content"
-altLangPage: "https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2021-02-04
+altLangPage: "/2021/02/04/les-donnees-a-laction"
+date: 2021-02-04
 description: "We wanted to share some of our most recent experiences with using data to make important content work better."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Using data to make better content"
 ---
 Working in digital, there are many ways to collect data on content you publish. Analyzing that data can give you valuable insights into user behaviour and points of failure.
@@ -43,7 +35,7 @@ One way to manage a page with a lot of links is to look at click-through rates.
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/click-1.png" width="700">
+src="/images/click-1.png" >
 </figure>
 <details>
   <summary>Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020.</summary>
@@ -92,7 +84,7 @@ The original mobile-friendly design in March 2020 had 15 links and 4 category ba
 So, we worked with Health Canada to limit the number of links on the page. If a link has less than a 0.5% click-through rate, it’s a signal for Health Canada to look at whether it’s time to remove the link from the page and/or move it to a lower level page.  This ensures that the page evolves based on what people are actually looking for.
 Looking at click-through rates can also help you refine link text to support better findability of important content. Comparing the click-through rates of different link labels can help you decide which are more effective. We used this method early in the Pandemic to help more people find mental health resources.
 
-[A case for descriptive link text (blog post)](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
+[A case for descriptive link text (blog post)]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
 
 ## Rich write-in feedback
 
@@ -100,7 +92,7 @@ The DTO has been piloting better ways to get feedback from people on some COVID-
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/feedback-1.png" width="700">
+src="/images/feedback-1.png" >
 </figure>
 <details>
   <summary>Page Feedback Widget</summary>
@@ -118,7 +110,7 @@ Between December 11 and 14, 60% (87/144) of comments were about ingredients and 
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/action-2.PNG" width="700">
+src="/images/action-2.PNG" >
 </figure>
 <details>
   <summary>Feedback from ingredient list</summary>
@@ -187,13 +179,7 @@ Content that doesn’t meet people’s expectations can undermine the credibilit
 ## Learn more
 * [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
-* [Collect feedback, find issues](https://blog.canada.ca/2020/10/09/collect-feedback.html)
-* [Designing for accessibility](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
+* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.lang ] }} )
+* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
 * [ArriveCAN website](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html)
-
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 

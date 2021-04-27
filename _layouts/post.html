@@ -1,21 +1,29 @@
 ---
 layout: default
 ---
+
+{%- assign locales = site.data.locales.post -%}
 <div class="blogholder img-responsive">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 	<div class="post-content" itemprop="articleBody">
 		{{ content }}
+		<h2 id="{{ locales.connect[ page.lang ] | downcase | replace: ' ', '-' }}">{{ locales.connect[ page.lang ] }}</h2>
+		<ul>
+			<li>{{ locales.email[ page.lang ] }}: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+			<li>{{ locales.twitter[ page.lang ] }}: {{ locales.twitterhandle[ page.lang ] }}</li>
+			<li>{{ locales.slack[ page.lang ] }}: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
+		</ul>
 	</div>
   </article>
 </div>
 <nav class="mrgn-tp-xl">
-	<h2 class="wb-inv">Document navigation</h2>
+	<h2 class="wb-inv">{{ locales.navigation[ page.lang ] }}</h2>
 	<ul class="pager">
 		{% for post in site.posts %}
 			{%- if post.lang == page.lang -%}
 				{%- if prev -%}
 		<li class="next">
-			<a href="{{ post.url | remove_first: '/' | remove: page.lang }}">{{ post.title }}&nbsp;&raquo;</a>
+			<a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">{{ locales.next[ page.lang ] }}&nbsp;&raquo;</a>
 		</li>
 				{%- endif -%}
 				{%- assign prev = false -%}
@@ -27,7 +35,9 @@ layout: default
 		{% for post in site.posts reversed %}
 			{%- if post.lang == page.lang -%}
 				{%- if next -%}
-		<li class="previous"><a href="{{ post.url | remove_first: '/' | remove: page.lang }}">&laquo;&nbsp;{{ post.title }}</a></li>
+		<li class="previous">
+			<a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">&laquo;&nbsp;{{ locales.previous[ page.lang ] }}</a>
+		</li>
 					{%- break -%}
 				{%- endif -%}
 				{%- assign next = false -%}

@@ -1,18 +1,10 @@
 ---
-alt: "Six content design tips."
-altLangPage: "https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2019/08/26/conseils-conception-contentu"
 date:   2019-08-26
 description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Six content design tips from our Student loans and Parental benefits optimization projects"
 ---
 
@@ -42,7 +34,7 @@ Getting a clearer understanding of the mental model your users have can help you
 
 <figure>
   <img class="img-responsive border" alt="Before and after web page for student loans."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/student-loans/student-aid-grants.jpg"/>
+  src="/images/student-loans/student-aid-grants.jpg"/>
   <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
 </figure>
 
@@ -72,13 +64,13 @@ The project team attacked this problem on two fronts. First, we made an estimato
 
 <figure>
   <img class="img-responsive border" alt="Before page for the number of benefit weeks."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/ei-mat-benefits/ei-benefits-before.jpg"/>
+  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
   <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
 </figure>
 
 <figure>
   <img class="img-responsive border" alt="After page for the number of benefit weeks."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/ei-mat-benefits/ei-benefits-after.jpg"/>
+  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
   <figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
 </figure>
 
@@ -97,7 +89,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 
 <figure>
   <img class="img-responsive border" alt="Before and after benefits page."
- src="{{ site.baseurl }}/{{ page.lang }}/images/ei-mat-benefits/numbers.jpg"/>
+ src="/images/ei-mat-benefits/numbers.jpg"/>
   <figcaption>Clear, simple statements of facts are far more successful</figcaption>
 </figure>
 
@@ -119,5 +111,5 @@ Optimization projects are about connecting the lived experience of our users to 
 Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
-* [Research summary: Student loans](https://blog.canada.ca/research-summaries/student-loans-research-summary.html)
-* [Research summary: Employment insurance maternity and parental benefits](https://blog.canada.ca/research-summaries/maternity-parental-research-summary.html)
+* [Research summary: Student loans]( {{ "/research-summaries/student-loans-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Employment insurance maternity and parental benefits]( {{ "/research-summaries/maternity-parental-research-summary" | prepend: site.urlalt[ page.lang ] }} )

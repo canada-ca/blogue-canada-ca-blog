@@ -1,18 +1,10 @@
 ---
-alt: "Before and after screenshot of the Business Registration Online pages."
-altLangPage: "https://blogue.canada.ca/2019/02/04/comptes-entreprises.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2019/02/04/comptes-entreprises"
 date:   2019-02-04
 description: "The Canada Revenue Agency (CRA) and the Treasury Board of Canada Secretariat (TBS) collaborated to simplify tasks for small businesses on Canada.ca. These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Collaborating to make business registration easier for Canadian business owners"
 ---
 
@@ -36,7 +28,7 @@ There were so many questions we needed to answer. Why were they not taking the (
 
 Everyone, including the users, agreed that registering for a Canada Revenue Agency program account shouldn’t be this hard.
 
-## Benefits of the project for our taxpayers ##
+## Benefits of the project for our taxpayers
 
 Together, <abbr title="Canada Revenue Agency">CRA</abbr> and <abbr title="Treasury Board of Canada Secretariat">TBS</abbr> redesigned the way information can be found on certain small business webpages. The changes increased the overall task success rate by 39 percentage points!
 
@@ -49,23 +41,23 @@ We did this by:
 
 Here is one example of how we reorganized information:
 
-### Before ###
+### Before
 
 <figure>
   <img class="img-responsive border" alt="Business Registration Online before."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/business-account/before-BRO.jpg"/>
+  src="/images/business-account/before-BRO.jpg"/>
   <figcaption><small>All the information related to the Business Registration Online program was on one page. There were anchor links at the top of the page, but users got lost when they began to scroll.</small></figcaption>
 </figure>
 
-### After ###
+### After
 
 <figure>
   <img class="img-responsive border" alt="Business Registration Online after."
-  src="{{ site.baseurl }}/{{ page.lang }}/images/business-account/after-BRO.jpg"/>
+  src="/images/business-account/after-BRO.jpg"/>
   <figcaption><small>By splitting the information into small, manageable chunks, users were able to easily scan the information on each page and find what they were looking for.</small></figcaption>
 </figure>
 
-## How it affected my work as a CRA program officer ##
+## How it affected my work as a CRA program officer
 
 Throughout this project it became clear that little changes make a big difference.
 
@@ -79,17 +71,17 @@ Every time I write, I now asking myself:
 
 I find it ultimately always comes back to: how can we ensure we are meeting the highest possible standards for the people we serve?
 
-## Lessons learned ##
+## Lessons learned
 
 Working with TBS and the other teams in <abbr title="Canada Revenue Agency">CRA</abbr> was an invaluable experience. As a program officer, I learned about the complexities of the web and how every little thing <abbr title="Canada Revenue Agency">CRA</abbr> does is connected to a larger piece. I learned that small changes make a big difference. Everything we put on the web, how we write it, where we put it, what words we use, what tabs we use, how we link from page to page, all of it, affects the service we provide to Canadians. I know that <abbr title="Canada Revenue Agency">CRA</abbr> is committed to ensuring the best taxpayer experience, and the joint content optimization project helped us do just that.
 
-## We want to hear from you ##
+## We want to hear from you
 Let us know what you think about task management. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 
-* [Project summary: CRA business registration and account maintenance](https://blog.canada.ca/research-summaries/business-account-research-summary.html)
+* [Project summary: CRA business registration and account maintenance]( {{ "/research-summaries/business-account-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 
-## About the author ##
+## About the author
 
 Michelle McConnell is an acting Senior Program officer in the Business Information Section at the Canada Revenue Agency. She’s worked in various positions in the agency and is now happily in the Information Programs Division.

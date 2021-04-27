@@ -1,18 +1,10 @@
 ﻿---
-alt: "Avoiding FAQs, with one exception"
-altLangPage: "https://blogue.canada.ca/2020/05/25/eviter-les-faq.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/05/25/eviter-les-faq"
 date:   2020-05-25
 description: "Why FAQs are an ineffective content design choice most of the time, and when they can actually work."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Avoiding FAQs, with one exception"
 ---
 
@@ -38,8 +30,7 @@ Besides making people sift through content that isn’t relevant to their task, 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down.
 
 <figure>
-<img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
- src="{{ site.baseurl }}/{{ page.lang }}/images/heatmap.jpg" width="500">
+  <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern" src="/images/heatmap.jpg">
 </figure>
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour.
@@ -72,8 +63,7 @@ Many calls to the general 1-800&nbsp;0-Canada number were for questions specific
 On the General information by telephone page, we added a new top question and answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
 
 <figure>
-<img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
- src="{{ site.baseurl }}/{{ page.lang }}/images/faq.png" width="500">
+  <img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page" src="/images/faq.png">
 </figure>
 
 ## Guidelines for limited use of FAQs
@@ -103,8 +93,3 @@ Ask yourself who your FAQ serves &mdash; you or your clients. Then make the righ
 * [Why You Shouldn't Use a FAQs Page](https://turbofuture.com/internet/Why-You-Shouldnt-Use-a-FAQs-Page)
 * [FAQs are the dinosaurs of web navigation - Gerry McGovern](https://gerrymcgovern.com/faqs-are-the-dinosaurs-of-web-navigation/)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

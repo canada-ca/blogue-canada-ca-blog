@@ -1,24 +1,17 @@
 ---
-altLangPage: "/2021/04/08/using-interactive-questions.html"
-breadcrumbs:
-  - title: "A propos de Canada.ca"
-    link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
-  - title: Blogue de Canada.ca
-    link: "https://blogue.canada.ca/"
+altLangPage: "/2021/04/08/using-interactive-questions"
 date: 2021-04-08
 description: "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever."
-draft: true
 lang: fr
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
-title:  "Les questions interactives pour aider les gens"
+title: "Les questions interactives pour aider les gens"
 ---
 Nous désignons parfois le modèle de questions interactives comme un «&nbsp;assistant&nbsp;».
 
 Non, il ne s’agit  pas de quelqu’un qui va venir chez vous pour vous assister dans toutes vos tâches quotidiennes. Cela dit, les réponses simples et claires que vos utilisateurs peuvent obtenir d’un assistant peuvent vraiment les aider à trouver les réponses dont ils ont besoin.
 
-Personne ne veut que les gens aient de la difficulté à utiliser les services gouvernementaux en ligne lorsqu'ils essaient d'accomplir des tâches, comme :
+Personne ne veut que les gens aient de la difficulté à utiliser les services gouvernementaux en ligne lorsqu'ils essaient d'accomplir des tâches, comme&nbsp;:
 
 * déterminer s’ils sont admissibles à une prestation;
 * déterminer s’ils ont besoin d’une licence ou d’une autorisation;
@@ -41,7 +34,7 @@ Lorsque les gens ne comprennent pas quelles règles ou quels renseignements s’
 
 Les questions interactives **réduisent les détails distrayants**. Elles aident les gens à trouver des **réponses personnalisées** et à se concentrer sur celles‑ci.
 
-Ce modèle est bien adapté pour aider les gens à comprendre :
+Ce modèle est bien adapté pour aider les gens à comprendre&nbsp;:
 * les critères d’admissibilité;
 * le champ d’application des règles;
 * les exigences de conformité qui dépendent de situations ou de conditions particulières.
@@ -52,7 +45,7 @@ Les gens ne cherchent pas de l’information sur Canada.ca – ils cherchent des
 
 Pensez à la question de savoir s’il faut obtenir un visa ou une AVE pour visiter le Canada..
 
-Cela dépend de ce qui suit :
+Cela dépend de ce qui suit&nbsp;:
 
 * la durée de votre séjour au Canada;
 * ce que vous ferez au Canada;
@@ -74,17 +67,16 @@ Pour aider les personnes à trouver des réponses propres à leur situation pers
 [Voyez si vous pouvez entrer au Canada](https://voyage.gc.ca/voyage-covid/voyage-restrictions/debut-assistant?_ga=2.234691422.1954857627.1617633945-2059021.1611345059)
 
 <figure>
-<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/interactive questions_FR.JPG" width="500">
+  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/interactive questions_FR.JPG">
 </figure>
 <details>
-<summary>Questions interactives pour les restrictions liées aux voyages</summary>
-<p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
+  <summary>Questions interactives pour les restrictions liées aux voyages</summary>
+  <p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
 </details>
 
-Voici d’autres exemples de réussite de ce modèle de conception :
-* ARC : [Comment présenter une demande pour la PCU](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#apply)
-* EDSC : [Trouver de l’aide financière pendant la COVID](https://covid-prestations.alpha.canada.ca/fr/debut)
+Voici d’autres exemples de réussite de ce modèle de conception&nbsp;:
+* ARC&nbsp;: [Comment présenter une demande pour la PCU](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#apply)
+* EDSC&nbsp;: [Trouver de l’aide financière pendant la COVID](https://covid-prestations.alpha.canada.ca/fr/debut)
 
 ## Concevoir des questions interactives
 
@@ -92,7 +84,7 @@ La création d’un ensemble de questions interactives réussi est très différ
 
 Pour commencer, parlez à votre centre d’appels pour voir où cette approche de conception pourrait s’imposer. Il y a de fortes chances que si les gens téléphonent fréquemment au sujet de services complexes, cela signifie que le texte sur le Web ne les aide pas suffisamment.
 
-[L’importance de collaborer avec les centres d’appels](https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html) (billet de blogue)
+[L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.lang ] }} )
 
 Premièrement, établissez le cheminement des décisions que les gens doivent prendre. Vous pouvez commencer par dessiner sur un tableau blanc. Ensuite, passez à un schéma dans Visio, un Jamboard ou même une feuille de calcul.
 
@@ -106,7 +98,7 @@ Le prototypage et la mise à l’essai de questions interactives auprès d’uti
 
 Les questions interactives constituent une occasion inexploitée d’aider les Canadiens à trouver des réponses à leurs questions.
 
-Toutefois, elles n’aident pas seulement les personnes qui visitent le site Web. Les questions interactives peuvent :
+Toutefois, elles n’aident pas seulement les personnes qui visitent le site Web. Les questions interactives peuvent&nbsp;:
 * améliorer la compréhension des règlements ou des critères d’admissibilité;
 * aider à cerner les différences entre les informations contenues sur le Web, celles contenues dans les politiques et celles contenues dans les programmes;
 * réduire le nombre de demandes non admissibles;
@@ -114,16 +106,11 @@ Toutefois, elles n’aident pas seulement les personnes qui visitent le site Web
 * permettre aux Canadiens d’utiliser un service en toute confiance et leur faire savoir que le gouvernement les appuie.
 
 ## Pour en savoir davantage
-* [Optimiser votre contenu pour la recherche vocale](https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html)
-* [Résumé de la recherche : Communiquer avec l’ARC](https://blogue.canada.ca/resumes-recherche/arc-contactez-nous-resume-recherche.html)
+* [Optimiser votre contenu pour la recherche vocale]( {{ "/2020/01/28/optimisation-recherche-vocale" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de la recherche&nbsp;: Communiquer avec l’ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
 * [Stratégie de service du gouvernement du Canada](https://ouvert.canada.ca/fr/contenu/la-strategie-de-service-du-gouvernement-du-canada)
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 * [Google Conversation design learning material](https://developers.google.com/actions/design/) (en anglais seulement)
 * [Voice First: The Future of Interaction? (Nielsen Norman Group)](https://www.nngroup.com/articles/voice-first/)
 * [Documentation DialogFlow](https://cloud.google.com/dialogflow/docs/) (en anglais seulement)
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
-
-* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
-* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

@@ -1,18 +1,10 @@
 ---
-alt: "Design research during a pandemic"
-altLangPage: "https://blogue.canada.ca/2020/07/30/concevoir-recherche-pendant-pandemie.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/07/30/concevoir-recherche-pendant-pandemie"
 date:   2020-07-30
 description: "When the pandemic was confirmed in mid-March, the Digital Transformation Office had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. "
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Design research during a pandemic "
 ---
 
@@ -36,7 +28,7 @@ In the following weeks, we collaborated with other departments on larger researc
 
 ## 3. COVID-time: Adapting our timelines to days not weeks
 
-Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects](https://blog.canada.ca/pages/project-overview.html) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management.
+Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} ) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management.
 
 We used easy-to-access data like web analytics, search queries, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
 
@@ -72,11 +64,11 @@ Unmoderated testing allowed us to get some rest while the tests ran overnight. I
 
 In this unmoderated test video, the participant draws their own conclusions when interpreting a task. When testing a page about economic benefits, we found that many participants identified being self-employed as a business, not as an individual.
 
-{::nomarkdown}
+
 
 <figure class="wb-mltmd wb-init video cc_on">
-  <video poster="../../..{{ site.baseurl }}/{{ page.lang }}/images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
-    <source type="video/mp4" src="../../..{{ site.baseurl }}/{{ page.lang }}/images/design-research/design-research-unmoderated-1080x600-en.mp4" />
+  <video poster="../../../images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
+    <source type="video/mp4" src="../../../images/design-research/design-research-unmoderated-1080x600-en.mp4" />
     <track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
   </video>
       <figcaption>
@@ -92,7 +84,7 @@ In this unmoderated test video, the participant draws their own conclusions when
             </details>
       </figcaption>
 </figure>
-{:/nomarkdown}
+
 
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and prototyping.
 
@@ -128,17 +120,17 @@ As the situation stabilized, research activities became larger and aligned to up
 
 ## 5. Using moderated testing strategically
 
-We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
+We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} ). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
 In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
 
-{::nomarkdown}
+
 
 <figure class="wb-mltmd wb-init video cc_on">
-  <video poster="../../..{{ site.baseurl }}/{{ page.lang }}/images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
-    <source type="video/mp4" src="../../..{{ site.baseurl }}/{{ page.lang }}/images/design-research/design-research-moderated-1080x600-en.mp4" />
+  <video poster="../../../images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
+    <source type="video/mp4" src="../../../images/design-research/design-research-moderated-1080x600-en.mp4" />
     <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
   </video>
       <figcaption>
@@ -170,7 +162,7 @@ In this moderated testing video, a participant is being reassured that selecting
       </figcaption>
 </figure>
 
-{:/nomarkdown}
+
 
 ## Key lessons learned
 
@@ -198,12 +190,8 @@ We encourage you to implement advice from web content design specialists about a
 
 ## Learn more
 
-* [Designing for accessibility during COVID-19](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html)
-* [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
-* [Avoiding FAQs, with one exception](https://blog.canada.ca/2020/05/25/avoiding-faqs.html)
-* [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
+* [Designing for accessibility during COVID-19]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
+* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

@@ -1,0 +1,34 @@
+<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}" />
+<link rel="alternate" href="{{ page.altLangPage | prepend: site.urlalt[ i18nText-altLang ] }}" hreflang="{{ i18nText-altLang }}" />
+{%- if page.description -%}
+<meta name="description" content="{{ page.description }}" />
+  {% elsif site.description %}
+<meta name="description" content="{{ site.description[ page.lang ] }}" />
+{%- endif -%}
+
+{%- if page.author -%}
+<meta name="author" content="{{ page.author }}"/>
+  {% elsif site.author %}
+<meta name="author" content="{{ site.author[ page.lang ] }}" />
+{%- endif -%}
+
+<meta name="dcterms.title" content="{{ page.title }}"/>
+{%- if page.description -%}
+<meta name="dcterms.description" content="{{ page.description }}"/>
+  {% elsif site.description %}
+<meta name="description" content="{{ site.description[ page.lang ] }}" />
+{%- endif -%}
+
+{%- if page.author -%}
+<meta name="dcterms.creator" content="{{ page.author }}"/>
+  {% elsif site.author %}
+<meta name="dcterms.creator" content="{{ site.author[ page.lang ] }}"/>
+{%- endif -%}
+
+<meta name="dcterms.language" title="ISO639-2/T" content="{{ site.language[ page.lang ] | downcase | truncate: 3, '' }}"/>
+{%- if page.subject -%}
+<meta name="dcterms.subject" title="gccore" content="{{ page.subject }}"/>
+{%- endif -%}
+
+<meta name="dcterms.issued" title="W3CDTF" content="{{ page.date }}"/>
+<meta name="dcterms.modified" title="W3CDTF" content="{%- if page.dateModified -%}{{ page.dateModified }}{% else %}{{ page.date }}{%- endif -%}"/>

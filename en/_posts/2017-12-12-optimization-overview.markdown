@@ -1,17 +1,10 @@
 ---
-alt: Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. Design/prototyping. Validation test. Success? Launch.
-altLangPage: "https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-date:   2017-12-12 09:48:44 +0100
+altLangPage: "/2017/12/12/apercu-d-optimisation"
+date:   2017-12-12
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "How we're optimizing Canada.ca top tasks"
 ---
 
@@ -32,7 +25,7 @@ More complex tasks may take full service re-design to fix, involving the removal
 ## Methodology for improving task success
 
 <figure>
-    <img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="{{ site.baseurl }}/{{ page.lang }}/images/process/optimization-process-EN.png">
+    <img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
     <figcaption>
         <p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
         <ol>

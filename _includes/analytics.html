@@ -1,0 +1,12 @@
+	{% case site.analytics.provider %}
+	{% when "google" %}
+	  {% include /providers/google.html %}
+	{% when "google-universal" %}
+	  {% include /providers/google-universal.html %}
+	{% when "google-gtag" %}
+	  {% include /providers/google-gtag.html %}
+	{% when "adobe" %}
+	  {% include /providers/adobehead.html %}
+	{% when "custom" %}
+	  {% include /providers/custom.html %}
+	{% endcase %}

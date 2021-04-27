@@ -1,18 +1,10 @@
 ---
-alt: "A photo of the Digital Transformation Office team."
-altLangPage: "https://blogue.canada.ca/2019/12/20/les-dix-lecons.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2019/12/20/les-dix-lecons"
 date:   2019-12-20
 description: "Top 10 content design lessons the Canada.ca design team learned in 2019."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Top 10 content design lessons the Canada.ca design team learned in 2019"
 ---
 
@@ -117,7 +109,7 @@ The Digital Transformation Office would like to wish you rest and relaxation ove
 
 <figure>
 <img class="img-responsive border" alt="A photo of the Digital Transformation Office team."
- src="{{ site.baseurl }}/{{ page.lang }}/images/DTO_team_2019.jpg" width="700">
+ src="/images/DTO_team_2019.jpg" >
 </figure>
 
 ## Inspired by what you learned? Share this post with your team.

@@ -1,19 +1,11 @@
 ---
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-categories: category
-date:   2017-08-09 09:48:44 +0100
+altLangPage: "/2017/08/09/etapes-vers-des-nouveux-patrons"
+date: 2017-08-09
 description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks.
-gradelevel: 11.0
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: false
-title:  "Taking steps to new design patterns"
-ref: steps
+title: "Taking steps to new design patterns"
 ---
 
 One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the product design team at Treasury Board Secretariat (TBS) created a simplified steps pattern for topic pages to organize a group of related top tasks in sequence.
@@ -26,7 +18,7 @@ Topic pages have a consistent layout based on a template described in the [Canad
 
 The Starting a business topic page used the standard template when the optimization team started:
 
-<img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="{{ site.baseurl }}/{{ page.lang }}/images/Starting_topic_Oct2016_567x522.png">
+<img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
 
 ## Sharing the headaches of start-up entrepreneurs in Canada
 
@@ -47,7 +39,7 @@ First, we added numbers and changed the heading to say 'steps'. This helped, but
 
 The live Starting a business page matches our final working prototype very closely - [Live version of Starting a business topic page on Canada.ca](https://www.canada.ca/en/services/business/start.html)
 
-<img class="img-responsive" alt="Starting a business page now with steps and no photo of leaves at the top" src="{{ site.baseurl }}/{{ page.lang }}/images/Starting_template_Aug2017_599x467.png">
+<img class="img-responsive" alt="Starting a business page now with steps and no photo of leaves at the top" src="/images/Starting_template_Aug2017_599x467.png">
 
 ## Improved outcomes for Canadians starting a business
 

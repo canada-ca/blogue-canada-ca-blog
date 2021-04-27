@@ -1,18 +1,10 @@
 ---
-alt: "Using graphics to bridge language gaps"
-altLangPage: "https://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/10/21/utiliser-des-graphiques"
 date:   2020-10-21
 description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Using graphics to bridge language gaps"
 ---
 Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed.
@@ -56,7 +48,7 @@ While plain language is always a top priority, the NWT’s web team has also fou
 
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/NWT-image.png" width="700">
+src="/images/NWT-image.png" >
 </figure>
 <details>
 <summary>Screen capture of NWT illustrated social media ad</summary>
@@ -89,8 +81,3 @@ Thank you to the NWT web team for sharing your lessons!
 * [Canada.ca style guide: Plain language](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6)
 * [Government of Northwest Territories](https://www.gov.nt.ca/)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

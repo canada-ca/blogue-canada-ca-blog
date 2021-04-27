@@ -1,9 +1,19 @@
 
 # Site settings
+analytics:
+  provider: adobe
+  adobe:
+    tracking_id: caacec67651710193d2331efef325107c23a0145/satelliteLib-c2082deaf69c358c641c5eb20f94b615dd606662
+author:
+  en: Digital Transformation Office
+  fr: Bureau de la transformation numérique
 baseurl: ""
 description:
   en: Evidence and insights from the Canada.ca team.
   fr: Validations et perspectives de l’équipe Canada.ca.
+language:
+  en: English
+  fr: Français
 title:
   en: Canada.ca Blog
   fr: Blogue de Canada.ca
@@ -34,6 +44,7 @@ exclude:
 
 # Jekyll settings
 markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll

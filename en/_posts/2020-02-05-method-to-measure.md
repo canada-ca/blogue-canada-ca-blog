@@ -1,18 +1,10 @@
 ---
-alt: "right method to measure"
-altLangPage: "https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/02/05/methode-pour-mesurer"
 date:   2020-02-05
 description: "What we learned about exit surveys, usability testing and analytics funnels."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Finding the right method to measure online task success"
 ---
 
@@ -26,7 +18,7 @@ Measuring online task completion helps us understand how design improvements aff
 
 <blockquote>
   <p>“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
-  <footer><a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer>
+  <footer><a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes">Gerry McGovern, February 2018</a></footer>
 </blockquote>
 
 ## The pros and cons of each method
@@ -104,6 +96,6 @@ What would make online top task reporting easier for you to complete?
 
 ## Learn more
 
-* [Improve digital services by measuring outcomes](https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html)
-* [How we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
-* [How measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
+* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.lang ] }} )
+* [How we identify top tasks for Canada.ca]( {{ "/2017/12/11/top-100-for-gc" | prepend: site.urlalt[ page.lang ] }} )
+* [How measuring task success is key for optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.lang ] }} )

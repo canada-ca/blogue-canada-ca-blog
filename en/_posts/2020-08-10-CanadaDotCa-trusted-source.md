@@ -1,18 +1,10 @@
 ---
-alt: "Canada.ca is a trusted source"
-altLangPage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/08/10/CanadaPointCa-source-fiable"
 date:   2020-08-10
 description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Canada.ca is a trusted source"
 ---
 
@@ -79,8 +71,3 @@ Trust and consistency are essential. We created the Canada.ca Design System to p
 * [Mandatory elements of the Canada.ca design system](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html)
 * [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

@@ -1,24 +1,25 @@
 ---
-layout: post
-title:  "Mesurer les résultats pour améliorer les services numériques"
-pubdate: "23 février 2018"
-gradelevel: 11.1
-langpage: "https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html"
-date:   2018-02-23 09:48:44 +0100
-published: true
-lang: fr
+altLangPage: "/2018/02/23/Improve-digital-services-measuring-outcomes.html"
+date:   2018-02-23
 description: Gerry McGovern partage ses réflexions au sujet de sa visite à Ottawa la semaine dernière.
+lang: fr
+layout: post
+pageclass: "cnt-wdth-lmtd"
+title:  "Mesurer les résultats pour améliorer les services numériques"
 ---
-<b>Par Gerry McGovern</b>
+
+**Par Gerry McGovern**
 
 J’ai visité Ottawa pour la première fois durant l’hiver, en 2007. Il faisait très froid, mais j’ai été impressionné par la chaleur et l’enthousiasme de l’auditoire. Et sa taille! Trois cents personnes ont participé à l’atelier de deux jours. C’était le plus grand auditoire de toute ma carrière! J’étais emballé!
 
 Je suis dans l’avion qui me ramène en Irlande. Je reviens d’Ottawa et mon séjour a été fantastique! J’ai fait la connaissance de nombreuses personnes merveilleuses, enthousiastes et talentueuses. Ces rencontres inoubliables me donnent toujours beaucoup d’énergie et me poussent à offrir le meilleur de moi-même.
 
 <figure>
-<img class="img-responsive" alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018" src="{{ site.baseurl }}/{{ page.lang }}/images/gerry-week/2018_02_18-4058.jpg">
-<figcaption><small>Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small></figcaption>
-</figure><br>
+	<img class="img-responsive" alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
+	<figcaption>
+		<small>Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small>
+	</figcaption>
+</figure>
 
 Les défis sont nombreux et ils sont principalement organisationnels. Les gens ont raison d’éprouver de la frustration parce que le modèle organisationnel du gouvernement actuel n’est pas arrimé à l’ère numérique. Dans le monde, tout a changé, sauf la taille gigantesque des organisations. Les cloisons sont devenues de lourds dinosaures qui nuisent à la qualité des services.
 
@@ -31,11 +32,11 @@ Le Canada est présentement dans une meilleure position pour atteindre cet objec
 ## En savoir plus
 
 - [Visitez le site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
-- [Lire comment nous identifions les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
-- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
+- [Lire comment nous identifions les principales tâches pour Canada.ca]( {{ "/2017/12/11/100-taches-du-gc.html" | prepend: site.urlalt[ page.lang ] }} )
+- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation.html" | prepend: site.urlalt[ page.lang ] }} )
 
 <hr>
 
-<b>À propos de Gerry McGovern</b>
+**À propos de Gerry McGovern**
 
-Gerry aide les grands organismes à livrer une meilleure expérience client numérique. Gerry est l’auteur de six livres à-propos l’expérience numérique des clients. Son dernier livre s’intitule « Transform: A Rebel’s Guide for Digital Transformation ». Il démontre que la transformation numérique est plutôt axée sur le changement culturel que le changement technologique.  Ses clients,  commerciale incluent: Microsoft, Dropbox, Cisco, NetApp, VMware et IBM. Il a aussi consulté avec  les gouvernements des États-Unis, du Royaume-Uni, d’Union européenne, des Pays-Bas, du Canada, de la Norvège et de l’Irlande. L’Irish Times a décrit Gerry comme l’un des cinq visionnaires qui ont eu un impact majeur sur le développement du Web.
+Gerry aide les grands organismes à livrer une meilleure expérience client numérique. Gerry est l’auteur de six livres à-propos l’expérience numérique des clients. Son dernier livre s’intitule «&nbsp;Transform: A Rebel’s Guide for Digital Transformation&nbsp;». Il démontre que la transformation numérique est plutôt axée sur le changement culturel que le changement technologique.  Ses clients,  commerciale incluent: Microsoft, Dropbox, Cisco, NetApp, VMware et IBM. Il a aussi consulté avec  les gouvernements des États-Unis, du Royaume-Uni, d’Union européenne, des Pays-Bas, du Canada, de la Norvège et de l’Irlande. L’Irish Times a décrit Gerry comme l’un des cinq visionnaires qui ont eu un impact majeur sur le développement du Web.

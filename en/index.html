@@ -1,11 +1,7 @@
 ---
 altLangPage: /index
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-css: /css/blog-dto-btn.css
-date: "2021-03-01"
-dateModified: "2021-03-19"
+page: 2019-01-29
+dateModified: 2021-03-19
 description: Evidence and insights from the Canada.ca team.
 lang: en
 layout: default
@@ -31,7 +27,7 @@ title: Canada.ca blog
 			<div class="hidden-xs hidden-sm">
 				<img src="/images/thumbs/{{ post.date | date: "%F" }}.png" alt="{{ post.title }}" class="img-responsive mrgn-bttm-md thumbnail">
 			</div>
-			<h3><a href="{{ post.url | remove_first: '/' | remove: page.lang }}" class="stretched-link">{{ post.title }}</a></h3>
+			<h3><a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}" class="stretched-link">{{ post.title }}</a></h3>
 			<p>{{ post.description }}</p>
 			<p class="small"><time datetime="{{ post.date | date: "%F" }}" class="nowrap">[{{ post.date | date_to_long_string}}]</time></p>
 		</div>
@@ -45,7 +41,7 @@ title: Canada.ca blog
 		<ul class="list-unstyled">
 			{%- for post in posts -%}
 			<li>
-				<h2 class="h3"><a href="{{ post.url | remove_first: '/' | remove: page.lang }}">{{ post.title }}</a></h2>
+				<h2 class="h3"><a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">{{ post.title }}</a></h2>
 				<p>{{ post.description }}</p>
 				<p class="small">{{ post.date | date_to_long_string }}</p>
 			</li>

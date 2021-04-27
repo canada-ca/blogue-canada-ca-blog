@@ -1,18 +1,10 @@
 ---
-alt: "Choosing the right button for task success"
-altLangPage: "https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/12/17/choisir-des-boutons"
 date:   2020-12-17
 description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Choosing the right button for task success"
 ---
 Buttons are a design element that let you add interaction to a page.
@@ -42,8 +34,7 @@ Use this button to launch the main task or next step - **when that task or step 
 We first used the super task button on the CRA institutional landing page. There, the majority of visitors are looking for how and where to sign into one of their CRA accounts. Since that’s what most people are there to do, the CRA makes it easy by placing the “Sign in to a CRA account” super task button right at the top of the page.
 
 <figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/green-button-1.PNG" width="700">
+  <img class="img-responsive border" alt="A long description can be found after the image." src="/images/green-button-1.PNG">
 </figure>
 <details>
   <summary>Canada Revenue Agency - Institutional landing page</summary>
@@ -59,8 +50,7 @@ There are times when using a super task button makes sense, but placing it furth
 For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page.
 
 <figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/apply-online-1.PNG" width="700">
+  <img class="img-responsive border" alt="A long description can be found after the image." src="/images/apply-online-1.PNG">
 </figure>
 <details>
   <summary>Canada Recovery Benefit - How to apply</summary>
@@ -94,8 +84,7 @@ The secondary task button is useful for alternate steps in a process - like a �
 Notice how the primary and secondary task buttons work together in this survey invitation to distinguish between “Yes” as the primary action to take, and “No” as the alternate option.
 
 <figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/improve-CA.PNG" width="700">
+  <img class="img-responsive border" alt="A long description can be found after the image." src="/images/improve-CA.PNG">
 </figure>
 <details>
   <summary>Example of primary and secondary task buttons</summary>
@@ -129,8 +118,4 @@ Most of the time, you don't need buttons on a web page - simple text links are o
 * [Canada Revenue Agency - Institutional landing page](https://www.canada.ca/en/revenue-agency.html)
 * [Canada Recovery Benefit - How to apply](https://www.canada.ca/en/revenue-agency.html)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

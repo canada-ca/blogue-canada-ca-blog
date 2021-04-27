@@ -1,17 +1,10 @@
 ---
-altLangPage: "/2021/03/25/maintaining-web-content.html"
-breadcrumbs:
-  - title: "A propos de Canada.ca"
-    link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
-  - title: Blogue de Canada.ca
-    link: "https://blogue.canada.ca/"
+altLangPage: "/2021/03/25/maintaining-web-content"
 date: 2021-03-25
 description: "De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre."
-draft: true
 lang: fr
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Maintenir et améliorer le contenu web tout au long de son cycle de vie"
 ---
 Il est nécessaire de continuellement assurer le maintien du contenu sur Canada.ca pour qu’il demeure pertinent, exact et à jour. L’ère des publications «&nbsp;configurez-les et n’y pensez plus&nbsp;» n’existe pas sur le Web.
@@ -22,7 +15,7 @@ En pratique, elle est partagée entre plusieurs intervenants. Il peut être diff
 
 L’un des meilleurs moyens pour les équipes Web de faciliter la prise de décisions concernant l’amélioration continue est de prêter attention aux données. Il est plus simple d’axer les mises à jour du contenu sur les besoins des utilisateurs lorsque l’on dispose de données reposant sur des faits, permettant ainsi de cerner l’approche à adopter.
 
-Les données proviennent de plusieurs sources :
+Les données proviennent de plusieurs sources&nbsp;:
 
 * analyses
 * suivi des médias sociaux
@@ -32,7 +25,7 @@ Les données proviennent de plusieurs sources :
 
 Consultez notre publication précédente sur la façon d’exploiter les différents types de données que vous pourriez recueillir.
 
-[Exploiter les données pour améliorer le contenu](https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html)
+[Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.lang ] }} )
 
 Lorsque vous obtenez des renseignements sur le comportement des utilisateurs ou sur les points de défaillance, donnez-vous comme priorité de prendre des mesures immédiates et d’améliorer le contenu. Il peut être difficile de le faire lorsque vous manquez de temps et de ressources, mais de petits changements peuvent quand même faire une grande différence lorsqu’il s’agit d’aider les gens à trouver des réponses sur Canada.ca.
 
@@ -50,7 +43,7 @@ Cependant, vous devez toujours tenir compte des fausses pistes d’information (
 
 Repensez votre architecture de l’information et vos pistes d’information. Nous consacrons souvent beaucoup d’efforts sur ce premier aspect lorsque nous lançons de nouvelles sections, mais il est tout aussi important de revoir sa conception régulièrement à mesure que le contenu Web évolue. Examinez les étiquettes de lien.
 
-[Un exemple en faveur du texte de lien descriptif](https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html) (billet de blogue)
+[Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
 
 ### 2. Les gens ne semblent pas comprendre la réponse
 
@@ -60,7 +53,7 @@ Examinez attentivement votre contenu. Pourriez-vous le simplifier? Y a-t-il un �
 
 Envisagez d’effectuer une révision en langage simple. Trouvez quels mots les gens utilisent lorsqu’ils parlent de ce sujet et assurez-vous d’utiliser les mêmes. Mettez ensuite à l’essai le contenu que vous proposez avant de le publier.
 
-[Étude sur les étiquettes : quels mots fonctionnent le mieux](https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html)
+[Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.lang ] }} )
 
 [Score de lisibilité Web – Expérimental](https://readability-lisibilite.tbs.alpha.canada.ca/?&lang=fr)
 
@@ -100,15 +93,10 @@ Transmettez cette publication à vos collègues qui pourraient être intéressé
 
 ## Pour en savoir davantage
 
-* [Exploiter les données pour améliorer le contenu](https://blogue.canada.ca/2021/02/04/les-donnees-a-laction.html)
-* [L’importance de collaborer avec les centres d’appels](https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html)
+* [Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.lang ] }} )
+* [L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.lang ] }} )
 * [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
-* [Recueillir la rétroaction, trouver les problèmes](https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html)
-* [Conception axée sur l’accessibilité](https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html)
+* [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.lang ] }} )
+* [Conception axée sur l’accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.lang ] }} )
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor
-
-* Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter :  #CanadaPointCa (français) / #CanadaDotCa (anglais)
-* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

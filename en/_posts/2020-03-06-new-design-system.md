@@ -1,18 +1,10 @@
 ---
-alt: "new Government of Canada design system"
-altLangPage: "https://blogue.canada.ca/2020/03/06/nouveau-systeme-de-conception.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/03/06/nouveau-systeme-de-conception"
 date:   2020-03-06
 description: "Making it easier and faster to design effective content within a coherent digital experience."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "A Government of Canada design system: building better online content faster"
 ---
 
@@ -91,7 +83,7 @@ If you’re interested in testing the new documentation style, or if you’d lik
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [Digital Transformation Office mailing list](https://blog.canada.ca/pages/signup.html) to get the blog delivered to your inbox.
+We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [Digital Transformation Office mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.lang ] }} ) to get the blog delivered to your inbox.
 
 ## Learn more
 
@@ -102,8 +94,3 @@ We will be sharing more updates from the Government of Canada Design System in f
 * [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)
 * [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

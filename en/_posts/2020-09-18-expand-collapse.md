@@ -1,18 +1,10 @@
 ---
-alt: "Using expand/collapse for making choices"
-altLangPage: "https://blogue.canada.ca/2020/09/18/afficher-masquer.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/09/18/afficher-masquer"
 date:   2020-09-18
 description: "In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers."
-draft: true
-pageclass: "cnt-wdth-lmtd"
 lang: en
 layout: post
-published: true
+pageclass: "cnt-wdth-lmtd"
 title:  "Using expand/collapse for making choices"
 ---
 Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca.
@@ -33,7 +25,7 @@ In November 2019, the DTO modified Canada.ca guidance to allow the use of the ex
 
 The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
 
-[Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+[Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 
 Based on the positive results of our optimization projects, we’ve used the expand/collapse pattern on more pages to help Canadians find the answers they need regarding the COVID-19 pandemic.
 
@@ -53,7 +45,7 @@ Using this pattern can help people focus only on what applies specifically to th
 
 <figure>
   <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
- src="{{ site.baseurl }}/{{ page.lang }}/images/expand-collapse-2.jpg" width="600">
+ src="/images/expand-collapse-2.jpg" >
 </figure>
 <figcaption>The expand/collapse pattern.</figcaption>
 
@@ -67,7 +59,7 @@ It can also be content that applies only to a minority of people (such as when t
 
 <figure>
   <img class="img-responsive border" alt=" Content about re-applying for CERB includes an expand/collapse pattern for 'If you start working again.' The second image shows the pattern expanded to display content for people who stop working and then start again during a later benefit period."
- src="{{ site.baseurl }}/{{ page.lang }}/images/CERB.jpg" width="500">
+ src="/images/CERB.jpg" >
 </figure>
 <figcaption>The expand/collapse pattern for one of the CERB pages.</figcaption>
 
@@ -84,10 +76,5 @@ For more information on how to use this and other design patterns, check out the
 
 * [Accordions on mobile](https://www.nngroup.com/articles/mobile-accordions/)
 * [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
-* [Improving content on Canada.ca](https://blog.canada.ca/pages/project-overview.html)
+* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

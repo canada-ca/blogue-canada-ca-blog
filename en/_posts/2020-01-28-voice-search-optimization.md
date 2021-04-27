@@ -1,22 +1,14 @@
 ---
-alt: "Voice search optimization"
-altLangPage: "https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/01/28/optimisation-recherche-vocale"
 date:   2020-01-28
 description: "What we learned about improving voice services for Canadians."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Optimize your content for voice search"
 ---
 
-Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
+Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} ) with the Canada Revenue Agency (CRA).
 
 We all want to deliver modern, efficient, and reliable services to Canadians. Building a conversational agent to help users solve their tasks seems like a great opportunity to be innovative and effective.
 
@@ -75,7 +67,7 @@ Information is what your organization writes for internal program management. **
 
 When designing content, use an inverted pyramid. Put the most important information first. Figure out what question most people are trying to answer when they come to your page, and put the answer at the top of the page.
 
-[Canada.ca Content Style Guide : 2.1 Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1)
+[Canada.ca Content Style Guide&nbsp;: 2.1 Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp2-1)
 
 ### 5. Use descriptive page titles and effective headings
 
@@ -117,7 +109,7 @@ As we keep moving forward and experimenting with new approaches, we must always 
 * **usable**—is it easy to use? Will success rates on Canada.ca improve?
 * **sustainable**—can content teams easily maintain it?
 
-Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the post delivered to your inbox.
+Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.lang ] }} ) to get the post delivered to your inbox.
 
 ## Inspired by what you learned? Share this post with your team.
 
@@ -128,7 +120,7 @@ Next in the series, we’ll talk about building wizards. Sign up for the [DTO ma
 
 ## Learn more
 
-* [Research summary: Contact the CRA](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html)
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
 * [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 * [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)

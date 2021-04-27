@@ -1,16 +1,14 @@
 ---
-layout: post
-title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
-pubdate: "5 février 2020"
-langpage: "https://blog.canada.ca/2020/02/05/method-to-measure.html"
+altLangPage: "/2020/02/05/method-to-measure"
 date:   2020-02-05
-published: true
-draft: true
-lang: fr
-alt: "methode pour mesurer"
 description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
+lang: fr
+layout: post
+pageclass: cnt-wdth-lmtd
+title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
 ---
-En 2019, le Bureau de la transformation numérique a piloté  3 méthodes pour mesurer la réussite des tâches en ligne:
+
+En 2019, le Bureau de la transformation numérique a piloté  3 méthodes pour mesurer la réussite des tâches en ligne&nbsp;:
 
 * le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
@@ -18,9 +16,10 @@ En 2019, le Bureau de la transformation numérique a piloté  3 méthodes pour m
 
 La mesure de l’accomplissement de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
 
-<blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»</p>
-
-<footer><a href="https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html">Gerry McGovern, février 2018</a></footer></blockquote>
+<blockquote>
+  <p>«&nbsp;Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs.&nbsp;»»</p>
+  <footer><a href=" {{ '/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques' | prepend: site.urlalt[ page.lang ] }} ">Gerry McGovern, février 2018</a></footer>
+</blockquote>
 
 ## Les avantages et les inconvénients de chaque méthode
 
@@ -42,7 +41,7 @@ Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages 
 
 Cette méthode n’est pas idéale pour les tâches liées à la recherche de réponses. Celles-ci aboutissent souvent à des options multiples, de sorte qu’il est difficile ou impossible de suivre le cheminement de l’utilisateur.
 
-Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont pas assez robustes ou si  vous ne pouvez pas suivre les utilisateurs dans les zones sécurisées d’un site Web.   
+Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont pas assez robustes ou si  vous ne pouvez pas suivre les utilisateurs dans les zones sécurisées d’un site Web.
 
 ### Sondage en ligne
 
@@ -50,13 +49,13 @@ La méthode du sondage est la plus facile à mettre en œuvre et à reproduire a
 
 Les résultats des sondages peuvent être compilés automatiquement dans des tableaux de bord. Cela réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
 
-Le sondage du Bureau de la transformation numérique incite les visiteurs de:
+Le sondage du Bureau de la transformation numérique incite les visiteurs de&nbsp;:
 
 * choisir la tâche qu’ils sont venus accomplir dans une liste d'options (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
 * choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris la possibilité d’ajouter des raisons) s’ils n’ont pas pu le faire
 
-Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
+Nous avons constaté que cette méthode favorisait le meilleur équilibre entre&nbsp;:
 
 * la normalisation des données
 * comprendre pourquoi les  gens visitent certaines pages
@@ -71,11 +70,14 @@ La méthode de sondage en ligne offre une méthode de collecte de données norma
 
 Les commentaires que nous avons reçus des institutions utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
-<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier. Par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
-</p> </blockquote>
+<blockquote>
+  <p>«&nbsp;Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier. Par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres.&nbsp;»
+</p>
+</blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du sondage ont joué un rôle dans l’évolution du site Web. »
-</p></blockquote>
+<blockquote>
+  <p>«&nbsp;Au fil du temps, les conclusions du sondage ont joué un rôle dans l’évolution du site Web.&nbsp;»</p>
+</blockquote>
 
 ## Nous voulons avoir votre opinion
 
@@ -86,15 +88,8 @@ Qu’est-ce qui vous permettrait de produire des rapports sur les tâches princi
 * Instructions sur ce qu’il faut faire si les services offerts dépendent de modes de prestation en ligne et hors ligne
 * Autres suggestions?
 
-## Ce que vous avez appris vous inspire-t-il? Partagez cette publication avec votre équipe
-
-Communiquez avec le Bureau de la transformation numérique du SCT :
-* Courriel : dto.btn@tbs-sct.gc.ca
-* Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
-* Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-
 ## Pour en savoir davantage
 
-* [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
-* [De quelle façon nous déterminons les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+* [Mesurer les résultats pour améliorer les services numériques]( {{ "/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques" | prepend: site.urlalt[ page.lang ] }} )
+* [De quelle façon nous déterminons les principales tâches pour Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation" | prepend: site.urlalt[ page.lang ] }} )
+* [Comment nous optimisons les principales tâches sur le site Canada.ca]( {{ "/2017/12/11/100-taches-du-gc" | prepend: site.urlalt[ page.lang ] }} )

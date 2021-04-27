@@ -1,23 +1,15 @@
 ---
-alt: "Labelling study: which words work best"
-altLangPage: "https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/10/02/etude-sur-les-etiquettes"
 date:   2020-10-02
 description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Labelling study: which words work best"
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks.
 
-[Improving Canada.ca by focusing on COVID-19 top tasks](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
+[Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.lang ] }} )
 
 This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks. The public depends on us to choose the right words for the category and link labels to ensure that they can find answers quickly and easily on Canada.ca. That has become even more evident during this pandemic.
 
@@ -39,13 +31,13 @@ Participants responded to the task questions by clicking on one of the potential
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/label.png" width="700">
+src="/images/label.png" >
 </figure>
 <details>
   <summary>Example of a question in the study.</summary>
   <p>Find: "How can my store reduce the risk of transmission of COVID-19?" Where would you click? Options include:</p>
   <ul>
-    <li>Focus on : business</li>
+    <li>Focus on&nbsp;: business</li>
     <li>Recovery strategy</li>
     <li>Limiting the spread</li>
     <li>Containing the pandemic</li>
@@ -78,7 +70,7 @@ For example, the “Protecting public health” label won strong majorities in E
 
 <figure>
   <img class="img-responsive border" alt="A long description can be found after the image."
-src="{{ site.baseurl }}/{{ page.lang }}/images/label-4.png" width="500">
+src="/images/label-4.png" >
 </figure>
 <details>
   <summary>Coronavirus disease (COVID-19) landing page</summary>
@@ -108,15 +100,10 @@ Audiences behave and interact differently in the digital space compared to how t
 
 ## Learn more
 
-* [Improving Canada.ca by focusing on COVID-19 top tasks](https://blog.canada.ca/2020/09/24/COVID-top-tasks.html)
-* [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
-* [Content improvement projects](https://blog.canada.ca/pages/project-overview.html)
+* [Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.lang ] }} )
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Canada.ca Design System](https://www.canada.ca/en/government/about/design-system.html)
 
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

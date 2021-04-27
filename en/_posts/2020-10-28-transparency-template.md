@@ -1,18 +1,10 @@
 ---
-alt: "Increasing transparency on Canada.ca"
-altLangPage: "https://blogue.canada.ca/2020/10/28/modele-de-transparence.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/10/28/modele-de-transparence"
 date:   2020-10-28
 description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Increasing transparency on Canada.ca"
 ---
 Improving service delivery on Canada.ca is a collaborative and continuous team effort. Public servants across the GC are working together to create a digital experience that follows the principles of accessibility, accountability, and transparency.
@@ -65,8 +57,3 @@ If you’re interested in contributing to this effort, connect with us at the DT
 * [Government wide reporting](https://www.canada.ca/en/transparency/reporting.html)
 * [Canada’s 2018-2020 National Action Plan on Open Government](https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc6)
 
-## Connect with the Digital Transformation Office at Treasury Board Secretariat
-
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

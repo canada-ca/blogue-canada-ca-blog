@@ -1,18 +1,10 @@
 ---
-alt: "Designing for accessibility during COVID-19"
-altLangPage: "https://blogue.canada.ca/2020/06/05/concevoir-pour-laccessibilite.html"
-breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
+altLangPage: "/2020/06/05/concevoir-pour-laccessibilite"
 date:   2020-06-05
 description: "Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily."
-draft: true
 lang: en
 layout: post
 pageclass: "cnt-wdth-lmtd"
-published: true
 title:  "Designing for accessibility during COVID-19"
 ---
 
@@ -36,11 +28,9 @@ Just like testing on both mobile devices and desktop, it’s important to know h
 
 Watch some participants navigate Canada.ca using assistive technology:
 
-{::nomarkdown}
-
 <figure class="wb-mltmd wb-init video cc_on">
-  <video poster="{{ site.baseurl }}/{{ page.lang }}/images/assistive-tech/poster.jpg" title="Assistive technology navigation strategies">
-    <source type="video/mp4" src="{{ site.baseurl }}/{{ page.lang }}/images/assistive-tech/assistive-tech-nav-1080x600-en.mp4" />
+  <video poster="/images/assistive-tech/poster.jpg" title="Assistive technology navigation strategies">
+    <source type="video/mp4" src="/images/assistive-tech/assistive-tech-nav-1080x600-en.mp4" />
     <track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
   </video>
   <figcaption>
@@ -97,8 +87,6 @@ Watch some participants navigate Canada.ca using assistive technology:
   </figcaption>
 </figure>
 
-{:/nomarkdown}
-
 Overall, the testing showed that the new templates and patterns performed well for assistive technologies. Participants commented on how the clear link text, subway navigation pattern, larger fonts and simple design helped them understand the content.
 
 We did find some areas that need improvement. For example:
@@ -121,7 +109,7 @@ Designing digital government services with accessibility in mind is key to ensur
 
 ## Learn more
 
-* [A case for descriptive link text](https://blog.canada.ca/2020/05/26/descriptive-link-text.html)
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
 * [Making your service accessible: an introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Do’s and don’ts of designing for accessibility (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 * [Accessible Canada Act](https://laws-lois.justice.gc.ca/eng/acts/A-0.6/)
@@ -129,8 +117,3 @@ Designing digital government services with accessibility in mind is key to ensur
 * [Standard on Web Accessibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
 * [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 * [Understanding WCAG Success Criterion 2.4.4: Link Purpose](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html)
-
-## Connect with the Digital Transformation Office at TBS
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
-* Twitter: #Canadadotca (English) / #Canadapointca (French)
-* Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
