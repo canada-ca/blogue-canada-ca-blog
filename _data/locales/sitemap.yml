@@ -1,0 +1,9 @@
+daily:
+  en: daily
+  fr: quotidien
+weekly:
+  en: weekly
+  fr: hebdomadaire
+monthly:
+  en: monthly
+  fr: mensuel

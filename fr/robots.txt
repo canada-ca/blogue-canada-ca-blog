@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /images/
+Allow: /2021/
+Allow: /2020/
+Allow: /2019/
+Allow: /2018/
+Allow: /2017/
+Allow: /resumes-recherche/
+Allow: /pages/
+Sitemap: {{ site.urlalt[page.lang] }}/sitemap.xml
