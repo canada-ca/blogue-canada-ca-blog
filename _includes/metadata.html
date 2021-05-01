@@ -16,7 +16,7 @@
 {%- if page.description -%}
 <meta name="dcterms.description" content="{{ page.description }}"/>
   {% elsif site.description %}
-<meta name="description" content="{{ site.description[ page.lang ] }}" />
+<meta name="dcterms.description" content="{{ site.description[ page.lang ] }}" />
 {%- endif -%}
 
 {%- if page.author -%}
