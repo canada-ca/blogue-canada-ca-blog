@@ -7,6 +7,7 @@ lang: fr
 layout: default
 title: Blogue de Canada.ca
 ---
+
 {%- assign locales = site.data.locales.index -%}
 <p>{{ locales.intro[ page.lang ] }}</p>
 <section class="followus">
@@ -29,7 +30,7 @@ title: Blogue de Canada.ca
 			</div>
 			<h3><a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}" class="stretched-link">{{ post.title }}</a></h3>
 			<p>{{ post.description }}</p>
-			<p class="small"><time datetime="{{ post.date | date: "%F" }}" class="nowrap">[{{ post.date | date_to_long_string}}]</time></p>
+			<p class="small"><time datetime="{{ post.date | date: "%F" }}" class="nowrap">[{% include locale-date.html date=post.date format="%-d %B %Y" %}]</time></p>
 		</div>
 	</div>
 	{%- endfor -%}
@@ -43,7 +44,7 @@ title: Blogue de Canada.ca
 			<li>
 				<h2 class="h3"><a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">{{ post.title }}</a></h2>
 				<p>{{ post.description }}</p>
-				<p class="small">{{ post.date | date_to_long_string }}</p>
+				<p class="small"><time datetime="{{ post.date | date: "%F" }}" class="nowrap">[{% include locale-date.html date=post.date format="%-d %B %Y" %}]</time></p>
 			</li>
 			{%- endfor -%}
 		</ul>
