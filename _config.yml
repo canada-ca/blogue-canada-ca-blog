@@ -18,8 +18,8 @@ title:
   en: Canada.ca Blog
   fr: Blogue de Canada.ca
 urlalt:
-  en: https://blog.tbs.alpha.canada.ca
-  fr: https://blogue.tbs.alpha.canada.ca
+  en: https://blog.canada.ca
+  fr: https://blogue.canada.ca
 
 # Files excluded from Jekyll builds
 exclude:
