@@ -2,9 +2,6 @@
 altLangPage: "/2020/05/25/avoiding-faqs"
 date:   2020-05-25
 description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Éviter les FAQ, à une exception près"
 ---
 

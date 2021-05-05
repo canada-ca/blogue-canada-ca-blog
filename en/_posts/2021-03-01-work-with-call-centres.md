@@ -2,9 +2,6 @@
 altLangPage: '/2021/03/01/collaborer-avec-centres-appels'
 date: 2021-03-01
 description: 'Whether you run an in-house call centre or outsource your call centre to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.'
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: The importance of working with call centres
 ---
 “Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints?

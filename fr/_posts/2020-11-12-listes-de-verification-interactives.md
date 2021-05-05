@@ -2,9 +2,6 @@
 altLangPage: "/2020/11/12/interactive-checklists"
 date:   2020-11-12
 description: "Au cours des dernières années, le Bureau de la transformation numérique (BTN) a étudié l'utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d'admissibilité."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Utilisation de listes de vérification interactives pour simplifier les critères d'admissibilité"
 ---
 De par leur nature, les sites gouvernementaux ont tendance à être complexes. Ils doivent couvrir une multitude de priorités et s'adresser à une multitude de publics. Il est donc très difficile pour les gens d'obtenir facilement les réponses dont ils ont besoin de la part de leur gouvernement.

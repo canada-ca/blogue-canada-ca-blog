@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/02/labelling-study"
 date:   2020-10-02
 description: "Canada.ca/Coronavirus est l'une des pages les plus consultées sur le site Canada.ca. Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux"
 ---
 

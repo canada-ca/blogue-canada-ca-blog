@@ -2,9 +2,6 @@
 altLangPage: "/2020/07/15/alert-fatigue"
 date:   2020-07-15
 description: "Plus vous gérez bien vos alertes, plus elles pourront faire passer votre message avec efficacité."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "La «&nbsp;fatigue d'alerte&nbsp;» pendant la COVID-19"
 ---
 

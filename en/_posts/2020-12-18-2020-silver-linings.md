@@ -2,9 +2,6 @@
 altLangPage: "/2020/12/18/lueurs-despoir-2020"
 date: 2020-12-18
 description: "As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Silver linings from 2020"
 ---
 

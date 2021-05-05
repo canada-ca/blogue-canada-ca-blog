@@ -3,9 +3,6 @@ altLangPage: "/2020/07/15/fatigue-dalerte"
 date:   2020-07-15
 description: "The more you put into managing your alerts, the more effective they’ll be at communicating your message."
 pageclass: "cnt-wdth-lmtd"
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Alert fatigue during COVID-19"
 ---
 

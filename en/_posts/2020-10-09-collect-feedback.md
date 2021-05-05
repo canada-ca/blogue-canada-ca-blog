@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/09/recueillir-la-retroaction"
 date:   2020-10-09
 description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Collect feedback, find issues"
 ---
 In 2020, the main way most Canadians interact with their government is online. Government of Canada web pages are more than just a communications tool. They’re an important service delivery point.

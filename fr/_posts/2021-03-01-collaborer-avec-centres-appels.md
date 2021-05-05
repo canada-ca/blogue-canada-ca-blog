@@ -2,9 +2,6 @@
 altLangPage: "/2021/04/08/work-with-call-centres"
 date: 2021-03-01
 description: "Que vous dirigiez un centre d'appels interne ou que vous externalisiez la gestion de votre centre d'appel en faisant appel par le biais d'un partenaire de confiance, les agents sont la clé pour tirer parti des commentaires des clients. L'utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "L'importance de collaborer avec les centres d'appels"
 ---
 La «&nbsp;conception avec les utilisateurs&nbsp;» fait partie des normes numériques du gouvernement du Canada. Cela dit, comment concevoir avec les utilisateurs lorsque vous devez composer avec des délais serrés et des contraintes financières? Collaborez avec vos centres d'appels.

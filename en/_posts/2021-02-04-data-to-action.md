@@ -2,9 +2,6 @@
 altLangPage: "/2021/02/04/les-donnees-a-laction"
 date: 2021-02-04
 description: "We wanted to share some of our most recent experiences with using data to make important content work better."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Using data to make better content"
 ---
 Working in digital, there are many ways to collect data on content you publish. Analyzing that data can give you valuable insights into user behaviour and points of failure.

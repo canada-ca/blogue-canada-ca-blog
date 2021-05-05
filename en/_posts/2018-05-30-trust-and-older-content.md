@@ -2,7 +2,6 @@
 altLangPage: "/2018/05/30/tout-est-question-de-dates"
 date:   2018-05-30
 description: In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current.
-lang: en
 layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 pageclass: "cnt-wdth-lmtd"

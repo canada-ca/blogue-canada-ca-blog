@@ -2,9 +2,6 @@
 altLangPage: "/2020/05/26/texte-de-lien-descriptif"
 date:   2020-05-26
 description: "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "A case for descriptive link text"
 ---
 Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily. The names of programs, apps and tools don’t always work well as descriptive link text for people who don’t already know the name.

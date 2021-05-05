@@ -2,9 +2,6 @@
 altLangPage: "/2017/12/12/optimization-overview.html"
 date: 2017-12-12
 description: Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Comment nous optimisons les principales tâches sur le site Canada.ca"
 ---
 

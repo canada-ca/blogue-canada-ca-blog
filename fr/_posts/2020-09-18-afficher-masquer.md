@@ -2,9 +2,6 @@
 altLangPage: "/2020/09/18/expand-collapse"
 date:   2020-09-18
 description: "En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l'utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Utiliser le modèle afficher/masquer pour faire des choix"
 ---
 

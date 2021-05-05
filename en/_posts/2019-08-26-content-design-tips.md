@@ -2,9 +2,6 @@
 altLangPage: "/2019/08/26/conseils-conception-contentu"
 date:   2019-08-26
 description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Six content design tips from our Student loans and Parental benefits optimization projects"
 ---
 

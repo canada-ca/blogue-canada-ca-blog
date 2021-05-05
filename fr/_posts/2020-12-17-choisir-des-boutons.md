@@ -2,9 +2,6 @@
 altLangPage: "/2020/12/17/choosing-buttons"
 date:   2020-12-17
 description: "Le super bouton de tâche est un bouton vert attrayant relativement gros, et il attire vraiment votre attention! La façon d'utiliser le bon style de bouton dans la bonne situation peut aider les gens à mieux réussir sur votre page Web."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Choisir le bon bouton pour la réussite des tâches"
 ---
 Les boutons consistent en un élément de conception qui vous permet d'ajouter une interaction à une page.

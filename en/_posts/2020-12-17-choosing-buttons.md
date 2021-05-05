@@ -2,9 +2,6 @@
 altLangPage: "/2020/12/17/choisir-des-boutons"
 date:   2020-12-17
 description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Choosing the right button for task success"
 ---
 Buttons are a design element that let you add interaction to a page.

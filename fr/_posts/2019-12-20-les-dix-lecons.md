@@ -2,9 +2,6 @@
 altLangPage: "/2019/12/20/top-ten-lessons"
 date:   2019-12-20
 description: "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca."
-lang: fr
-layout: post
-pageclass: cnt-wdth-lmtd
 title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca"
 ---
 

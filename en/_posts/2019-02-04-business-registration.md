@@ -2,9 +2,6 @@
 altLangPage: "/2019/02/04/comptes-entreprises"
 date:   2019-02-04
 description: "The Canada Revenue Agency (CRA) and the Treasury Board of Canada Secretariat (TBS) collaborated to simplify tasks for small businesses on Canada.ca. These tasks were chosen based on call volume data that let us to identify some of the most common reasons that people call to get help."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Collaborating to make business registration easier for Canadian business owners"
 ---
 

@@ -2,9 +2,6 @@
 altLangPage: "/2020/11/12/listes-de-verification-interactives"
 date: 2020-11-12
 description: "In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Using interactive checklists to simplify eligibility criteria"
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.

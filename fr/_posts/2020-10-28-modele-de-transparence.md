@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/28/transparency-template"
 date:   2020-10-28
 description: "Les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique (BTN) à l'élaboration de concepts visant à accroître la transparence."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Accroître la transparence sur Canada.ca"
 ---
 

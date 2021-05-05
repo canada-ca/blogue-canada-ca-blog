@@ -43,8 +43,44 @@ exclude:
 - vendor/*
 
 # Jekyll settings
-markdown: kramdown
-permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      pageclass: "cnt-wdth-lmtd"
+  -
+    scope:
+      path: "en/"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "fr/"
+    values:
+      lang: "fr"
+  -
+    scope:
+      path: "en/"
+      type: "posts"
+    values:
+      breadcrumbs:
+      - title: "About Canada.ca"
+        link:  "https://www.canada.ca/en/government/about.html"
+      - title: Canada.ca blog
+        link: "https://blog.canada.ca/"
+  -
+    scope:
+      path: "fr/"
+      type: "posts"
+    values:
+      breadcrumbs:
+      - title: "A propos de Canada.ca"
+        link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
+      - title: Blogue de Canada.ca
+        link: "https://blogue.canada.ca/"
 plugins:
   - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll

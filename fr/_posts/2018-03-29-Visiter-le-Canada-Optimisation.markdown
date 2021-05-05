@@ -2,9 +2,6 @@
 altLangPage: "/2018/03/29/Visit-Canada-Optimization.html"
 date:   2018-03-29
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Visiter le Canada&nbsp;: optimisation"
 ---
 

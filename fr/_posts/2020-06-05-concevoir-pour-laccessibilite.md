@@ -2,9 +2,6 @@
 altLangPage: "/2020/06/05/designing-for-accessibility"
 date: 2020-06-05
 description: "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Conception axée sur l’accessibilité pendant la pandémie de la COVID-19"
 ---
 

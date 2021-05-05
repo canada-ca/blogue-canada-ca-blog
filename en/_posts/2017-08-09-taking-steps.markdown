@@ -2,9 +2,6 @@
 altLangPage: "/2017/08/09/etapes-vers-des-nouveux-patrons"
 date: 2017-08-09
 description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Taking steps to new design patterns"
 ---
 

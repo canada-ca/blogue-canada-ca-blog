@@ -2,9 +2,6 @@
 altLangPage: "/2018/04/27/small-changes-big-difference.html"
 date:   2018-04-27
 description: De petits changements font une grande différence pour les Canadiens sur Canada.ca. Lisez ce que le président du Conseil du Trésor, Scott Brison, a dire au sujet des travaux d'amélioration en cours.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Canada.ca&nbsp;: De petits changements peuvent faire une grande différence"
 ---
 

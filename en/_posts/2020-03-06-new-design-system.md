@@ -2,9 +2,6 @@
 altLangPage: "/2020/03/06/nouveau-systeme-de-conception"
 date:   2020-03-06
 description: "Making it easier and faster to design effective content within a coherent digital experience."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "A Government of Canada design system: building better online content faster"
 ---
 

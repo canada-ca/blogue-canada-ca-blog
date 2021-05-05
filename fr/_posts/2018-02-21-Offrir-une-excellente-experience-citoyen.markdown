@@ -2,9 +2,6 @@
 altLangPage: "/2018/02/21/Delivering-citizen-experience.html"
 date: 2018-02-21
 description: Billet de blogue par l’honorable Scott Brison, président du Conseil du Trésor.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Offrir une excellente expérience pour les citoyens"
 ---
 

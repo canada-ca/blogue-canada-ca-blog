@@ -2,9 +2,6 @@
 altLangPage: "/2020/08/28/recycler-solution-existante"
 date:   2020-08-28
 description: "In the digital world, there isn’t always a need to reinvent the wheel. We’re finding ways to reduce workloads and delivery times by re-using solutions that we know work. These solutions come from unparalleled collaborations between many teams."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Recycling an existing solution for the COVID-19 real-time updates"
 ---
 By Kelly Galbraith, Communications officer, Digital Service Directorate, Service Canada

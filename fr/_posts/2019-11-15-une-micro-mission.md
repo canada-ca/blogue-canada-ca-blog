@@ -2,9 +2,6 @@
 altLangPage: "/2019/11/15/micro-mission"
 date:   2019-11-15
 description: "Avez-vous vu passer des offres de micro-missions tout en vous demandant si ça valait le coup?"
-lang: fr
-layout: post
-pageclass: cnt-wdth-lmtd
 title:  Une micro-mission, ça vaut le coup
 ---
 

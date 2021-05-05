@@ -2,7 +2,6 @@
 altLangPage: "/2019/11/01/tips-travel-contact"
 date:   2019-11-01
 description: "À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»."
-lang: fr
 layout: post
 title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;»
 ---

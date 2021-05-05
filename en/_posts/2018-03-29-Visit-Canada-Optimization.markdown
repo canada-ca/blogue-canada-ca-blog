@@ -3,9 +3,6 @@ altLangPage: "/2018/03/29/Visiter-le-Canada-Optimisation"
 date:   2018-03-29
 pageclass: "cnt-wdth-lmtd"
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Visit Canada: Optimization"
 ---
 **By Eric Cooper, Digital Transformation Office**

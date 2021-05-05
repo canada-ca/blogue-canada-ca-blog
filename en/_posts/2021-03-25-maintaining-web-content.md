@@ -2,9 +2,6 @@
 altLangPage: "/2021/03/25/maintenir-le-contenu-web"
 date: 2021-03-25
 description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Maintaining and improving web content through its life cycle"
 ---
 Content on Canada.ca needs to be continuously maintained to keep it relevant, accurate, and current. The "set it and forget it" days of publishing do not exist on the web.

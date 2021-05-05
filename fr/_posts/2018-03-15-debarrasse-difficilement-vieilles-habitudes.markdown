@@ -2,9 +2,6 @@
 altLangPage: "/2018/03/14/old-habits-die-hard.html"
 date:  2018-03-14
 description: Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
 ---
 

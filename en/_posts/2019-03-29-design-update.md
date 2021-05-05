@@ -2,9 +2,6 @@
 altLangPage: "/2019/03/29/mise-a-jour-conception"
 date:   2019-03-29
 description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "About the Canada.ca design update"
 ---
 

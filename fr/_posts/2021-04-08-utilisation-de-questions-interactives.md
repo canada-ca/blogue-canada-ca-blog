@@ -2,9 +2,6 @@
 altLangPage: "/2021/04/08/using-interactive-questions"
 date: 2021-04-08
 description: "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Les questions interactives pour aider les gens"
 ---
 Nous désignons parfois le modèle de questions interactives comme un «&nbsp;assistant&nbsp;».

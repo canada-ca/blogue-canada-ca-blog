@@ -2,9 +2,6 @@
 altLangPage: "/2019/05/23/find-job"
 date:   2019-05-23
 description: "La Commission de la fonction publique a travaillé avec le Bureau de la transformation numérique (BTN) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca."
-lang: fr
-layout: post
-pageclass: cnt-wdth-lmtd
 title:  "Trouver un emploi au gouvernement… ça devrait être si facile…"
 ---
 

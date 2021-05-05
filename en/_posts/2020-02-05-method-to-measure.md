@@ -2,9 +2,6 @@
 altLangPage: "/2020/02/05/methode-pour-mesurer"
 date:   2020-02-05
 description: "What we learned about exit surveys, usability testing and analytics funnels."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Finding the right method to measure online task success"
 ---
 

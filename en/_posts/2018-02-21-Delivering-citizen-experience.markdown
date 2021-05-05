@@ -2,9 +2,6 @@
 altLangPage: "/2018/02/21/Offrir-une-excellente-experience-citoyen"
 date:   2018-02-21
 description: Blog post by the Honourable Scott Brison, President of the Treasury Board.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Delivering a great citizen experience"
 ---
 

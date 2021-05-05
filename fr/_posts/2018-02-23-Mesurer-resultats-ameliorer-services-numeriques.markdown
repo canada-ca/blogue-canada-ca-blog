@@ -2,9 +2,6 @@
 altLangPage: "/2018/02/23/Improve-digital-services-measuring-outcomes.html"
 date:   2018-02-23
 description: Gerry McGovern partage ses réflexions au sujet de sa visite à Ottawa la semaine dernière.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Mesurer les résultats pour améliorer les services numériques"
 ---
 

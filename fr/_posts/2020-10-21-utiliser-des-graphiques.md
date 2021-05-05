@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/21/using-graphics"
 date:   2020-10-21
 description: "Dans cet article, les Territoires du Nord-Ouest (T.N.-O.) ont expliqué la façon dont ils utilisent des illustrations pour rendre le contenu Web et les produits de communication sur la COVID-19 plus accessibles à toutes leurs collectivités."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Utiliser des graphiques pour combler les lacunes linguistiques"
 ---
 

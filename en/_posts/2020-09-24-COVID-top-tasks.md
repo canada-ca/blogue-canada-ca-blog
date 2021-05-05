@@ -2,9 +2,6 @@
 altLangPage: "/2020/09/24/taches-principales-a-la-COVID-19"
 date:   2020-09-24
 description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 ---
 Canada.ca's site structure is designed to reflect the top tasks Canadians are trying to complete on the site. Using data to understand their changing needs is key to ensuring the right content is always up front and centre.

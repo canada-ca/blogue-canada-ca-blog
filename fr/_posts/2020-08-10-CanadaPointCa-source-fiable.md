@@ -2,9 +2,6 @@
 altLangPage: "/2020/08/10/CanadaDotCa-trusted-source"
 date:   2020-08-10
 description: "Compte tenu de l'augmentation des campagnes d'hameçonnage et des escroqueries liées à la COVID-19 sur les sites gouvernementaux, il est plus important que jamais d'offrir une expérience utilisateur uniforme et fiable."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Canada.ca est une source fiable"
 ---
 

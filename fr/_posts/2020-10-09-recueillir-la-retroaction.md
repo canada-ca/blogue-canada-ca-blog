@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/09/collect-feedback"
 date:   2020-10-09
 description: "Obtenir régulièrement de la rétroaction des Canadiens aide les équipes dans l'ensemble du gouvernement à améliorer continuellement la prestation des services sur le site Canada.ca. En mai 2020, quelques équipes ont collaboré au lancement de l'étude pilote d'un widget pour obtenir la rétroaction des gens sur les pages Canada.ca."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Recueillir la rétroaction, trouver les problèmes"
 ---
 

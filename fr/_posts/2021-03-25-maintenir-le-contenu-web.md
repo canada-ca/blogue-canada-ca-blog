@@ -2,9 +2,6 @@
 altLangPage: "/2021/03/25/maintaining-web-content"
 date: 2021-03-25
 description: "De petits changements font une grande différence pour améliorer Canada.ca. Poursuivons la discussion sur le passage des données à l'action. Voici 4 problèmes courants et les mesures que vous pouvez prendre."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Maintenir et améliorer le contenu web tout au long de son cycle de vie"
 ---
 Il est nécessaire de continuellement assurer le maintien du contenu sur Canada.ca pour qu’il demeure pertinent, exact et à jour. L’ère des publications «&nbsp;configurez-les et n’y pensez plus&nbsp;» n’existe pas sur le Web.

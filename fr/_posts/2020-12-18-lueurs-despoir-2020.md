@@ -2,9 +2,6 @@
 altLangPage: "/2020/12/18/2020-silver-linings"
 date: 2020-12-18
 description: "Alors que 2021 pointe à l'horizon, la communauté #GCnumérique souhaiterait mettre en lumière certains des points positifs durant l'année qui se termine."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "2020&nbsp;: lueurs d'espoir"
 ---
 Dire que 2020 a été parsemée de défis et d'un grand nombre de changements relève presque de l'euphémisme. Depuis le mois de mars, les fonctionnaires ont travaillé ensemble – mais à distance – dans le but d'améliorer les services numériques. Malgré les défis, de nombreux points positifs sont à noter cette année.

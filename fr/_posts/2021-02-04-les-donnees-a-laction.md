@@ -2,9 +2,6 @@
 altLangPage: /2021/02/04/data-to-action
 date: 2021-02-04
 description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Exploiter les données pour améliorer le contenu"
 ---
 Dans l'univers du numérique, les façons de recueillir des données sur le contenu que vous publiez sont nombreuses. L'analyse de ces données peut vous permettre d'obtenir de précieux renseignements sur le comportement des visiteurs et ce qui les empêchent de réussir leur tâche.

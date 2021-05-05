@@ -2,9 +2,6 @@
 altLangPage: "/2018/08/16/collab-impots"
 date:   2018-08-16
 description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) to make tax information on Canada.ca easier for small business owners to find, understand and use.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
 ---
 

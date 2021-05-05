@@ -2,9 +2,6 @@
 altLangPage: "/2021/04/08/utilisation-de-questions-interactives"
 date: 2021-04-08
 description: "This pattern is used to present people with a sequence of simple questions that leads to the specific answer they need to continue with or complete their task."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "The magic of using interactive questions"
 ---
 Sometimes we refer to the interactive question pattern as a “wizard”.

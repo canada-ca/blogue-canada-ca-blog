@@ -2,9 +2,6 @@
 altLangPage: "/2020/07/30/concevoir-recherche-pendant-pandemie"
 date:   2020-07-30
 description: "When the pandemic was confirmed in mid-March, the Digital Transformation Office had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. "
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Design research during a pandemic "
 ---
 

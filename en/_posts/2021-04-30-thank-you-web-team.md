@@ -2,9 +2,6 @@
 altLangPage: "/2021/04/30/merci-a-equipe-web.html"
 date: 2021-04-30
 description: "This massive effort was recognized yesterday with a Platinum Award at the 2021 CCO Awards Ceremony."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Thank you Team Canada.ca/coronavirus"
 ---
 

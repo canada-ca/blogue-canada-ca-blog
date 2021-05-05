@@ -2,9 +2,6 @@
 altLangPage: "/2020/05/26/descriptive-link-text"
 date:   2020-05-26
 description: "Un texte de lien clair peut aider des milliers de personnes supplémentaires à accéder rapidement et facilement au contenu de Canada.ca dont elles ont besoin."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Un exemple en faveur du texte de lien descriptif"
 ---
 

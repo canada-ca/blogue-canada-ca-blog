@@ -2,9 +2,6 @@
 altLangPage: "/2020/09/24/COVID-top-tasks"
 date:   2020-09-24
 description: "En mai 2020, le BTN a collaboré avec Gerry, l'Organisation mondiale de la Santé (OMS), Santé Canada et l'Agence de la santé publique du Canada à une étude visant à déterminer les principales tâches liées à la COVID-19 sur Canada.ca."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19"
 ---
 

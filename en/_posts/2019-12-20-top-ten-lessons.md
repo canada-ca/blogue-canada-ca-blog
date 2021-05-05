@@ -2,9 +2,6 @@
 altLangPage: "/2019/12/20/les-dix-lecons"
 date:   2019-12-20
 description: "Top 10 content design lessons the Canada.ca design team learned in 2019."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Top 10 content design lessons the Canada.ca design team learned in 2019"
 ---
 

@@ -2,9 +2,6 @@
 altLangPage: "/2017/08/09/taking-steps"
 date: 2017-08-09
 description: Un des aspects clés de la conception du site Canada.ca est un modèle de page uniforme pour les pages des sujets en vue d’aider les citoyens à trouver et à entamer leurs tâches.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Étapes vers des nouveaux patrons de conception"
 ---
 

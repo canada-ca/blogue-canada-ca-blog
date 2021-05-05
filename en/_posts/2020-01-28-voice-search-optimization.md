@@ -2,9 +2,6 @@
 altLangPage: "/2020/01/28/optimisation-recherche-vocale"
 date:   2020-01-28
 description: "What we learned about improving voice services for Canadians."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Optimize your content for voice search"
 ---
 

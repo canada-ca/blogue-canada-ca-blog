@@ -2,9 +2,6 @@
 altLangPage: "/2018/03/14/debarrasse-difficilement-vieilles-habitudes"
 date:   2018-03-14
 description: The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Old habits die hard (when feelings get in the way)"
 ---
 **By Celeste Côté, Privy Council Office**

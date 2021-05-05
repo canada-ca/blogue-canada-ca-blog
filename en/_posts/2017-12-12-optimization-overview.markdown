@@ -2,9 +2,6 @@
 altLangPage: "/2017/12/12/apercu-d-optimisation"
 date:   2017-12-12
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "How we're optimizing Canada.ca top tasks"
 ---
 

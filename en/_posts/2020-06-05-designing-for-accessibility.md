@@ -2,9 +2,6 @@
 altLangPage: "/2020/06/05/concevoir-pour-laccessibilite"
 date:   2020-06-05
 description: "Designing digital government services with accessibility in mind is key to ensuring that everyone can get the services they need quickly and easily."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Designing for accessibility during COVID-19"
 ---
 

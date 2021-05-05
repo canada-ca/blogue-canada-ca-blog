@@ -2,9 +2,6 @@
 altLangPage: "/2018/02/20/Demarrer_une_entreprise"
 date:   2018-02-20
 description: Starting a business is a top task for Canadians and it’s not an easy one. Here’s how this optimization project turned out.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Helping Canadians start a business"
 ---
 

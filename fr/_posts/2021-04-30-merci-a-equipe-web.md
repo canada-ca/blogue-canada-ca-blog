@@ -2,9 +2,6 @@
 altLangPage: "/2021/04/30/thank-you-web-team.html"
 date: 2021-04-30
 description: "Cet énorme travail a été reconnu hier au moyen d’un prix Platine lors de la cérémonie de remise des prix 2021 du BCC."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Merci Équipe Canada.ca/coronavirus"
 ---
 La plupart des Canadiens interagissent principalement en ligne avec le gouvernement. Depuis le début de la crise de la COVID-19, les Canadiens se sont tournés vers Canada.ca, le site Web du gouvernement du Canada, pour obtenir des mises à jour essentielles sur la santé, de l’aide financière, des renseignements et des conseils.

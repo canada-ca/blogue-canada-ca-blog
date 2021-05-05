@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/02/etude-sur-les-etiquettes"
 date:   2020-10-02
 description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Labelling study: which words work best"
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks.

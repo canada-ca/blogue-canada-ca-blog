@@ -2,9 +2,6 @@
 altLangPage: "/2018/02/20/Starting_a_business.html"
 date: 2018-02-20
 description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Voici comment le projet d’optimisation s’est déroulé.
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Aider les Canadiens à lancer une entreprise"
 ---
 

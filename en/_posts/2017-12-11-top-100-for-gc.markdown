@@ -2,9 +2,6 @@
 altLangPage: "/2017/12/11/100-taches-du-gc"
 date:   2017-12-11
 description: There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize?
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "How we identify top tasks for Canada.ca"
 ---
 

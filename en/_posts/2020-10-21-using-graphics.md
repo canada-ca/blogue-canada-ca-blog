@@ -2,9 +2,6 @@
 altLangPage: "/2020/10/21/utiliser-des-graphiques"
 date:   2020-10-21
 description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Using graphics to bridge language gaps"
 ---
 Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed.

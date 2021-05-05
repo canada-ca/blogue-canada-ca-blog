@@ -2,9 +2,6 @@
 altLangPage: "/2020/07/30/design-research-during-pandemic"
 date:   2020-07-30
 description: "Lorsque la pandémie a été confirmée à la mi‑mars, le Bureau de la transformation numérique avons dû repenser et modifier notre approche afin d'aider les ministères à réagir rapidement et efficacement à l'évolution rapide de la situation."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Recherche en conception pendant une pandémie"
 ---
 

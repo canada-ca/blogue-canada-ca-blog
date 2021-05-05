@@ -2,9 +2,6 @@
 altLangPage: "/2018/10/18/rappels-avis-securite"
 date:   2018-10-18
 description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is &#35;8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
 ---
 

@@ -2,9 +2,6 @@
 altLangPage: "/2019/02/04/business-registration"
 date:   2019-02-04
 description: "L’Agence du revenu du Canada (ARC) et le Secrétariat du Conseil du Trésor du Canada (SCT) ont collaboré pour faciliter les tâches des petites entreprises sur Canada.ca. Ces tâches ont été choisies en fonction des données sur le volume d’appels qui nous ont permis de cerner certaines des raisons les plus courantes pour lesquelles les gens appellent pour obtenir de l’aide."
-lang: fr
-layout: post
-pageclass: cnt-wdth-lmtd
 title:  "Collaboration pour faciliter l’inscription des entreprises canadiennes"
 ---
 

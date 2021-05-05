@@ -2,9 +2,6 @@
 altLangPage: "/2019/03/29/design-update"
 date: 2019-03-29
 description: "Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Au sujet de la mise à jour de la conception de Canada.ca"
 ---
 

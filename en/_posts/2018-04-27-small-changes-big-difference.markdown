@@ -2,9 +2,6 @@
 altLangPage: "/2018/04/27/petits-changements-grande-difference"
 date:   2018-04-27
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what Treasury Board President Scott Brison has to say about the improvement work underway.
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Canada.ca: Small changes can make a big difference"
 ---
 

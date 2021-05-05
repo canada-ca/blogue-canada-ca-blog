@@ -2,9 +2,6 @@
 altLangPage: "/2020/08/10/CanadaPointCa-source-fiable"
 date:   2020-08-10
 description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Canada.ca is a trusted source"
 ---
 

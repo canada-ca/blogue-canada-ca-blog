@@ -2,9 +2,6 @@
 altLangPage: "/2020/02/05/method-to-measure"
 date:   2020-02-05
 description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
-lang: fr
-layout: post
-pageclass: cnt-wdth-lmtd
 title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
 ---
 

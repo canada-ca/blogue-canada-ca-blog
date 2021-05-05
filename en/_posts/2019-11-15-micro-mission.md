@@ -2,9 +2,6 @@
 altLangPage: "/2019/11/15/une-micro-mission"
 date: 2019-11-15
 description: "Have you seen micro-mission offers come along and wondered if it was worth it? My answer: definitely!"
-lang: en
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "A micro-mission, why it’s worth a try"
 ---
 

@@ -2,9 +2,6 @@
 altLangPage: "/2020/08/28/recycling-existing-solutions"
 date:   2020-08-28
 description: "Dans le monde numérique, il n'est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes."
-lang: fr
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title:  "Recycler une solution existante pour obtenir une mise à jour en temps réel sur la COVID-19"
 ---
 
