@@ -74,7 +74,8 @@ src="/images/interactive questions_EN.JPG" >
 
 
 Other successful examples of this design pattern include:
-* CRA: [How to apply to CERB](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#apply)
+* CRA: [How to apply to CRB](https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit/crb-how-apply.html)
+* [Find out if you can renew your passport](https://www.cic.gc.ca/english/passport/apply/eligibility-questions.asp)
 * ESDC: [Find financial help during COVID](https://www.canada.ca/en/services/benefits/ei/cerb-application.html#apply)
 
 ## Designing interactive questions
