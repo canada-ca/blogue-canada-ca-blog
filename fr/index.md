@@ -1,7 +1,7 @@
 ---
 altLangPage: /index
 date: 2019-01-29
-dateModified: 2021-03-19
+dateModified: 2021-05-10
 description: Validations et perspectives de l’équipe Canada.ca.
 layout: default
 title: Blogue de Canada.ca
