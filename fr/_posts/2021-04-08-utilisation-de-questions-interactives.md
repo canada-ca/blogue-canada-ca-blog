@@ -72,7 +72,8 @@ Pour aider les personnes à trouver des réponses propres à leur situation pers
 </details>
 
 Voici d’autres exemples de réussite de ce modèle de conception&nbsp;:
-* ARC&nbsp;: [Comment présenter une demande pour la PCU](https://www.canada.ca/fr/services/prestations/ae/pcusc-application.html#apply)
+* ARC&nbsp;: [Comment présenter une demande pour la PCRE](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)
+* [Déterminez si vous pouvez renouveler un passeport](https://www.cic.gc.ca/francais/passeport/demande/questions-admissibilite.asp)
 * EDSC&nbsp;: [Trouver de l’aide financière pendant la COVID](https://covid-prestations.alpha.canada.ca/fr/debut)
 
 ## Concevoir des questions interactives
