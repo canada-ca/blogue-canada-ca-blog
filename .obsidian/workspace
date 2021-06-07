@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b0b48a0e116e0de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e86d23cc40a816",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CONTRIBUTING.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c09b15b60a75f78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "930954d8842615c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0bf49ba0d4970be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3addfe8f12a177cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#random",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "812cfc71caae691f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c85ec3471e5e0d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b2be26fe888911",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CONTRIBUTING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c1e86d23cc40a816",
+  "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "README.md",
+    "fr/_posts/2018-05-30-tout-est-question-de-dates.md",
+    "fr/_posts/2020-06-05-concevoir-pour-laccessibilite.md",
+    "1.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}
