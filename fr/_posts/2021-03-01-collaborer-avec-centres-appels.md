@@ -1,5 +1,5 @@
 ---
-altLangPage: "/2021/04/08/work-with-call-centres"
+altLangPage: "/2021/03/01/work-with-call-centres"
 date: 2021-03-01
 description: "Que vous dirigiez un centre d'appels interne ou que vous externalisiez la gestion de votre centre d'appel en faisant appel par le biais d'un partenaire de confiance, les agents sont la clé pour tirer parti des commentaires des clients. L'utilisation de ces données peut vous aider à améliorer votre contenu et vos services Web en tenant compte des besoins de vraies personnes."
 title:  "L'importance de collaborer avec les centres d'appels"
