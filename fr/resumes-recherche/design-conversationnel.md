@@ -164,7 +164,6 @@ La plupart des participants ont simplement ignoré le message (avec la voix ou l
 Cela a conduit à certains problèmes. Par exemple, lorsque l’utilisateur a demandé « Puis-je obtenir un numéro pour... », l’agent l’a fait correspondre à la seule « intention » qui avait le mot « numéro » dans les phrases de formation.
 
 {::nomarkdown}
-
 <figure class="video_container">
   <video controls>
     <source src="../media/Clip2-FR.mp4" type="video/mp4">
@@ -172,26 +171,25 @@ Cela a conduit à certains problèmes. Par exemple, lorsque l’utilisateur a de
   <details>
     <summary>Recherche d’un numéro</summary>
     <p>L’écran montre ce texte: </p>
-	<p>“Participant 4. Tente de trouver plusieurs numéros.” </p>
-	<p>L’écran montre ce texte: </p>
-	<p>“Parce qu'il utilise le mot « numéro », l'agent associe la demande à une demande de numéro d'entreprise.”</p>
-	<p><b>Participant: </b></p>
-	<p>“Pourrais-tu appeler le numéro des demandes d’entreprises de l’ARC?” </p>
-	<p><b>Agent: </b></p>
-	<p>“Pour obtenir un numéro d’entreprise, allez à Inscription des entreprises...”</p>
-	<p><b>Participant: </b></p>
-	<p>“Pourrais-tu me donner le numéro pour l’Allocation canadienne pour enfants?”</p>
-	<p><b>Agent: </b></p>
-	<p>“Pour obtenir un numéro d’entreprise, allez à Inscription des entreprises...”</p>
-	<p><b>Participant: </b></p>
-	<p>“Pourrais-tu me donner le numéro de l’ARC pour les entreprises lié aux erreurs de déductions sur la paie?”</p>
-	<p><b>Agent: </b></p>
-	<p>“Pour obtenir un numéro d’entreprise, allez à…”</p>
-	<p>L’écran montre ce texte: </p>
-	<p>“Les phrases d’apprentissage ont été conçues en présumant que les utilisateurs comprendraient qu’ils n’avaient pas à dire “donne-moi le numéro pour...”</p>
+  	<p>“Participant 4. Tente de trouver plusieurs numéros.” </p>
+  	<p>L’écran montre ce texte: </p>
+  	<p>“Parce qu'il utilise le mot « numéro », l'agent associe la demande à une demande de numéro d'entreprise.”</p>
+  	<p><b>Participant: </b></p>
+  	<p>“Pourrais-tu appeler le numéro des demandes d’entreprises de l’ARC?” </p>
+	  <p><b>Agent: </b></p>
+	  <p>“Pour obtenir un numéro d’entreprise, allez à Inscription des entreprises...”</p>
+	  <p><b>Participant: </b></p>
+	  <p>“Pourrais-tu me donner le numéro pour l’Allocation canadienne pour enfants?”</p>
+	  <p><b>Agent: </b></p>
+	  <p>“Pour obtenir un numéro d’entreprise, allez à Inscription des entreprises...”</p>
+	  <p><b>Participant: </b></p>
+	  <p>“Pourrais-tu me donner le numéro de l’ARC pour les entreprises lié aux erreurs de déductions sur la paie?”</p>
+	  <p><b>Agent: </b></p>
+	  <p>“Pour obtenir un numéro d’entreprise, allez à…”</p>
+	  <p>L’écran montre ce texte: </p>
+	  <p>“Les phrases d’apprentissage ont été conçues en présumant que les utilisateurs comprendraient qu’ils n’avaient pas à dire “donne-moi le numéro pour...”</p>
   </details>
 </figure>
-
 {:/}
 
 Les phrases de formation et les options de secours doivent prévoir comment les utilisateurs peuvent ne pas saisir entièrement ce que l’agent peut réellement faire.
@@ -214,7 +212,6 @@ D’autre part, cela rend la conception difficile. Même si le traitement du lan
 Par exemple, pour la tâche « Signaler une arnaque », nous n’avons pas inclus le mot « fraude » dans les phrases de formation. Lorsqu’un testeur a utilisé ce terme, l’agent ne pouvait pas faire correspondre ce que l’utilisateur disait à la bonne « intention ».
 
 {::nomarkdown}
-
 <figure class="video_container">
   <video controls>
     <source src="../media/Clip1-FR.mp4" type="video/mp4">
@@ -245,8 +242,6 @@ Par exemple, pour la tâche « Signaler une arnaque », nous n’avons pas inclu
     <p>“Oui! Eurêka” (le participant rit…)”</p>
   </details>
 </figure>
-
-
 {:/}
 
 #### Il est difficile de répondre aux questions vagues
@@ -286,21 +281,20 @@ Les « intentions » doivent être conçues de manière à permettre aux utilisa
   <details>
     <summary>Un participant qui doit répéter quelque chose</summary>
     <p>L’écran montre ce texte: </p>
-	<p>“Participant 7. Tente de trouver le numéro pour l'Allocation canadienne pour enfants”</p>
-	<p><b>Participant:  </b></p>
-	<p>“Prochain… prochaine date de paiement de l’Allocation canadienne pour enfants.” </p>
-	<p><b>Agent:  </b></p>
-	<p>“Ok, vous voulez appelez l’ARC à propos de prestations. Pour quelle prestations voulez-vous appeler?” </p>
-	<p><b>Participant:  </b></p>
-	<p>“(Le participant rit) Allocation pour enfants!” </p>
-	<p><b>Agent:  </b></p>
-	<p>“Appelez la ligne des prestations, au 1-8...” </p>
-	<p>L’écran montre ce texte: </p>
-	<p>“Même si la participante avait spécifié le type de prestations, elle a dû le répéter.” </p>
-	<p>“Les gens s’attendent à ce que les agents conversationnels comprennent et se souviennent de ces détails.” </p>
+	  <p>“Participant 7. Tente de trouver le numéro pour l'Allocation canadienne pour enfants”</p>
+	  <p><b>Participant:  </b></p>
+	  <p>“Prochain… prochaine date de paiement de l’Allocation canadienne pour enfants.” </p>
+	  <p><b>Agent:  </b></p>
+	  <p>“Ok, vous voulez appelez l’ARC à propos de prestations. Pour quelle prestations voulez-vous appeler?” </p>
+	  <p><b>Participant:  </b></p>
+	  <p>“(Le participant rit) Allocation pour enfants!” </p>
+	  <p><b>Agent:  </b></p>
+	  <p>“Appelez la ligne des prestations, au 1-8...” </p>
+	  <p>L’écran montre ce texte: </p>
+	  <p>“Même si la participante avait spécifié le type de prestations, elle a dû le répéter.” </p>
+	  <p>“Les gens s’attendent à ce que les agents conversationnels comprennent et se souviennent de ces détails.” </p>
   </details>
 </figure>
-
 {:/}
 
 #### Quand les gens disent quelque chose que l’agent n’attend pas
@@ -372,49 +366,47 @@ Plusieurs facteurs sont entrés en jeu&nbsp;:
   <details>
     <summary>Utiliser l'agent pour rechercher une preuve de revenu</summary>
     <p>L’écran montre ce texte : </p>
-	<p>“Participant 19. Ne réussit pas à trouver le numéro pour obtenir une preuve de revenu à partir de questions interactives.”</p>
-	<p>participant clique sur un gros bouton vert avec le libellé “Trouver un numéro de téléphone”.</p>
-	<p>La première questions est “À propos de quoi voulez-vous appeler?”</p>
-	<p>Les options sont : </p>
+	  <p>“Participant 19. Ne réussit pas à trouver le numéro pour obtenir une preuve de revenu à partir de questions interactives.”</p>
+	  <p>participant clique sur un gros bouton vert avec le libellé “Trouver un numéro de téléphone”.</p>
+	  <p>La première questions est “À propos de quoi voulez-vous appeler?”</p>
+	  <p>Les options sont : </p>
     <ul>
-	 <li>Impôts personnels et prestations</li>
-	 <li>Entreprises et travailleurs indépendants</li>
-	 <li>Oeuvres de charité</li>
-	 <li>Fiducies et successions </li>
-   </ul>
-	<p>Le participant sélectionne “Impôts personnels et prestations”.</p>
-<p>La 2e question est : “Quelle est la raison de votre appel?” </p>
-<p>Les options sont: </p>
+	    <li>Impôts personnels et prestations</li>
+	    <li>Entreprises et travailleurs indépendants</li>
+	    <li>Oeuvres de charité</li>
+	    <li>Fiducies et successions </li>
+    </ul>
+	  <p>Le participant sélectionne “Impôts personnels et prestations”.</p>
+    <p>La 2e question est : “Quelle est la raison de votre appel?” </p>
+    <p>Les options sont: </p>
     <ul>
-	   <li>Problèmes à accéder à Mon Dossier</li>
-       <li>Modifier des renseignements personnels, tels que votre adresse, votre nom ou votre dépôt direct ou vos renseignements bancaires</li>
-       <li>Obtenir une copie de votre Avis de cotisation</li>
-       <li>Obtenir une preuve de revenu officielle (imprimé de l’option “C”)</li>
-       <li>Renseignements au sujet de votre remboursement</li>
-       <li>Renseignements au sujet des prestations</li>
-       <li>Faire une entente de paiement</li>
-       <li>Corriger un paiement affecté au mauvais compte</li>
-       <li>Déclarer une arnaque au téléphone</li>
-       <li>Utiliser la ligne automatisée pour obtenir des réponses</li>
-       <li>Autres renseignements</li>
-</ul>
-<p>Le participant fait défiler la page vers le bas. </p>
-<p>Le participant clique sur lien libellé “Communiquer avec l’Agence du Revenu”, et se retrouve sur la page de contact principale de l’ARC. </p>
-<p>“Le participant ne semble pas voir les options dans la liste, et il clique sur le lien qui mène à la page de contact principale. ”</p>
-<p>L’écran montre ce texte : </p>
-<p>“Participant 8. Réussit à trouver le numéro pour obtenir une preuve de revenu à l'aide de l'assistant vocal.”</p>
-<p><b>Agent: </b></p>
-<p>“Je peux vous aider à trouver le bon numéro de téléphone de l’ARC à appeler. Vous voulez appeler au sujet de quel type de problème?”</p>
-<p><b>Participant: </b></p>
-<p>“Preuve de revenu”</p>
-<p><b>Agent:</b></p>
-<p>“Pour obtenir une preuve de revenu, ouvrez une session Mon Dossier, ou appelez notre ligne automatisée, disponible 24 heures sur 24, 7 jours sur 7...” </p>
-<p>L’écran montre ce texte : </p>
-<p>“En utilisant sa voix, le participant peut simplement mentionner la raison de son appel, et il reçoit la bonne réponse immédiatement.”</p>
-</details>
+	    <li>Problèmes à accéder à Mon Dossier</li>
+      <li>Modifier des renseignements personnels, tels que votre adresse, votre nom ou votre dépôt direct ou vos renseignements bancaires</li>
+      <li>Obtenir une copie de votre Avis de cotisation</li>
+      <li>Obtenir une preuve de revenu officielle (imprimé de l’option “C”)</li>
+      <li>Renseignements au sujet de votre remboursement</li>
+      <li>Renseignements au sujet des prestations</li>
+      <li>Faire une entente de paiement</li>
+      <li>Corriger un paiement affecté au mauvais compte</li>
+      <li>Déclarer une arnaque au téléphone</li>
+      <li>Utiliser la ligne automatisée pour obtenir des réponses</li>
+      <li>Autres renseignements</li>
+    </ul>
+    <p>Le participant fait défiler la page vers le bas. </p>
+    <p>Le participant clique sur lien libellé “Communiquer avec l’Agence du Revenu”, et se retrouve sur la page de contact principale de l’ARC. </p>
+    <p>“Le participant ne semble pas voir les options dans la liste, et il clique sur le lien qui mène à la page de contact principale. ”</p>
+    <p>L’écran montre ce texte : </p>
+    <p>“Participant 8. Réussit à trouver le numéro pour obtenir une preuve de revenu à l'aide de l'assistant vocal.”</p>
+    <p><b>Agent: </b></p>
+    <p>“Je peux vous aider à trouver le bon numéro de téléphone de l’ARC à appeler. Vous voulez appeler au sujet de quel type de problème?”</p>
+    <p><b>Participant: </b></p>
+    <p>“Preuve de revenu”</p>
+    <p><b>Agent:</b></p>
+    <p>“Pour obtenir une preuve de revenu, ouvrez une session Mon Dossier, ou appelez notre ligne automatisée, disponible 24 heures sur 24, 7 jours sur 7...” </p>
+    <p>L’écran montre ce texte : </p>
+    <p>“En utilisant sa voix, le participant peut simplement mentionner la raison de son appel, et il reçoit la bonne réponse immédiatement.”</p>
+  </details>
 </figure>
-
-
 {:/}
 
 ### Réussite avec l’assistant, échec avec le robot conversationnel
@@ -436,69 +428,69 @@ Les tâches qui n’étaient pas bien exécutées avec les agents conversationne
   <details>
     <summary>Utiliser l’assistant et l'agent pour effectuer une entente de paiement</summary>
     <p>L’écran montre ce texte : </p>
-	<p>“Participant 8. Réussit à trouver le numéro pour faire une entente de paiement pour une dette d'impôt sur les entreprises à l'aide de questions interactives.”</p>
-	<p>Le participant clique sur un gros bouton vert avec le libellé “Trouver un numéro de téléphone”</p>
-	<p>La première question est “À propos de quoi voulez-vous appeler?”</p>
-	<p>Les options sont : </p>
-	<ul>
-	 <li>Impôts personnels et prestations</li>
-     <li>Entreprises et travailleurs indépendants</li>
-     <li>Oeuvres de charité</li>
-     <li>Fiducies et successions </li>
+	  <p>“Participant 8. Réussit à trouver le numéro pour faire une entente de paiement pour une dette d'impôt sur les entreprises à l'aide de questions interactives.”</p>
+	  <p>Le participant clique sur un gros bouton vert avec le libellé “Trouver un numéro de téléphone”</p>
+	  <p>La première question est “À propos de quoi voulez-vous appeler?”</p>
+	  <p>Les options sont : </p>
+	  <ul>
+	    <li>Impôts personnels et prestations</li>
+      <li>Entreprises et travailleurs indépendants</li>
+      <li>Oeuvres de charité</li>
+      <li>Fiducies et successions </li>
     </ul>
-	<p>Le participant sélectionne “Entreprises et travailleurs indépendants”. </p>
-	<p>La 2e question est : “Quelle est la raison de votre appel?” </p>
-	<p>Les options sont: </p>
-	<ul>
-	   <li>Problèmes à accéder à Mon Dossier d’entreprise</li>
-	   <li>Modifier des renseignements sur votre entreprise </li>
-	   <li>Obtenir un numéro d’entreprise</li>
-	   <li>Faire une entente de paiement</li>
-	   <li>Corriger un paiement affecté au mauvais compte</li>
-	   <li>Obtenir de l’aide pour soumettre votre déclaration T2 en ligne</li>
-	   <li>Déclarer une arnaque au téléphone</li>
-	   <li>Autres renseignements au sujet de votre entreprise</li>
-      </ul>
-	<p>Le participant sélectionne “Faire une entente de paiement”</p>
-	<p>La 3e question est : </p>
-	<p>“Pour quel type de dette voulez-vous faire une entente de paiement?”</p>
-	<p>Les options sont :</p>
+	  <p>Le participant sélectionne “Entreprises et travailleurs indépendants”. </p>
+	  <p>La 2e question est : “Quelle est la raison de votre appel?” </p>
+	  <p>Les options sont: </p>
+	  <ul>
+	    <li>Problèmes à accéder à Mon Dossier d’entreprise</li>
+	    <li>Modifier des renseignements sur votre entreprise </li>
+	    <li>Obtenir un numéro d’entreprise</li>
+	    <li>Faire une entente de paiement</li>
+	    <li>Corriger un paiement affecté au mauvais compte</li>
+	    <li>Obtenir de l’aide pour soumettre votre déclaration T2 en ligne</li>
+	    <li>Déclarer une arnaque au téléphone</li>
+	    <li>Autres renseignements au sujet de votre entreprise</li>
+    </ul>
+  	<p>Le participant sélectionne “Faire une entente de paiement”</p>
+	  <p>La 3e question est : </p>
+	  <p>“Pour quel type de dette voulez-vous faire une entente de paiement?”</p>
+	  <p>Les options sont :</p>
     <ul>
       <li>Impôt sur le revenu des entreprises</li>
       <li>Dette de déductions à la source</li>
       <li>Dette de TPS/TVH</li>
     </ul>
-	<p>Le participant sélectionne “Impôt sur le revenu des entreprises”.</p>
-	<p>Le participant obtient la réponse. </p>
-	<p>L’écran montre ce texte : </p>
-	<p>“Les options offertes à chaque étape ont aidé le participant à trouver la réponse très rapidement.”</p>
-	<p>L’écran montre ce texte : </p>
-	<p>“Participant 6. Ne réussit pas à trouver le numéro pour faire une entente de paiement pour une dette liée aux déductions à la source en utilisant l'assistant virtuel. ”</p>
-	<p>L’écran montre une fenêtre de clavardage virtuel, avec ces mots : </p>
-	<p>“Pour être certain de vous donner le bon numéro de téléphone de l’ARC, dites-moi ce pour quoi vous avez besoin d’aide.”</p>
-	<p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
-	<p>“Payer mes déductions à la source”</p>
-	<p>L’écran montre ce texte : </p>
-	<p>“Le participant tente plusieurs options, toutes liées aux déductions à la source.” </p>
-	<p><b>L’assistant virtuel répond à l’écran :</b></p>
-	<p>“Désolé, je n’ai pas compris. Pouvez-vous m’en dire plus au sujet de la raison de votre appel?” </p>
-	<p><b>Le participant dit:</b></p>
-	<p>“Ok… (il rit)... Heu...” </p>
-	<p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
-	<p>“déductions à la source” </p>
-	<p><b>L’assistant virtuel répond à l’écran :</b></p>
-	<p>“Ok, vous voulez appeler au sujet de votre entreprise. Quelle est la raison de votre appel?” </p>
-	<p><b>Le participant dit:</b></p>
-	<p>“Ok… appeler au sujet de votre entreprise… raison de votre appel... Heu...” </p>
-	<p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
-	<p>“Payer mes déductions à la source” </p>
-	<p><b>L’assistant virtuel répond à l’écran :</b></p>
-	<p>“J'ai de la difficulté à comprendre. À quel sujet voulez-vous appeler l'ARC?”</p>
-	<p><b>Le participant dit:</b></p>
-	<p>“Ok… il a de la difficulté à comprendre ce que j’essaie de dire..! ”</p>
-	<p>L’écran montre ce texte : </p>
-	<p>“Au final, le participant n'est pas en mesure de formuler sa question en termes compris par l'assistant virtuel.”</p>
- </details>
+	  <p>Le participant sélectionne “Impôt sur le revenu des entreprises”.</p>
+	  <p>Le participant obtient la réponse. </p>
+	  <p>L’écran montre ce texte : </p>
+	  <p>“Les options offertes à chaque étape ont aidé le participant à trouver la réponse très rapidement.”</p>
+	  <p>L’écran montre ce texte : </p>
+	  <p>“Participant 6. Ne réussit pas à trouver le numéro pour faire une entente de paiement pour une dette liée aux déductions à la source en utilisant l'assistant virtuel. ”</p>
+	  <p>L’écran montre une fenêtre de clavardage virtuel, avec ces mots : </p>
+	  <p>“Pour être certain de vous donner le bon numéro de téléphone de l’ARC, dites-moi ce pour quoi vous avez besoin d’aide.”</p>
+	  <p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
+	  <p>“Payer mes déductions à la source”</p>
+	  <p>L’écran montre ce texte : </p>
+	  <p>“Le participant tente plusieurs options, toutes liées aux déductions à la source.” </p>
+	  <p><b>L’assistant virtuel répond à l’écran :</b></p>
+	  <p>“Désolé, je n’ai pas compris. Pouvez-vous m’en dire plus au sujet de la raison de votre appel?” </p>
+	  <p><b>Le participant dit:</b></p>
+	  <p>“Ok… (il rit)... Heu...” </p>
+	  <p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
+	  <p>“déductions à la source” </p>
+  	<p><b>L’assistant virtuel répond à l’écran :</b></p>
+	  <p>“Ok, vous voulez appeler au sujet de votre entreprise. Quelle est la raison de votre appel?” </p>
+	  <p><b>Le participant dit:</b></p>
+	  <p>“Ok… appeler au sujet de votre entreprise… raison de votre appel... Heu...” </p>
+	  <p><b>Le participant tape ce texte dans l’assistant virtuel :</b></p>
+	  <p>“Payer mes déductions à la source” </p>
+	  <p><b>L’assistant virtuel répond à l’écran :</b></p>
+	  <p>“J'ai de la difficulté à comprendre. À quel sujet voulez-vous appeler l'ARC?”</p>
+	  <p><b>Le participant dit:</b></p>
+	  <p>“Ok… il a de la difficulté à comprendre ce que j’essaie de dire..! ”</p>
+	  <p>L’écran montre ce texte : </p>
+	  <p>“Au final, le participant n'est pas en mesure de formuler sa question en termes compris par l'assistant virtuel.”</p>
+  </details>
 </figure>
 {:/}
 
@@ -538,9 +530,9 @@ Nous avons également appris que toutes les tâches ne sont pas bien adaptées a
 
 Si vous avez des tâches qui pourraient bénéficier d’une approche plus interactive, la création d’un assistant interactif est probablement la meilleure première étape que vous pouvez prendre&nbsp;:
 
--  les assistants sont plus faciles à construire et à entretenir que les agents conversationnels
+- les assistants sont plus faciles à construire et à entretenir que les agents conversationnels
 - les assistants peuvent simplifier des tâches complexes
--  le travail effectué pour comprendre la logique des tâches et les variables peuvent servir à élaborer un agent conversationnel plus tard
+- le travail effectué pour comprendre la logique des tâches et les variables peuvent servir à élaborer un agent conversationnel plus tard
 
 Avant d’emprunter la voie du design conversationnel, il est important de choisir la bonne tâche.
 

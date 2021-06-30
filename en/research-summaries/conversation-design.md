@@ -60,8 +60,6 @@ Conversational agents work like this:
 - the agent replies to the user with a pre-designed response for that situation - *“Do you want to call about your personal tax account, or a business tax account?”*
 - the cycle starts again, if the conversation is not over
 
-
-
 ![A long description can be found after the image.](../images/chat-cycle-en.jpg){: .mrgn-tp-lg}
 <details class="mrgn-bttm-lg">
 <summary>Chat cycle diagram </summary>
@@ -165,7 +163,6 @@ Most participants simply ignored the message (both with the voice or chatbot). T
 This led to some issues. For example, when the user asked “Can I get a number for…”, the agent matched it to the only “intent” that had the word “number” in the training phrases.
 
 {::nomarkdown}
-
 <figure class="video_container">
   <video controls>
     <source src="../media/Clip2-EN.mp4" type="video/mp4">
@@ -192,7 +189,6 @@ This led to some issues. For example, when the user asked “Can I get a number 
     <p>“The training phrases were chosen assuming users would listen to the welcome message and understand that they didn't need to say "give me the number for...".</p>
   </details>
 </figure>
-
 {:/}
 
 Training phrases and fallback options have to anticipate how users may not fully grasp what the agent can actually do.
@@ -215,7 +211,6 @@ On the other hand, this makes it challenging for the designer. Even if Natural L
 For example, for the “Report a scam” task, we initially didn’t include the word “fraud” in the training phrases. When a tester used that term, the agent couldn’t match what the user was saying to the right “intent.”
 
 {::nomarkdown}
-
 <figure class="video_container">
   <video controls>
     <source src="../media/Clip1-EN.mp4" type="video/mp4">
@@ -246,7 +241,6 @@ For example, for the “Report a scam” task, we initially didn’t include the
     <p>“Building the right set of training phases is essential to match questions the proper answer.”</p>
   </details>
 </figure>
-
 {:/}
 
 #### Vague questions are hard to answer
@@ -286,21 +280,20 @@ People don’t like to repeat themselves.
   <details>
     <summary>A participant who has to repeat something</summary>
     <p>Screen shows this text: </p>
-<p>“Participant 7. Trying to find the phone number for the Canada Child Benefit.”</p>
-<p><b>Participant: </b></p>
-<p>“Next child… Next Canada child benefit payment due date.”</p>
-<p><b>Agent: </b></p>
-<p>“Ok, you want to call CRA about benefits. Which benefit do you want to call about?”</p>
-<p><b>Participant: </b></p>
-<p>“(Participant laughs) Child benefit”</p>
-<p><b>Agent: </b></p>
-<p>“Call the Benefits line at 1-8...”</p>
-<p>Screen shows this text: </p>
-<p>“Even though the participant had specified the type of benefit, they had to repeat it.”</p>
-<p>“People expect conversational agents to understand and remember these details.”</p>
-</details>
+    <p>“Participant 7. Trying to find the phone number for the Canada Child Benefit.”</p>
+    <p><b>Participant: </b></p>
+    <p>“Next child… Next Canada child benefit payment due date.”</p>
+    <p><b>Agent: </b></p>
+    <p>“Ok, you want to call CRA about benefits. Which benefit do you want to call about?”</p>
+    <p><b>Participant: </b></p>
+    <p>“(Participant laughs) Child benefit”</p>
+    <p><b>Agent: </b></p>
+    <p>“Call the Benefits line at 1-8...”</p>
+    <p>Screen shows this text: </p>
+    <p>“Even though the participant had specified the type of benefit, they had to repeat it.”</p>
+    <p>“People expect conversational agents to understand and remember these details.”</p>
+  </details>
 </figure>
-
 {:/}
 
 #### When people say something not expected by the agent
@@ -383,12 +376,12 @@ Several factors were at play:
     </ul>
     <p>The participant selects “Personal taxes and benefits”</p>
     <p>The 2nd question is:</p>
-	<p>“What do you want to call about?”</p>
-	<p>The options are: </p>
-	<ul>
-	  <li> Issues with signing in to My Account</li>
+	  <p>“What do you want to call about?”</p>
+	  <p>The options are: </p>
+  	<ul>
+	    <li> Issues with signing in to My Account</li>
       <li>Change personal information, like your address, your name or your direct deposit/bank information</li>
- 	  <li>Get a copy of your notice of assessment</li>
+ 	    <li>Get a copy of your notice of assessment</li>
       <li>Get an official proof of income (option C printout)</li>
       <li>Information about your refund</li>
       <li>Information about benefits</li>
@@ -398,23 +391,22 @@ Several factors were at play:
       <li>Use the automated line to get other answers</li>
       <li>Other information</li>
     </ul>
-	<p>The participant scrolls down.</p>
-	<p>The participant clicks on “Contact the Canada Revenue Agency”, and gets back to the main Contact CRA page.</p>
-	<p>Screen shows this text: </p>
-	<p>“Participant doesn't seem to see the options in the list, and leaves the wizard by clicking on the link to the main contact page.” </p>
-	<p>Screen shows this text: </p>
-	<p>“Participant 8. Succeeds in finding the number to request a proof of income with voice.”</p>
-	<p><b>Agent: </b></p>
-	<p>“I can help you find the right CRA number to call. What kind of problem do you need to call about?”</p>
-	<p><b>Participant:  </b></p>
-	<p>“Proof of income”</p>
-	<p><b>Agent: </b></p>
-	<p>“To get an official proof of income, sign in to My Account, or call our automated line, available 24/7...”</p>
-	<p>Screen shows this text:</p>
-	<p>“Using their voice, the participant simply has to say what they want to call about, and get the answer immediately.”</p>
+	  <p>The participant scrolls down.</p>
+	  <p>The participant clicks on “Contact the Canada Revenue Agency”, and gets back to the main Contact CRA page.</p>
+	  <p>Screen shows this text: </p>
+  	<p>“Participant doesn't seem to see the options in the list, and leaves the wizard by clicking on the link to the main contact page.” </p>
+  	<p>Screen shows this text: </p>
+	  <p>“Participant 8. Succeeds in finding the number to request a proof of income with voice.”</p>
+	  <p><b>Agent: </b></p>
+	  <p>“I can help you find the right CRA number to call. What kind of problem do you need to call about?”</p>
+	  <p><b>Participant:  </b></p>
+  	<p>“Proof of income”</p>
+  	<p><b>Agent: </b></p>
+  	<p>“To get an official proof of income, sign in to My Account, or call our automated line, available 24/7...”</p>
+  	<p>Screen shows this text:</p>
+  	<p>“Using their voice, the participant simply has to say what they want to call about, and get the answer immediately.”</p>
   </details>
 </figure>
-
 {:/}
 
 ### Succeeding with the wizard, failing with chat
@@ -436,24 +428,24 @@ Tasks that did not perform well with conversational agents had these characteris
   <details>
     <summary>Using the agent to make a payment arrangement</summary>
     <p>Screen shows this text:</p>
-	<p>“Participant 8. Succeeds to find the number to make a payment arrangement for a corporate income tax debt using the wizard.”</p>
-	<p>Participant clicks on a big green button labelled “Find a phone number” </p>
-	<p>The text below the title is “Answer a few questions to find the telephone number or contact you need”. </p>
-	<p>The first question is “What do you want to call about?” </p>
-	<p>The options are: </p>
-	<ul>
-		<li>Personal taxes and benefits</li>
-        <li>Business and self-employed</li>
-        <li>Charity</li>
-        <li>Trusts and estates.</li>
+	  <p>“Participant 8. Succeeds to find the number to make a payment arrangement for a corporate income tax debt using the wizard.”</p>
+	  <p>Participant clicks on a big green button labelled “Find a phone number” </p>
+	  <p>The text below the title is “Answer a few questions to find the telephone number or contact you need”. </p>
+  	<p>The first question is “What do you want to call about?” </p>
+  	<p>The options are: </p>
+  	<ul>
+	    <li>Personal taxes and benefits</li>
+      <li>Business and self-employed</li>
+      <li>Charity</li>
+      <li>Trusts and estates.</li>
     </ul>
-	<p>The participant selects “Business and self-employed”.</p>
-	<p>The 2nd question is: </p>
-	<p>“What do you want to call about?”</p>
-	<p>The options are: </p>
-	<ul>
-	  <li>Issues with signing in to My Business Account</li>
-	  <li>Change information about your business</li>
+	  <p>The participant selects “Business and self-employed”.</p>
+	  <p>The 2nd question is: </p>
+	  <p>“What do you want to call about?”</p>
+	  <p>The options are: </p>
+	  <ul>
+	    <li>Issues with signing in to My Business Account</li>
+	    <li>Change information about your business</li>
       <li>Get a business number </li>
       <li>Make a payment arrangement </li>
       <li>Fix a misallocated payment </li>
@@ -461,47 +453,45 @@ Tasks that did not perform well with conversational agents had these characteris
       <li>Report a scam call </li>
       <li>Other information about your business </li>
     </ul>
-	<p>The participant selects “Make a payment arrangement.</p>
+	  <p>The participant selects “Make a payment arrangement.</p>
     <p>The 3rd question is:</p>
-	<p>“For which type of debt do you want to take an arrangement?”</p>
-	<p>The options are:</p>
-	<ul>
-	   <li>Corporate income tax </li>
-       <li>Payroll debt </li>
-       <li>GST/HST debt </li>
+	  <p>“For which type of debt do you want to take an arrangement?”</p>
+	  <p>The options are:</p>
+	  <ul>
+	    <li>Corporate income tax </li>
+      <li>Payroll debt </li>
+      <li>GST/HST debt </li>
     </ul>
-	<p>Participant selects “ Corporate income tax”.</p>
-	<p>Participant gets the answer.</p>
-	<p>Screen shows this text:</p>
-	<p>“The options offered at each step helped the participant get to the answer very quickly.”</p>
-	<p>Screen shows this text:</p>
-	<p>“Participant 6. Fails to find the number to make a payment arrangement for a payroll tax debt using the chabot.” </p>
-	<p>The screen shows a chatbot window, with these words: </p>
-	<p>“To make sure you get the right phone number for CRA, tell me what you need help with.”</p>
-	<p><b>Participant types: </b></p>
-	<p>“Payoff payroll deductions”</p>
-	<p><b>Chabot replies on screen: </b></p>
-	<p>“Sorry, I didn’t catch that. Can you tell me more about what you want to call about?” </p>
-	<p><b>Participant says: </b></p>
-	<p>“Ok… (laughs) hum…”</p>
-	<p><b>Participant types: </b></p>
-	<p>“Payroll deductions” </p>
-	<p><b>Chabot replies on screen: </b></p>
-	<p>“Ok, you want to call about your business. What is the reason of your call?.”</p>
-	<p><b>Participant says: </b></p>
-	<p>“Ok… call about your business… reason of your call.. Hum…” </p>
-	<p><b>Participant types: </b></p>
-	<p>“payoff payroll deductions”</p>
-	<p><b>Chabot replies on screen: </b></p>
-	<p>“I’m having trouble understanding. What do you want to call the CRA about?”</p>
-	<p><b>Participant says: </b></p>
-	<p>“Ok… it’s having trouble understanding what I’m trying to say...! ” </p>
-	<p>Screen shows this text: </p>
-	<p>“In the end, the participant wasn't able to frame the question in a way that the chatbot understands.” </p>
+	  <p>Participant selects “ Corporate income tax”.</p>
+	  <p>Participant gets the answer.</p>
+	  <p>Screen shows this text:</p>
+	  <p>“The options offered at each step helped the participant get to the answer very quickly.”</p>
+  	<p>Screen shows this text:</p>
+	  <p>“Participant 6. Fails to find the number to make a payment arrangement for a payroll tax debt using the chabot.” </p>
+	  <p>The screen shows a chatbot window, with these words: </p>
+	  <p>“To make sure you get the right phone number for CRA, tell me what you need help with.”</p>
+	  <p><b>Participant types: </b></p>
+	  <p>“Payoff payroll deductions”</p>
+	  <p><b>Chabot replies on screen: </b></p>
+  	<p>“Sorry, I didn’t catch that. Can you tell me more about what you want to call about?” </p>
+  	<p><b>Participant says: </b></p>
+  	<p>“Ok… (laughs) hum…”</p>
+	  <p><b>Participant types: </b></p>
+  	<p>“Payroll deductions” </p>
+  	<p><b>Chabot replies on screen: </b></p>
+  	<p>“Ok, you want to call about your business. What is the reason of your call?.”</p>
+	  <p><b>Participant says: </b></p>
+	  <p>“Ok… call about your business… reason of your call.. Hum…” </p>
+	  <p><b>Participant types: </b></p>
+	  <p>“payoff payroll deductions”</p>
+	  <p><b>Chabot replies on screen: </b></p>
+	  <p>“I’m having trouble understanding. What do you want to call the CRA about?”</p>
+	  <p><b>Participant says: </b></p>
+	  <p>“Ok… it’s having trouble understanding what I’m trying to say...! ” </p>
+	  <p>Screen shows this text: </p>
+	  <p>“In the end, the participant wasn't able to frame the question in a way that the chatbot understands.” </p>
   </details>
 </figure>
-
-
 {:/}
 
 There is a reason why a lot of tutorials on conversational agents use simple interactions like ordering a coffee or a pizza. People already have a learned mental model for these tasks. When you order a coffee, you already know that you will have to say the type, the size, how much sugar and milk, whether it’s “for here or to go”. It’s very easy to talk about this in your own words.
