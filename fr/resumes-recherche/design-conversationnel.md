@@ -1,7 +1,7 @@
 ---
-altLangPage: "/design-conversationnel/"
-date: 2021-06-15
-description: " "
+altLangPage: "/research-summary/conversation-design"
+date: 2021-06-30
+description: "Nous avons élaboré un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (*chatbot*) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun."
 lang: fr
 layout: default
 title: "Résumé de recherche&nbsp;: Fournir des services gouvernementaux grâce au design conversationnel"

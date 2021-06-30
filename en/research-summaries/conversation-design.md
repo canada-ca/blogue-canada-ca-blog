@@ -1,7 +1,7 @@
 ---
-altLangPage: "/resume-recherche/"
-date: 2021-06-10
-description: " "
+altLangPage: "/resume-recherche/design-conversationnel"
+date: 2021-06-30
+description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
 lang: en
 layout: default
 title: "Research summary: Delivering government services through conversation design"
