@@ -1,5 +1,12 @@
 ---
 altLangPage: "/research-summaries/conversation-design"
+breadcrumbs:
+  - title: "A propos de Canada.ca"
+    link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
+  - title: Blogue de Canada.ca
+    link: "https://blogue.canada.ca/"
+  - title: Améliorer le contenu sur Canada.ca
+    link: "https://blogue.canada.ca/pages/apercu-projet.html"
 date: 2021-06-30
 description: "Nous avons élaboré un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (*chatbot*) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun."
 lang: fr
