@@ -68,7 +68,7 @@ Les agents conversationnels fonctionnent ainsi:
 - l’agent répond à l’utilisateur avec une réponse préconçue pour cette situation&nbsp;: « *Voulez-vous appeler au sujet de votre compte d’impôts personnels ou d’un compte d’impôts pour les entreprises*? »
 - le cycle redémarre, si la conversation n’est pas terminée
 
-![Une longue description se trouve après l'image.](../images/chat-cycle-fr.jpg){: .mrgn-tp-lg}
+![Une longue description se trouve après l'image.](../images/chat-cycle-fr.jpg){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
 <summary>Fonctionnement des agents conversationnels</summary>
 <p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>
@@ -102,19 +102,19 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 - **un robot conversationnel** où les utilisateurs l’ont ouvert sur la page Web et ont interagi en tapant
 - **un assistant vocal** où les utilisateurs ont interagi avec leur voix au moyen de Google Home ou d’un assistant Google sur un téléphone
 
-![Une longue description se trouve après l'image.](../images/conversation-1.png){: .mrgn-tp-lg}
+![Une longue description se trouve après l'image.](../images/conversation-1.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
 <summary>Assistant (en anglais seulement)</summary>
 <p>L'assistant "Trouver le bon contact ou numéro de téléphone de l'ARC" affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>
 </details>
 
-![Une longue description se trouve après l'image.](../images/conversation-2.png){: .mrgn-tp-lg}
+![Une longue description se trouve après l'image.](../images/conversation-2.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
 <summary>Agent conversationnel (en anglais seulement)</summary>
 <p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte "Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?" Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>
 </details>
 
-![Une longue description se trouve après l'image.](../images/conversation-3.png){: .mrgn-tp-lg}
+![Une longue description se trouve après l'image.](../images/conversation-3.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
 <summary>Agent vocal de l’assistant Google (en anglais seulement)</summary>
 <p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche : "Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler ?" La réponse est "une déclaration de preuve de revenus".</p>
@@ -128,7 +128,7 @@ Dans la **partie 1**, les participants pouvaient utiliser n’importe quelle sec
 
 Dans la **partie 2**, nous avons apporté des changements mineurs à certains scénarios de tâches et demandé aux participants de tenter de trouver la bonne réponse en utilisant **uniquement les agents conversationnels**. Ils ont essayé d’effectuer certaines tâches en utilisant seulement leur voix (le modérateur jouant le rôle de l’assistant vocal, en fonction des réponses du robot conversationnel), et d’autres en utilisant le robot conversationnel sur le prototype.
 
-![Une longue description se trouve après l'image.](../images/conversation-4.png){: .mrgn-tp-lg}
+![Une longue description se trouve après l'image.](../images/conversation-4.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
   <summary>Agent vocal (en anglais seulement)</summary>
   <p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>
@@ -171,8 +171,8 @@ La plupart des participants ont simplement ignoré le message (avec la voix ou l
 Cela a conduit à certains problèmes. Par exemple, lorsque l’utilisateur a demandé « Puis-je obtenir un numéro pour... », l’agent l’a fait correspondre à la seule « intention » qui avait le mot « numéro » dans les phrases de formation.
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip2-FR.mp4" type="video/mp4">
   </video>
   <details>
@@ -219,8 +219,8 @@ D’autre part, cela rend la conception difficile. Même si le traitement du lan
 Par exemple, pour la tâche « Signaler une arnaque », nous n’avons pas inclus le mot « fraude » dans les phrases de formation. Lorsqu’un testeur a utilisé ce terme, l’agent ne pouvait pas faire correspondre ce que l’utilisateur disait à la bonne « intention ».
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip1-FR.mp4" type="video/mp4">
   </video>
   <details>
@@ -281,8 +281,8 @@ Les gens n’aiment pas se répéter.
 Les « intentions » doivent être conçues de manière à permettre aux utilisateurs de donner autant de renseignements qu’ils le souhaitent ou le minimum de renseignements possible. Lorsque l’utilisateur n’en dit pas beaucoup, l’agent doit poser des questions pour combler les lacunes. Lorsque l’utilisateur en dit beaucoup, l’agent doit conserver ces valeurs en contexte et ne pas les demander à nouveau.
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip3-FR.mp4" type="video/mp4">
   </video>
   <details>
@@ -366,8 +366,8 @@ Plusieurs facteurs sont entrés en jeu&nbsp;:
 - il n’y avait pas de moyen intuitif de regrouper cela avec d’autres tâches de communication dans l’assistant
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip4-FR.mp4" type="video/mp4">
   </video>
   <details>
@@ -428,8 +428,8 @@ Les tâches qui n’étaient pas bien exécutées avec les agents conversationne
 - le même problème nécessite une réponse différente, en fonction de certaines variables
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip5-FR.mp4" type="video/mp4">
   </video>
   <details>

@@ -1,12 +1,12 @@
 ---
 altLangPage: "/resumes-recherche/design-conversationnel"
-breadcrumbs: 
+breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
   - title: Improving content on Canada.ca
-    link: "https://blog.canada.ca/page/project-overview.html"
+    link: "https://blog.canada.ca/pages/project-overview.html"
 date: 2021-06-30
 description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
 lang: en
@@ -67,7 +67,7 @@ Conversational agents work like this:
 - the agent replies to the user with a pre-designed response for that situation - *“Do you want to call about your personal tax account, or a business tax account?”*
 - the cycle starts again, if the conversation is not over
 
-![A long description can be found after the image.](../images/chat-cycle-en.jpg){: .mrgn-tp-lg}
+![A long description can be found after the image.](../images/chat-cycle-en.jpg){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
 <summary>Chat cycle diagram </summary>
 <p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats. </p>
@@ -101,19 +101,19 @@ To test whether a conversational agent could help improve task success, we built
 - **a chatbot** where users opened it on the web page and interacted by typing
 - **a voice assistant** where users interacted with their voice through a Google Home or Google Assistant on a phone
 
-![A long description can be found after the image.](../images/conversation-1.png){: .mrgn-tp-lg}
+![A long description can be found after the image.](../images/conversation-1.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
   <summary>Wizard</summary>
   <p>The "Find the right CRA contact or telephone number" wizard displays questions about your call to help guide you to the answer you need.</p>
 </details>
 
-![A long description can be found after the image.](../images/conversation-2.png){: .mrgn-tp-lg}
+![A long description can be found after the image.](../images/conversation-2.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
   <summary>Chatbot</summary>
   <p>The CRA chatbot that appears at the bottom of your screen. It displays the text "Hi, let's try to find the right CRA phone number for you. What do you want want to call about?" People then type in their answer to get a response.</p>
 </details>
 
-![A long description can be found after the image.](../images/conversation-3.png){: .mrgn-tp-lg}
+![A long description can be found after the image.](../images/conversation-3.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
   <summary>Google assistant voice agent </summary>
   <p>The CRA phone number finder Google voice assistant. It displays the text "Welcome to the CRA phone number finder. What do you want to call about?" The response is "a proof of income statement."</p>
@@ -127,7 +127,7 @@ In **Part 1**, participants could use any section of the prototyped web pages to
 
 In **Part 2**, we made minor changes to some task scenarios, and asked participants to try to find the right answer using **only the conversational agents**. They tried to complete some tasks using only their voice (with the moderator speaking the part of the voice assistant based on the answers in the chatbot), and others using the chatbot on the prototype.
 
-![A long description can be found after the image.](../images/conversation-4.png){: .mrgn-tp-lg}
+![A long description can be found after the image.](../images/conversation-4.png){: .mrgn-tp-lg.img-responsive}
 <details class="mrgn-bttm-lg">
   <summary>Conversational agent</summary>
   <p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>
@@ -170,8 +170,8 @@ Most participants simply ignored the message (both with the voice or chatbot). T
 This led to some issues. For example, when the user asked “Can I get a number for…”, the agent matched it to the only “intent” that had the word “number” in the training phrases.
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip2-EN.mp4" type="video/mp4">
   </video>
   <details>
@@ -218,8 +218,8 @@ On the other hand, this makes it challenging for the designer. Even if Natural L
 For example, for the “Report a scam” task, we initially didn’t include the word “fraud” in the training phrases. When a tester used that term, the agent couldn’t match what the user was saying to the right “intent.”
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip1-EN.mp4" type="video/mp4">
   </video>
   <details>
@@ -280,8 +280,8 @@ People don’t like to repeat themselves.
 “Intents” have to be designed in a way that allows users to give as little or as much information as they want. When the user doesn’t give much, the agent needs to ask questions to fill in the gaps. When the user says a lot, the agent needs to retain these values in context and not ask for them again.
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip3-EN.mp4" type="video/mp4">
   </video>
   <details>
@@ -364,8 +364,8 @@ Several factors were at play:
 - there wasn’t an intuitive way to group this with other contact tasks in the wizard
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip4-EN.mp4" type="video/mp4">
   </video>
   <details>
@@ -428,8 +428,8 @@ Tasks that did not perform well with conversational agents had these characteris
 - the same issue requires a different answer, depending on certain variables
 
 {::nomarkdown}
-<figure class="video_container">
-  <video controls>
+<figure>
+  <video controls class="img-responsive">
     <source src="../media/Clip5-EN.mp4" type="video/mp4">
   </video>
   <details>
