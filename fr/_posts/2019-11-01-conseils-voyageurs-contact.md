@@ -3,7 +3,7 @@ altLangPage: "/2019/11/01/tips-travel-contact"
 date:   2019-11-01
 description: "À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»."
 layout: post
-title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;»
+title:  Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»
 ---
 
 À l’hiver 2019, le Bureau de la transformation numérique (BTN) a travaillé de concert avec des équipes d’Affaires mondiales Canada (AMC) et de l’Agence du revenu du Canada (ARC) sur deux différents projets d’optimisation du contenu&nbsp;: «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’<abbr title="Agence du revenu du Canada">ARC</abbr>&nbsp;». Les deux projets concernaient des tâches que des millions de Canadiens cherchent à accomplir sur Canada.ca chaque année. Voici 4 leçons de conception de contenu qui ont contribué à accroître les taux de réussite des utilisateurs durant ces projets.
