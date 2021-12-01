@@ -1,0 +1,40 @@
+.cnt-wdth-lmtd main figure,
+.cnt-wdth-lmtd main details,
+.cnt-wdth-lmtd main .panel {
+	max-width: 65ch;
+}
+figure.gc-complex-img {
+	background-color: #fff;
+	border: 1px solid transparent;
+	border-color: #8e8e8e;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+	box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+	margin-bottom: 23px;
+	padding: 15px;
+	position: relative;
+}
+.gc-complex-img img {
+	display: block;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+}
+.gc-complex-img figcaption {
+	margin-top: 15px;
+}
+.gc-complex-img figcaption details {
+	margin-bottom: 0;
+}
+.gc-complex-img figcaption summary::after {
+	background-color: rgba(0,0,0,0);
+	bottom: 0;
+	content: "";
+	left: 0;
+	pointer-events: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+}
