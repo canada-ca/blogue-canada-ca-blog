@@ -2,7 +2,7 @@
 altLangPage: "/2021/12/07/concevoir-avec-humilite"
 date: 2021-12-07
 description: "Humility is an amazing driving force that will help you build better services."
-title: "Design with Humility"
+title: "Design with humility"
 ---
 
 Designing user-friendly digital services for people is hard work. You spend hours understanding the subject at hand, you methodically learn your craft, and you progressively get better at it. As you develop your expertise, you may find yourself thinking that you’ve seen it all. Surely the solutions you developed in previous projects will work in subsequent ones, right? 
