@@ -7,7 +7,8 @@ title: "Utiliser les données sur la réussite des tâches pour améliorer l'exp
 
 Le Secrétariat du Conseil du Trésor du Canada (SCT) et l’Éditeur principal, en collaboration avec les ministères et organismes, utilisent un **sondage sur la réussite des tâches** pour mesurer le rendement du contenu et des services Web. Les ministères peuvent employer les commentaires des utilisateurs recueillis directement par le sondage **pour améliorer le rendement du contenu des tâches principales.**
 
-Les invitations à participer au sondage sur la réussite des tâches du GC ont commencé à être publiées sur le site Canada.ca en janvier 2021. Environ 1 visiteur sur 10 est invité à contribuer des commentaires sur son expérience. S’il accepte, le sondage l’invite à :
+Les invitations à participer au sondage sur la réussite des tâches du GC ont commencé à être publiées sur le site Canada.ca en janvier 2021. Environ 1 visiteur sur 10 est invité à contribuer des commentaires sur son expérience. S’il accepte, le sondage l’invite à&nbsp;:
+
 
 - identifier la tâche qu’il est venu accomplir;
 - indiquer s’il a été en mesure d’accomplir la tâche;
