@@ -44,7 +44,8 @@ Ces changements peuvent découler de modifications particulières apportées à 
 
 Pour traiter les questions de contenu plus complexes, vous aurez peut-être besoin davantage de recherche complémentaire, d’autres outils et de la collaboration avec d’autres équipes, mais les résultats du sondage vous donneront tout de même un bon point de départ.
 
-**Communiquer les réussites** aux gérants. Vous pourrez ainsi :
+**Communiquer les réussites** aux gérants. Vous pourrez ainsi&nbsp;:
+
 
 - montrer à quel point il est important de recueillir les données et les commentaires du sondage;
 - illustrer comment ils peuvent être utilisés pour améliorer le rendement;
