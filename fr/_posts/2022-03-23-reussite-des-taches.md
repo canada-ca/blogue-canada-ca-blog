@@ -118,7 +118,8 @@ Il ne suffit pas de recueillir des commentaires. Vous devez être prêt à jouer
 Dans un contexte de priorités concurrentes, il peut être difficile de justifier l’abandon de certaines demandes au profit de la mise à jour d’un contenu Web déjà «&nbsp;approuvé&nbsp;» et «&nbsp;en ligne&nbsp;».
 
 
-Certains pourraient être tentés à se demander : « Avec des ressources limitées, pourquoi revenir sur quelque chose qui a déjà été publié? »
+Certains pourraient être tentés à se demander&nbsp;: «&nbsp;Avec des ressources limitées, pourquoi revenir sur quelque chose qui a déjà été publié?&nbsp;»
+
 
 Publier quelque chose en ligne n’est pas la fin – c’est le début. Une fois « lancé », un cycle d’amélioration continuelle commence. La beauté du Web, c’est qu’il est facile d’apporter des améliorations à mesure que les choses changent.
 
