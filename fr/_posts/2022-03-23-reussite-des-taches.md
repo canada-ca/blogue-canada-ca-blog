@@ -110,7 +110,8 @@ Lorsque tout le monde contribue à faire connaître les irritants et à apporter
 
 Il ne suffit pas de recueillir des commentaires. Vous devez être prêt à jouer un rôle avec ces changements nécessaires.
 
-Dans un contexte de priorités concurrentes, il peut être difficile de justifier l’abandon de certaines demandes au profit de la mise à jour d’un contenu Web déjà « approuvé » et « en ligne ».
+Dans un contexte de priorités concurrentes, il peut être difficile de justifier l’abandon de certaines demandes au profit de la mise à jour d’un contenu Web déjà «&nbsp;approuvé&nbsp;» et «&nbsp;en ligne&nbsp;».
+
 
 Certains pourraient être tentés à se demander : « Avec des ressources limitées, pourquoi revenir sur quelque chose qui a déjà été publié? »
 
