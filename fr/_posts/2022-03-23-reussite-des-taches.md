@@ -98,7 +98,8 @@ De nombreuses équipes n’ont pas de chef de produit ou de gestionnaire de serv
 
 Cependant, si une personne peut prendre la tête de la communication des résultats de sondage, tous les membres qui font partie de l’écosystème d’une tâche peuvent et doivent participer à sa correction ou à son amélioration.
 
-Il peut s’agir notamment des personnes suivantes :
+Il peut s’agir notamment des personnes suivantes&nbsp;:
+
 
 - responsables du service ou du produit;
 - experts en programmes ou en politiques;
