@@ -23,7 +23,8 @@ Les invitations à participer au sondage sur la réussite des tâches du GC ont 
 
 Parce qu’il se déroule en continu, le sondage sur la réussite des tâches vous permettra de suivre le rendement au fil du temps. Les résultats peuvent vous aider à identifier les problèmes simples qui peuvent être résolus avec un minimum d’effort. La résolution de ces problèmes permet à votre équipe d’acquérir des compétences pour analyser la rétroaction et y donner suite.
 
-Vous découvrirez peut-être des **problèmes courants** comme ceux-ci :
+Vous découvrirez peut-être des **problèmes courants** comme ceux-ci&nbsp;:
+
 
 - questions auxquelles il n’y a pas de réponse claire;
 - renseignements manquants;
