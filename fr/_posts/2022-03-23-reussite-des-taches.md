@@ -121,7 +121,8 @@ Dans un contexte de priorités concurrentes, il peut être difficile de justifie
 Certains pourraient être tentés à se demander&nbsp;: «&nbsp;Avec des ressources limitées, pourquoi revenir sur quelque chose qui a déjà été publié?&nbsp;»
 
 
-Publier quelque chose en ligne n’est pas la fin – c’est le début. Une fois « lancé », un cycle d’amélioration continuelle commence. La beauté du Web, c’est qu’il est facile d’apporter des améliorations à mesure que les choses changent.
+Publier quelque chose en ligne n’est pas la fin – c’est le début. Une fois «&nbsp;lancé&nbsp;», un cycle d’amélioration continuelle commence. La beauté du Web, c’est qu’il est facile d’apporter des améliorations à mesure que les choses changent.
+
 
 Le sondage sur la réussite des tâches vous donne accès aux données et aux commentaires des personnes qui utilisent vos services. Elles ont pris le temps de vous dire qu’elles avaient échoué ou qu’elles étaient devenues frustrées. Leurs propos peuvent vous aider à présenter des arguments convaincants en faveur de l’affectation de ressources précieuses pour apporter les améliorations nécessaires.
 
