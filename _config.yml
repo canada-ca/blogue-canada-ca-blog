@@ -1,4 +1,3 @@
-
 # Site settings
 analytics:
   provider: google
@@ -83,4 +82,6 @@ defaults:
         link: "https://blogue.canada.ca/"
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
 remote_theme: wet-boew/gcweb-jekyll
