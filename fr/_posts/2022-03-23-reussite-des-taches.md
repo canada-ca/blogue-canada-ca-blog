@@ -130,7 +130,8 @@ Il est important de se rappeler que l’objectif ultime de tout programme ou ser
 
 ## Mot de la fin
 
-Dedans l’écosystème d’une tâche, les équipes doivent travailler ensemble pour :
+Dedans l’écosystème d’une tâche, les équipes doivent travailler ensemble pour&nbsp;:
+
 
 - **créer un espace** pour améliorer les tâches principales;
 - **examiner et/ou communiquer régulièrement les problèmes** soulevés dans les commentaires du sondage avec les responsables du contenu et des politiques;
