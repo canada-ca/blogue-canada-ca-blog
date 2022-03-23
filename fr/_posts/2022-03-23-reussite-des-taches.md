@@ -19,7 +19,8 @@ Les invitations à participer au sondage sur la réussite des tâches du GC ont 
 
 ## Utiliser la rétroaction pour découvrir des problèmes
 
-> « La rétroaction des clients est critique afin de veiller à ce que les services répondent à leurs besoins et en favorisent l’amélioration continue. » – [Ligne directrice sur les services et le numérique](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2_2)
+> «&nbsp;La rétroaction des clients est critique afin de veiller à ce que les services répondent à leurs besoins et en favorisent l’amélioration continue.&nbsp;» – [Ligne directrice sur les services et le numérique](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ligne-directrice-services-numerique.html#ToC2_2)
+
 >
 
 Parce qu’il se déroule en continu, le sondage sur la réussite des tâches vous permettra de suivre le rendement au fil du temps. Les résultats peuvent vous aider à identifier les problèmes simples qui peuvent être résolus avec un minimum d’effort. La résolution de ces problèmes permet à votre équipe d’acquérir des compétences pour analyser la rétroaction et y donner suite.
