@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2022/03/23/task-success"
 date: 2022-03-23
-description: "Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture posi tif dans votre organisation."
+description: "Les données tirées du Sondage sur la réussite des tâches du GC peuvent contribuer à favoriser un changement de culture positif dans votre organisation."
 title: "Utiliser les données sur la réussite des tâches pour améliorer l'expérience des utilisateurs"
 ---
 
