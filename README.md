@@ -2,12 +2,12 @@
 
 ([Français](#Blogue-Canada.ca))
 
-## Blog Canada[dot]ca
+## Blog Canada\.ca
 
 A repository set as the [Canada.ca blog](https://blog.canada.ca).
 This repository deploys automatically to Netlify.
 The DTO team is tasked to update and maintain the blog.
-The Canada[dot]ca blog showcase evidence and insights about design research from the Canada[dot]ca team.
+The Canada\.ca blog showcase evidence and insights about design research from the Canada\.ca team.
 
 ### How to Contribute
 
@@ -25,12 +25,12 @@ ______________________
 
 ([English](#Blog-Canada.ca))
 
-# Blogue Canada[point]ca
+# Blogue Canada\.ca
 
 Un repo configuré en tant que le [blogue de Canada.ca](https://blogue.canada.ca).
 Ce repo se déploie automatiquement sur Netlify.
 L'équipe de la BTN est chargée de mettre à jour et de maintenir le blog.
-Le blogue Canada[point]ca présente des preuves et les idées sur la recherche en conception de l'équipe Canada[point]ca.
+Le blogue Canada\.ca présente des preuves et les idées sur la recherche en conception de l'équipe Canada\.ca.
 
 ### Comment contribuer
 
