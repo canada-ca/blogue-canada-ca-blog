@@ -1,15 +1,15 @@
 # Site settings
 analytics:
-  provider: google
+  provider: google-gtag
   google:
-    tracking_id: UA-105628416-1
+    tracking_id: GTM-KMVB8C2
 author:
   en: Digital Transformation Office
   fr: Bureau de la transformation numérique
 baseurl: ""
 description:
   en: Evidence and insights from the Canada.ca team.
-  fr: Validations et perspectives de l’équipe Canada.ca.
+  fr: Validations et perspectives de l'équipe Canada.ca.
 language:
   en: English
   fr: Français
