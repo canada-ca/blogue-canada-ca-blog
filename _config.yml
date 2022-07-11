@@ -2,7 +2,7 @@
 analytics:
   provider: google
   google:
-    tracking_id: UA-105628416-1
+    tracking_id: 272162834
 author:
   en: Digital Transformation Office
   fr: Bureau de la transformation numérique
