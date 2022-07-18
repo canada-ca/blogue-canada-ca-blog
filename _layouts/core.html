@@ -18,11 +18,11 @@
 {% include analytics.html %}
 </head>
 <body {% if page.pageclass %}class="{{ page.pageclass }}" {% endif %}vocab="http://schema.org/" typeof="WebPage">
-{%- if page.pageType == "archived" -%}
+{%- if page.archived -%}
 	{% include headers-includes/archive.html %}
 {%- endif -%}
 {% include sites/inc-skiplinks.html %}
-{% include headers-includes/header.html %}
+{% include header/header.html %}
 {{ content }}
 {% include footers/footer.html %}
 {% include resources-inc/footer.html %}
