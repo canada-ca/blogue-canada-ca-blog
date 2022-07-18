@@ -74,7 +74,7 @@ The first version was correct, but we needed to introduce a little doubt to get 
 
 ## 8. Good service relies on good measurements
 
-<blockquote><pSuccessfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
+<blockquote><p>Successfully improving a service relies on understanding the pain points and empathizing with citizens who are trying to complete a task.</p>
 <p>Making sure you’re tracking useful metrics is the only way to make sure you can provide good service.</p>
 <p>Don’t measure success with volumetrics. Measure with conversions, rejected applications or form errors. Don’t measure success with the number of calls. Track the change in callers with the same issues after a change in web content. Track the outcome of moving people to online service from paper filing.</p>
 <p>Instrumental to successful task optimization is measuring the performance ahead of time, so that you can focus your experiment on the changes that will make the biggest difference.”</p>
