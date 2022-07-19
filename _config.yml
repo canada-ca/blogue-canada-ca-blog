@@ -19,6 +19,8 @@ title:
 urlalt:
   en: https://blog.canada.ca
   fr: https://blogue.canada.ca
+webmaster_verifications:
+  google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
 
 # Files excluded from Jekyll builds
 exclude:

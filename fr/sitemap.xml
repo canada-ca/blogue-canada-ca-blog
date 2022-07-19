@@ -15,7 +15,7 @@ sitemap:
       {% else %}
         <dateModified>{{ post.dateModified | date: "%F" }}</dateModified>
       {%- endif -%}
-      <changefreq>{{ locales.weekly }}</changefreq>
+      <changefreq>{{ locales.weekly[ post.lang ] }}</changefreq>
       <priority>1.0</priority>
     </url>
     {%- endif -%}
