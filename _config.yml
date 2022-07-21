@@ -50,17 +50,20 @@ defaults:
       path: ""
       type: "posts"
     values:
+      image: true
       layout: "post"
       pageclass: "cnt-wdth-lmtd"
   -
     scope:
       path: "en/"
     values:
+      css: "../../../blog.css"
       lang: "en"
   -
     scope:
       path: "fr/"
     values:
+      css: "../../../blogue.css"
       lang: "fr"
   -
     scope:

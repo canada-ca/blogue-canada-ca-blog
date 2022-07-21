@@ -2,15 +2,8 @@
 altLangPage: "/2022/04/01/nouvelle-conception"
 date: 2022-04-01
 description: "We’ve heard you #GCDigital. Canada.ca is getting a brand-new design!"
-image:
-  path: ../../../../images/thumbs/2022-04-01.png
-title: "New design update for Canada.ca"
+title: "April Fool's: New design update for Canada.ca"
 ---
-
-<section class="alert alert-info">
-  <h3>Info alert</h3>
-  <p>This article was an April Fool’s hoax and does not contain real design recommendations.</p>
-</section>
 
 Tired of the simple, minimalist (aka ‘boring”) design of Canada.ca? Fear not! We’ve heard you #GCDigital. Canada.ca is getting a brand-new design!
 
