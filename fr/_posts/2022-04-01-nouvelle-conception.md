@@ -2,8 +2,8 @@
 altLangPage: "/2022/04/01/new-design"
 date: 2022-04-01
 description: "Nous vous avons entendu #GCNumérique. Le site Canada.ca a une toute nouvelle conception!"
-image: "https://d33wubrfki0l68.cloudfront.net/350676decbdf47d1db6881ffe6c42e6c22e99a48/c9a5e/images/thumbs/2022-04-01.png"
-locale: "fr-CA"
+image:
+  path: "../../../../images/thumbs/2022-04-01.png"
 title: "Mise à jour de la conception du site Canada.ca"
 ---
 
