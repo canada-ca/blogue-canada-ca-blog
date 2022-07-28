@@ -37,11 +37,17 @@
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif -%}
 <meta property="og:locale" content='{{ page.lang | append: '_CA' }}' />
-{%- if site.url -%}
-<meta property="og:url" content="{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}" />
-{%- endif -%}
+<meta property="og:url" content="{{ site.urlalt[ page.lang ] }}{{ page.url | remove_first: '/' | remove_first: page.lang }}" />
 {%- if page.image -%}
-<meta property="og:image" content="{{ page.image.path }}" />
+	{%- capture ogimage -%}/images/thumbs/{{ page.date | date: "%F" | append: "-og" }}.png{%- endcapture -%}
+	{%- assign file_exists = site.static_files | where: "path", ogimage -%}
+	{%- if file_exists.size != 0 -%}
+<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage }}" />
+<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage }}" />
+	{%- else -%}
+<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+	{%- endif -%}
 	{%- if page.image.height -%}
 <meta property="og:image:height" content="{{ page.image.height }}" />
 	{%- endif -%}
@@ -52,7 +58,6 @@
 <meta property="og:image:alt" content="{{ page.image.alt }}" />
 	{%- endif -%}
 <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
-<meta property="twitter:image" content="{{ page.image.path }}" />
   {%- else -%}
 <meta name="twitter:card" content="summary" />
 {%- endif -%}

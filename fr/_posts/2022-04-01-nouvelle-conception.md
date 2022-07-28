@@ -2,15 +2,8 @@
 altLangPage: "/2022/04/01/new-design"
 date: 2022-04-01
 description: "Nous vous avons entendu #GCNumérique. Le site Canada.ca a une toute nouvelle conception!"
-image:
-  path: "../../../../images/thumbs/2022-04-01.png"
-title: "Mise à jour de la conception du site Canada.ca"
+title: "Poisson d'avril : Mise à jour de la conception du site Canada.ca"
 ---
-
-<section class="alert alert-info">
-  <h2>Alerte d'information</h2>
-  <p>Cet article est un canular du poisson d’avril et ne contient pas de véritables recommandations de conception.</p>
-</section>
 
 Vous en avez assez de la conception simple et minimaliste (autrement dit «&nbsp;ennuyeuse&nbsp;») du site Canada.ca? Ne craignez point! Nous vous avons entendu #GCNumérique. Le site Canada.ca adopte une toute nouvelle conception!
 
