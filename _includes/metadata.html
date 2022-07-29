@@ -33,17 +33,17 @@
 <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
 
 {%- if page.title -%}
-<meta property="og:title" content="{{ page.title | append: " | " | append: site.title[ page.lang ] }}" />
+<meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif -%}
 <meta property="og:locale" content='{{ page.lang | append: '_CA' }}' />
 <meta property="og:url" content="{{ site.urlalt[ page.lang ] }}{{ page.url | remove_first: '/' | remove_first: page.lang }}" />
 {%- if page.image -%}
-	{%- capture ogimage -%}/images/thumbs/{{ page.date | date: "%F" | append: "-og" }}.png{%- endcapture -%}
+	{%- capture ogimage -%}{{ page.lang | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
 	{%- assign file_exists = site.static_files | where: "path", ogimage -%}
-	{%- if file_exists.size != 0 -%}
-<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage }}" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage }}" />
+	{%- if file_exists[0].path -%}
+<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
+<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
 	{%- else -%}
 <meta property="og:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
 <meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
