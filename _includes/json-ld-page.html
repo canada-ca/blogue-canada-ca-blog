@@ -6,11 +6,13 @@
         {% if page.description %}"description": "{{ page.description[ page.lang ] }}",{% endif %}
         {% if page.author or site.author %}"author":
             {
-                "@type": "Person",
+                "@type": "{% if page.author %}Person{% else %}Organization{% endif %}",
                 "name": "{% if page.author %}{{ page.author[ page.lang ] }}{% else %}{{ site.author[ page.lang ] }}{% endif %}"
-            },{% endif %}
+            },
+        {%- endif -%}
         {% if page.date %}"dateCreated": "{{ page.date }}",{% endif %}
-        {%- unless page.pageclass contains "home" or page.breadcrumbs == false -%}"breadcrumb":
+        {%- unless page.pageclass contains "home" or page.breadcrumbs == false -%}
+		"breadcrumb":
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
@@ -22,19 +24,19 @@
                             "@id": "{{ i18nText-homePage }}",
                             "name": "{{ i18nText-home }}"
                         }
-                    }
+                    },
                 {% for breadcrumb in page.breadcrumbs %}
                     {
                         "@type": "ListItem",
                         "position": {{ forloop.index | plus: 1 }},
                         "item": {
                             "@type": "{% if breadcrumb.type %}{{ breadcrumb.type }}{% else %}WebPage{% endif %}",
-                            "@id": "{{ site.url }}{{ site.baseurl }}{% if breadcrumb.url == 'page.url' %}{{ page.url }}{% else %}{{ breadcrumb.url }}{% endif %}",
-                            "name": "{% if breadcrumb.title == 'page.title' %}{{ page.title }}{% else %}{{ breadcrumb.title }}{% endif %}"
+                            "@id": "{{ breadcrumb.link | relative_url }}",
+                            "name": "{{ breadcrumb.title }}"
                         }
                     }{% unless forloop.last %},{% endunless %}
                 {% endfor %}]
             },{% endunless %}
-        "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+        "url": "{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}"
     }
 </script>

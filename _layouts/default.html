@@ -11,8 +11,8 @@ layout: core
 		Page untitled
 	{%- endif -%}
 {%- endcapture -%}
-	<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
-		<h1 class="gc-thickline" id="wb-cont" property="name">{{ page-title }}</h1>
+	<main class="container" property="mainContentOfPage" resource="#wb-main" typeof="{% if page.layout == "post" %}Blog{% else %}WebPageElement{%  endif %}">
+		<h1 class="gc-thickline" id="wb-cont" property="name{% if page.layout == "post" %} headline{% endif %}">{{ page-title }}</h1>
 		{{ content }}
 		{% include page-details/footer.html %}
 	</main>

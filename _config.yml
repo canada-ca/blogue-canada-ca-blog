@@ -14,8 +14,8 @@ language:
   en: English
   fr: Français
 title:
-  en: Canada.ca Blog
-  fr: Blogue de Canada.ca
+  en: Canada.ca digital design blog
+  fr: Blogue de conception numérique du Canada.ca
 urlalt:
   en: https://blog.canada.ca
   fr: https://blogue.canada.ca
@@ -57,13 +57,13 @@ defaults:
     scope:
       path: "en/"
     values:
-      css: "../../../blog.css"
+      css: "https://blog.canada.ca/blog.css"
       lang: "en"
   -
     scope:
       path: "fr/"
     values:
-      css: "../../../blogue.css"
+      css: "https://blogue.canada.ca/blogue.css"
       lang: "fr"
   -
     scope:
@@ -75,6 +75,7 @@ defaults:
         link:  "https://www.canada.ca/en/government/about.html"
       - title: Canada.ca blog
         link: "https://blog.canada.ca/"
+        type: "Blog"
   -
     scope:
       path: "fr/"
@@ -85,6 +86,7 @@ defaults:
         link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
       - title: Blogue de Canada.ca
         link: "https://blogue.canada.ca/"
+        type: "Blog"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
