@@ -44,13 +44,12 @@ Comme vous pouvez l'imaginer, il est difficile de créer rapidement du contenu W
 
 Bien que le langage clair et simple soit toujours une priorité absolue, l'équipe Web des T.N.-O. a également constaté que les images peuvent aider à améliorer la compréhension d'autres langues. Toutefois, dans les régions éloignées où les forfaits de données coûtent cher et où les vitesses de téléchargement peuvent être très lentes, les images peuvent créer un problème d'accessibilité. Pour régler le problème, l'équipe Web utilisent des illustrations plutôt que des photos. Le fait d'utiliser une résolution plus faible réduit la taille des fichiers et diminue le temps de chargement.
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/NWT-image2.png">
-</figure>
-<details>
-  <summary>Capture d'écran de la publicité illustrée des T.N.-O. dans les médias sociaux</summary>
-  <p>Capture d'écran d'une vidéo d'information sur les mesures de prévention COVID-19 produite par les T.N.-O. en utilisant un style d'illustration à faible largeur de bande.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/NWT-image2.png"
+   summary="Capture d'écran de la publicité illustrée des T.N.-O. dans les médias sociaux"
+   content="<p>Capture d'écran d'une vidéo d'information sur les mesures de prévention COVID-19 produite par les T.N.-O. en utilisant un style d'illustration à faible largeur de bande.</p>"
+%}
 
 Tout au long de la pandémie, les publicités illustrées dans les médias sociaux des T.N.-O. (comme Facebook et Instagram) ont porté sur le changement de comportement, l'hygiène générale et certaines ordonnances de santé publique.
 

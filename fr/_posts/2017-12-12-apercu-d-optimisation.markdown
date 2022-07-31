@@ -21,19 +21,20 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 
 ## Méthodologie pour l’amélioration de la réussite des tâches
 
-<figure>
-	<img class="img-responsive" alt="Comment nous optimisions le site Canadapointca - des détails suivent" src="/images/process/optimization-process-FR.png">
-	<figcaption>
-		<p>Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne&nbsp;:</p>
+{% include components/gc-complex-img.html
+	 alt="Comment nous optimisions le site Canadapointca - des détails suivent."
+	 file="/images/process/optimization-process-FR.png"
+	 caption="<p>Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne&nbsp;:</p>
 		<ol>
 			<li><b>Recherche de découvertes</b>&nbsp;: collecte et synthèse des éléments probants existants pour les transformer en idées et hypothèses dans le but de produire des scénarios pour l’essai de validation </li>
 			<li><b>Essais de base</b>: essais de facilité d’emploi dirigés avec des Canadiens qui naviguent des scénarios sur le site Web existant </li>
 			<li><b>Conception et prototypage</b>&nbsp;: sprints tenus afin de concevoir, d’élaborer et de mettre à l’essai de manière itérative un site Web prototype visant à résoudre les problèmes rencontrés pendant l’étape de la découverte et des essais de base</li>
 			<li><b>Essais de validation</b>&nbsp;: l’essai de validation (essai de facilité d’emploi) est répété sur le nouveau site prototype avec un groupe différent mais semblable de participants canadiens</li>
 			<li><b>Lancement des prototypes</b>&nbsp;: si l’essai de validation indique une amélioration visible, alors il faut intégrer et publier les aspects réussis des prototypes aussitôt que possible.</li>
-		</ol>
-	</figcaption>
-</figure>
+		</ol>"
+	 summary=""
+	 content=""
+%}
 
 ## Les groupes de travail multidisciplinaires ont un meilleur taux de réussite
 

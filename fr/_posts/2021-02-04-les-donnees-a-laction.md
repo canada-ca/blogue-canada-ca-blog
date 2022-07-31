@@ -30,47 +30,46 @@ Les données de l'analytique nous ont poussés à procéder à cet ajustement si
 
 Pour gérer une page contenant un grand nombre de liens, il convient d'examiner les taux de clics.
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/click-2.png">
-</figure>
-<details>
-  <summary>Taux de clics sur Canada.ca/Coronavirus du 1er au 30 janvier 2020.</summary>
-  <table>
-    <tr>
-      <th>Label</th>
-      <th>Taux de clics</th>
-    </tr>
-    <tr>
-      <td>Canada.ca </td>
-      <td>593</td>
-    </tr>
-    <tr>
-      <td>Mise à jour de l'éclosion de COVID-19</td>
-      <td>19,184</td>
-    </tr>
-    <tr>
-      <td>Dernières annonces</td>
-      <td>7,607</td>
-    </tr>
-    <tr>
-      <td>Obtenir les nouvelles par courriel</td>
-      <td>603</td>
-    </tr>
-    <tr>
-      <td>Recherches et données épidémiologiques et économiques </td>
-      <td>1,140</td>
-    </tr>
-    <tr>
-      <td>Réponse du Canada</td>
-      <td>421</td>
-    </tr>
-    <tr>
-      <td>TendancesCOVID</td>
-      <td>245</td>
-    </tr>
-  </table>
-</details>
-
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/click-2.png"
+   caption=""
+   summary="Taux de clics sur Canada.ca/Coronavirus du 1er au 30 janvier 2020."
+   content="<table>
+  <tr>
+    <th>Label</th>
+    <th>Taux de clics</th>
+  </tr>
+  <tr>
+    <td>Canada.ca </td>
+    <td>593</td>
+  </tr>
+  <tr>
+    <td>Mise à jour de l'éclosion de COVID-19</td>
+    <td>19,184</td>
+  </tr>
+  <tr>
+    <td>Dernières annonces</td>
+    <td>7,607</td>
+  </tr>
+  <tr>
+    <td>Obtenir les nouvelles par courriel</td>
+    <td>603</td>
+  </tr>
+  <tr>
+    <td>Recherches et données épidémiologiques et économiques </td>
+    <td>1,140</td>
+  </tr>
+  <tr>
+    <td>Réponse du Canada</td>
+    <td>421</td>
+  </tr>
+  <tr>
+    <td>TendancesCOVID</td>
+    <td>245</td>
+  </tr>
+</table>"
+%}
 
 La page d'accueil Canada.ca/coronavirus est la page de référence pour tout ce qui concerne les voyages, les aides financières et la vaccination. Il fallait trouver une stratégie pour que la page reste simple et efficace.
 
@@ -88,14 +87,13 @@ L'examen du taux de clics peut également vous aider à rendre le texte de vos l
 
 Depuis juillet, le BTN met à l'essai des façons d'obtenir des commentaires de la part des visiteurs sur certaines tâches principales liées à la COVID-19. Nous avons expérimenté un nouvel outil qui invite les visiteurs à donner leur avis par écrit au moment d'accomplir une tâche. Ces données peuvent vous apporter de précieux renseignements sur les contrariétés courantes des utilisateurs et les contenus manquants.
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/feedback-3.png">
-</figure>
-<details>
-  <summary>Le widget de rétroaction sur la page</summary>
-  <p>Le composant de rétroaction de la page se trouve au bas des principales pages web. Il affiche la question "Avez-vous trouvé ce que vous cherchiez ?" et propose un bouton "oui" et un bouton "non".</p>
-</details>
-
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/feedback-3.png"
+   caption=""
+   summary="Le widget de rétroaction sur la page"
+   content="<p>Le composant de rétroaction de la page se trouve au bas des principales pages web. Il affiche la question &quot;Avez-vous trouvé ce que vous cherchiez ?&quot; et propose un bouton &quot;oui&quot; et un bouton &quot;non&quot;.</p>"
+%}
 
 En décembre 2020, lorsque Santé Canada a approuvé le premier vaccin contre la COVID-19, nous avons ajouté l'outil de rétroaction au bas des pages sur le vaccin.
 
@@ -107,32 +105,30 @@ Les commentaires que nous avons reçus ont immédiatement mis en évidence un co
 
 Entre le 11 et le 14 décembre, 60&nbsp;% (87/144) des commentaires portaient sur la composition et les allergies. Devant ce constat, Santé Canada a ajouté la liste des ingrédients à la page le 14 décembre. Les commentaires sur les ingrédients de la page «&nbsp;Vaccin de Pfizer-BioNTech contre la COVID-19&nbsp;: Ce que vous devez savoir&nbsp;» sont passés de 35 à 2 par jour, après la publication de la liste des ingrédients par Santé Canada.
 
-
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/action-2.PNG">
-</figure>
-<details>
-<summary>Retour d'information sur la liste des ingrédients</summary>
-  <table>
-    <tr>
-      <th>Date</th>
-      <th>Nombre de commentaires sur les ingrédients et les allergies</th>
-    </tr>
-    <tr>
-      <td>13 décembre 2020</td>
-      <td>35</td>
-    </tr>
-    <tr>
-      <td>14 décembre 2020</td>
-      <td>16</td>
-    </tr>
-    <tr>
-      <td>15 décembre 2020</td>
-      <td>2</td>
-    </tr>
-  </table>
-</details>
-
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/action-2.PNG"
+   caption=""
+   summary="Retour d'information sur la liste des ingrédients"
+   content="<table>
+  <tr>
+    <th>Date</th>
+    <th>Nombre de commentaires sur les ingrédients et les allergies</th>
+  </tr>
+  <tr>
+    <td>13 décembre 2020</td>
+    <td>35</td>
+  </tr>
+  <tr>
+    <td>14 décembre 2020</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>15 décembre 2020</td>
+    <td>2</td>
+  </tr>
+</table>"
+%}
 
 ### Utiliser la rétroaction pour apporter des améliorations itératives
 

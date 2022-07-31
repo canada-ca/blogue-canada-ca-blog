@@ -39,32 +39,29 @@ Notre objectif pour cette étude pilote était ce qui suit&nbsp;:
 
 L'éditeur principal à Service Canada a conçu le widget. En l'intégrant dans les pages, les ministères peuvent recueillir les commentaires qualitatifs et quantitatifs des Canadiens.
 
-<figure>
-<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/feedback-3.png" >
-</figure>
-<details>
-<summary>Le widget de rétroaction sur la page</summary>
-<p>Le widget affiche la question&nbsp;: «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et propose des options oui et non.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/feedback-3.png"
+   caption=""
+   summary="Le widget de rétroaction sur la page"
+   content="<p>Le widget affiche la question&nbsp;: «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et propose des options oui et non.</p>"
+%}
 
-<figure>
-<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/feedback-4.png" >
-</figure>
-<details>
-<summary>Écran suivant de le widget de rétroaction sur la page</summary>
- <p>Lorsque les utilisateurs choisissent «&nbsp;non&nbsp;», on leur demande «&nbsp;Qu'est-ce qui n'allait pas?&nbsp;» et on leur donne les options suivantes&nbsp;:</p>
- <ul>
-<li>La réponse dont j'ai besoin n'est pas là</li>
-<li>L'information n'est pas claire</li>
-<li>Je ne suis pas au bon endroit</li>
-<li>Quelque chose est brisé ou incorrect</li>
-<li>Autre raison</li>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/feedback-4.png"
+   caption=""
+   summary="Écran suivant de le widget de rétroaction sur la page"
+   content="<p>Lorsque les utilisateurs choisissent «&nbsp;non&nbsp;», on leur demande «&nbsp;Qu'est-ce qui n'allait pas?&nbsp;» et on leur donne les options suivantes&nbsp;:</p>
+<ul>
+  <li>La réponse dont j'ai besoin n'est pas là</li>
+  <li>L'information n'est pas claire</li>
+  <li>Je ne suis pas au bon endroit</li>
+  <li>Quelque chose est brisé ou incorrect</li>
+  <li>Autre raison</li>
  </ul>
-<p>En sélectionnant «&nbsp;autre raison&nbsp;», ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>
-</details>
-
+<p>En sélectionnant «&nbsp;autre raison&nbsp;», ils affichent un champ de texte libre où ils peuvent fournir plus de détails, avec la consigne de ne pas inclure d'informations personnelles.</p>"
+%}
 
 ## Traitement de la rétroaction
 
@@ -89,45 +86,45 @@ En date du 10 juin, nous avions reçu 5083 réponses par le biais des 2 pages pi
 
 Lorsque les gens ont répondu qu'ils n'avaient pas trouvé ce qu'ils cherchaient, leurs réponses concernant ce qui n'allait pas nous ont donné une idée des principaux problèmes de convivialité sur les pages.
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/feedback-graph-3.png">
-</figure>
-<details>
-  <summary>Résultats de l'analyse des boutons radio.</summary>
-  <h3>Qu'est-ce qui n'allait pas?</h3>
-  <ul>
-    <li>La réponse dont j'ai besoin n'est pas là</li>
-    <li>Aucune raison invoquée</li>
-    <li>Autre raison</li>
-    <li>L'information n'est pas claire</li>
-    <li>Je ne suis pas au bon endroit</li>
-    <li>Quelque chose est brisé ou incorrect</li>
-  </ul>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/feedback-graph-3.png"
+   caption=""
+   summary="Résultats de l'analyse des boutons radio."
+   content="<h3>Qu'est-ce qui n'allait pas?</h3>
+<ul>
+  <li>La réponse dont j'ai besoin n'est pas là</li>
+  <li>Aucune raison invoquée</li>
+  <li>Autre raison</li>
+  <li>L'information n'est pas claire</li>
+  <li>Je ne suis pas au bon endroit</li>
+  <li>Quelque chose est brisé ou incorrect</li>
+</ul>"
+%}
 
 Sur les 1015 personnes qui ont répondu à «&nbsp;ce qui n'allait pas&nbsp;», 782 (77&nbsp;%) ont utilisé la zone de texte pour fournir plus de détails dans leurs propres mots sur ce qui ne fonctionnait pas.
 
 Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée des éléments qui causaient des problèmes aux gens pendant leur visite. Les spécialistes du contenu ont ensuite examiné la rétroaction pour en saisir l'intention et les causes détaillées de la frustration.
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/feedback-graph-4.png">
-</figure>
-<details>
-  <summary>Résultats de l'analyse des textes ouverts.</summary>
-  <h3>Les 10 premiers thèmes référencés</h3>
-  <ul>
-    <li>Symptômes</li>
-    <li>Activités autorisées</li>
-    <li>Dépistage</li>
-    <li>Transmission</li>
-    <li>Isolement en quarantaine auto-isolement</li>
-    <li>Traitement</li>
-    <li>Lieux de travail</li>
-    <li>Soutien financier</li>
-    <li>Populations vulnérables</li>
-    <li>EPI</li>
-  </ul>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/feedback-graph-4.png"
+   caption=""
+   summary="Résultats de l'analyse des textes ouverts."
+   content="<h3>Les 10 premiers thèmes référencés</h3>
+<ul>
+  <li>Symptômes</li>
+  <li>Activités autorisées</li>
+  <li>Dépistage</li>
+  <li>Transmission</li>
+  <li>Isolement en quarantaine auto-isolement</li>
+  <li>Traitement</li>
+  <li>Lieux de travail</li>
+  <li>Soutien financier</li>
+  <li>Populations vulnérables</li>
+  <li>EPI</li>
+</ul>"
+%}
 
 Ce détail a permis à Santé Canada et à l'ASPC de réaliser ce qui suit&nbsp;:
 * répartir les efforts en fonction de la fréquence à laquelle des commentaires semblables revenaient;

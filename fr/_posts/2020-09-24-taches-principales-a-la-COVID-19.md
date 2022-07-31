@@ -39,12 +39,11 @@ Principaux résultats (25&nbsp;% des votes), 7 principales tâches sur Canada.ca
 6. Dernières mises à jour;
 7. Stratégie du gouvernement.
 
-<figure>
-  <img class="img-responsive border" alt="Un graphique circulaire montre que 7 tâches ont reçu les 25&nbsp;% de votes les plus importants. Le graphique montre que les 25&nbsp;% de votes suivants ont été répartis sur 11 tâches, puis 18 tâches et les 25&nbsp;% de votes finaux ont été répartis sur 42 tâches." src="/images/top-task.png">
-</figure>
-<details>
-  <summary>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</summary>
-  <h3>Sélectionnez jusqu'à 5 tâches / ressources qui sont les PLUS IMPORTANTES pour vous lorsque vous interagissez avec le gouvernement du Canada.</h3>
+{% include components/gc-complex-img.html
+   alt="Un graphique circulaire montre que 7 tâches ont reçu les 25&nbsp;% de votes les plus importants. Le graphique montre que les 25&nbsp;% de votes suivants ont été répartis sur 11 tâches, puis 18 tâches et les 25&nbsp;% de votes finaux ont été répartis sur 42 tâches."
+   file="/images/top-task.png"
+   summary="Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais)."
+   content="<h3>Sélectionnez jusqu'à 5 tâches / ressources qui sont les PLUS IMPORTANTES pour vous lorsque vous interagissez avec le gouvernement du Canada.</h3>
   <ol>
     <li>Soutien financier, prestations pour les personnes et les familles (admissibilité, disponibilité, formation)</li>
     <li>Questions d'argent, finances personnelles, épargne, pensions</li>
@@ -53,9 +52,8 @@ Principaux résultats (25&nbsp;% des votes), 7 principales tâches sur Canada.ca
     <li>Vaccin (développement, disponibilité, sécurité)</li>
     <li>Dernières nouvelles, dernières recherches (alertes, directives, mises à jour)</li>
     <li>Stratégie du gouvernement (contrôle à long terme, sortie de confinement, transition, redémarrage de l'économie)</li>
-  </ol>
-</details>
-
+  </ol>"
+%}
 
 #### Examiner de plus près les résultats
 

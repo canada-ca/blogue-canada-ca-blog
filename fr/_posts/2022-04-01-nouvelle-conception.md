@@ -27,9 +27,10 @@ N’aimez-vous pas faire défiler des pages et des pages d’information pour tr
 
 ### Graphiques accrocheurs
 
-<figure>
-  <img class="img-responsive border" alt="Le gros chat paresseux beige avec une télécommande de télévision et un cornet de glace dans ses pattes se repose sur un canapé rose à la maison." src="/images/2022-04-01b.PNG" >
-</figure>
+{% include components/gc-simple-img.html
+   alt="Le gros chat paresseux beige avec une télécommande de télévision et un cornet de glace dans ses pattes se repose sur un canapé rose à la maison."
+   file="/images/2022-04-01b.PNG"
+%}
 
 Nous révisons également les directives sur les images décoratives. Mettez ces chiots partout! Littéralement. Des chats aussi. Les gens aiment les animaux, ce qui signifie qu’ils ne seront pas aussi frustrés de ne pas pouvoir atteindre leur but. De plus, plus les utilisateurs passent de temps sur notre site, mieux c’est! Même si c’est parce qu’ils attendent que la page se télécharge. Cela compte comme pour plus de «&nbsp;temps passé sur la page&nbsp;» quand vous faites vos rapports d'analyse. N’oubliez pas le texte de remplacement bilingue pour que les gens qui ont recours aux technologies d’assistance ne ratent pas l’occasion de savoir qu’il y a un mème de «&nbsp;Misty le chat tigré qui tombe de la télé&nbsp;» [traduction]!
 
@@ -37,9 +38,10 @@ L’ajout considérable d’éléments graphiques pourrait faire en sorte que le
 
 ### Des tonnes d’alertes
 
-<figure>
-  <img class="img-responsive border" alt="Collection de symboles de danger" src="/images/2022-04-01a.PNG" >
-</figure>
+{% include components/gc-simple-img.html
+   alt="Collection de symboles de danger"
+   file="/images/2022-04-01a.PNG"
+%}
 
 Il est important que les utilisateurs puissent voir les renseignements les plus importants sur chaque page, alors ajoutez des alertes! Nous encourageons l’affichage de plusieurs alertes de différentes couleurs au haut des pages. Envisagez d’utiliser le nouveau modèle «&nbsp;Alerte à effet arc-en-ciel&nbsp;» et d’ajouter au moins une alerte par couleur. Nous pensons que l’ordre des couleurs ROJVBIV semble excellent, mais faites ce que vous voulez!
 

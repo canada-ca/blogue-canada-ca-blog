@@ -15,7 +15,13 @@ Les pages de sujets ont une mise en page uniforme fondée sur un modèle de page
 
 La page de sujet Lancer une entreprise utilisait le modèle normalisé au début du travail de l’équipe d’Optimisation&nbsp;:
 
-<img class="img-responsive" alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard" src="/images/Sujet_lancer_Oct2016_567x573.png">
+{% include components/gc-simple-img.html
+	 alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard."
+	 file="/images/Sujet_lancer_Oct2016_567x573.png"
+	 caption=""
+	 summary=""
+	 content=""
+%}
 
 ## Partager les maux de tête des entrepreneurs en démarrage au Canada
 
@@ -35,7 +41,11 @@ Une fois que nous avons trouvé un équilibre avec un ensemble d’étapes qui s
 D’abord, nous avons ajouté des numéros et avons modifié l’en-tête pour indiquer «&nbsp;Étapes&nbsp;». Cela nous a aidés, mais nous avons remarqué que les nouveaux participants étaient toujours désorientés; alors nous avons retiré les liens «&nbsp;Ce que nous faisons&nbsp;» de la page, et nous avons mis les étapes dans une seule colonne verticale. Nous avons trouvé qu’une liste d’une seule colonne était plus facile à parcourir rapidement et indiquait mieux la séquence.
 
 La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fonctionnel définitif - [Version en direct de la page de sujet Lancer une entreprise dans le site Canada.ca](https://www.canada.ca/fr/services/entreprises/lancer.html)
-<img class="img-responsive" alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo" src="/images/Sujet_lancer_Aout2017_599x494.png">
+
+{% include components/gc-simple-img.html
+	 alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo"
+	 file="/images/Sujet_lancer_Aout2017_599x494.png"
+%}
 
 ## Résultats améliorés pour les Canadiens qui lancent une entreprise
 

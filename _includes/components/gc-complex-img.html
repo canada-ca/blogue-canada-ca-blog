@@ -1,0 +1,16 @@
+<figure class="gc-complex-img" role="group">
+	<img alt="{{ include.alt }}" src="{{ include.file }}">
+	<figcaption>
+		{%- if include.summary -%}
+			{%- if include.caption != "" -%}
+		<small>{{ include.caption }}</small>
+			{%- endif -%}
+		<details>
+			<summary>{{ include.summary }}</summary>
+			{{ include.content }}
+		</details>
+		{%- elsif include.caption -%}
+		<small>{{ include.caption }}</small>
+		{%- endif -%}
+	</figcaption>
+</figure>

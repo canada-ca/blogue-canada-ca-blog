@@ -4,15 +4,6 @@ date: 2019-11-01
 description: "In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the CRA. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year."
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 ---
-<style>
-  figcaption {
-    font-size: 17px !important;
-    line-height: 1.5;
-    max-width: 80ch;
-    padding-bottom: 10px;
-    padding-top: 5px;
-  }
-</style>
 
 In the winter of 2019, the Digital Transformation Office (DTO) worked with teams from Global Affairs Canada (GAC) and the Canada Revenue Agency (CRA) on two separate optimization projects: Travel advice and advisories and Contact the <abbr title="Canada Revenue Agency">CRA</abbr>. Both involved top tasks that millions of Canadians seek to complete on Canada.ca each year. Here are 4 content design lessons that helped increase user success for these projects.
 
@@ -26,17 +17,12 @@ In the prototype we made changes to the navigation layer pages and created a web
 
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
-<figure>
-  <img class="img-responsive" alt="Brochure publications redesigned as web content."
- src="/images/tips-travel-contact/brochure-to-web-content.png"/>
-</figure>
-
-<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
-  <summary>
-  Detailed description
-  </summary>
-  <p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text "Planning your trip". A cut-away of the Planning your trip page has the link text, "Before you go." A cut-away of the Before you go page shows the checklist content.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Brochure publications redesigned as web content."
+   file="/images/tips-travel-contact/brochure-to-web-content.png"
+   summary="Detailed description"
+   content="<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text &quot;Planning your trip&quot;. A cut-away of the Planning your trip page has the link text, &quot;Before you go.&quot; A cut-away of the Before you go page shows the checklist content.</p>"
+%}
 
 ## 2. Create a clear scent of information
 
@@ -53,17 +39,13 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 
 [Canada.ca content style guide - Start with the most important information](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc9)
 
-<figure>
-  <img class="img-responsive" alt="Before and after web page for travel risks."
-  src="/images/tips-travel-contact/travel-risks.png"/>
-  <figcaption><small>Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information.</small></figcaption>
-</figure>
-
-
-<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
-  <summary>Detailed description</summary>
-  <p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the "tabs" as expand/collapse fields. The Natural Disasters "tab" is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first "tab" - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, "Exercise normal security precautions." Immediately below is the Important points heading. The first bullet says, "Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks" with a link called Hurricane season.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Before and after web page for travel risks."
+   file="/images/tips-travel-contact/travel-risks.png"
+   caption="Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information."
+   summary="Detailed description"
+   content="<p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the &quot;tabs&quot; as expand/collapse fields. The Natural Disasters &quot;tab&quot; is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first &quot;tab&quot; - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, &quot;Exercise normal security precautions.&quot; Immediately below is the Important points heading. The first bullet says, &quot;Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks&quot; with a link called Hurricane season.</p>"
+%}
 
 ## 3. Help users make choices
 
@@ -79,15 +61,13 @@ The design simplifies the layout of the page and reduces cognitive load. It make
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
-<figure>
-  <img class="img-responsive border" alt="A screenshot of a simplified contact page."
- src="/images/tips-travel-contact/contact-pattern.png"/>
-</figure>
-
-<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
-  <summary>Detailed description</summary>
-  This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title="Canada Revenue Agency">CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.
-</details>
+{% include components/gc-complex-img.html
+   alt="A screenshot of a simplified contact page."
+   file="/images/tips-travel-contact/contact-pattern.png"
+   caption=""
+   summary="Detailed description"
+   content="<p>This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title='Canada Revenue Agency'>CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>"
+%}
 
 ## 4. Build on previous experiments and learning
 
@@ -99,33 +79,29 @@ The team simplified the process further. Instead of using postal codes in the lo
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 
-<div class="col-md-12 mrgn-bttm-lg row">
+<figure class="panel panel-default row">
   <div class="col-md-4">
-    <h3>Original content</h3> <p class="text-success">18% success</p>
-    <figure>
-    <img class="img-responsive border" alt="CRA mailing address original content."
-     src="/images/tips-travel-contact/mailing-success-1.png"/>
-    </figure>
+    <h3>Original content</h3>
+    <p class="text-success">18% success</p>
+    <img class="img-responsive center-block" alt="CRA mailing address original content." src="/en/images/tips-travel-contact/mailing-success-1.png"/>
   </div>
   <div class="col-md-4">
-    <h3>1st design: wizard</h3><p class="text-success">61% success</p>
-    <figure>
-    <img class="img-responsive border" alt="CRA mailing address wizard success."
-     src="/images/tips-travel-contact/mailing-success-2.png"/>
-    </figure>
+    <h3>1st design: wizard</h3>
+    <p class="text-success">61% success</p>
+    <img class="img-responsive center-block" alt="CRA mailing address wizard success." src="/en/images/tips-travel-contact/mailing-success-2.png"/>
   </div>
   <div class="col-md-4">
-    <h3>2nd design: lookup</h3><p class="text-success">94% success</p>
-    <figure>
-    <img class="img-responsive border" alt="CRA postal code lookup success."
-     src="/images/tips-travel-contact/mailing-success-3.png"/>
-    </figure>
+    <h3>2nd design: lookup</h3>
+    <p class="text-success">94% success</p>
+    <img class="img-responsive center-block" alt="CRA postal code lookup success." src="/en/images/tips-travel-contact/mailing-success-3.png"/>
   </div>
-</div>
-<details class="col-md-8 mrgn-bttm-md mrgn-tp-md">
-  <summary>Detailed description</summary>
-  Screen captures of 3 versions of content supporting the task of finding a mailing address for a <abbr title="Canada Revenue Agency">CRA</abbr> form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
-</details>
+  <figcaption class="col-md-12 mrgn-tp-md mrgn-bttm-md">
+    <details>
+      <summary>Detailed description</summary>
+      Screen captures of 3 versions of content supporting the task of finding a mailing address for a <abbr title="Canada Revenue Agency">CRA</abbr> form. The first is the original content. The label indicates that users were successful 18% of the time with this design. The second is an image of the simple wizard built in the Business registration project. Radio buttons allow you to select the type of form you want to mail. The label indicates a 61% success rate with this design. The final image shows the revised wizard from the most recent Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. Users can enter the form number in an open text field and can select the location of their home, business or property from a drop-down menu. The label indicates a 94% success rate with this design.
+    </details>
+  </figcaption>
+</figure>
 
 ## Final word
 In our optimization projects we seek to find and understand the pain points for Canadians using Canada.ca. We want to continuously improve the design of the site and our content. Continuous usability testing allows us to better understand where the gaps exist, and develop empathy for our users. We’re working every day to refine the site and make it more effective for all Canadians.

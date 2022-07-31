@@ -62,16 +62,13 @@ To help people find answers specific to their personal situation, teams across g
 
 [Find out if you can enter Canada](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
 
-
-<figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/interactive questions_EN.JPG" >
-</figure>
-<details>
-<summary>Interactive questions for travel restrictions</summary>
-<p>The "Find out if you can travel to Canada" wizard displays all the answers you've provided as a persistent list at the top of the page above each new question it asks you.</p>
-</details>
-
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/interactive questions_EN.JPG"
+   caption=""
+   summary="Interactive questions for travel restrictions"
+   content="<p>The &quot;Find out if you can travel to Canada&quot; wizard displays all the answers you've provided as a persistent list at the top of the page above each new question it asks you.</p>"
+%}
 
 Other successful examples of this design pattern include:
 * CRA: [How to apply to CRB](https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit/crb-how-apply.html)

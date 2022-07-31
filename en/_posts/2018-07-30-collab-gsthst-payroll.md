@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/08/16/collab-impots"
+author: "Canada Revenue Agency"
 date:   2018-08-16
 description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) to make tax information on Canada.ca easier for small business owners to find, understand and use.
 title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
@@ -45,7 +46,7 @@ People were spending too much time looking for the information they needed. They
 This video notes the observations and interactions with the initial GST/HST and Payroll web content from usability participants during baseline testing:
 
 
-<figure class="wb-mltmd wb-init video">
+<figure class="wb-mltmd wb-init video gc-complex-img" role="group">
   <video poster="/images/taxes-impots/payroll-content-video-poster.jpg" title="Payroll webpage content">
     <source type="video/mp4" src="/images/taxes-impots/payroll-content-en.mp4" />
   </video>
@@ -95,17 +96,19 @@ We also learned that lists of links were a findability issue in some tasks. To h
 
 Here’s an example of what the main Payroll and GST/HST pages looked like in baseline usability testing, and after optimization in validation testing:
 
-<figure>
-  <img class="img-responsive" alt="A before and after screenshot of the Payroll page showing the differences." src="/images/taxes-impots/payroll-before-after-en.png">
-</figure>
+{% include components/gc-simple-img.html
+   alt="A before and after screenshot of the Payroll page showing the differences."
+   file="/images/taxes-impots/payroll-before-after-en.png"
+%}
 
 Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow.
 
 After validation, we organized topics into a new template. We laid them out in sequence to provide context. We found that adding steps to topics made it easier for people to determine the correct navigation path. Findability increased by situating people in a sequence.
 
-<figure>
-  <img class="img-responsive" alt="A before and after screenshot of the GST/HST page showing the differences." src="/images/taxes-impots/gsthst-before-after-en.png">
-</figure>
+{% include components/gc-simple-img.html
+   alt="A before and after screenshot of the GST/HST page showing the differences."
+   file="/images/taxes-impots/gsthst-before-after-en.png"
+%}
 
 Also, before optimization, people didn’t know what to click on, as the labels were not descriptive enough. For example “Charge the GST/HST”, “GST/HST returns” and “GST/HST payments all seemed very similar.
 

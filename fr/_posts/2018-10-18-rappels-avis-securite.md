@@ -66,16 +66,15 @@ Caractéristiques des nouvelles pages de contenu&nbsp;:
 
 Après une deuxième série d’essais de validation avec les Canadiens sur les nouveaux prototypes, les résultats ont été impressionnants. La repérabilité des tâches est passée de 51&nbsp;% à 75&nbsp;% (en hausse de 24 points), et l’achèvement des tâches est passé de 54&nbsp;% à 87&nbsp;% (en hausse de 34 points).
 
-
-<figure>
-  <img class="img-responsive" alt="Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;»" src="/images/recalls-rappels/beforeafter-epipen-FR.jpg"/>
-</figure>
-<details>
-  <summary>Description détaillée</summary>
-  <p>Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;».</p>
-  <p>Le premier téléphone montre à quel point l’alerte à la sécurité initiale était dense et encombrée sur l’appareil mobile. Une flèche indique le texte, avec la note «&nbsp;Pincer et zoomer - Les Canadiens ustilisent un téléphone pour recevoir des rappels&nbsp;».</p>
-  <p>Le deuxième téléphone montre que le texte du prototype de nouvelle conception est beaucoup plus court et qu’il contient plus d’espaces blancs. On peut voir que trois points vignettes indiquent d’embée le produit, le problème et ce qu’il faut faire. Une flèche indique le texte, avec la note «&nbsp;Réponses et non renseignements – souligner quoi faire&nbsp;».</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;»"
+   file="/images/recalls-rappels/beforeafter-epipen-FR.jpg"
+   caption=""
+   summary="Description détaillée"
+   content="<p>Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;».</p>
+   <p>Le premier téléphone montre à quel point l’alerte à la sécurité initiale était dense et encombrée sur l’appareil mobile. Une flèche indique le texte, avec la note «&nbsp;Pincer et zoomer - Les Canadiens ustilisent un téléphone pour recevoir des rappels&nbsp;».</p>
+   <p>Le deuxième téléphone montre que le texte du prototype de nouvelle conception est beaucoup plus court et qu’il contient plus d’espaces blancs. On peut voir que trois points vignettes indiquent d’embée le produit, le problème et ce qu’il faut faire. Une flèche indique le texte, avec la note «&nbsp;Réponses et non renseignements – souligner quoi faire&nbsp;».</p>"
+%}
 
 ## Prochaines étapes
 

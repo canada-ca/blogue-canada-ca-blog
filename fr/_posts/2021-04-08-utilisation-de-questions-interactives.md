@@ -63,13 +63,13 @@ Pour aider les personnes à trouver des réponses propres à leur situation pers
 
 [Voyez si vous pouvez entrer au Canada](https://voyage.gc.ca/voyage-covid/voyage-restrictions/debut-assistant?_ga=2.234691422.1954857627.1617633945-2059021.1611345059)
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/interactive questions_FR.JPG">
-</figure>
-<details>
-  <summary>Questions interactives pour les restrictions liées aux voyages</summary>
-  <p>L'assistant "Découvrez si vous pouvez voyager au Canada" affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/interactive questions_FR.JPG"
+   caption=""
+   summary="Questions interactives pour les restrictions liées aux voyages"
+   content="<p>L'assistant &quot;Découvrez si vous pouvez voyager au Canada&quot; affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>"
+%}
 
 Voici d’autres exemples de réussite de ce modèle de conception&nbsp;:
 * ARC&nbsp;: [Comment présenter une demande pour la PCRE](https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique/pcre-comment-demande.html)

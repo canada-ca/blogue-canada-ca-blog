@@ -45,23 +45,20 @@ Second, we tried putting answers to the **most-asked** questions right at the to
 
 Testing these solutions showed positive results. People looked for the answers on the page and found them.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/alert-2.PNG" >
-</figure>
-<details>
-  <summary>Alert banner - before (over one full mobile screen)</summary>
-  <p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts and multiple links.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/alert-2.PNG"
+   caption=""
+   summary="Alert banner - before (over one full mobile screen)"
+   content="<p>Original alert banner text said &quot;Contacting us during the COVID-19 pandemic&quot; as the heading. It covered more than a full mobile screen, included a lot of text, several concepts and multiple links.</p>"
+%}
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/phone-3.PNG" >
-</figure>
-<details>
-  <summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
-  <p>Immediately below the shortened alert banner, a series of 5 expand/collapse fields provide the answers to the top questions - like "If you received two payments of $2000."</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/phone-3.PNG"
+   caption=""
+   summary="We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern." content="<p>Immediately below the shortened alert banner, a series of 5 expand/collapse fields provide the answers to the top questions - like &quot;If you received two payments of $2000.&quot;</p>"
+%}
 
 ## Analyzing call drivers daily
 

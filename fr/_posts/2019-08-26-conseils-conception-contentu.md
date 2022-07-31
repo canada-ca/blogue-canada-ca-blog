@@ -5,20 +5,6 @@ description: "En automne 2018, le Bureau de la transformation numérique a colla
 title: "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
 ---
 
-<style>
-  figcaption {
-    font-size: 17px !important;
-    line-height: 1.5;
-    max-width: 80ch;
-    padding-bottom: 10px;
-    padding-top: 5px;
-  }
-
-  .nobreak {
-    white-space: nowrap !important;
-  }
-</style>
-
 En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
 
 ## 1. Retirer des couches pour aider les gens à obtenir des réponses plus rapidement
@@ -33,20 +19,18 @@ L’une des difficultés liées au projet sur les prêts étudiants découlait d
 
 Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs vous aidera à regrouper le contenu de façon plus appropriée. Brisez les silos internes ministériels. Même si ces silos facilitent la division du travail dans la gestion de certains programmes, ils ne font que rendre le parcours de l’utilisateur plus compliqué. La conception de services exige que nous discutons avec des collègues au-delà de nos propres équipes et se mettre à la place des utilisateurs, afin de concevoir un parcours de l’utilisateur élégant et sensé.
 
-<figure>
-  <img class="img-responsive border" alt="La page Web pour les prêts étudiants avant et après." src="/images/prets-etudiants/pret-subvention-etudiants.jpg"/>
-  <figcaption>Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat&nbsp;: une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs.</figcaption>
-</figure>
-<details class="col-md-8">
-  <summary>Description détaillée</summary>
-  <p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre «&nbsp;Bourses et prêts aux étudiants&nbsp;». Le sous-titre est suivi de trois liens&nbsp;:</p>
+{% include components/gc-complex-img.html
+   alt="La page Web pour les prêts étudiants avant et après."
+   file="/images/prets-etudiants/pret-subvention-etudiants.jpg"
+   caption="Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat&nbsp;: une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs."
+   summary="Description détaillée"
+   content="<p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre «&nbsp;Bourses et prêts aux étudiants&nbsp;». Le sous-titre est suivi de trois liens&nbsp;:</p>
   <ol>
     <li>Faire une demande de bourses et de prêts d’études</li>
     <li>Gérer votre prêt au CSNPE</li>
     <li>Rembourser votre prêt d’études</li>
-  </ol>
-</details>
-
+  </ol>"
+%}
 
 ## 3. Utiliser les données probantes pour éclairer la formulation
 
@@ -62,19 +46,20 @@ L’équipe de projet a abordé le problème par deux angles. Nous avons d’abo
 
 ### Les gens ne font pas de maths
 
-<figure>
-  <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations avant." src="/images/prestations-mat-ae/prestations-mat-avant.jpg"/>
-  <figcaption>Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total.</figcaption>
-</figure>
-<figure>
-  <img class="img-responsive border" alt="La page Web pour le nombre de semaines de prestations après." src="/images/prestations-mat-ae/prestations-mat-apres.jpg"/>
-  <figcaption>Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul.</figcaption>
-</figure>
-<details class="col-md-8">
-  <summary>Description détaillée</summary>
-  <p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title="Assurance-emploi">AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
-  <p>Sous cette capture d’écran s’en trouve une autre, celle de la version équivalente tirée du prototype. Une simple équation mathématique est encadrée de vert. L’équation montre 15 semaines de prestations de maternité plus 61 semaines de prestations parentales prolongées est égal à un total de 76 semaines pour Janelle. </p>
-</details>
+{% include components/gc-complex-img.html
+   alt="La page Web pour le nombre de semaines de prestations avant."
+   file="/images/prestations-mat-ae/prestations-mat-avant.jpg"
+   caption="Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total."
+%}
+
+{% include components/gc-complex-img.html
+  alt="La page Web pour le nombre de semaines de prestations après."
+  file="/images/prestations-mat-ae/prestations-mat-apres.jpg"
+  caption="Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul."
+  summary="Description détaillée"
+  content="<p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title='Assurance-emploi'>AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
+  <p>Sous cette capture d’écran s’en trouve une autre, celle de la version équivalente tirée du prototype. Une simple équation mathématique est encadrée de vert. L’équation montre 15 semaines de prestations de maternité plus 61 semaines de prestations parentales prolongées est égal à un total de 76 semaines pour Janelle.</p>"
+%}
 
 ## 5. Utiliser les chiffres avec modération
 
@@ -84,14 +69,12 @@ La simplification du contenu ne se limite pas aux mots d’une page. Lorsque les
 
 ### Trop de chiffres entraînent la surcharge
 
-<figure>
-  <img class="img-responsive border" alt="La page Web des prestations avant et après." src="/images/prestations-mat-ae/chiffres.jpg"/>
-  <figcaption>Des énoncés de faits clairs et simples ont beaucoup plus de succès</figcaption>
-</figure>
-<details class="col-md-8">
-  <summary>Description détaillée</summary>
-  <p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête «&nbsp;Circonstances spéciales&nbsp;» se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve sous celui-ci un autre en-tête, «&nbsp;Admissibilité&nbsp;». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title="Assurance-emploi">AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="La page Web des prestations avant et après."
+   file="/images/prestations-mat-ae/chiffres.jpg"
+   caption="Des énoncés de faits clairs et simples ont beaucoup plus de succès"
+   summary="Description détaillée"
+   content="<p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête «&nbsp;Circonstances spéciales&nbsp;» se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title='Assurance-emploi'>AE</abbr>. On trouve sous celui-ci un autre en-tête, «&nbsp;Admissibilité&nbsp;». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title='Assurance-emploi'>AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>" %}
 
 ## 6. Mettre des réponses là où les gens les cherchent
 

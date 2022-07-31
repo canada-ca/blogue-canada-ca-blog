@@ -28,24 +28,22 @@ En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada o
 
 Les participants ont répondu aux questions en cliquant sur l'une des options d'étiquette possibles indiquées avec la question. Dans le sondage, on leur demandait de choisir comme s'ils tentaient d'accomplir la tâche sur le site Web. Chaque question présentait différents ensembles d'options d'étiquettes pour les liens et les catégories. Cela nous permet d'explorer comment différentes options s'intègrent à des scénarios de tâches particulières.
 
-<figure>
-<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/label-FR.png" >
-</figure>
-<details>
-<summary>Exemple d'une question dans l'étude.</summary>
-<p>Trouver&nbsp;: "Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent&nbsp;:</p>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/label-FR.png"
+   caption=""
+   summary="Exemple d'une question dans l'étude."
+   content="<p>Trouver&nbsp;: &quot;Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent&nbsp;:</p>
 <ul>
-<li>Protection de la santé publique</li>
-<li>La réponse du Canada</li>
-  <li>Limiter la propagation</li>
+  <li>Protection de la santé publique</li>
+  <li>La réponse du Canada</li>
+  li>Limiter la propagation</li>
   <li>Réouverture en toute sécurité</li>
-<li>Stratégie de reprise</li>
-<li>Contenir la pandémie</li>
- <li>Stratégie du gouvernment</li>
-</ul>
-</details>
-
+  <li>Stratégie de reprise</li>
+  <li>Contenir la pandémie</li>
+  <li>Stratégie du gouvernment</li>
+</ul>"
+%}
 
 ## Prendre des mesures en fonction des résultats
 
@@ -70,15 +68,13 @@ Aujourd'hui, la page d'accueil sur le coronavirus tient compte d'une grande part
 
 Par exemple, l'étiquette «&nbsp;Protecting public health&nbsp;» a remporté de fortes majorités en anglais pour les tâches sur les vaccins et l'immunité. «&nbsp;Protection de la santé publique&nbsp;» a fait aussi bonne figure auprès des répondants français. Ces tâches sont liées à l'état de santé personnel. Les vaccins sont notre cinquième tâche principale (première à l'OMS) et l'immunité est la 17e (quatrième à l'OMS). À mesure que Santé Canada élabore du contenu à l'appui des tâches liées aux vaccins, cette étiquette de catégorie est testée et prête à être utilisée.
 
-<figure>
-<img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-src="/images/label-5.png" >
-</figure>
-<details>
-<summary>Page d'accueil de la maladie à coronavirus (COVID-19)</summary>
-<p>Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent&nbsp;: Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés.</p>
-</details>
-
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/label-5.png"
+   caption=""
+   summary="Page d'accueil de la maladie à coronavirus (COVID-19)"
+   content="<p>Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent&nbsp;: Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés.</p>"
+%}
 
 ## Utiliser des étiquettes qui fonctionnent pour les gens
 

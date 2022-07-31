@@ -43,14 +43,13 @@ As you can imagine, creating quality web content quickly is challenging. Applyin
 
 While plain language is always a top priority, the NWT’s web team has also found that images can be helpful for increasing understanding across languages. However, in remote areas where data plans are costly and download speeds can be very slow, images can create an accessibility issue. Their solution has been to use illustrations instead of photos. This lets them use a lower resolution, which means smaller file sizes and quicker load times.
 
-<figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/NWT-image.png" >
-</figure>
-<details>
-<summary>Screen capture of NWT illustrated social media ad</summary>
-<p>Screen capture of an informational video on COVID-19 prevention measures produced by the NWT using a low-bandwidth illustration style.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/NWT-image.png"
+   caption=""
+   summary="Screen capture of NWT illustrated social media ad"
+   content="<p>Screen capture of an informational video on COVID-19 prevention measures produced by the NWT using a low-bandwidth illustration style.</p>"
+%}
 
 Through the pandemic, the NWT’s illustrated social media ads (such as Facebook and Instagram) have focused on behavioural change, general hygiene and certain public health orders.
 

@@ -14,13 +14,13 @@ The behavioural principle behind using interactive elements is that people slow 
 
 Checklists help people break down complex eligibility lists to ensure that they meet all criteria.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image." src="/images/eligibility-1.PNG">
-</figure>
-<details>
-<summary>Eligibility checklist for the Canada Recovery Benefit</summary>
-  <p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/eligibility-1.PNG"
+   caption=""
+   summary="Eligibility checklist for the Canada Recovery Benefit"
+   content="<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>"
+%}
 
 Faced with the standard approach of explaining eligibility criteria with long pages of static content, we’ve seen users fail to grasp precisely what they need to be eligible for a program. A checklist helps them step methodically through the web content by having them answer a question, or affirm a choice. The interaction helps them engage more deeply in finding the right answer for their particular situation. The interactive checkboxes and radio buttons make the page feel more like a mobile app.
 

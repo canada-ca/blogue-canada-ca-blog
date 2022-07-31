@@ -29,21 +29,18 @@ One of the challenges of the Student loans project was the way content for grant
 
 Getting a clearer understanding of the mental model your users have can help you group content appropriately. Challenge internal departmental silos. While these help divide the work of managing specific programs, they often complicate the user journey. Service design requires us to talk to colleagues beyond our own teams and to walk in our users’ shoes so we can design elegant user journeys that simply make sense.
 
-<figure>
-  <img class="img-responsive border" alt="Before and after web page for student loans."
-  src="/images/student-loans/student-aid-grants.jpg"/>
-  <figcaption>Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success.</figcaption>
-</figure>
-
-<details class="col-md-8">
-  <summary>Detailed description</summary>
-  <p>There are images of the original Student loans page and the Student grants from the baseline round of testing. A green arrow points from them to the prototype version of the same content. The prototype version is called Student aid. At the top of the page is the subheading: Student grants and loans. Below this are 3 linked options:</p>
+{% include components/gc-complex-img.html
+   alt="Before and after web page for student loans."
+   file="/images/student-loans/student-aid-grants.jpg"
+   caption="Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success."
+   summary="Detailed description"
+   content="<p>There are images of the original Student loans page and the Student grants from the baseline round of testing. A green arrow points from them to the prototype version of the same content. The prototype version is called Student aid. At the top of the page is the subheading: Student grants and loans. Below this are 3 linked options:</p>
   <ol>
     <li>Apply for student grants and loans</li>
     <li>Manage your loan at the NSLSC</li>
     <li>Repay your student loan</li>
-  </ol>
-</details>
+  </ol>"
+%}
 
 ## 3. Use evidence to design language
 
@@ -59,23 +56,20 @@ The project team attacked this problem on two fronts. First, we made an estimato
 
 ### People don't math
 
-<figure>
-  <img class="img-responsive border" alt="Before page for the number of benefit weeks."
-  src="/images/ei-mat-benefits/ei-benefits-before.jpg"/>
-  <figcaption>People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total.</figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Before page for the number of benefit weeks."
+   file="/images/ei-mat-benefits/ei-benefits-before.jpg"
+   caption="People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total."
+%}
 
-<figure>
-  <img class="img-responsive border" alt="After page for the number of benefit weeks."
-  src="/images/ei-mat-benefits/ei-benefits-after.jpg"/>
-  <figcaption>Showing a formula people can use and relate to helps them do the math.</figcaption>
-</figure>
-
-<details class="col-md-8">
-  <summary>Detailed description</summary>
-  <p>The image first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title="Employment Insurance">EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
-  <p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="After page for the number of benefit weeks."
+   file="/images/ei-mat-benefits/ei-benefits-after.jpg"
+   caption="Showing a formula people can use and relate to helps them do the math."
+   summary="Detailed description"
+   content="<p>The image first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title='Employment Insurance'>EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
+   <p>Below this is a second image from the prototype version of the same content. There is green highlighting around a simple math equation. The equation shows 15 weeks maternity plus 61 weeks of extended parental equals 76 weeks total for Janelle.</p>"
+%}
 
 ## 5. Use numbers sparingly
 People find numbers on websites hard to digest. On this project we found many content pages peppered with numbers. Numbers of weeks, benefit rates, qualifying periods, dollar amounts, and numbered footnotes. On one important answer page we counted 30 different numbers in just 3 paragraphs of text.
@@ -84,16 +78,13 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 
 ### Too many numbers equals overload
 
-<figure>
-  <img class="img-responsive border" alt="Before and after benefits page."
- src="/images/ei-mat-benefits/numbers.jpg"/>
-  <figcaption>Clear, simple statements of facts are far more successful</figcaption>
-</figure>
-
-<details class="col-md-8">
-  <summary>Detailed description</summary>
-  <p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading "Special circumstances" is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to <abbr title="Employment Insurance">EI</abbr> sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Before and after benefits page."
+   file="/images/ei-mat-benefits/numbers.jpg"
+   caption="Clear, simple statements of facts are far more successful"
+   summary="Detailed description"
+   content="<p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading &quot;Special circumstances&quot; is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to <abbr title='Employment Insurance'>EI</abbr> sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to <abbr title='Employment Insurance'>EI</abbr> sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>"
+%}
 
 ## 6. Put answers where people look for them
 

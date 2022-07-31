@@ -1,6 +1,5 @@
 ---
 altLangPage: "/2020/12/17/choisir-des-boutons"
-css: "../../../css/blog.css"
 date: 2020-12-17
 description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
 title: "Choosing the right button for task success"
@@ -32,15 +31,13 @@ Use this button to launch the main task or next step - **when that task or step 
 
 We first used the super task button on the CRA institutional landing page. There, the majority of visitors are looking for how and where to sign into one of their CRA accounts. Since that’s what most people are there to do, the CRA makes it easy by placing the “Sign in to a CRA account” super task button right at the top of the page.
 
-<figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="/images/green-button-1.PNG">
-  <figcaption>
-    <details>
-      <summary>Canada Revenue Agency - Institutional landing page</summary>
-      <p>Super task button appears directly below the main title of the page, ahead of other content.</p>
-    </details>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/green-button-1.PNG"
+   caption=""
+   summary="Canada Revenue Agency - Institutional landing page"
+   content="<p>Super task button appears directly below the main title of the page, ahead of other content.</p>"
+%}
 
 In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
 
@@ -50,15 +47,13 @@ There are times when using a super task button makes sense, but placing it furth
 
 For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page.
 
-<figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="/images/apply-online-1.PNG">
-  <figcaption>
-    <details>
-      <summary>Canada Recovery Benefit - How to apply</summary>
-      <p>Super task button appears part way down the page, below the in the Apply online or by phone heading</p>
-    </details>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+  alt="A long description can be found after the image."
+  file="/images/apply-online-1.PNG"
+  caption=""
+  summary="Canada Recovery Benefit - How to apply"
+  content="<p>Super task button appears part way down the page, below the in the Apply online or by phone heading</p>"
+%}
 
 In this case, the button appears part way down the page. At that point, users have everything they need to be ready to launch into the process of applying. For the vast majority of people on the page, clicking that button is the reason they’re there. However, since there are a few things they need to know before they begin, the button is where it needs to be to ensure task success.
 
@@ -86,15 +81,13 @@ The secondary task button is useful for alternate steps in a process - like a �
 
 Notice how the primary and secondary task buttons work together in this survey invitation to distinguish between “Yes” as the primary action to take, and “No” as the alternate option.
 
-<figure class="gc-complex-img" role="group">
-  <img alt="A long description can be found after the image." src="/images/improve-CA.PNG">
-  <figcaption>
-    <details>
-      <summary class="stretched-link">Example of primary and secondary task buttons</summary>
-      <p>Example of primary and secondary task buttons working together.</p>
-    </details>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/improve-CA.PNG"
+   caption=""
+   summary="Example of primary and secondary task buttons"
+   content="<p>Example of primary and secondary task buttons working together.</p>"
+%}
 
 ## Danger and link buttons
 

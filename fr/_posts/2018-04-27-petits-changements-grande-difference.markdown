@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/04/27/small-changes-big-difference.html"
+author: Scott Brison
 date:   2018-04-27
 description: De petits changements font une grande différence pour les Canadiens sur Canada.ca. Lisez ce que le président du Conseil du Trésor, Scott Brison, a dire au sujet des travaux d'amélioration en cours.
 title:  "Canada.ca&nbsp;: De petits changements peuvent faire une grande différence"
@@ -7,7 +8,10 @@ title:  "Canada.ca&nbsp;: De petits changements peuvent faire une grande différ
 
 **Par l’honorable Scott Brison, président du Conseil du Trésor**
 
-<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" alt="Une photo de l'honorable Scott Brison" />
+{% include components/gc-simple-img.html
+	 alt="Une photo de l'honorable Scott Brison"
+	 file="/images/PO/The-Honourable-Scott-Brison.png"
+%}
 
 J’ai constaté dans le passé qu’Apple est en mesure de concevoir des appareils tellement intuitifs qu’il ne faut que 40 secondes à mes enfants de 4 ans pour trouver ce qu’ils recherchent. Pourtant, en tant qu’adultes, nous pouvons passer des heures sans trouver ce que l’on cherche sur des sites Web gouvernementaux.
 

@@ -32,17 +32,13 @@ Utilisez ce bouton pour lancer la tâche principale ou l'étape suivante – **l
 
 Nous avons d'abord utilisé le bouton de super tâche à partir de la page d'accueil institutionnelle de l'Agence du revenu du Canada (ARC). À partir de là, la majorité des visiteurs cherchent comment et où ouvrir une session dans l'un de leurs comptes de l'ARC. Puisque c'est ce que la plupart des gens font, l'ARC facilite les choses en plaçant le bouton «&nbsp;Se connecter à un compte de l'ARC&nbsp;» au haut de la page.
 
-<figure class="panel panel-default position-relative" role="group">
-  <div class="panel-body">
-    <img class="img-responsive center-block" alt="Une longue description peut être trouvée après l'image." src="/images/bouton-2.PNG">
-    <figcaption>
-      <details>
-        <summary class="stretched-link">Agence du revenu du Canada – page d'accueil institutionnelle</summary>
-        <p>Le bouton de super tâche apparaît directement sous le titre principal de la page, avant les autres contenus.</p>
-      </details>
-    </figcaption>
-  </div>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/bouton-2.PNG"
+   caption=""
+   summary="Agence du revenu du Canada – page d'accueil institutionnelle"
+   content="<p>Le bouton de super tâche apparaît directement sous le titre principal de la page, avant les autres contenus.</p>"
+%}
 
 Au printemps 2020, alors que la page d'accueil du Coronavirus recevait un trafic extrêmement important, l'anxiété à propos du virus était grande. Les centres d'appels étaient submergés de personnes qui voulaient vérifier leurs symptômes pour savoir si elles étaient atteintes du COVID-19. Pour les aider, nous avons travaillé avec Santé Canada pour ajouter un bouton de super tâche en haut de la page. Le bouton donnait accès au nouvel outil de vérification des symptômes. Encore une fois, cela a bien fonctionné car il a fourni une réponse à une tâche clé pour laquelle les visiteurs venaient sur la page à ce moment-là. Le bouton de super tâche situé en haut de la page a permis de soutenir les utilisateurs et de les rediriger vers le contenu du site web plutôt que vers les centres d'appels.
 
@@ -52,17 +48,13 @@ Il y a des circonstances où il est logique d'utiliser un bouton de super tâche
 
 Par exemple, le site réservé à la Prestation canadienne de la relance économique (PCRE) comporte un bouton vert associé à la mention «&nbsp;Se connecter à mon dossier de l'ARC&nbsp;» situé plus bas dans la page «&nbsp;Comment faire une demande&nbsp;».
 
-<figure class="panel panel-default position-relative" role="group">
-  <div class="panel-body">
-    <img class="img-responsive center-block" alt="Une longue description peut être trouvée après l'image." src="/images/ARC-2.PNG">
-    <figcaption>
-      <details>
-        <summary class="stretched-link">Prestation de rétablissement du Canada – Comment faire une demande</summary>
-        <p>Le bouton de super tâche apparaît sous l'en-tête «&nbsp;Postuler en ligne ou par téléphone&nbsp;» </p>
-      </details>
-    </figcaption>
-  </div>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/ARC-2.PNG"
+   caption=""
+   summary="Prestation de rétablissement du Canada – Comment faire une demande"
+   content="<p>Le bouton de super tâche apparaît sous l'en-tête «&nbsp;Postuler en ligne ou par téléphone&nbsp;» </p>"
+%}
 
 Dans ce cas, le bouton apparaît plus bas dans la page. À ce moment-là, les utilisateurs disposent de tout ce dont ils ont besoin pour être prêts à faire une demande. Pour la grande majorité des gens qui accèdent à la page, la raison pour laquelle ils le font consiste à cliquer sur ce bouton. Cependant, comme ils doivent savoir certaines choses avant de commencer, le bouton est là où il doit être pour assurer la réussite de la tâche.
 
@@ -90,15 +82,13 @@ Le bouton de tâche secondaire est utile pour d'autres étapes d'un processus, c
 
 Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de concert dans cette invitation au sondage pour faire la distinction entre «&nbsp;Oui&nbsp;» comme action principale à prendre et «&nbsp;Non&nbsp;» comme option de rechange.
 
-<figure class="gc-complex-img" role="group">
-  <img alt="Une longue description peut être trouvée après l'image." src="/images/pouvez-vous.PNG">
-  <figcaption>
-    <details>
-      <summary>Exemple de boutons de tâches primaires et secondaires</summary>
-      <p>Une invitation à participer à un sondage sur Canada.ca utilise le style de la tâche principale pour l'option "Oui, après ma visite", et le style de la tâche secondaire pour l'option "Non, merci".</p>
-    </details>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/pouvez-vous.PNG"
+   caption=""
+   summary="Exemple de boutons de tâches primaires et secondaires"
+   content=" <p>Une invitation à participer à un sondage sur Canada.ca utilise le style de la tâche principale pour l'option &quot;Oui, après ma visite&quot;, et le style de la tâche secondaire pour l'option &quot;Non, merci&quot;.</p>"
+%}
 
 ## Boutons danger et lien
 

@@ -67,11 +67,13 @@ Conversational agents work like this:
 - the agent replies to the user with a pre-designed response for that situation - *“Do you want to call about your personal tax account, or a business tax account?”*
 - the cycle starts again, if the conversation is not over
 
-![A long description can be found after the image.](../images/chat-cycle-en.jpg){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-<summary>Chat cycle diagram </summary>
-<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats. </p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/chat-cycle-en.jpg"
+   caption=""
+   summary="Chat cycle diagram"
+   content="<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats.</p>"
+%}
 
 The “magic” in conversational agents is Natural Language Processing - a form of Artificial Intelligence. The agent uses Natural Language Processing to parse both the syntax and semantics of the conversation based on deep learning from a huge dataset of conversational language. So if a user says “I’d like”, the agent can understand that to match an intent that says “I would like ..” and an intent that says “I want.”
 
@@ -101,23 +103,29 @@ To test whether a conversational agent could help improve task success, we built
 - **a chatbot** where users opened it on the web page and interacted by typing
 - **a voice assistant** where users interacted with their voice through a Google Home or Google Assistant on a phone
 
-![A long description can be found after the image.](../images/conversation-1.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-  <summary>Wizard</summary>
-  <p>The "Find the right CRA contact or telephone number" wizard displays questions about your call to help guide you to the answer you need.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/conversation-1.png"
+   caption=""
+   summary="Wizard"
+   content="<p>The &quot;Find the right CRA contact or telephone number&quot; wizard displays questions about your call to help guide you to the answer you need.</p>"
+%}
 
-![A long description can be found after the image.](../images/conversation-2.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-  <summary>Chatbot</summary>
-  <p>The CRA chatbot that appears at the bottom of your screen. It displays the text "Hi, let's try to find the right CRA phone number for you. What do you want want to call about?" People then type in their answer to get a response.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/conversation-2.png"
+   caption=""
+   summary="Chatbot"
+   content="<p>The CRA chatbot that appears at the bottom of your screen. It displays the text &quot;Hi, let's try to find the right CRA phone number for you. What do you want want to call about?&quot; People then type in their answer to get a response.</p>"
+%}
 
-![A long description can be found after the image.](../images/conversation-3.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-  <summary>Google assistant voice agent </summary>
-  <p>The CRA phone number finder Google voice assistant. It displays the text "Welcome to the CRA phone number finder. What do you want to call about?" The response is "a proof of income statement."</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/conversation-3.png"
+   caption=""
+   summary="Google assistant voice agent"
+   content="<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>"
+%}
 
 ### How we tested the design
 
@@ -127,11 +135,13 @@ In **Part 1**, participants could use any section of the prototyped web pages to
 
 In **Part 2**, we made minor changes to some task scenarios, and asked participants to try to find the right answer using **only the conversational agents**. They tried to complete some tasks using only their voice (with the moderator speaking the part of the voice assistant based on the answers in the chatbot), and others using the chatbot on the prototype.
 
-![A long description can be found after the image.](../images/conversation-4.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-  <summary>Conversational agent</summary>
-  <p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/conversation-4.png"
+   caption=""
+   summary="Conversational agent"
+   content="<p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>"
+%}
 
 ## Results
 

@@ -1,6 +1,6 @@
 ---
 altLangPage: "/2018/05/10/concerte-sante"
-date:   2018-05-10
+date: 2018-05-10
 description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme.
 title:  "Collaborative work to optimize diseases and immunization content"
 ---
@@ -48,10 +48,10 @@ We also learned that while using the “topic” pages from the Canada.ca Conten
 ## Before and after
 
 As an example, here’s a quick look at what the flu section looked like before and after optimization:
-
-<figure>
-  <img class="img-responsive" alt="Screenshot of the old flu page, which is a typical Canada topic page with a photo of sick people and 9 main links. An arrow points to the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page. " src="/images/collab-health/flu-before-after-835x408-en.png">
-</figure>
+{% include components/gc-simple-img.html
+   alt="Screenshot of the old flu page, which is a typical Canada topic page with a photo of sick people and 9 main links. An arrow points to the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page."
+   file="/images/collab-health/flu-before-after-835x408-en.png"
+%}
 
 Before optimization, the topic template offered too many categories and choices. Some topics overlapped (like “risks” and “prevention”), and some had unclear labels (like “surveillance”). It was hard for people to tell where to find the answers they were looking for.
 
@@ -61,10 +61,11 @@ After optimization, content was organized into a new template using simple group
 
 We’ve just completed another round of usability testing with Canadians to validate the proposed changes. We’ve seen a substantial 31 percentage point improvement in task success! We’re now working to go live with the new content on Canada.ca in the spring.
 
-<figure>
-  <img class="img-responsive" alt="Photo of 11 people standing in front of a screen showing success improvement data." src="/images/collab-health/hc-phac-dto-team-835x423.jpg">
-  <figcaption><small>Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office.</small></figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Photo of 11 people standing in front of a screen showing success improvement data."
+   file="/images/collab-health/hc-phac-dto-team-835x423.jpg"
+   caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office."
+%}
 
 ## We want to hear from you
 

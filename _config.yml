@@ -57,13 +57,13 @@ defaults:
     scope:
       path: "en/"
     values:
-      css: "https://blog.canada.ca/blog.css"
+      css: "https://blog.canada.ca/css/blog.css"
       lang: "en"
   -
     scope:
       path: "fr/"
     values:
-      css: "https://blogue.canada.ca/blogue.css"
+      css: "https://blogue.canada.ca/css/blogue.css"
       lang: "fr"
   -
     scope:

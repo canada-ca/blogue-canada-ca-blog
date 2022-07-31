@@ -27,10 +27,10 @@ Don’t you love scrolling through pages and pages of information to find a pret
 
 ### Eye-cat-ching graphics
 
-<figure>
-  <img class="img-responsive border" alt="The beige lazy big cat with a tv remote control and a cone of ice cream in its paws is resting on a pink sofa at home. A bird is next to him. White background. Isolated."
-src="/images/2022-04-01b.PNG" >
-</figure>
+{% include components/gc-simple-img.html
+   alt="The beige lazy big cat with a tv remote control and a cone of ice cream in its paws is resting on a pink sofa at home. A bird is next to him. White background. Isolated."
+   file="/images/2022-04-01b.PNG"
+%}
 
 We’re also revising the guidance on decorative images. Put those puppies everywhere! Literally. Cats too. People love animals, which means they won’t be as frustrated at not being able to do what they came to do. Plus, the more time people spend on our site – even if it’s because they’re waiting for the page to load – the better! That counts as more “time on page” when you do your analytics reports. Remember the bilingual Alt text so people who use assistive technologies don’t miss out on knowing that there’s a meme of “Misty the tabby cat falling off the TV”!
 
@@ -38,10 +38,10 @@ Adding a lot of graphics may mean that people in rural areas like Victoria, Barr
 
 ### Abundant alerts
 
-<figure>
-  <img class="img-responsive border" alt="Hazard symbol collection"
-src="/images/2022-04-01a.PNG" >
-</figure>
+{% include components/gc-simple-img.html
+   alt="Hazard symbol collection"
+   file="/images/2022-04-01a.PNG"
+%}
 
 It’s important that people see the most important information on each page so add alerts! We encourage multiple alerts in different colours at the top of pages. Consider using the new “Alert rainbow-effect” pattern and add at least one alert in each colour. We think the ROYBGIV colour order looks great, but you do you!
 

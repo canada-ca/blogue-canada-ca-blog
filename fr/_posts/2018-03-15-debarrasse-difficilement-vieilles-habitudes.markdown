@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/03/14/old-habits-die-hard.html"
+author: Celeste Cöté
 date:  2018-03-14
 description: Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture.
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
@@ -13,12 +14,13 @@ L’exposé de Gerry McGovern portant sur les principales tâches et l’expéri
 
 Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture.
 
-<figure>
-	<img class="img-responsive" alt="Photographie de Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
-	<figcaption>
-		<small>Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018.</small>
-	</figcaption>
-</figure>
+{% include components/gc-complex-img.html
+	 alt="Photographie de Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018"
+	 file="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png"
+	 caption="Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018."
+	 summary=""
+	 content=""
+%}
 
 M. McGovern a fait une blague sur les approches traditionnelles de la conception, et les illustrait comme étant de style très Mad Men&nbsp;: les patrons qui fument des cigares et prennent des décisions dans les coulisses. Bien que les milieux de travail aient changé au fil des ans, nous avons toujours tendance à fonder nos décisions sur des préférences personnelles, surtout lorsqu’il est question de conception, sujet sur lequel personne n'est à court de sentiments et d’opinions.
 

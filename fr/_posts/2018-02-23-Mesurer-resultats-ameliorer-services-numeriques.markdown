@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/02/23/Improve-digital-services-measuring-outcomes.html"
+author: Gerry McGovern
 date:   2018-02-23
 description: Gerry McGovern partage ses réflexions au sujet de sa visite à Ottawa la semaine dernière.
 title:  "Mesurer les résultats pour améliorer les services numériques"
@@ -11,12 +12,13 @@ J’ai visité Ottawa pour la première fois durant l’hiver, en 2007. Il faisa
 
 Je suis dans l’avion qui me ramène en Irlande. Je reviens d’Ottawa et mon séjour a été fantastique! J’ai fait la connaissance de nombreuses personnes merveilleuses, enthousiastes et talentueuses. Ces rencontres inoubliables me donnent toujours beaucoup d’énergie et me poussent à offrir le meilleur de moi-même.
 
-<figure>
-	<img class="img-responsive" alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
-	<figcaption>
-		<small>Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small>
-	</figcaption>
-</figure>
+{% include components/gc-complex-img.html
+	 alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018"
+	 file="/images/gerry-week/2018_02_18-4058.jpg"
+	 caption="Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018."
+	 summary=""
+	 content=""
+%}
 
 Les défis sont nombreux et ils sont principalement organisationnels. Les gens ont raison d’éprouver de la frustration parce que le modèle organisationnel du gouvernement actuel n’est pas arrimé à l’ère numérique. Dans le monde, tout a changé, sauf la taille gigantesque des organisations. Les cloisons sont devenues de lourds dinosaures qui nuisent à la qualité des services.
 

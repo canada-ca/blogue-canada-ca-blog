@@ -26,13 +26,11 @@ In June 2020, the Digital Transformation Office (DTO) and Health Canada launched
 
 Participants responded to the task questions by clicking on one of the potential label options shown with the question. The survey asked them to choose as if they were attempting the task on the website.  Each question showed different sets of label options for both the links and the categories. This let us explore how different options fit with specific task scenarios.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/label.png" >
-</figure>
-<details>
-  <summary>Example of a question in the study.</summary>
-  <p>Find: "How can my store reduce the risk of transmission of COVID-19?" Where would you click? Options include:</p>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/label.png"
+   summary="Example of a question in the study."
+   content="<p>Find: &quot;How can my store reduce the risk of transmission of COVID-19?&quot; Where would you click? Options include:</p>
   <ul>
     <li>Focus on&nbsp;: business</li>
     <li>Recovery strategy</li>
@@ -40,8 +38,8 @@ src="/images/label.png" >
     <li>Containing the pandemic</li>
     <li>Reopening safely</li>
     <li>Current situation</li>
-  </ul>
-</details>
+  </ul>"
+%}
 
 ## Taking action on results
 Together with Health Canada we used the results to support updates on the COVID-19 landing page. The study confirmed that some labels were working well, so we kept those in place.
@@ -65,14 +63,12 @@ Today, the Coronavirus landing page reflects a lot of what we found from this re
 
 For example, the “Protecting public health” label won strong majorities in English for vaccine and immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) and immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/label-4.png" >
-</figure>
-<details>
-  <summary>Coronavirus disease (COVID-19) landing page</summary>
-  <p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/label-4.png"
+   summary="Coronavirus disease (COVID-19) landing page"
+   content="<p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>"
+%}
 
 ## Use labels that work for people
 

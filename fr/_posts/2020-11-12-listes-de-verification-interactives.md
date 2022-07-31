@@ -14,14 +14,13 @@ Le principe comportemental qui sous-tend l'utilisation d'éléments interactifs 
 
 Les listes de vérification aident les gens à décomposer des listes d'admissibilité complexes et à s'assurer qu'ils répondent à tous les critères.
 
-
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image." src="/images/criteres-2.PNG">
-</figure>
-<details>
-  <summary>Critères d'admissibilité à la Prestation canadienne de la relance économique</summary>
-  <p>Critères d'admissibilité à la Prestation canadienne de la relance économique, en affichant des listes de vérification interactives à côté de chaque condition d'éligibilité.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/criteres-2.PNG"
+   caption=""
+   summary="Critères d'admissibilité à la Prestation canadienne de la relance économique"
+   content="<p>Critères d'admissibilité à la Prestation canadienne de la relance économique, en affichant des listes de vérification interactives à côté de chaque condition d'éligibilité.</p>"
+%}
 
 Face à la démarche habituelle qui consiste à expliquer les critères d'admissibilité au moyen de longues pages de contenu statique, nous avons constaté que certains utilisateurs ne comprennent pas exactement ce dont ils ont besoin pour être admissibles à un programme. Une liste de vérification les aide à parcourir méthodiquement le contenu Web en leur faisant répondre à des questions ou à valider des choix. L'interaction les aide à s'engager de façon plus approfondie pour trouver la bonne réponse à leur situation particulière. Les cases à cocher et les boutons radio interactifs permettent à la page de ressembler davantage à une application mobile.
 

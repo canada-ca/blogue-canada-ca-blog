@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/03/29/Visit-Canada-Optimization.html"
+author: Eric Cooper
 date:   2018-03-29
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 title:  "Visiter le Canada&nbsp;: optimisation"
@@ -44,21 +45,19 @@ Nous avons fait exécuter ces tâches à des centaines de personnes dans le cadr
 
 Voici à quoi ressemblait la page principale du processus lorsque nous avons commencé. Remarquez le texte au sommet de la page. Ce texte comprend des liens pour les exceptions, les citoyens qui ont la double nationalité et les résidents permanents canadiens. Des tests ont montré que les gens n’étaient pas capables de voir ces liens avec régularité. Ils allaient plutôt directement à la liste déroulante.
 
-
-<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-avant.JPG" alt="Image montrant la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant l'optimisation.">
-
-
-<details>
-		<summary>Version texte</summary>
-	<p>Cette image montre ce qu'était la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers&nbsp;:</p><ul>
+{% include components/gc-complex-img.html
+	 alt="Image montrant la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant l'optimisation."
+	 file="/images/eTA-AVE/VisaAVE-avant.JPG"
+	 caption=""
+	 summary="Version texte"
+	 content="<p>Cette image montre ce qu'était la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers&nbsp;:</p><ul>
 	<li>visiter en touriste</li>
 	<li>visiter ses enfants ou petits-enfants</li>
 	<li>visiter pour affaires</li>
 	<li>prolonger votre séjour</li>
 	<li>transiter par le Canada</li>
-	</ul>
-
-</details>
+	</ul>"
+%}
 
 ## Remaniement du processus
 À l’aide de la recherche de base, l’équipe a remanié le processus pour régler les problèmes dont nous avons appris l’existence. Ensemble, IRCC et le BTN ont élaboré des prototypes. Nous espérions que ces prototypes allaient aider les gens à savoir de quels documents de voyage ils ont besoin. Voici quelques uns des principales corrections&nbsp;:
@@ -71,12 +70,12 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 - ajouter un lien croisé à la page thématique Visiter le Canada dans le menu thématique Voyage, en fonction des données probantes sur l’utilisateur
 
 
-
-<img class="img-responsive border" src="/images/eTA-AVE/VisaAVE-apres.JPG" alt="Image montrant la page «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après l'optimisation.">
-
-<details>
-		<summary>Version texte</summary>
-	<p>Cette image montre la page  «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous&nbsp;:», suivi de cinq choix possibles&nbsp;: </p>
+{% include components/gc-complex-img.html
+	 alt="Image montrant la page «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après l'optimisation."
+	 file="/images/eTA-AVE/VisaAVE-apres.JPG"
+	 caption=""
+	 summary="Version texte"
+	 content="	<p>Cette image montre la page  «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous&nbsp;:», suivi de cinq choix possibles&nbsp;: </p>
 	<ul>
 		<li>un citoyen du Canada et d’un autre pays (double nationalité)</li>
 		<li>un résident permanent du Canada (Carte RP)</li>
@@ -85,8 +84,8 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 		<li>un ancien résident du Canada</li>
 		<li>aucune de ces situations</li>
 	</ul>
-	La page a beaucoup moins de «&nbsp;bruit visuel&nbsp;» qu'avant l'optimisation.
-</details>
+	La page a beaucoup moins de «&nbsp;bruit visuel&nbsp;» qu'avant l'optimisation."
+%}
 
 La mise en page était parfois confondante, notamment les liens vers les règles et les exigences. Nous l’avons remplacée par une série de questions et réponses qui aident les gens à obtenir la bonne réponse.
 
@@ -98,19 +97,19 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
 
 **Avant et après l’optimisation&nbsp;: ** février 2017 et juin 2017
 
-<img class="img-responsive border" src="/images/eTA-AVE/VisiterEntonnoirs.PNG" alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.">
-
-<details>
-		<summary>Version texte</summary>
-	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes&nbsp;:</p>
+{% include components/gc-complex-img.html
+	 alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation."
+	 file="/images/eTA-AVE/VisiterEntonnoirs.PNG"
+	 caption=""
+	 summary="Version texte"
+	 content="	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes&nbsp;:</p>
 	<ul>
 		<li>déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur</li>
 		<li>présenter une demande de visa</li>
 		<li>présenter une demande d’AVE</li>
 	</ul>
-Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation.
-
-</details>
+Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont allés à l'une de ces pages. Après l'optimisation, cette proportion est grimpée à 62%, ce qui signifiait que la page de sujet était plus efficace pour amener les gens vers ces pages. Il y a aussi eu 10% plus d'entrées à la page du sujet de Visiter le Canada par le biais du mégamenu après l'optimisation."
+%}
 
 Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35&nbsp;% avant à 62&nbsp;% après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
 
@@ -125,19 +124,17 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 
 
 ## À propos d'Eric Cooper
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left mrgn-bttm-md">
-   <img class="img-responsive"  src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
-      Eric Cooper<br>
-      <b>Coordonnateur de projet</b>
-   </div>
-</div>
-
-
-<div class="col-md-9 col-xs-12">
-<figcaption>
-
-<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
-
-</figcaption>
-</div>
+<figure class="row">
+	<div class="col-md-3 col-xs-12">
+		<div class="pull-left mrgn-bttm-md">
+			<img class="img-responsive"  src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
+			Eric Cooper<br>
+			<b>Coordonnateur de projet</b>
+		</div>
+	</div>
+	<div class="col-md-9 col-xs-12">
+		<figcaption>
+			<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
+		</figcaption>
+	</div>
+</figure>

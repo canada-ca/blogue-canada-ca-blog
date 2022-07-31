@@ -39,22 +39,20 @@ Our goal for this pilot study was to:
 
 Service Canada/Principal Publisher built the widget. By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-1.png" >
-</figure>
-<details>
-  <summary>Page Feedback Widget</summary>
-  <p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/feedback-1.png"
+   caption=""
+   summary="Page Feedback Widget"
+   content="<p>Widget displays the question: &quot;Did you find what you were looking for?&quot; and offers yes and no options.</p>"
+%}
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-2.png" >
-</figure>
-<details>
-  <summary>Next screen of Page Feedback Widget.</summary>
-  <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/feedback-2.png"
+   caption=""
+   summary="Next screen of Page Feedback Widget."
+   content="<p>When users select &quot;no,&quot; they are asked &quot;What was wrong?&quot; and given the following options:</p>
   <ul>
     <li>The answer I need is missing</li>
     <li>The information isn't clear</li>
@@ -62,8 +60,8 @@ src="/images/feedback-2.png" >
     <li>Something is broken or incorrect</li>
     <li>Other reason</li>
   </ul>
-  <p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
-</details>
+  <p>Selecting &quot;other reason&quot; displays a free text field where they can provide more details, with direction not to include any personal information.</p>"
+%}
 
 ## Processing feedback
 
@@ -88,13 +86,12 @@ As of June 10, we had received 5083 responses through the 2 pilot pages the widg
 
 When people answered that they had not found what they were looking for, their answers for what was wrong gave us a clue about the top usability issues on the pages.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-graph-1.png" >
-</figure>
-<details>
-  <summary>Results of radio buttons analysis.</summary>
-  <h3>What was wrong?</h3>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/feedback-graph-1.png"
+   caption=""
+   summary="Results of radio buttons analysis."
+   content="<h3>What was wrong?</h3>
   <ul>
     <li>The answer I need is missing</li>
     <li>No reason given</li>
@@ -102,20 +99,19 @@ src="/images/feedback-graph-1.png" >
     <li>The information isn't clear</li>
     <li>I'm not in the right place</li>
     <li>Something is broken or incorrect</li>
-  </ul>
-</details>
+  </ul>"
+%}
 
 Of the 1015 “what was wrong” submissions, 782 (77%) provided more detail about what was wrong in their own words, using the text box.
 
 Using this feedback, we started to get a better picture of what was causing issues for people during their visit.  Content specialists then looked at the feedback to understand the detailed intent and causes of frustration.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-graph-2.png" >
-</figure>
-<details>
-  <summary>Results of open text analysis.</summary>
-  <h3>Top 10 Themes Referenced</h3>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/feedback-graph-2.png"
+   caption=""
+   summary="Results of open text analysis."
+   content="<h3>Top 10 Themes Referenced</h3>
   <ul>
     <li>Symptoms</li>
     <li>Permissible activities</li>
@@ -127,8 +123,8 @@ src="/images/feedback-graph-2.png" >
     <li>Financial support</li>
     <li>Vulnerable Populations</li>
     <li>PPE</li>
-  </ul>
-</details>
+  </ul>"
+%}
 
 This detail enabled Health Canada/PHAC to:
 * triage efforts based on how often they saw similar feedback

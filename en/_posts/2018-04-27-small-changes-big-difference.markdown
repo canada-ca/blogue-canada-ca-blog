@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/04/27/petits-changements-grande-difference"
+author: Scott Brisson
 date:   2018-04-27
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what Treasury Board President Scott Brison has to say about the improvement work underway.
 title:  "Canada.ca: Small changes can make a big difference"
@@ -7,7 +8,10 @@ title:  "Canada.ca: Small changes can make a big difference"
 
 **By the Honourable Scott Brison, President of the Treasury Board**
 
-<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" alt="Photo of the Honourable Scott Brison" />
+{% include components/gc-simple-img.html
+	 alt="Photo of the Honourable Scott Brison"
+	 file="/images/PO/The-Honourable-Scott-Brison.png"
+%}
 
 I’ve noted that Apple can design something so intuitive that my 4‑year‑olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
