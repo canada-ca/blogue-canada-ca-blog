@@ -31,7 +31,7 @@ Getting a clearer understanding of the mental model your users have can help you
 
 {% include components/gc-complex-img.html
    alt="Before and after web page for student loans."
-   file="/images/student-loans/student-aid-grants.jpg"
+   file="student-loans/student-aid-grants.jpg"
    caption="Grouping grants and loans together made the path to the task much clearer. Using a steps pattern on the topic page helped narrow options quickly. The result: less cognitive load and greater user success."
    summary="Detailed description"
    content="<p>There are images of the original Student loans page and the Student grants from the baseline round of testing. A green arrow points from them to the prototype version of the same content. The prototype version is called Student aid. At the top of the page is the subheading: Student grants and loans. Below this are 3 linked options:</p>
@@ -58,13 +58,13 @@ The project team attacked this problem on two fronts. First, we made an estimato
 
 {% include components/gc-complex-img.html
    alt="Before page for the number of benefit weeks."
-   file="/images/ei-mat-benefits/ei-benefits-before.jpg"
+   file="ei-mat-benefits/ei-benefits-before.jpg"
    caption="People didn't even consider the benefits being used in combination. They focused on the higher number, thinking it was the total."
 %}
 
 {% include components/gc-complex-img.html
    alt="After page for the number of benefit weeks."
-   file="/images/ei-mat-benefits/ei-benefits-after.jpg"
+   file="ei-mat-benefits/ei-benefits-after.jpg"
    caption="Showing a formula people can use and relate to helps them do the math."
    summary="Detailed description"
    content="<p>The image first shows a section of the original page content with red highlighting around a statement about a maximum of 15 weeks of <abbr title='Employment Insurance'>EI</abbr> maternity benefits. There is red highlighting around a second statement about a maximum of 61 weeks.</p>
@@ -80,7 +80,7 @@ Simplifying content doesn’t only apply to the words on a page. If people are l
 
 {% include components/gc-complex-img.html
    alt="Before and after benefits page."
-   file="/images/ei-mat-benefits/numbers.jpg"
+   file="ei-mat-benefits/numbers.jpg"
    caption="Clear, simple statements of facts are far more successful"
    summary="Detailed description"
    content="<p>On the left is a screenshot of three dense paragraphs of text from the original content. There are red boxes drawn around each of 30 numbers included in the text. A green arrow points to two screenshots on the right of the redesigned content in the prototype. Under the heading &quot;Special circumstances&quot; is a small paragraph of text in an expand/collapse field. A green box highlights a simple sentence with a link to <abbr title='Employment Insurance'>EI</abbr> sickness benefits. Below this is a second heading: Eligibility. This has a similar expand/collapse field with a similar small paragraph of text. Again, a green box indicates the same information with a link to <abbr title='Employment Insurance'>EI</abbr> sickness benefits. Below everything is a green box indicating that these changes improved results 58 percentage points.</p>"

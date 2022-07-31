@@ -46,7 +46,7 @@ Bien que le langage clair et simple soit toujours une priorité absolue, l'équi
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/NWT-image2.png"
+   file="NWT-image2.png"
    summary="Capture d'écran de la publicité illustrée des T.N.-O. dans les médias sociaux"
    content="<p>Capture d'écran d'une vidéo d'information sur les mesures de prévention COVID-19 produite par les T.N.-O. en utilisant un style d'illustration à faible largeur de bande.</p>"
 %}

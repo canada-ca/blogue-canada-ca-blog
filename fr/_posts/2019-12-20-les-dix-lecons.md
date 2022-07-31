@@ -94,5 +94,5 @@ Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous
 
 {% include components/gc-simple-img.html
    alt="Une photo de l'équipe du Bureau de la transformation numérique."
-   file="/images/equipe-BTN-2019.jpg"
+   file="equipe-BTN-2019.jpg"
 %}

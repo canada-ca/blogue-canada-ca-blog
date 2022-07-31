@@ -53,7 +53,7 @@ Nous avons également appris que, même si l’utilisation des pages de sujet du
 
 {% include components/gc-simple-img.html
    alt="Voici une capture d’écran de la vieille page sur la grippe, qui est une page de sujet typique du Canada avec une image présentant des personnes malades et 9 liens principaux. Une flèche pointe vers la nouvelle page sur la grippe, qui n’a pas de photo et contient 6 liens principaux, les symptômes et du contenu lié au traitement directement sur la page principale."
-   file="/images/collab-health/grippe-avant-apres-835x408-fr.png"
+   file="collab-health/grippe-avant-apres-835x408-fr.png"
 %}
 
 Avant l’optimisation, le modèle de sujets offrait trop de catégories et de choix. Certains sujets se chevauchaient (comme «&nbsp;Risques&nbsp;» et «&nbsp;Prévention&nbsp;»), d’autres n’avaient pas d’étiquettes claires (comme «&nbsp;Surveillance&nbsp;»). Il était difficile pour les gens de savoir où trouver les réponses qu’ils cherchaient.
@@ -67,7 +67,7 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 
 {% include components/gc-complex-img.html
    alt="Image présentant 11 personnes debout devant un écran montrant les données d’amélioration."
-   file="/images/collab-health/hc-phac-dto-team-835x423.jpg"
+   file="collab-health/hc-phac-dto-team-835x423.jpg"
    caption="Une partie de l’équipe de projet de Santé Canada et de l’Agence de santé publique Canada avec le Bureau de la transformation numérique."
 %}
 

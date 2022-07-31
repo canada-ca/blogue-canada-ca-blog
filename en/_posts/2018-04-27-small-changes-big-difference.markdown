@@ -10,7 +10,7 @@ title:  "Canada.ca: Small changes can make a big difference"
 
 {% include components/gc-simple-img.html
 	 alt="Photo of the Honourable Scott Brison"
-	 file="/images/PO/The-Honourable-Scott-Brison.png"
+	 file="PO/The-Honourable-Scott-Brison.png"
 %}
 
 I’ve noted that Apple can design something so intuitive that my 4‑year‑olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.

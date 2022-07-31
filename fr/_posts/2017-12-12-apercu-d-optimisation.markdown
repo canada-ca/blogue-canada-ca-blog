@@ -23,7 +23,7 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 
 {% include components/gc-complex-img.html
 	 alt="Comment nous optimisions le site Canadapointca - des détails suivent."
-	 file="/images/process/optimization-process-FR.png"
+	 file="process/optimization-process-FR.png"
 	 caption="<p>Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne&nbsp;:</p>
 		<ol>
 			<li><b>Recherche de découvertes</b>&nbsp;: collecte et synthèse des éléments probants existants pour les transformer en idées et hypothèses dans le but de produire des scénarios pour l’essai de validation </li>

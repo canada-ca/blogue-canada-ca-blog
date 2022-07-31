@@ -28,7 +28,7 @@ Anyone who has seen a heat map of how people read a web page will be familiar wi
 
 {% include components/gc-simple-img.html
    alt="Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
-   file="/images/heatmap.jpg"
+   file="heatmap.jpg"
 %}
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour.
@@ -62,7 +62,7 @@ On the General information by telephone page, we added a new top question and an
 
 {% include components/gc-simple-img.html
    alt="General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
-   file="/images/faq.png"
+   file="faq.png"
 %}
 
 ## Guidelines for limited use of FAQs

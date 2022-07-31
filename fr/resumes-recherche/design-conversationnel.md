@@ -70,7 +70,7 @@ Les agents conversationnels fonctionnent ainsi:
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/chat-cycle-fr.jpg"
+   file="chat-cycle-fr.jpg"
    caption=""
    summary="Fonctionnement des agents conversationnels"
    content="<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>"
@@ -106,7 +106,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/conversation-1.png"
+   file="conversation-1.png"
    caption=""
    summary="Assistant (en anglais seulement)"
    content="<p>L'assistant &quot;Trouver le bon contact ou numéro de téléphone de l'ARC&quot; affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>"
@@ -114,7 +114,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/conversation-2.png"
+   file="conversation-2.png"
    caption=""
    summary="Agent conversationnel (en anglais seulement)"
    content="<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte &quot;Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?&quot; Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>"
@@ -122,7 +122,7 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/conversation-3.png"
+   file="conversation-3.png"
    caption=""
    summary="Agent vocal de l’assistant Google (en anglais seulement)"
    content="<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche&nbsp;: &quot;Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler?&quot; La réponse est &quot;une déclaration de preuve de revenus&quot;.</p>"
@@ -138,7 +138,7 @@ Dans la **partie 2**, nous avons apporté des changements mineurs à certains sc
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/conversation-4.png"
+   file="conversation-4.png"
    caption=""
    summary="Agent vocal (en anglais seulement)"
    content="<p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>"

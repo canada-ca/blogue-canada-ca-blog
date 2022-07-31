@@ -13,7 +13,7 @@ Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis pl
 
 {% include components/gc-complex-img.html
    alt="Image avant et après de la page d'accueil de Canada.ca"
-   file="/images/mise-a-jour-conception/avant-apres-conception.jpg"
+   file="mise-a-jour-conception/avant-apres-conception.jpg"
    caption="Une comparaison de l'ancien modèle de Canada.ca (à gauche) et du nouveau modèle (à droite)."
 %}
 

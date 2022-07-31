@@ -16,7 +16,7 @@ Les listes de vérification aident les gens à décomposer des listes d'admissib
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/criteres-2.PNG"
+   file="criteres-2.PNG"
    caption=""
    summary="Critères d'admissibilité à la Prestation canadienne de la relance économique"
    content="<p>Critères d'admissibilité à la Prestation canadienne de la relance économique, en affichant des listes de vérification interactives à côté de chaque condition d'éligibilité.</p>"

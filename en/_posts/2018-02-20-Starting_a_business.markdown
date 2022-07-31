@@ -27,7 +27,7 @@ To understand those needs, we mapped out the different actions and decisions tha
 
 {% include components/gc-complex-img.html
 	 alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows"
-	 file="/images/start-lancer/Naming_a_business_decisions.JPG"
+	 file="start-lancer/Naming_a_business_decisions.JPG"
 	 caption=""
 	 summary="Text version of this chart"
 	 content="<p>Hand-drawn decision tree beginning with “Going to incorporate?”</p>
@@ -74,7 +74,7 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 
 {% include components/gc-complex-img.html
 	 alt="Chart showing traffic differences before and after optimization. Text version follows."
-	 file="/images/start-lancer/Naming_a_business_funnel.png"
+	 file="start-lancer/Naming_a_business_funnel.png"
 	 caption=""
 	 summary="Text version of this chart"
 	 content="<p>Funnel diagram showing a before and after.</p>

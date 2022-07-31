@@ -17,7 +17,7 @@ La page de sujet Lancer une entreprise utilisait le modèle normalisé au début
 
 {% include components/gc-simple-img.html
 	 alt="La page de sujet Lancer une entreprise en Octobre avec les publications, régulations et sujets ordonnés par hazard."
-	 file="/images/Sujet_lancer_Oct2016_567x573.png"
+	 file="Sujet_lancer_Oct2016_567x573.png"
 	 caption=""
 	 summary=""
 	 content=""
@@ -44,7 +44,7 @@ La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fo
 
 {% include components/gc-simple-img.html
 	 alt="La page Lancer une entreprise, maintenant avec des étapes et pas de photo"
-	 file="/images/Sujet_lancer_Aout2017_599x494.png"
+	 file="Sujet_lancer_Aout2017_599x494.png"
 %}
 
 ## Résultats améliorés pour les Canadiens qui lancent une entreprise

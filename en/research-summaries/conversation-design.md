@@ -69,7 +69,7 @@ Conversational agents work like this:
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/chat-cycle-en.jpg"
+   file="chat-cycle-en.jpg"
    caption=""
    summary="Chat cycle diagram"
    content="<p>A visual example of how a conversation agent works. The user says something. Natural language processing tries to match it to an intent, in context. Then, the agent replies something. If the conversation is not over, the cycle repeats.</p>"
@@ -105,7 +105,7 @@ To test whether a conversational agent could help improve task success, we built
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/conversation-1.png"
+   file="conversation-1.png"
    caption=""
    summary="Wizard"
    content="<p>The &quot;Find the right CRA contact or telephone number&quot; wizard displays questions about your call to help guide you to the answer you need.</p>"
@@ -113,7 +113,7 @@ To test whether a conversational agent could help improve task success, we built
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/conversation-2.png"
+   file="conversation-2.png"
    caption=""
    summary="Chatbot"
    content="<p>The CRA chatbot that appears at the bottom of your screen. It displays the text &quot;Hi, let's try to find the right CRA phone number for you. What do you want want to call about?&quot; People then type in their answer to get a response.</p>"
@@ -121,7 +121,7 @@ To test whether a conversational agent could help improve task success, we built
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/conversation-3.png"
+   file="conversation-3.png"
    caption=""
    summary="Google assistant voice agent"
    content="<p>The CRA phone number finder Google voice assistant. It displays the text &quot;Welcome to the CRA phone number finder. What do you want to call about?&quot; The response is &quot;a proof of income statement.&quot;</p>"
@@ -137,7 +137,7 @@ In **Part 2**, we made minor changes to some task scenarios, and asked participa
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/conversation-4.png"
+   file="conversation-4.png"
    caption=""
    summary="Conversational agent"
    content="<p>To test the voice interaction, the participant spoke to the facilitator as if speaking to a Google Home device. The  facilitator typed into the chatbot and spoke for the voice agent. The behaviour and wording of the chatbot was the same as it would be on a Google Home.</p>"

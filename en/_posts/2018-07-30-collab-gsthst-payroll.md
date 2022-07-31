@@ -98,7 +98,7 @@ Here’s an example of what the main Payroll and GST/HST pages looked like in ba
 
 {% include components/gc-simple-img.html
    alt="A before and after screenshot of the Payroll page showing the differences."
-   file="/images/taxes-impots/payroll-before-after-en.png"
+   file="taxes-impots/payroll-before-after-en.png"
 %}
 
 Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow.
@@ -107,7 +107,7 @@ After validation, we organized topics into a new template. We laid them out in s
 
 {% include components/gc-simple-img.html
    alt="A before and after screenshot of the GST/HST page showing the differences."
-   file="/images/taxes-impots/gsthst-before-after-en.png"
+   file="taxes-impots/gsthst-before-after-en.png"
 %}
 
 Also, before optimization, people didn’t know what to click on, as the labels were not descriptive enough. For example “Charge the GST/HST”, “GST/HST returns” and “GST/HST payments all seemed very similar.

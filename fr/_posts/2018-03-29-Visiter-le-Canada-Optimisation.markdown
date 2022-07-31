@@ -47,7 +47,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 {% include components/gc-complex-img.html
 	 alt="Image montrant la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant l'optimisation."
-	 file="/images/eTA-AVE/VisaAVE-avant.JPG"
+	 file="eTA-AVE/VisaAVE-avant.JPG"
 	 caption=""
 	 summary="Version texte"
 	 content="<p>Cette image montre ce qu'était la page «&nbsp;Déterminez si vous avez besoin d'une autorisation de voyage électronique (AVE) ou d'un visa de visiteur&nbsp;» avant qu'elle ne soit optimisée.</p><p>Il y a deux paragraphes de texte qui comportent quatre liens chacun. En-dessous, dans une boîte bleue, il y a plus de texte avec un menu déroulant des pays. Au bas de la page, il y a trois liens connexes dans de grandes boîtes. Sur le côté gauche de la page se trouve un menu de navigation de gauche avec des liens vers&nbsp;:</p><ul>
@@ -72,7 +72,7 @@ Voici à quoi ressemblait la page principale du processus lorsque nous avons com
 
 {% include components/gc-complex-img.html
 	 alt="Image montrant la page «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après l'optimisation."
-	 file="/images/eTA-AVE/VisaAVE-apres.JPG"
+	 file="eTA-AVE/VisaAVE-apres.JPG"
 	 caption=""
 	 summary="Version texte"
 	 content="	<p>Cette image montre la page  «&nbsp;Vérifiez si vous avez besoin d'un visa&nbsp;» après optimisation. Il y a un court paragraphe de texte suivi de «Êtes-vous&nbsp;:», suivi de cinq choix possibles&nbsp;: </p>
@@ -99,7 +99,7 @@ Après l’intégration des prototypes au site en direct en mars 2017, les analy
 
 {% include components/gc-complex-img.html
 	 alt="Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation."
-	 file="/images/eTA-AVE/VisiterEntonnoirs.PNG"
+	 file="eTA-AVE/VisiterEntonnoirs.PNG"
 	 caption=""
 	 summary="Version texte"
 	 content="	<p>Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation, le nombre de personnes qui sont allées de la page de sujet Visiter le Canada à l'une des pages suivantes&nbsp;:</p>

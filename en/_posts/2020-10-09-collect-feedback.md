@@ -41,7 +41,7 @@ Service Canada/Principal Publisher built the widget. By embedding it into pages,
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/feedback-1.png"
+   file="feedback-1.png"
    caption=""
    summary="Page Feedback Widget"
    content="<p>Widget displays the question: &quot;Did you find what you were looking for?&quot; and offers yes and no options.</p>"
@@ -49,7 +49,7 @@ Service Canada/Principal Publisher built the widget. By embedding it into pages,
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/feedback-2.png"
+   file="feedback-2.png"
    caption=""
    summary="Next screen of Page Feedback Widget."
    content="<p>When users select &quot;no,&quot; they are asked &quot;What was wrong?&quot; and given the following options:</p>
@@ -88,7 +88,7 @@ When people answered that they had not found what they were looking for, their a
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/feedback-graph-1.png"
+   file="feedback-graph-1.png"
    caption=""
    summary="Results of radio buttons analysis."
    content="<h3>What was wrong?</h3>
@@ -108,7 +108,7 @@ Using this feedback, we started to get a better picture of what was causing issu
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/feedback-graph-2.png"
+   file="feedback-graph-2.png"
    caption=""
    summary="Results of open text analysis."
    content="<h3>Top 10 Themes Referenced</h3>

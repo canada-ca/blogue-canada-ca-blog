@@ -74,7 +74,7 @@ Placement of alerts is only half the battle. How you design them can make a worl
 ****
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/Travel-alert-1.png"
+   file="Travel-alert-1.png"
    caption=""
    summary="What to do: Clear date, correct verb tense, repeated in-context within the page"
    content="<p>Alert text placed at the top of the page with a clear effective date:</p>
@@ -84,7 +84,7 @@ Placement of alerts is only half the battle. How you design them can make a worl
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/Travel-alert-2.png"
+   file="Travel-alert-2.png"
    caption=""
    summary="What to do: Clear date, correct verb tense, repeated in-context within the page"
    content="<p>Alert repeated within the relevant section of the page with clear effective date:</p>
@@ -94,7 +94,7 @@ Placement of alerts is only half the battle. How you design them can make a worl
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/Travel-alert-3.png"
+   file="Travel-alert-3.png"
    caption=""
    summary="What not to do: Critical date was missing and verbs are in present tense, so it made it seem like the rules were in effect already, (released February 15, rules were not changing until February 28)"
    content="<p>Example of alert text that is too vague and caused misunderstanding by using the wrong verb tense:</p>
