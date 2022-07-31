@@ -16,7 +16,7 @@ Le principal défi lié à l’amélioration de l’EU de nos sites et services 
 
 {% include components/gc-complex-img.html
 	 alt="Photographie de Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018"
-	 file="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png"
+	 file="gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png"
 	 caption="Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018."
 	 summary=""
 	 content=""

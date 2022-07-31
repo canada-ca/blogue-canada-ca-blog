@@ -46,7 +46,7 @@ This is what the key page in the process looked like when we started. Notice the
 
 {% include components/gc-complex-img.html
 	 alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization."
-	 file="/images/eTA-AVE/VisaETA-before.jpg"
+	 file="eTA-AVE/VisaETA-before.jpg"
 	 summary="Text version of this image"
 	 content="<p>This image shows what the &quot;Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa&quot; page looked like before it was optimized.</p>
 	<p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p>
@@ -71,7 +71,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 
 {% include components/gc-complex-img.html
 	 alt="Image showing what the &quot;Find out if you need a visa page&quot; looked like after optimization"
-	 file="/images/eTA-AVE/VisaETA-after.jpg"
+	 file="eTA-AVE/VisaETA-after.jpg"
 	 caption=""
 	 summary="Text version of this image"
 	 content="<p>This image shows the &quot;Find out if you need a visa&quot; page after optimization.</p>
@@ -100,7 +100,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 {% include components/gc-complex-img.html
 	 alt="This image shows two funnels comparing before and after optimization."
-	 file="/images/eTA-AVE/VisaETA-funnels2.JPG"
+	 file="eTA-AVE/VisaETA-funnels2.JPG"
 	 caption=""
 	 summary="Text version of this image"
 	 content="<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages:</p>

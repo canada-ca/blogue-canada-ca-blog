@@ -73,7 +73,7 @@ Le placement d’alertes n’est que la moitié du combat. Votre conception peut
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/Alerte-voyage-1.png"
+   file="Alerte-voyage-1.png"
    caption=""
    summary="À faire&nbsp;: date claire, temps de verbe exact, répété dans le contexte de la page"
    content="<p>Texte d'alerte placé en haut de la page avec une date d'entrée en vigueur claire :</p>
@@ -83,7 +83,7 @@ Le placement d’alertes n’est que la moitié du combat. Votre conception peut
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/Alerte-voyage-2.png"
+   file="Alerte-voyage-2.png"
    caption=""
    summary="À faire&nbsp;: date claire, temps de verbe exact, répété dans le contexte de la page"
    content="<p>Alerte répétée dans la section pertinente de la page avec une date d'entrée en vigueur claire :</p>
@@ -93,7 +93,7 @@ Le placement d’alertes n’est que la moitié du combat. Votre conception peut
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/Alerte-voyage-3.png"
+   file="Alerte-voyage-3.png"
    caption=""
    summary="À ne pas faire&nbsp;: La date critique était manquante et les verbes sont au présent, il a donc semblé que les règles étaient déjà en vigueur (publiées le 15 février, les règles n’ont pas changé avant le 28 février)"
    content="<p>Exemple de texte d'alerte trop vague qui a provoqué un malentendu en utilisant le mauvais temps de verbe :</p>

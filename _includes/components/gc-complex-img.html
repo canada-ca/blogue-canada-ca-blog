@@ -1,5 +1,6 @@
+{%- assign file = site.static_files | where: "lang", page.lang | find_exp: "item", "item.path contains filename" -%}
 <figure class="gc-complex-img" role="group">
-	<img alt="{{ include.alt }}" src="{{ include.file }}">
+	<img alt="{{ include.alt }}" src="{{ file.path }}">
 	<figcaption>
 		{%- if include.summary -%}
 			{%- if include.caption != "" -%}

@@ -21,7 +21,7 @@ Obtenir une compréhension plus éclairée du modèle mental de vos utilisateurs
 
 {% include components/gc-complex-img.html
    alt="La page Web pour les prêts étudiants avant et après."
-   file="/images/prets-etudiants/pret-subvention-etudiants.jpg"
+   file="prets-etudiants/pret-subvention-etudiants.jpg"
    caption="Le regroupement des prêts et des bourses a permis de rendre le parcours beaucoup plus clair. Résultat&nbsp;: une charge cognitive moins importante et un plus grand taux de réussite pour les utilisateurs."
    summary="Description détaillée"
    content="<p>Il y a des captures d’écran de la page originale Prêts aux étudiants et Subventions aux étudiants, prises lors de la ronde de référence. Une flèche verte pointe vers le contenu équivalent de la version prototype. La version prototype est intitulée Aide aux étudiants. On trouve au haut de la page le sous-titre «&nbsp;Bourses et prêts aux étudiants&nbsp;». Le sous-titre est suivi de trois liens&nbsp;:</p>
@@ -48,13 +48,13 @@ L’équipe de projet a abordé le problème par deux angles. Nous avons d’abo
 
 {% include components/gc-complex-img.html
    alt="La page Web pour le nombre de semaines de prestations avant."
-   file="/images/prestations-mat-ae/prestations-mat-avant.jpg"
+   file="prestations-mat-ae/prestations-mat-avant.jpg"
    caption="Les gens ne tenaient même pas compte des prestations utilisées en combinaison. Ils n’accordaient leur attention qu’au nombre le plus élevé, pensant qu’il s’agissait du total."
 %}
 
 {% include components/gc-complex-img.html
   alt="La page Web pour le nombre de semaines de prestations après."
-  file="/images/prestations-mat-ae/prestations-mat-apres.jpg"
+  file="prestations-mat-ae/prestations-mat-apres.jpg"
   caption="Montrer une formule pratique que les gens pourront comprendre, afin de les aider à effectuer le calcul."
   summary="Description détaillée"
   content="<p>On y montre d’abord une section du contenu de la page original. On y encadre en rouge un énoncé indiquant qu’il y a un maximum de 15 semaines pour les prestations de maternité de l’<abbr title='Assurance-emploi'>AE</abbr>. Un autre énoncé est encadré en rouge, indiquant un maximum de 61 semaines pour les prestations parentales.</p>
@@ -71,7 +71,7 @@ La simplification du contenu ne se limite pas aux mots d’une page. Lorsque les
 
 {% include components/gc-complex-img.html
    alt="La page Web des prestations avant et après."
-   file="/images/prestations-mat-ae/chiffres.jpg"
+   file="prestations-mat-ae/chiffres.jpg"
    caption="Des énoncés de faits clairs et simples ont beaucoup plus de succès"
    summary="Description détaillée"
    content="<p>On trouve à gauche une capture d’écran contenant trois paragraphes de texte dense tirés du contenu original. Des encadrés rouges indiquent les 30 chiffres mentionnés dans ce segment de texte. Une flèche verte pointe vers les deux captures d’écran à la droite, qui montrent l’équivalent pour le prototype restructuré. Sous l’en-tête «&nbsp;Circonstances spéciales&nbsp;» se trouve un court paragraphe de texte dans un champ que l’on peut agrandir ou réduire. Un encadré vert souligne une phrase simple contenant un lien vers la page pour les prestations de maladie de l’<abbr title='Assurance-emploi'>AE</abbr>. On trouve sous celui-ci un autre en-tête, «&nbsp;Admissibilité&nbsp;». Le court paragraphe qui l’accompagne est également dans un champ que l’on peut agrandir ou réduire. Encore une fois, un encadré vert indique les mêmes renseignements, avec un lien vers la page pour les prestations de maladie de l’<abbr title='Assurance-emploi'>AE</abbr>. On trouve au bas de l’image une boîte verte indiquant que ces changements ont entraîné une augmentation de 58 points de pourcentage.</p>" %}

@@ -32,7 +32,7 @@ One way to manage a page with a lot of links is to look at click-through rates.
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/click-1.png"
+   file="click-1.png"
    caption=""
    summary="Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020."
    content="<table class='table'>
@@ -88,7 +88,7 @@ The DTO has been piloting better ways to get feedback from people on some COVID-
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/feedback-1.png"
+   file="feedback-1.png"
    caption=""
    summary="Page Feedback Widget"
    content="<p>The page feedback component sits at the bottom of key web pages. It displays the question &quot;Did you find what you were looking for?&quot; and provides both a &quot;yes&quot; and &quot;no&quot; button.</p>"
@@ -105,7 +105,7 @@ Between December 11 and 14, 60% (87/144) of comments were about ingredients and 
 
 {% include components/gc-complex-img.html
   alt="A long description can be found after the image."
-  file="/images/action-2.PNG"
+  file="action-2.PNG"
   caption=""
   summary="Feedback from ingredient list"
   content="<table class='table'>

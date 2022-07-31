@@ -23,7 +23,7 @@ En 2016, le Bureau de la transformation numérique a mené une étude de suivi o
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/money-1.png"
+   file="money-1.png"
    caption=""
    summary="Carte thermique d'une étude de suivi oculaire de carrousel (en anglais seulement)"
    content="<p>Carte thermique issue d'une étude de suivi oculaire qui montre comment le regard s'est déplacé et a contourné le carrousel</p>"
@@ -69,7 +69,7 @@ Mieux encore que de placer votre promotion sur une page liée au sujet, vous pou
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/ccb-2.png"
+   file="ccb-2.png"
    summary="Exemple de promotion sur la page de la prestation canadienne pour enfants"
    content="<p>La page de la Prestation canadienne pour enfants comporte une promotion au milieu de la page, avec le texte de lien : Vérifiez si vous pouvez profiter des Comptoirs d’impôts gratuits pour faire votre déclaration.</p>
 <p>Il est placé juste après la section qui explique que vous devez remplir votre déclaration de revenus pour pouvoir continuer à recevoir la prestation.</p>"

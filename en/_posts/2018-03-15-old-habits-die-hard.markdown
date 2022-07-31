@@ -15,7 +15,7 @@ The main challenge of improving the UX of our sites and services isn’t the ado
 
 {% include components/gc-complex-img.html
 	 alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018"
-	 file="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png"
+	 file="gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png"
 	 caption="Celeste Côté during Gerry McGovern's master class at Bayview Yards in Ottawa, February 13, 2018."
 	 summary=""
 	 content=""

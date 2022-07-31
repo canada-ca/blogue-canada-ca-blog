@@ -50,7 +50,7 @@ We also learned that while using the “topic” pages from the Canada.ca Conten
 As an example, here’s a quick look at what the flu section looked like before and after optimization:
 {% include components/gc-simple-img.html
    alt="Screenshot of the old flu page, which is a typical Canada topic page with a photo of sick people and 9 main links. An arrow points to the new flu page, which has no photo, 6 main links, and symptoms and treatment content right on the page."
-   file="/images/collab-health/flu-before-after-835x408-en.png"
+   file="collab-health/flu-before-after-835x408-en.png"
 %}
 
 Before optimization, the topic template offered too many categories and choices. Some topics overlapped (like “risks” and “prevention”), and some had unclear labels (like “surveillance”). It was hard for people to tell where to find the answers they were looking for.
@@ -63,7 +63,7 @@ We’ve just completed another round of usability testing with Canadians to vali
 
 {% include components/gc-complex-img.html
    alt="Photo of 11 people standing in front of a screen showing success improvement data."
-   file="/images/collab-health/hc-phac-dto-team-835x423.jpg"
+   file="collab-health/hc-phac-dto-team-835x423.jpg"
    caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office."
 %}
 

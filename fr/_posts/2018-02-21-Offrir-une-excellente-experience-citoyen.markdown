@@ -16,7 +16,7 @@ Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et
 
 {% include components/gc-complex-img.html
 	 alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître, Bayview Yards, le 13 février 2018"
-	 file="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg"
+	 file="gerry-week/Gerry and mic 2018_02_18-4075.jpg"
 	 caption="Gerry McGovern en interaction avec le public pendant l'atelier de maître au Bayview Yards à Ottawa, le 13 février 2018."
 	 summary=""
 	 content=""

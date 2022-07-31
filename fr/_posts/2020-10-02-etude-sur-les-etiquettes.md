@@ -30,7 +30,7 @@ Les participants ont répondu aux questions en cliquant sur l'une des options d'
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/label-FR.png"
+   file="label-FR.png"
    caption=""
    summary="Exemple d'une question dans l'étude."
    content="<p>Trouver&nbsp;: &quot;Quelle est l'approche stratégique pour lever les restrictions de santé publique? Où cliqueriez-vous? Les options comprennent&nbsp;:</p>
@@ -70,7 +70,7 @@ Par exemple, l'étiquette «&nbsp;Protecting public health&nbsp;» a remporté d
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/label-5.png"
+   file="label-5.png"
    caption=""
    summary="Page d'accueil de la maladie à coronavirus (COVID-19)"
    content="<p>Page d'accueil de la maladie à coronavirus (COVID-19) sur Canada.ca avec les nouvelles bandes. Les étiquettes comprennent&nbsp;: Choisir de porter un masque non médical, Situation actuelle, Soutien financier, Votre santé, Limiter la propagation, Voyage et immigration, Comment vous pouvez aider, Renseignements ciblés.</p>"

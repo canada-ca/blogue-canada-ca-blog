@@ -29,7 +29,7 @@ Ce qui a également aidé à mettre en lumière certains des points du processus
 
 {% include components/gc-complex-img.html
 	 alt="Diagramme rédigé à la main qui montre ce qui se passe au moment de la constitution en société. La version texte suit."
-	 file="/images/start-lancer/Nom_dentreprise_decisions.jpg"
+	 file="start-lancer/Nom_dentreprise_decisions.jpg"
 	 caption=""
 	 summary="Version texte"
 	 content="<p>Le diagramme de décision rédigé à la main commence par «&nbsp;Constituer l’entreprise en société?&nbsp;».</p>
@@ -77,7 +77,7 @@ La nouvelle conception a été mise en ligne dans le menu «&nbsp;Entreprises&nb
 
 {% include components/gc-complex-img.html
 	 alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit."
-	 file="/images/start-lancer/Nom_dentreprise_entonnoir.png"
+	 file="start-lancer/Nom_dentreprise_entonnoir.png"
 	 caption=""
 	 summary="Version texte de ce diagramme"
 	 content="<p>Le diagramme en entonnoir montre les étapes avant et après. </p>

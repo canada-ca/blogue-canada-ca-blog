@@ -98,7 +98,7 @@ Voici un exemple de ce à quoi ressemblaient les pages principales liées aux re
 
 {% include components/gc-simple-img.html
    alt="Capture d'écran montrant la page Retenues sur la pei avant et après et indiquant les différences."
-   file="/images/taxes-impots/payroll-before-after-fr.png"
+   file="taxes-impots/payroll-before-after-fr.png"
 %}
 
 Avant l’optimisation, les résultats des essais de convivialité de base indiquaient que la première page dédiée aux retenues sur la paie entraînait de la confusion parce que les utilisateurs éprouvaient de la difficulté à choisir le lien à suivre.
@@ -107,7 +107,7 @@ Après la validation, nous avons organisé les sujets suivant un nouveau modèle
 
 {% include components/gc-simple-img.html
    alt="Capture d'écran montrant la page TPS / TVH avant et après et indiquant les différences."
-   file="/images/taxes-impots/gsthst-before-after-fr.png"
+   file="taxes-impots/gsthst-before-after-fr.png"
 %}
 
 De plus, avant l’optimisation, les utilisateurs ne savaient pas sur quels éléments cliquer, car les étiquettes n’étaient pas suffisamment descriptives. Par exemple, les options «&nbsp;Facturer la TPS/TVH&nbsp;», «&nbsp;Déclarations de TPS/TVH&nbsp;» et «&nbsp;Perception de la TPS/TVH&nbsp;» semblaient toutes très similaires.

@@ -34,7 +34,7 @@ Nous avons d'abord utilisé le bouton de super tâche à partir de la page d'acc
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/bouton-2.PNG"
+   file="bouton-2.PNG"
    caption=""
    summary="Agence du revenu du Canada – page d'accueil institutionnelle"
    content="<p>Le bouton de super tâche apparaît directement sous le titre principal de la page, avant les autres contenus.</p>"
@@ -50,7 +50,7 @@ Par exemple, le site réservé à la Prestation canadienne de la relance économ
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/ARC-2.PNG"
+   file="ARC-2.PNG"
    caption=""
    summary="Prestation de rétablissement du Canada – Comment faire une demande"
    content="<p>Le bouton de super tâche apparaît sous l'en-tête «&nbsp;Postuler en ligne ou par téléphone&nbsp;» </p>"
@@ -84,7 +84,7 @@ Remarquez comment les boutons de tâche primaire et secondaire fonctionnent de c
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/pouvez-vous.PNG"
+   file="pouvez-vous.PNG"
    caption=""
    summary="Exemple de boutons de tâches primaires et secondaires"
    content=" <p>Une invitation à participer à un sondage sur Canada.ca utilise le style de la tâche principale pour l'option &quot;Oui, après ma visite&quot;, et le style de la tâche secondaire pour l'option &quot;Non, merci&quot;.</p>"

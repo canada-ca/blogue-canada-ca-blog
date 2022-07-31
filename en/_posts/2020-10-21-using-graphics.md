@@ -45,7 +45,7 @@ While plain language is always a top priority, the NWT’s web team has also fou
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/NWT-image.png"
+   file="NWT-image.png"
    caption=""
    summary="Screen capture of NWT illustrated social media ad"
    content="<p>Screen capture of an informational video on COVID-19 prevention measures produced by the NWT using a low-bandwidth illustration style.</p>"

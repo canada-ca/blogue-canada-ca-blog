@@ -1,5 +1,6 @@
+{%- assign file = site.static_files | where: "lang", page.lang | find_exp: "item", "item.path contains filename" -%}
 <div class="panel panel-default">
 	<figure class="panel-body">
-		<img class="img-responsive center-block" alt="{{ include.alt }}" title="{{ include.alt }}" src="{{ include.file }}">
+		<img class="img-responsive center-block" alt="{{ include.alt }}" title="{{ include.alt }}" src="{{ file.path }}">
 	</figure>
 </div>

@@ -16,7 +16,7 @@ Checklists help people break down complex eligibility lists to ensure that they 
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/eligibility-1.PNG"
+   file="eligibility-1.PNG"
    caption=""
    summary="Eligibility checklist for the Canada Recovery Benefit"
    content="<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>"

@@ -33,7 +33,7 @@ We first used the super task button on the CRA institutional landing page. There
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/green-button-1.PNG"
+   file="green-button-1.PNG"
    caption=""
    summary="Canada Revenue Agency - Institutional landing page"
    content="<p>Super task button appears directly below the main title of the page, ahead of other content.</p>"
@@ -49,7 +49,7 @@ For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my 
 
 {% include components/gc-complex-img.html
   alt="A long description can be found after the image."
-  file="/images/apply-online-1.PNG"
+  file="apply-online-1.PNG"
   caption=""
   summary="Canada Recovery Benefit - How to apply"
   content="<p>Super task button appears part way down the page, below the in the Apply online or by phone heading</p>"
@@ -83,7 +83,7 @@ Notice how the primary and secondary task buttons work together in this survey i
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/improve-CA.PNG"
+   file="improve-CA.PNG"
    caption=""
    summary="Example of primary and secondary task buttons"
    content="<p>Example of primary and secondary task buttons working together.</p>"

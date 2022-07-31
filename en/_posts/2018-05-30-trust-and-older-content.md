@@ -14,7 +14,7 @@ How can we can help show that content is still relevant? By indicating when page
 ## You can see how old content is on Canada.ca
 {% include components/gc-simple-img.html
    alt="Screenshot of a blurred Canada.ca page showing the date modified near the bottom on the left side."
-   file="/images/dates-matter/pagewithdate-small-en.jpg"
+   file="dates-matter/pagewithdate-small-en.jpg"
 %}
 
 (You'll see the date this post was published if you look near the bottom of this page.)
@@ -24,14 +24,14 @@ The second place people see the date is in search engine results. Both on Intern
 
 {% include components/gc-simple-img.html
    alt="Internet search results page for &quot;Vaccines while pregnant&quot; showing a Canada.ca result (Vaccinations and pregnancy) with June 30, 2015 highlighted"
-   file="/images/dates-matter/blog-date-internet-serp-en.png"
+   file="dates-matter/blog-date-internet-serp-en.png"
 %}
 
 ...and on Canada.ca search:
 
 {% include components/gc-simple-img.html
    alt="Canada.ca search results page for &quot;vaccines while pregnant&quot; showing a result (Vaccinations and pregnancy) with June 20, 2015 highlighted"
-   file="/images/dates-matter/blog-date-canadadotca-serp.png"
+   file="dates-matter/blog-date-canadadotca-serp.png"
 %}
 
 ## Why content age matters

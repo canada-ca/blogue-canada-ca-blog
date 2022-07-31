@@ -40,7 +40,7 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 
 {% include components/gc-complex-img.html
    alt="A pie chart shows 7 tasks received the top 25% of votes. The chart shows the next 25% of votes were spread over 11 tasks, then 18 tasks and the final 25% of votes were spread over 42 tasks."
-   file="/images/top-task.png"
+   file="top-task.png"
    caption=""
    summary="The Canadian top task study results."
    content="<h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>

@@ -28,7 +28,7 @@ Participants responded to the task questions by clicking on one of the potential
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/label.png"
+   file="label.png"
    summary="Example of a question in the study."
    content="<p>Find: &quot;How can my store reduce the risk of transmission of COVID-19?&quot; Where would you click? Options include:</p>
   <ul>
@@ -65,7 +65,7 @@ For example, the “Protecting public health” label won strong majorities in E
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/label-4.png"
+   file="label-4.png"
    summary="Coronavirus disease (COVID-19) landing page"
    content="<p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>"
 %}
