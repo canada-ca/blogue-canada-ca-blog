@@ -25,19 +25,20 @@ The needs of the entrepreneurs were straightforward. They wanted to:
 
 To understand those needs, we mapped out the different actions and decisions that a new business owner has to make. This also helped to highlight some of the points in the process that were particularly painful. Here’s an example of a decision map for one of the start-a-business tasks that highlighted a key pain point:
 
-<img class="img-responsive" alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows" src="/images/start-lancer/Naming_a_business_decisions.JPG">
-
-<details>
-	<summary>Text version of this chart</summary>
-	<p>Hand-drawn decision tree beginning with “Going to incorporate?”</p>
+{% include components/gc-complex-img.html
+	 alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows"
+	 file="/images/start-lancer/Naming_a_business_decisions.JPG"
+	 caption=""
+	 summary="Text version of this chart"
+	 content="<p>Hand-drawn decision tree beginning with “Going to incorporate?”</p>
 	<ul>
 		<li>If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point)</li>
 		<li>If “Federal”, then “Get a name report Federal or Provincial” </li>
 		<li>If “Federal”, then “Apply”. If “Provincial”, the tree ends </li>
 		<li>If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number” </li>
 		<li>If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others</li>
-	</ul>
-</details>
+	</ul>"
+%}
 
 Whether incorporating or not, people must choose a unique name for their business. The naming process seemed difficult in our initial research, so we looked to validate it.
 
@@ -71,14 +72,15 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 
 **Before and after optimization:** February 4 to April 4, 2017 and May 26 to July 24, 2017
 
-<img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/start-lancer/Naming_a_business_funnel.png">
-
-<details>
-	<summary>Text version of this chart</summary>
-	<p>Funnel diagram showing a before and after.</p>
+{% include components/gc-complex-img.html
+	 alt="Chart showing traffic differences before and after optimization. Text version follows."
+	 file="/images/start-lancer/Naming_a_business_funnel.png"
+	 caption=""
+	 summary="Text version of this chart"
+	 content="<p>Funnel diagram showing a before and after.</p>
 	<p> In before, at the top of the funnel 520 start at “Naming your business”. 30% then went to “NUANS corporate name search”. 5% then went to “Learn more”, then 2% went to “Order now” where the funnel ends.</p>
-	<p>In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>
-</details>
+	<p>In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>"
+%}
 
 As the chart shows, the flow is like a funnel leading to the successful outcome at the bottom of the image. Before optimization, only 10 people (less than 2%) made it from the “Starting a business” page to the “Choosing a business name” page. The “After” chart shows what happened 2 months later: 16% of visitors to the “Choosing a business page” took the new simplified path to the search page for business names. That’s 55 times more people who found their task!
 

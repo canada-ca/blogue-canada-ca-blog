@@ -41,10 +41,11 @@ Utilisez ce modèle lorsque les gens doivent obtenir des réponses différentes 
 
 L'utilisation de ce modèle peut aider les gens à se concentrer uniquement sur ce qui s'applique précisément à eux.
 
-<figure>
-  <img class="img-responsive border" alt=" Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC ? les modèles d'expansion/réduction offrent 2 réponses possibles&nbsp;: Oui et Non. La deuxième image montre l'option Oui développée avec le message Super. Cela vous permettra de vous assurer que votre prestation vous sera versée." src ="/images/expand-collapse-2.jpg" >
-</figure>
-<figcaption>Le modèle afficher/masquer (l'image est en anglais).</figcaption>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="Sous la question Vos informations sur le dépôt direct et l'envoi postal sont-elles à jour avec l'ARC? les modèles d'expansion/réduction offrent 2 réponses possibles&nbsp;: Oui et Non. La deuxième image montre l'option Oui développée avec le message Super. Cela vous permettra de vous assurer que votre prestation vous sera versée."
+   caption="Le modèle afficher/masquer (l'image est en anglais)."
+%}
 
 ### 2. Présenter des renseignements secondaires
 
@@ -54,10 +55,11 @@ Il peut s'agir d'un contenu qui s'applique à la plupart des gens, mais que seul
 
 Il peut également s'agir d'un contenu qui ne s'applique qu'à une minorité de personnes (par exemple lorsqu'il existe des renseignements spécifiques destinés à un public spécifique).
 
-<figure>
-  <img class="img-responsive border" alt=" Le contenu pour faire une autre demnade de la PCU comprend le modèle afficher/masquer pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler au cours d'une période de prestations ultérieure." src="/images/CERB.jpg" > </figure>
-<figcaption>Le modèle afficher/masquer pour l'une des pages de la PCU (l'image est en anglais).</figcaption>
-
+{% include components/gc-complex-img.html
+   alt="Le contenu pour faire une autre demnade de la PCU comprend le modèle afficher/masquer pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler au cours d'une période de prestations ultérieure."
+   file="/images/CERB.jpg"
+   caption="Le modèle afficher/masquer pour l'une des pages de la PCU (l'image est en anglais)."
+%}
 
 Le code et les instructions pour la mise en œuvre de ce modèle se trouvent dans la bibliothèque de modèles et de configurations du système de conception de Canada.ca&nbsp;:
 
@@ -74,4 +76,3 @@ Pour en savoir plus sur la façon d'utiliser le modèle afficher/masquer et d'au
 * [Accordéons pour appareil mobile](https://www.nngroup.com/articles/mobile-accordions/) (en anglais seulement)
 * [Afficher/masquer - Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html)
 * [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
-

@@ -39,20 +39,18 @@ We did this by:
 Here is one example of how we reorganized information:
 
 ### Before
-
-<figure>
-  <img class="img-responsive border" alt="Business Registration Online before."
-  src="/images/business-account/before-BRO.jpg"/>
-  <figcaption><small>All the information related to the Business Registration Online program was on one page. There were anchor links at the top of the page, but users got lost when they began to scroll.</small></figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Business Registration Online before."
+   file="/en/images/business-account/before-BRO.jpg"
+   caption="All the information related to the Business Registration Online program was on one page. There were anchor links at the top of the page, but users got lost when they began to scroll."
+%}
 
 ### After
-
-<figure>
-  <img class="img-responsive border" alt="Business Registration Online after."
-  src="/images/business-account/after-BRO.jpg"/>
-  <figcaption><small>By splitting the information into small, manageable chunks, users were able to easily scan the information on each page and find what they were looking for.</small></figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Business Registration Online after."
+   file="/en/images/business-account/after-BRO.jpg"
+   caption="By splitting the information into small, manageable chunks, users were able to easily scan the information on each page and find what they were looking for."
+%}
 
 ## How it affected my work as a CRA program officer
 

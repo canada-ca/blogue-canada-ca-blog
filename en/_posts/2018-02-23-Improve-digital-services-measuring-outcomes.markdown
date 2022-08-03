@@ -1,7 +1,8 @@
 ---
 altLangPage: "/2018/02/23/Mesurer-resultats-ameliorer-services-numeriques"
+author: Gerry McGovern
 date:   2018-02-23
-description: Gerry McGovern offers his thoughts on his visit to Ottawa last week.
+description: Gerry McGovern offers his thoughts on his visit to Ottawa on February 13, 2018.
 title:  "Improve digital services by measuring outcomes"
 ---
 
@@ -11,10 +12,13 @@ In 2007, I first visited Ottawa. It was winter. Very cold. But what I remember m
 
 I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa. It’s been a thrill! So many wonderful, enthusiastic and talented people. So much energy and desire to deliver the very best services possible.
 
-<figure>
-    <img class="img-responsive" alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
-    <figcaption><small>Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
-</figure>
+{% include components/gc-complex-img.html
+	 alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018"
+	 file="/images/gerry-week/2018_02_18-4058.jpg"
+	 caption="Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018."
+	 summary=""
+	 content=""
+%}
 
 There are challenges. They are mainly organizational. People are rightly frustrated that the current government organizational model is not fit for purpose in the digital age. Everything has changed in our world except how large organizations organize themselves. The silos have become lumbering dinosaurs, holding back and inhibiting quality service.
 

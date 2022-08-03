@@ -94,7 +94,6 @@ The first version was correct, but we needed to introduce a little doubt to get 
 
 <blockquote><p>“You can’t work on everything. You need to choose where to focus your efforts. We use the concept of top tasks—the most important things that people come to do on our websites—to determine what we should be working on. Whether it’s from survey data, web analytics or call centre intelligence, understanding the most important things from citizens’ point of view is pretty straightforward. And once you’ve identified your top tasks, then that’s what you need to concentrate on measuring and improving.”</p>
 </blockquote>
-
 <p>- Peter Smith</p>
 
 We hope you find these lessons helpful too when improving your content.
@@ -103,11 +102,10 @@ We hope you find these lessons helpful too when improving your content.
 
 The Digital Transformation Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
 
-
-<figure>
-<img class="img-responsive border" alt="A photo of the Digital Transformation Office team."
- src="/images/DTO_team_2019.jpg" >
-</figure>
+{% include components/gc-simple-img.html
+   alt="A photo of the Digital Transformation Office team."
+   file="/images/DTO_team_2019.jpg"
+%}
 
 ## Inspired by what you learned? Share this post with your team.
 

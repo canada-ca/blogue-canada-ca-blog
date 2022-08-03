@@ -31,6 +31,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#IDE
+.vscode/
+
 # Jekyll
 .jekyll-cache
 _site

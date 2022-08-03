@@ -47,23 +47,21 @@ Les essais de ces solutions ont donné des résultats positifs. Les gens chercha
 
 Bannière d'alerte antérieure (sur un écran mobile complet)
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-  src="/images/alerte-3.png" >
-</figure>
-<details>
-  <summary>Bannière d'alerte antérieure - avant «&nbsp;sur un écran mobile complet&nbsp;»</summary>
-  <p>Le texte original de la bannière d'alerte indiquait comme titre "Nous contacter pendant la pandémie COVID-19". Elle couvrait plus qu'un écran mobile complet, comprenait beaucoup de texte, plusieurs concepts et de multiples liens.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/alerte-3.png"
+   caption=""
+   summary="Bannière d'alerte antérieure - avant «&nbsp;sur un écran mobile complet&nbsp;»"
+   content="<p>Le texte original de la bannière d'alerte indiquait comme titre &quot;Nous contacter pendant la pandémie COVID-19&quot;. Elle couvrait plus qu'un écran mobile complet, comprenait beaucoup de texte, plusieurs concepts et de multiples liens.</p>"
+%}
 
-<figure>
-  <img class="img-responsive border" alt="Une longue description peut être trouvée après l'image."
-  src="/images/telephone-2.PNG" >
-</figure>
-<details>
-  <summary>Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle afficher/masquer</summary>
-  <p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 7 champs d'afficher/masquer fournissent les réponses aux questions principales - comme "Dois-je faire une nouvelle demande de PCU?".</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/telephone-2.PNG"
+   caption=""
+   summary="Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle afficher/masquer"
+   content="<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 7 champs d'afficher/masquer fournissent les réponses aux questions principales - comme &quot;Dois-je faire une nouvelle demande de PCU?&quot;.</p>"
+%}
 
 ## Analyse quotidienne des raisons des appels
 

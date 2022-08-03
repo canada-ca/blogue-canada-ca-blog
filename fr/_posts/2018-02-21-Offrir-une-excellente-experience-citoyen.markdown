@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/02/21/Delivering-citizen-experience.html"
+author: Scott Brison
 date: 2018-02-21
 description: Billet de blogue par l’honorable Scott Brison, président du Conseil du Trésor.
 title: "Offrir une excellente expérience pour les citoyens"
@@ -13,12 +14,13 @@ Voilà ce qu’ont entendu plusieurs fonctionnaires et membres de la collectivit
 
 Le SCT l’a invité à Ottawa pour partager ses connaissances des techniques et des outils pour mesurer la réussite de l’utilisateur.
 
-<figure>
-	<img class="img-responsive" alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître, Bayview Yards, le 13 février 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
-	<figcaption>
-		<small>Gerry McGovern en interaction avec le public pendant l'atelier de maître au Bayview Yards à Ottawa, le 13 février 2018.</small>
-	</figcaption>
-</figure>
+{% include components/gc-complex-img.html
+	 alt="Photo de Gerry McGovern en interaction avec le public à l’atelier de maître, Bayview Yards, le 13 février 2018"
+	 file="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg"
+	 caption="Gerry McGovern en interaction avec le public pendant l'atelier de maître au Bayview Yards à Ottawa, le 13 février 2018."
+	 summary=""
+	 content=""
+%}
 
 Qu’est-ce que la réussite de l’utilisateur?
 

@@ -26,9 +26,10 @@ Besides making people sift through content that isn’t relevant to their task, 
 
 Anyone who has seen a heat map of how people read a web page will be familiar with the F pattern that the scanning eye often follows. People’s eyes travel across a page less and less as they scan down.
 
-<figure>
-  <img class="img-responsive border" alt=" Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern" src="/images/heatmap.jpg">
-</figure>
+{% include components/gc-simple-img.html
+   alt="Heat map from an eye tracking study that shows how the eyes moved across and then down the page in a basic F pattern"
+   file="/images/heatmap.jpg"
+%}
 
 This user behaviour is the source of some of the most basic content design guidance around page and heading structure. “Front-loading” headings, by placing the most important words at the beginning, takes advantage of this known behaviour.
 ([F-Shaped Pattern of Reading on the Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [First 2 Words: A Signal for the Scanning Eye](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/))
@@ -59,9 +60,10 @@ Many calls to the general 1-800&nbsp;0-Canada number were for questions specific
 
 On the General information by telephone page, we added a new top question and answer about getting help with issues related to an application. The analytics showed people used it to find the specific phone number they needed. It helped them understand which phone line to use based on how they had applied for the benefit. They still had to call, but this acted as an initial triage for callers. It saved them time on the phone by getting them to the right phone number the first time.
 
-<figure>
-  <img class="img-responsive border" alt=" General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page" src="/images/faq.png">
-</figure>
+{% include components/gc-simple-img.html
+   alt="General information by telephone page showing answers to most frequent call drivers at the top of the page (in expand/collapse pattern to minimize screen real estate) and wait times along with the contact phone number at the bottom of the page"
+   file="/images/faq.png"
+%}
 
 ## Guidelines for limited use of FAQs
 

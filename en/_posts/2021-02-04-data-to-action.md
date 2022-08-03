@@ -30,13 +30,12 @@ The analytics data prompted us to make this simple but important change to the p
 
 One way to manage a page with a lot of links is to look at click-through rates.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/click-1.png" >
-</figure>
-<details>
-  <summary>Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020.</summary>
-  <table class="table">
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/click-1.png"
+   caption=""
+   summary="Click-through rates on Canada.ca/Coronavirus from Jan. 1 - 30, 2020."
+   content="<table class='table'>
     <tr>
       <th>Label</th>
       <th>Click-through rate </th>
@@ -69,8 +68,8 @@ src="/images/click-1.png" >
       <td>COVIDTrends </td>
       <td>2,417</td>
     </tr>
-  </table>
-</details>
+  </table>"
+%}
 
 The Canada.ca/coronavirus landing page has been a crucial door to everything from travel updates to financial aid, to vaccine updates. The page needed a strategy to ensure it stayed simple and effective.
 
@@ -87,14 +86,13 @@ Looking at click-through rates can also help you refine link text to support bet
 
 The DTO has been piloting better ways to get feedback from people on some COVID-19 top tasks since July. We’ve been experimenting with a new tool that invites people to provide feedback in their own words at the moment of completing a task. This sort of data can give you very rich insights about common frustrations or content gaps.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/feedback-1.png" >
-</figure>
-<details>
-  <summary>Page Feedback Widget</summary>
-  <p>The page feedback component sits at the bottom of key web pages. It displays the question "Did you find what you were looking for?" and provides both a "yes" and "no" button.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="A long description can be found after the image."
+   file="/images/feedback-1.png"
+   caption=""
+   summary="Page Feedback Widget"
+   content="<p>The page feedback component sits at the bottom of key web pages. It displays the question &quot;Did you find what you were looking for?&quot; and provides both a &quot;yes&quot; and &quot;no&quot; button.</p>"
+%}
 
 In December 2020, when Health Canada approved the first COVID vaccine, we added the feedback tool at the bottom of the vaccine content pages.
 The feedback we received immediately highlighted a major content gap that we wouldn’t have identified through analytics alone.
@@ -105,13 +103,12 @@ The feedback we received immediately highlighted a major content gap that we wou
 
 Between December 11 and 14, 60% (87/144) of comments were about ingredients and allergies. Seeing this user need in the data, Health Canada quickly added an ingredient list to the page on December 14. Feedback about ingredients on the Pfizer-BioNTech “What you should know” page went from 35 comments per day to 2 after Health Canada added the ingredient list.
 
-<figure>
-  <img class="img-responsive border" alt="A long description can be found after the image."
-src="/images/action-2.PNG" >
-</figure>
-<details>
-  <summary>Feedback from ingredient list</summary>
-  <table class="table">
+{% include components/gc-complex-img.html
+  alt="A long description can be found after the image."
+  file="/images/action-2.PNG"
+  caption=""
+  summary="Feedback from ingredient list"
+  content="<table class='table'>
     <tr>
       <th>Date</th>
       <th>Number of comments about ingredients and allergies</th>
@@ -128,8 +125,8 @@ src="/images/action-2.PNG" >
       <td>December 15, 2020</td>
       <td>2</td>
     </tr>
-  </table>
-</details>
+  </table>"
+%}
 
 ### Use insights to iterate
 

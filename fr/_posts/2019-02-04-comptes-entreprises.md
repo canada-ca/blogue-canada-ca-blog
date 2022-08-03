@@ -40,20 +40,18 @@ Voici un exemple de la façon dont nous avons réorganisé l’information&nbsp;
 
 ### Avant
 
-<figure>
-  <img class="img-responsive border" alt="Avant&nbsp;: Inscription en direct des entreprises." src="/images/comptes-entreprises/avant-BRO.jpg"/>
-  <figcaption>
-    <small>Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler.</small>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Avant&nbsp;: Inscription en direct des entreprises."
+   file="/images/comptes-entreprises/avant-BRO.jpg"
+   caption="Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler."
+%}
 
 ### Après
-<figure>
-  <img class="img-responsive border" alt="Après&nbsp;: Inscription en direct des entreprises." src="/images/comptes-entreprises/apres-BRO.jpg"/>
-  <figcaption>
-    <small>Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient.</small>
-  </figcaption>
-</figure>
+{% include components/gc-complex-img.html
+   alt="Après&nbsp;: Inscription en direct des entreprises."
+   file="/images/comptes-entreprises/apres-BRO.jpg"
+   caption="Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient."
+%}
 
 ## Incidence de ces changements sur mon travail d’agente de programme de l’ARC
 

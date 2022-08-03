@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/02/21/Offrir-une-excellente-experience-citoyen"
+author: Scott Brison
 date:   2018-02-21
 description: Blog post by the Honourable Scott Brison, President of the Treasury Board.
 title:  "Delivering a great citizen experience"
@@ -13,10 +14,13 @@ Last week, public servants and members of the community gathered for a bracing m
 
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
-<figure>
-    <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
-    <figcaption><small>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
-</figure>
+{% include components/gc-complex-img.html
+	 alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018"
+	 file="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg"
+	 caption="Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018."
+	 summary=""
+	 content=""
+%}
 
 What is user success?
 

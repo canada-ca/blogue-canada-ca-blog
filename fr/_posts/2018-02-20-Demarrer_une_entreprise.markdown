@@ -27,11 +27,12 @@ Afin de comprendre ces besoins, nous avons déterminé les différentes mesures 
 
 Ce qui a également aidé à mettre en lumière certains des points du processus qui étaient particulièrement problématiques. Voici un exemple de diagramme de décision pour l’une des tâches de lancement d’entreprise, qui a mis en lumière les points problématiques.
 
-<img class="img-responsive" alt="Diagramme rédigé à la main qui montre ce qui se passe au moment de la constitution en société. La version texte suit." src="/images/start-lancer/Nom_dentreprise_decisions.jpg">
-
-<details>
-	<summary>Version texte</summary>
-	<p>Le diagramme de décision rédigé à la main commence par «&nbsp;Constituer l’entreprise en société?&nbsp;».</p>
+{% include components/gc-complex-img.html
+	 alt="Diagramme rédigé à la main qui montre ce qui se passe au moment de la constitution en société. La version texte suit."
+	 file="/images/start-lancer/Nom_dentreprise_decisions.jpg"
+	 caption=""
+	 summary="Version texte"
+	 content="<p>Le diagramme de décision rédigé à la main commence par «&nbsp;Constituer l’entreprise en société?&nbsp;».</p>
 	<ul>
 		<li>Dans l’affirmative, alors il faut «&nbsp;Obtenir un nom d’entreprise unique ou utiliser votre nom&nbsp;» (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique)</li>
 		<li>Pour constituer une entreprise au niveau «&nbsp;fédéral&nbsp;», alors il faut «&nbsp;obtenir un rapport de recherche de dénominations fédéral ou provincial&nbsp;»</li>
@@ -39,8 +40,8 @@ Ce qui a également aidé à mettre en lumière certains des points du processus
 		<li>Si à l’échelon «&nbsp;provincial&nbsp;», le diagramme se termine </li>
 		<li>Si la réponse est «&nbsp;non&nbsp;» à «&nbsp;Constituer l’entreprise en société&nbsp;», alors si vous en êtes le «&nbsp;propriétaire unique – propre nom&nbsp;», allez à «&nbsp;numéro d’entreprise&nbsp;»</li>
 		<li>Si la réponse est «&nbsp;non&nbsp;» à «&nbsp;propriétaire unique – propre nom&nbsp;», alors allez à «&nbsp;nom unique&nbsp;» (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique), qui comprend les partenariats, les coopératives, autres</li>
-	</ul>
-</details>
+	</ul>"
+%}
 
 Que les gens constituent leur entreprise en société ou non, ils doivent choisir un nom unique pour celle-ci. Dans notre recherche initiale, le processus de dénomination semblait difficile, alors nous avons cherché à le valider.
 
@@ -74,13 +75,15 @@ La nouvelle conception a été mise en ligne dans le menu «&nbsp;Entreprises&nb
 
 **Avant et après l’optimisation&nbsp;:** Du 4 février au 4 avril 2017 et du 26 mai au 24 juillet 2017
 
-<img class="img-responsive" alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit." src="/images/start-lancer/Nom_dentreprise_entonnoir.png">
-<details>
-	<summary>Version texte de ce diagramme</summary>
-	<p>Le diagramme en entonnoir montre les étapes avant et après. </p>
+{% include components/gc-complex-img.html
+	 alt="Le diagramme montre la différence de flux avant et après l’optimisation. La version texte suit."
+	 file="/images/start-lancer/Nom_dentreprise_entonnoir.png"
+	 caption=""
+	 summary="Version texte de ce diagramme"
+	 content="<p>Le diagramme en entonnoir montre les étapes avant et après. </p>
 	<p>Avant, dans le haut de l’entonnoir, 520 utilisateurs ont accédé à «&nbsp;Nommer votre entreprise&nbsp;». Puis, 30&nbsp;% ont accédé à «&nbsp;Nuans – Rapport Nuans de recherche de dénominations&nbsp;». Enfin, 5&nbsp;% ont accédé à la section «&nbsp;En savoir plus&nbsp;» et seulement 2&nbsp;% ont accédé à «&nbsp;Commander maintenant&nbsp;», où l’entonnoir se termine. </p>
-	<p>Après l’optimisation, dans le haut de l’entonnoir, 3 081 utilisateurs ont accédé à «&nbsp;Choisir un nom d’entreprise&nbsp;». 59&nbsp;% ont ensuite accédé à «&nbsp;Vérifier si ce nom est déjà utilisé&nbsp;». Puis, 16&nbsp;% ont accédé à la page «&nbsp;Recherche de noms de sociétés au Canada&nbsp;», où se termine l’entonnoir.</p>
-</details>
+	<p>Après l’optimisation, dans le haut de l’entonnoir, 3 081 utilisateurs ont accédé à «&nbsp;Choisir un nom d’entreprise&nbsp;». 59&nbsp;% ont ensuite accédé à «&nbsp;Vérifier si ce nom est déjà utilisé&nbsp;». Puis, 16&nbsp;% ont accédé à la page «&nbsp;Recherche de noms de sociétés au Canada&nbsp;», où se termine l’entonnoir.</p>"
+%}
 
 Comme le montre le diagramme, le flux est comme un entonnoir menant vers les résultats fructueux au bas de l’image. Avant l’optimisation, seulement 10 personnes (moins de 2&nbsp;%) se sont rendues de la page «&nbsp;Lancer une entreprise&nbsp;» à la page «&nbsp;Choisir un nom d’entreprise&nbsp;». Le diagramme «&nbsp;Après&nbsp;» montre ce qui s’est produit 2 mois plus tard&nbsp;: 16&nbsp;% des visiteurs de la page «&nbsp;Choisir un nom d’entreprise&nbsp;» ont utilisé le nouveau chemin simplifié vers la page de recherche de noms d’entreprise. C’est 55 fois plus de personnes qui ont trouvé leur tâche!
 

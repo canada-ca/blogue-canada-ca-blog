@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/05/30/trust-and-older-content"
+author: Patrick Lajeunesse
 date:   2018-05-30
 description: Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux. Découvrez comment vous pouvez valider votre contenu et montrer qu'il est toujours à jour.
 title: "Tout est question de dates&nbsp;: la confiance envers le contenu ancien sur Canada.ca"
@@ -12,18 +13,27 @@ Comment pouvons-nous contribuer à convaincre les utilisateurs que le contenu es
 
 ## Vous pouvez voir la date de publication du contenu sur Canada.ca
 
-<img class="img-responsive border" src="/images/dates-matter/pagewithdate-small-fr.jpg" alt="Capture d'écran d'une page floue de Canada.ca montrant la date modifiée près du bas sur le côté gauche" />
+{% include components/gc-simple-img.html
+   alt="Capture d'écran d'une page floue de Canada.ca montrant la date modifiée près du bas sur le côté gauche"
+   file="/images/dates-matter/pagewithdate-small-fr.jpg"
+%}
 
 (Vous verrez la date de publication si vous regardez au bas de cette page.)
 Comme cette information est au même endroit sur chaque page Web de Canada.ca, les gens peuvent s’y fier s’ils veulent savoir à quel point l’information est à jour.
 
 Le deuxième endroit où les gens voient la date est dans les résultats de moteurs de recherche. Sur des moteurs de recherche Internet&nbsp;:
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-internet-serp-fr.png" alt="La page de résultats de recherche sur Internet pour «&nbsp;Vaccin quand enceinte&nbsp;» montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné.">
+{% include components/gc-simple-img.html
+   alt="La page de résultats de recherche sur Internet pour «&nbsp;Vaccin quand enceinte&nbsp;» montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné."
+   file="/images/dates-matter/blog-date-internet-serp-fr.png"
+%}
 
 ...and on Canada.ca search:
 
-<img class="img-responsive border" src="/images/dates-matter/blog-date-canadadotca-serp-fr.png" alt="La page de résultats de recherche sur Canada.ca pour «&nbsp;Vaccins grossesse&nbsp;» montrant un résultat (Vaccinations et grossesse) avec le 20 juin 2015 surligné.">
+{% include components/gc-simple-img.html
+   alt="La page de résultats de recherche sur Canada.ca pour «&nbsp;Vaccins grossesse&nbsp;» montrant un résultat (Vaccinations et grossesse) avec le 20 juin 2015 surligné."
+   file="/images/dates-matter/blog-date-canadadotca-serp-fr.png"
+%}
 
 ## Pourquoi l’actualité du contenu est importante
 
@@ -96,17 +106,17 @@ Dites-nous ce que vous pensez de notre travail d’optimisation et des changemen
 
 ## À propos de Patrick Lajeunesse
 
-<div class="row">
+<figure class="row">
   <div class="col-md-3 col-xs-12">
     <div class="pull-left mrgn-bttm-md">
-    <img class="img-responsive mrgn-bttm-md" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" alt="Patrick Lajeunesse" />
-        Patrick Lajeunesse <br />
-        <b>Chercheur en conception principal</b>
+      <img class="img-responsive mrgn-bttm-md" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3035_277x370.jpg" alt="Patrick Lajeunesse" />
+      Patrick Lajeunesse <br />
+      <b>Chercheur en conception principal</b>
     </div>
   </div>
   <div class="col-md-9 col-xs-12">
     <figcaption>
-    <p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
+      <p>Patrick a 20 ans d’expérience dans la conception et la recherche de l’expérience utilisateur. Avec un diplôme en psychologie, il a appliqué sa formation de recherche et analyse aux communications numériques pour les Nations Unies et d’autres organismes internationaux basés à Genève, Suisse.</p><p>Il a passé dix ans à travailler dans des entreprises en démarrage à Ottawa et au Connecticut où il dirigeait la conception de produit pour un ensemble d’outils utilisés par certains des plus grands districts scolaires aux États-Unis. Patrick travaille dans l’amélioration de la prestation de services pour le gouvernement du Canada depuis 2009.</p>
     </figcaption>
   </div>
-</div>
+</figure>

@@ -1,5 +1,6 @@
 ---
 altLangPage: "/2018/03/29/Visiter-le-Canada-Optimisation"
+author: Eric Cooper
 date:   2018-03-29
 pageclass: "cnt-wdth-lmtd"
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
@@ -43,11 +44,11 @@ We ran hundreds of people through these tasks in a combination of online and mod
 
 This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
 
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
-
-<details>
-	<summary>Text version of this image</summary>
-	<p>This image shows what the “Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa” page looked like before it was optimized.</p>
+{% include components/gc-complex-img.html
+	 alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization."
+	 file="/images/eTA-AVE/VisaETA-before.jpg"
+	 summary="Text version of this image"
+	 content="<p>This image shows what the &quot;Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa&quot; page looked like before it was optimized.</p>
 	<p>There are two paragraphs of text with four links embedded in them. Below that, in a blue box, is more text with a drop down menu of countries. At the bottom of the page are three large related links in boxes. On the left side of the page is a left-hand navigation table with links to:</p>
 	<ul>
 		<li>visit as a tourist</li>
@@ -55,8 +56,8 @@ This is what the key page in the process looked like when we started. Notice the
 		<li>visit on business</li>
 		<li>extend your stay</li>
 		<li>transit through Canada</li>
-	</ul>
-</details>
+	</ul>"
+%}
 
 ## Redesigning the process
 
@@ -68,20 +69,22 @@ With baseline research in hand, the team redesigned the process to solve the iss
 - reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path
 - adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence
 
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization">
-
-<details>
-	<summary>Text version of this image</summary>
-	<p>This image shows the “Find out if you need a visa” page after optimization.</p><p> It has a small paragraph of text followed by “You are:” and then five possible selections:</p>
-	<ul>
+{% include components/gc-complex-img.html
+	 alt="Image showing what the &quot;Find out if you need a visa page&quot; looked like after optimization"
+	 file="/images/eTA-AVE/VisaETA-after.jpg"
+	 caption=""
+	 summary="Text version of this image"
+	 content="<p>This image shows the &quot;Find out if you need a visa&quot; page after optimization.</p>
+	 <p> It has a small paragraph of text followed by &quot;You are:&quot; and then five possible selections:</p>
+	 <ul>
 		<li>a citizen of Canada and another country (dual citizen)</li>
 		<li>a permanent resident of Canada (PR Card)</li>
 		<li>a refugee travelling with a document for non-citizens</li>
 		<li>a stateless person travelling with an alien’s passport</li>
 		<li>a former resident of Canada, but have not been back for many years</li>
 		<li>none of the above</li>
-	</ul>
-</details>
+	 </ul>"
+%}
 
 The layout was at times confusing, including links to rules and requirements. We replaced it by a series of questions and answers that help people get to the right answer.
 
@@ -95,19 +98,20 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 **Before and after optimization:** February 2017 and June 2017
 
-<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization.">
-
-<details>
-	<summary>Text version of this image</summary>
-	<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages:</p>
+{% include components/gc-complex-img.html
+	 alt="This image shows two funnels comparing before and after optimization."
+	 file="/images/eTA-AVE/VisaETA-funnels2.JPG"
+	 caption=""
+	 summary="Text version of this image"
+	 content="<p>This image shows two funnels comparing before and after optimization the number of people who went from the Visit Canada topic page to any of the following pages:</p>
 	<ul>
 		<li>find out if you need an Electronic travel authorization (eTA) or a visitor visa</li>
 		<li>apply for a visitor visa</li>
 		<li>apply for an eTA</li>
 	</ul>
 	<p>Before optimization, 35% of clicks from the Visit Canada topic page went to one of those pages.</p>
-	<p>After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.</p>
-</details>
+	<p>After optimization, it was 62%, meaning the topic page was more effective at driving people to those pages. There were also 10% more entries to the Visit Canada topic page through the megamenu after optimization.</p>"
+%}
 
 As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow. Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
 
@@ -122,18 +126,18 @@ Let us know what you think about this project. Email us at [dto.btn@tbs-sct.gc.c
 - [See the inventory of top tasks for Canada.ca](https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html)
 
 ## About Eric
-
-<div class="col-md-3 col-xs-12">
-   <div class="pull-left mrgn-bttm-md">
-   <img class="img-responsive mrgn-bttm-md" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
-    Eric Cooper<br>
-    <b>Project Coordinator</b>
-   </div>
-</div>
-
-<div class="col-md-9 col-xs-12">
-	<figcaption>
-	<p>Eric is a Project Coordinator for the Treasury Board of Canada Secretariat. It takes a lot of work to overhaul a top task and Eric contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p>
-	<p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and he earned his Project Management Professional PMP certification in 2017.</p>
-	</figcaption>
+<div class="row">
+	<div class="col-md-3 col-xs-12">
+	<div class="pull-left mrgn-bttm-md">
+	<img class="img-responsive mrgn-bttm-md" src="/images/DTO-aboutus/DTO_blog_photo_DSC_3047_277x370.jpg" alt="Eric Cooper" />
+		Eric Cooper<br>
+		<b>Project Coordinator</b>
+	</div>
+	</div>
+	<div class="col-md-9 col-xs-12">
+		<figcaption>
+		<p>Eric is a Project Coordinator for the Treasury Board of Canada Secretariat. It takes a lot of work to overhaul a top task and Eric contributes by engaging with partners, managing the schedules, and getting tools when needed (digital or analog). Over the past 3 years, he’s contributed to the development and publication of the Canada.ca Content and Information Architecture Specification and the Canada.ca Content Style Guide.</p>
+		<p>He holds an honours Bachelor’s degree of Integrated Science with concentrations in Mathematics and Psychology and he earned his Project Management Professional PMP certification in 2017.</p>
+		</figcaption>
+	</div>
 </div>

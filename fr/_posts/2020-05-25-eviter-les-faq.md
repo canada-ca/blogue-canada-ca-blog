@@ -26,9 +26,10 @@ En plus de faire passer les gens à travers du contenu qui n’est pas pertinent
 
 Quiconque a vu une carte thermique de la façon dont les gens lisent une page Web connaîtra le modèle F, que le balayage oculaire suit souvent. Les yeux des gens traversent de moins en moins une page lorsqu’ils scannent.
 
-<figure>
-  <img class="img-responsive border" alt=" Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base" src="/images/heatmap.jpg">
-</figure>
+{% include components/gc-simple-img.html
+   alt="Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
+   file="/images/heatmap.jpg"
+%}
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de «&nbsp;chargement frontal&nbsp;», qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu.
 ([Modèle de lecture en forme de F sur le Web](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/), [Deux premiers mots&nbsp;: Un signal pour le balayage oculaire](https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/)) (en anglais seulement)
@@ -59,9 +60,10 @@ De nombreux appels au numéro pour Renseignements généraux <span class="nobrea
 
 Sur la page Renseignements généraux par téléphone, nous avons ajouté une nouvelle question ou réponse au haut de la page sur l’obtention d’aide pour les problèmes liés à une demande. L’analyse a montré que les gens l’utilisaient pour trouver le numéro de téléphone précis dont ils avaient besoin. Cela les a aidés à comprendre quelle ligne téléphonique utiliser en fonction de la façon dont ils avaient demandé la prestation. Ils devaient encore appeler, mais cela a servi de triage initial pour les appelants. Cela leur a permis d’économiser du temps au téléphone en les amenant au bon numéro de téléphone la première fois.
 
-<figure>
-  <img class="img-responsive border" alt=" Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page" src="/images/faq_fr.png">
-</figure>
+{% include components/gc-simple-img.html
+   alt="Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
+   file="/images/faq_fr.png"
+%}
 
 ## Lignes directrices sur l’utilisation limitée des FAQ
 

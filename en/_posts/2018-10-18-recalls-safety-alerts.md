@@ -61,18 +61,15 @@ The new content pages:
 * grouped together similar products affected by a recall so users don’t need to leave the page to find out if their product is affected
 
 After a second round of validation testing with Canadians on the new prototypes, the results were impressive. Task findability increased from 51% to 75% (up 24% points), and task completion increased from 54% to 87% (up 34% points).
-
-<figure>
-  <img class="img-responsive" alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
-  src="/images/recalls-rappels/beforeafter-epipen.jpg"/>
-  <figcaption><small>EpiPen shortage information update at baseline and after redesign for validation </small></figcaption>
-</figure>
-<details>
-  <summary>Detailed description</summary>
-  <p>Image of two phones, labelled "Before" and "After".</p>
-  <p>The first phone shows how dense and crowded the original safety alert looked on mobile. An arrow points to the text with the annotation "Pinch and zoom - Canadians use phones for recalls".</p>
-  <p>The second phone shows how the redesigned prototype text is much shorter and has more white space. You can see that 3 bullets immediately tell you the product, the issue and what to do. An arrow points to the text with the annotation "Answers not information - Highlight what to do".</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Image of two phones showing EpiPen information update page, labelled 'Before' and 'After'."
+   file="/images/recalls-rappels/beforeafter-epipen.jpg"
+   caption="EpiPen shortage information update at baseline and after redesign for validation"
+   summary="Detailed description"
+   content="<p>Image of two phones, labelled &quot;Before&quot; and &quot;After&quot;.</p>
+    <p>The first phone shows how dense and crowded the original safety alert looked on mobile. An arrow points to the text with the annotation &quot;Pinch and zoom - Canadians use phones for recalls&quot;.</p>
+    <p>The second phone shows how the redesigned prototype text is much shorter and has more white space. You can see that 3 bullets immediately tell you the product, the issue and what to do. An arrow points to the text with the annotation &quot;Answers not information - Highlight what to do&quot;.</p>"
+%}
 
 ## Next steps
 

@@ -68,11 +68,13 @@ Les agents conversationnels fonctionnent ainsi:
 - l’agent répond à l’utilisateur avec une réponse préconçue pour cette situation&nbsp;: « *Voulez-vous appeler au sujet de votre compte d’impôts personnels ou d’un compte d’impôts pour les entreprises*? »
 - le cycle redémarre, si la conversation n’est pas terminée
 
-![Une longue description se trouve après l'image.](../images/chat-cycle-fr.jpg){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-<summary>Fonctionnement des agents conversationnels</summary>
-<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/chat-cycle-fr.jpg"
+   caption=""
+   summary="Fonctionnement des agents conversationnels"
+   content="<p>Un exemple visuel du fonctionnement d'un agent conversationnel. L'utilisateur dit quelque chose. Le traitement du langage naturel essaie de le faire correspondre à une intention, dans le contexte. Ensuite, l'agent répond quelque chose. Si la conversation n'est pas terminée, le cycle se répète.</p>"
+%}
 
 La « magie » des agents conversationnels réside dans le traitement du langage naturel – une forme d’intelligence artificielle. L’agent utilise le traitement du langage naturel pour analyser à la fois la syntaxe et la sémantique de la conversation en se basant sur un vaste jeu de données de langage de conversation. Par conséquent, si un utilisateur dit « J’aimerais », l’agent peut comprendre cela pour faire une correspondance à une intention qui dit « Je voudrais ... » et une intention qui dit « Je veux ».
 
@@ -102,23 +104,29 @@ Pour vérifier si un agent conversationnel peut contribuer à améliorer la réu
 - **un robot conversationnel** où les utilisateurs l’ont ouvert sur la page Web et ont interagi en tapant
 - **un assistant vocal** où les utilisateurs ont interagi avec leur voix au moyen de Google Home ou d’un assistant Google sur un téléphone
 
-![Une longue description se trouve après l'image.](../images/conversation-1.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-<summary>Assistant (en anglais seulement)</summary>
-<p>L'assistant "Trouver le bon contact ou numéro de téléphone de l'ARC" affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/conversation-1.png"
+   caption=""
+   summary="Assistant (en anglais seulement)"
+   content="<p>L'assistant &quot;Trouver le bon contact ou numéro de téléphone de l'ARC&quot; affiche des questions sur votre appel pour vous guider vers la réponse dont vous avez besoin.</p>"
+%}
 
-![Une longue description se trouve après l'image.](../images/conversation-2.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-<summary>Agent conversationnel (en anglais seulement)</summary>
-<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte "Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?" Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/conversation-2.png"
+   caption=""
+   summary="Agent conversationnel (en anglais seulement)"
+   content="<p>Le chatbot de l'ARC qui apparaît au bas de votre écran. Il affiche le texte &quot;Bonjour, essayons de trouver le bon numéro de téléphone de l'ARC pour vous. À quel sujet voulez-vous appeler ?&quot; Les gens tapent ensuite leur réponse pour obtenir une réponse.</p>"
+%}
 
-![Une longue description se trouve après l'image.](../images/conversation-3.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-<summary>Agent vocal de l’assistant Google (en anglais seulement)</summary>
-<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche : "Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler ?" La réponse est "une déclaration de preuve de revenus".</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/conversation-3.png"
+   caption=""
+   summary="Agent vocal de l’assistant Google (en anglais seulement)"
+   content="<p>Le chercheur de numéros de téléphone ARC est un assistant vocal Google. Le texte suivant s'affiche&nbsp;: &quot;Bienvenue dans le moteur de recherche de numéros de téléphone de l'ARC. À quel sujet voulez-vous appeler?&quot; La réponse est &quot;une déclaration de preuve de revenus&quot;.</p>"
+%}
 
 ### Comment nous avons testé la conception
 
@@ -128,11 +136,13 @@ Dans la **partie 1**, les participants pouvaient utiliser n’importe quelle sec
 
 Dans la **partie 2**, nous avons apporté des changements mineurs à certains scénarios de tâches et demandé aux participants de tenter de trouver la bonne réponse en utilisant **uniquement les agents conversationnels**. Ils ont essayé d’effectuer certaines tâches en utilisant seulement leur voix (le modérateur jouant le rôle de l’assistant vocal, en fonction des réponses du robot conversationnel), et d’autres en utilisant le robot conversationnel sur le prototype.
 
-![Une longue description se trouve après l'image.](../images/conversation-4.png){: .mrgn-tp-lg.img-responsive}
-<details class="mrgn-bttm-lg">
-  <summary>Agent vocal (en anglais seulement)</summary>
-  <p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>
-</details>
+{% include components/gc-complex-img.html
+   alt="Une longue description peut être trouvée après l'image."
+   file="/images/conversation-4.png"
+   caption=""
+   summary="Agent vocal (en anglais seulement)"
+   content="<p>Pour tester l’interaction vocale, le participant a parlé au modérateur comme s’il parlait à un appareil Google Home. L’animateur a tapé dans le robot conversationnel et a joué le rôle de l’agent vocal. Le comportement et la formulation du robot conversationnel étaient les mêmes que ceux d’un appareil Google Home.</p>"
+%}
 
 ## Résultats
 
