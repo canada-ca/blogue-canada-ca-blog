@@ -1,6 +1,7 @@
 ---
-altLangPage: "/2022/09/23/presentation-du-bouton-se-connecter"
+altLangPage: /2022/09/23/presentation-bouton-contextuel-se-connecter
 date: 2022-09-23
+dateModified: 2022-09-29
 description: "To improve findability for this important top task, the global header component of Canada.ca now includes the option of adding a contextual Sign in button on pages where people are likely looking to sign in to an account."
 title: "Introducing the contextual Sign in button"
 ---
@@ -57,8 +58,8 @@ When we use consistent terminology across the ecosystem, it helps people feel co
 
 ## Learn more
 - [Choosing the right button for task success](https://blog.canada.ca/2020/12/17/choosing-buttons.html)
-- [Canada.ca design system: buttons](https://design.canada.ca/common-design-patterns/buttons.html)
-- [WET (Web Experience Toolkit) design guide: buttons](https://wet-boew.github.io/wet-boew-styleguide/design/buttons-en.html?wbdisable=true)
+- [Contextual Sign in button - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html)
+- [GCWeb (WET): Authentication patterns](https://wet-boew.github.io/GCWeb/sites/authentication/authentication-en.html)
 - [Ask a UXpert: Why is consistency important in design?](https://www.youtube.com/watch?v=UHUluiMe0cA&t=51s)
 - [Guideline on Defining Authentication Requirements](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=26262)
 - [Labelling study: which words work best
