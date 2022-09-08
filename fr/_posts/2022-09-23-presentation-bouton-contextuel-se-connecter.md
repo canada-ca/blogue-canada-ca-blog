@@ -18,7 +18,7 @@ Sur les pages qui incluent le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;, le 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="2022-09-16-se-connecter-01.png"
+   file="2022-09-23-se-connecter-01.png"
    caption=""
    summary="Description détaillée"
    content="<p>Le bouton Se connecter apparaît dans le coin supérieur droit de l'écran, sous la ligne de séparation qui sépare la signature du gouvernement du Canada, le lien pour changer de langue et la barre de recherche du fil d'Ariane et du contenu de la page.</p>"
