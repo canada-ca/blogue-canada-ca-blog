@@ -18,7 +18,7 @@ On pages that include the Sign in button, the consistent placement, as part of t
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image"
-   file="2022-09-16-sign-in-01.png"
+   file="2022-09-23-sign-in-01.png"
    caption=""
    summary="Detailed description"
    content="<p>The Sign in button appears in the top right corner of the screen, below the divider line that separates the Government of Canada signature, language toggle and search bar from the breadcrumb and the page content.</p>"
