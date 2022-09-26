@@ -16,7 +16,7 @@ Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and
 
 {% include components/gc-complex-img.html
 	 alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018"
-	 file="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg"
+	 file="gerry-week/Gerry and mic 2018_02_18-4075.jpg"
 	 caption="Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018."
 	 summary=""
 	 content=""

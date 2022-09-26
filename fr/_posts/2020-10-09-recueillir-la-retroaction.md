@@ -41,7 +41,7 @@ L'éditeur principal à Service Canada a conçu le widget. En l'intégrant dans 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/feedback-3.png"
+   file="feedback-3.png"
    caption=""
    summary="Le widget de rétroaction sur la page"
    content="<p>Le widget affiche la question&nbsp;: «&nbsp;Avez-vous trouvé ce que vous cherchiez?&nbsp;» et propose des options oui et non.</p>"
@@ -49,7 +49,7 @@ L'éditeur principal à Service Canada a conçu le widget. En l'intégrant dans 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/feedback-4.png"
+   file="feedback-4.png"
    caption=""
    summary="Écran suivant de le widget de rétroaction sur la page"
    content="<p>Lorsque les utilisateurs choisissent «&nbsp;non&nbsp;», on leur demande «&nbsp;Qu'est-ce qui n'allait pas?&nbsp;» et on leur donne les options suivantes&nbsp;:</p>
@@ -88,7 +88,7 @@ Lorsque les gens ont répondu qu'ils n'avaient pas trouvé ce qu'ils cherchaient
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/feedback-graph-3.png"
+   file="feedback-graph-3.png"
    caption=""
    summary="Résultats de l'analyse des boutons radio."
    content="<h3>Qu'est-ce qui n'allait pas?</h3>
@@ -108,7 +108,7 @@ Grâce à cette rétroaction, nous avons commencé à avoir une meilleure idée 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/feedback-graph-4.png"
+   file="feedback-graph-4.png"
    caption=""
    summary="Résultats de l'analyse des textes ouverts."
    content="<h3>Les 10 premiers thèmes référencés</h3>

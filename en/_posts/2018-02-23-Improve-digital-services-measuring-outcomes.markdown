@@ -14,7 +14,7 @@ I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa
 
 {% include components/gc-complex-img.html
 	 alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018"
-	 file="/images/gerry-week/2018_02_18-4058.jpg"
+	 file="gerry-week/2018_02_18-4058.jpg"
 	 caption="Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018."
 	 summary=""
 	 content=""

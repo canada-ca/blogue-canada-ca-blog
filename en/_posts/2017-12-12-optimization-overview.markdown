@@ -23,7 +23,7 @@ More complex tasks may take full service re-design to fix, involving the removal
 
 {% include components/gc-complex-img.html
 	 alt="Overview of steps in the optimization process - details follow"
-	 file="/images/process/optimization-process-EN.png"
+	 file="process/optimization-process-EN.png"
 	 caption="<p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
         <ol>
             <li><b>Discovery research</b>: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing</li>

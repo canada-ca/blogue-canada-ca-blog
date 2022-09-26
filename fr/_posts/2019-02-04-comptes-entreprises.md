@@ -42,14 +42,14 @@ Voici un exemple de la façon dont nous avons réorganisé l’information&nbsp;
 
 {% include components/gc-complex-img.html
    alt="Avant&nbsp;: Inscription en direct des entreprises."
-   file="/images/comptes-entreprises/avant-BRO.jpg"
+   file="comptes-entreprises/avant-BRO.jpg"
    caption="Tous les renseignements relatifs au programme d’inscription en direct des entreprises se trouvaient sur une seule page. Il y avait des liens d’ancrage au haut de la page, mais les utilisateurs perdaient le fil lorsqu’ils commençaient à défiler."
 %}
 
 ### Après
 {% include components/gc-complex-img.html
    alt="Après&nbsp;: Inscription en direct des entreprises."
-   file="/images/comptes-entreprises/apres-BRO.jpg"
+   file="comptes-entreprises/apres-BRO.jpg"
    caption="Comme l’information a été divisée en petites sections faciles à gérer, les utilisateurs pouvaient facilement parcourir l’information sur chaque page et trouver ce qu’ils cherchaient."
 %}
 

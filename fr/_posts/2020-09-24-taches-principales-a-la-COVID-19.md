@@ -41,7 +41,7 @@ Principaux résultats (25&nbsp;% des votes), 7 principales tâches sur Canada.ca
 
 {% include components/gc-complex-img.html
    alt="Un graphique circulaire montre que 7 tâches ont reçu les 25&nbsp;% de votes les plus importants. Le graphique montre que les 25&nbsp;% de votes suivants ont été répartis sur 11 tâches, puis 18 tâches et les 25&nbsp;% de votes finaux ont été répartis sur 42 tâches."
-   file="/images/top-task.png"
+   file="top-task.png"
    summary="Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais)."
    content="<h3>Sélectionnez jusqu'à 5 tâches / ressources qui sont les PLUS IMPORTANTES pour vous lorsque vous interagissez avec le gouvernement du Canada.</h3>
   <ol>

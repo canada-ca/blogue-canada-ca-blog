@@ -15,7 +15,7 @@ Comment pouvons-nous contribuer à convaincre les utilisateurs que le contenu es
 
 {% include components/gc-simple-img.html
    alt="Capture d'écran d'une page floue de Canada.ca montrant la date modifiée près du bas sur le côté gauche"
-   file="/images/dates-matter/pagewithdate-small-fr.jpg"
+   file="dates-matter/pagewithdate-small-fr.jpg"
 %}
 
 (Vous verrez la date de publication si vous regardez au bas de cette page.)
@@ -25,14 +25,14 @@ Le deuxième endroit où les gens voient la date est dans les résultats de mote
 
 {% include components/gc-simple-img.html
    alt="La page de résultats de recherche sur Internet pour «&nbsp;Vaccin quand enceinte&nbsp;» montrant un résultat de Canada.ca (Vaccination et grossesse) avec le 30 juin 2015 surligné."
-   file="/images/dates-matter/blog-date-internet-serp-fr.png"
+   file="dates-matter/blog-date-internet-serp-fr.png"
 %}
 
 ...and on Canada.ca search:
 
 {% include components/gc-simple-img.html
    alt="La page de résultats de recherche sur Canada.ca pour «&nbsp;Vaccins grossesse&nbsp;» montrant un résultat (Vaccinations et grossesse) avec le 20 juin 2015 surligné."
-   file="/images/dates-matter/blog-date-canadadotca-serp-fr.png"
+   file="dates-matter/blog-date-canadadotca-serp-fr.png"
 %}
 
 ## Pourquoi l’actualité du contenu est importante

@@ -10,7 +10,7 @@ title:  "Canada.ca&nbsp;: De petits changements peuvent faire une grande différ
 
 {% include components/gc-simple-img.html
 	 alt="Une photo de l'honorable Scott Brison"
-	 file="/images/PO/The-Honourable-Scott-Brison.png"
+	 file="PO/The-Honourable-Scott-Brison.png"
 %}
 
 J’ai constaté dans le passé qu’Apple est en mesure de concevoir des appareils tellement intuitifs qu’il ne faut que 40 secondes à mes enfants de 4 ans pour trouver ce qu’ils recherchent. Pourtant, en tant qu’adultes, nous pouvons passer des heures sans trouver ce que l’on cherche sur des sites Web gouvernementaux.

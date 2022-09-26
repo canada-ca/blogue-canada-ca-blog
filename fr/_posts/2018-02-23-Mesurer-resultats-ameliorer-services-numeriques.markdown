@@ -14,7 +14,7 @@ Je suis dans l’avion qui me ramène en Irlande. Je reviens d’Ottawa et mon s
 
 {% include components/gc-complex-img.html
 	 alt="Photographie de Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018"
-	 file="/images/gerry-week/2018_02_18-4058.jpg"
+	 file="gerry-week/2018_02_18-4058.jpg"
 	 caption="Gerry McGovern durant l’atelier de maître au Bayview Yards à Ottawa, le 13 février 2018."
 	 summary=""
 	 content=""

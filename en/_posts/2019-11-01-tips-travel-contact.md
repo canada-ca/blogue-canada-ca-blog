@@ -19,7 +19,7 @@ As our reality becomes increasingly digital, it’s important to remember to des
 
 {% include components/gc-complex-img.html
    alt="Brochure publications redesigned as web content."
-   file="/images/tips-travel-contact/brochure-to-web-content.png"
+   file="tips-travel-contact/brochure-to-web-content.png"
    summary="Detailed description"
    content="<p>A screen capture shows the printed flyer entitled Traveller's checklist advertised in a banner ad at the top of the original Travel and tourism page. To the left, a series of 3 screen captures show excerpts of the 3 redesigned pages and the link text that led to the checklist content in the prototype. The first page has the link text &quot;Planning your trip&quot;. A cut-away of the Planning your trip page has the link text, &quot;Before you go.&quot; A cut-away of the Before you go page shows the checklist content.</p>"
 %}
@@ -41,7 +41,7 @@ Users don’t dig deeper if there is no clue that they need to. If they think th
 
 {% include components/gc-complex-img.html
    alt="Before and after web page for travel risks."
-   file="/images/tips-travel-contact/travel-risks.png"
+   file="tips-travel-contact/travel-risks.png"
    caption="Adding an Important points section allows users to avoid bouncing through several pages, and encouraged participants to look further for information."
    summary="Detailed description"
    content="<p>Screen captures from the original content and the prototype show how the design evolved. Both are displayed in a mobile view. The original shows each of the &quot;tabs&quot; as expand/collapse fields. The Natural Disasters &quot;tab&quot; is expanded showing the text with the warning about hurricane season. A cut-away shows the text that appeared in the first &quot;tab&quot; - the Risk levels tab. It indicates: Cayman Islands - take normal security precautions. To the left is an image of the redesigned page. The main heading is Cayman Islands - Overall, below which is the statement, &quot;Exercise normal security precautions.&quot; Immediately below is the Important points heading. The first bullet says, &quot;Hurricanes usually occur from mid-May to the end of November and can pose serious safety risks&quot; with a link called Hurricane season.</p>"
@@ -63,7 +63,7 @@ Check out the [alpha version of the Contact block pattern.](https://canada-ca.gi
 
 {% include components/gc-complex-img.html
    alt="A screenshot of a simplified contact page."
-   file="/images/tips-travel-contact/contact-pattern.png"
+   file="tips-travel-contact/contact-pattern.png"
    caption=""
    summary="Detailed description"
    content="<p>This is a screenshot of the prototyped Contact page pattern. The top section of the page lists the types of payments you can sign up to receive by direct deposit. The online channel is the featured method for setting up or changing direct deposit and bank details. A large green button labelled Sign in to My Account is the primary call-to-action button. Next are other options: a link to Register and a link to My<abbr title='Canada Revenue Agency'>CRA</abbr> mobile application. Then a heading indicates Other ways to set up direct deposit or change bank details. There are 3 options: By phone, In person, By mail. Each is an expand/collapse field that defaults to the closed position so that the user must select one method to open the field and display additional details.</p>"

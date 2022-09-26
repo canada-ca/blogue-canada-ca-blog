@@ -32,7 +32,7 @@ Pour gérer une page contenant un grand nombre de liens, il convient d'examiner 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/click-2.png"
+   file="click-2.png"
    caption=""
    summary="Taux de clics sur Canada.ca/Coronavirus du 1er au 30 janvier 2020."
    content="<table>
@@ -89,7 +89,7 @@ Depuis juillet, le BTN met à l'essai des façons d'obtenir des commentaires de 
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/feedback-3.png"
+   file="feedback-3.png"
    caption=""
    summary="Le widget de rétroaction sur la page"
    content="<p>Le composant de rétroaction de la page se trouve au bas des principales pages web. Il affiche la question &quot;Avez-vous trouvé ce que vous cherchiez ?&quot; et propose un bouton &quot;oui&quot; et un bouton &quot;non&quot;.</p>"
@@ -107,7 +107,7 @@ Entre le 11 et le 14 décembre, 60&nbsp;% (87/144) des commentaires portaient su
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/action-2.PNG"
+   file="action-2.PNG"
    caption=""
    summary="Retour d'information sur la liste des ingrédients"
    content="<table>

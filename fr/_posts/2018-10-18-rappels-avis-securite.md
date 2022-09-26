@@ -68,7 +68,7 @@ Après une deuxième série d’essais de validation avec les Canadiens sur les 
 
 {% include components/gc-complex-img.html
    alt="Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;»"
-   file="/images/recalls-rappels/beforeafter-epipen-FR.jpg"
+   file="recalls-rappels/beforeafter-epipen-FR.jpg"
    caption=""
    summary="Description détaillée"
    content="<p>Images figurant sur deux téléphones, étiquetés «&nbsp;Avant&nbsp;» et «&nbsp;Après&nbsp;».</p>

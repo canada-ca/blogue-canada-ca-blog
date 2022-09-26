@@ -20,7 +20,7 @@ Dans un environnement de plus en plus axé sur le numérique, il ne faut pas né
 
 {% include components/gc-complex-img.html
    alt="Refonte du dépliant sous forme de contenu Web."
-   file="/images/conseils-voyageurs-contact/depliant-au-contenu-web.png"
+   file="conseils-voyageurs-contact/depliant-au-contenu-web.png"
    caption=""
    summary="Description détaillée"
    content="<p>Une capture d’écran illustre la bannière publicitaire pour un dépliant imprimé intitulé «&nbsp;Aide-mémoire du voyageur&nbsp;», au haut de la page «&nbsp;Voyages et tourisme&nbsp;» originale. À la gauche, une série de 3 captures d’écran affiche des extraits de 3 pages du prototype avec leurs liens qui amènent éventuellement à l’aide-mémoire. À la première page, le lien est intitulé «&nbsp;Planifier votre voyage&nbsp;». La deuxième capture d’écran, superposée par-dessus celle-ci, affiche la page en question, contenant un lien intitulé «&nbsp;Avant de partir&nbsp;». Enfin, la troisième capture d’écran superpose par-dessus la deuxième affiche la page «&nbsp;Avant de partir&nbsp;» avec le contenu de l’aide-mémoire.</p>"
@@ -43,7 +43,7 @@ Les utilisateurs ne creusent pas en profondeur si l’on ne leur indique pas qu�
 
 {% include components/gc-complex-img.html
    alt="La page Web pour les risques de voyage avant et après la refonte."
-   file="/images/conseils-voyageurs-contact/risques-voyage.png"
+   file="conseils-voyageurs-contact/risques-voyage.png"
    caption="L'ajout d'une section Points importants permet aux utilisateurs d'éviter de sauter d'une page à l'autre et encourage les participants à chercher davantage d'informations."
    summary="Description détaillée"
    content="<p>Deux captures d’écran côte à côte – une affichant la version originale et une autre affichant le prototype – afin de mettre en relief l’évolution de la présentation. Les deux pages sont affichées en format pour les dispositifs mobiles. Dans la version originale, chaque section est un onglet que l’on peut agrandir ou réduire. L’onglet «&nbsp;Catastrophes naturelles et climat&nbsp;» est agrandi, affichant un avertissement sur la saison des ouragans. Une autre capture d’écran superposée par-dessus la première affiche le texte dans le premier onglet – «&nbsp;Niveau(x) de risque&nbsp;». On y lit ce qui suit&nbsp;: «&nbsp;Îles Caïmans – Prenez des mesures de sécurité normales&nbsp;». À droite de la version originale se trouve une image de la page prototype modifiée. Le premier en-tête lit «&nbsp;Ïles Caïmans – Vue d’ensemble&nbsp;», suivie du texte «&nbsp;Prenez des mesures de sécurité normales&nbsp;». Cette section est suivie immédiatement de l’en-tête «&nbsp;Points importants&nbsp;». À la première puce, on peut lire le texte «&nbsp;Les ouragans ont typiquement lieu entre la mi-mai et la fin de novembre, et peuvent présenter des risques sévères pour la sécurité&nbsp;» et trouver un lien intitulé «&nbsp;Saison des ouragans&nbsp;».</p>"
@@ -65,7 +65,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 {% include components/gc-complex-img.html
    alt="Une capture d'écran d'une page de coordonnées simplifiée."
-   file="/images/conseils-voyageurs-contact/coordonnees-modèle-conception.png"
+   file="conseils-voyageurs-contact/coordonnees-modèle-conception.png"
    caption=""
    summary="Description détaillée"
    content="<p>Il s’agit d’une capture d’écran de la page de coordonnées du prototype. Au sommet de la page, une section énumère les types de paiements que l’on peut recevoir par dépôt direct en s’inscrivant. La méthode en ligne d’inscription au dépôt direct et de changement des renseignements bancaires est mise en exergue. Un grand bouton vert marqué des mots «&nbsp;Me connecter à mon compte&nbsp;» est le principal bouton d’appel à l’action. D’autres options suivent&nbsp;: un lien pour s’inscrire et un autre lien vers l’application mobile Mon<abbr title='Agence du revenu du Canada'>ARC</abbr>. Puis, un en-tête lisant «&nbsp;Autres moyens de s’inscrire au dépôt direct ou de changer vos renseignements bancaires&nbsp;». Il y a trois options dans cette catégorie&nbsp;: «&nbsp;Par téléphone&nbsp;», «&nbsp;En personne&nbsp;» et «&nbsp;Par courriel&nbsp;». Chacune de ces options comporte un champ masqué par défaut afin que l’utilisateur doive choisir un champ avant de voir s’afficher les renseignements pour ce champ particulier.</p>"

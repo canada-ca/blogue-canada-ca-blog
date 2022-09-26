@@ -65,7 +65,7 @@ Pour aider les personnes à trouver des réponses propres à leur situation pers
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/interactive questions_FR.JPG"
+   file="interactive questions_FR.JPG"
    caption=""
    summary="Questions interactives pour les restrictions liées aux voyages"
    content="<p>L'assistant &quot;Découvrez si vous pouvez voyager au Canada&quot; affiche toutes les réponses que vous avez fournies sous la forme d'une liste permanente en haut de la page, au-dessus de chaque nouvelle question qu'il vous pose.</p>"

@@ -23,7 +23,7 @@ In 2016, the Digital Transformation Office conducted an eye tracking study. Part
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/money-1.png"
+   file="money-1.png"
    caption=""
    summary="Heat map from a carousel eye tracking study" content="<p>Heat map from an eye tracking study that shows how the eyes moved down the page and overlooked the carousel</p>"
 %}
@@ -68,7 +68,7 @@ Even better than placing your promotion on a page related to the topic, is to po
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
-   file="/images/ccb-1.png"
+   file="ccb-1.png"
    caption=""
    summary="Example of a promotion on the Canada Child Benefit page"
    content="<p>The Canada Child Benefit page has a promotion part way down the page, offering the link text: Find out if you can get your taxes done for free.</p>

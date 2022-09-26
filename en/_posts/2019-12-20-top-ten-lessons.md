@@ -104,7 +104,7 @@ The Digital Transformation Office would like to wish you rest and relaxation ove
 
 {% include components/gc-simple-img.html
    alt="A photo of the Digital Transformation Office team."
-   file="/images/DTO_team_2019.jpg"
+   file="DTO_team_2019.jpg"
 %}
 
 ## Inspired by what you learned? Share this post with your team.

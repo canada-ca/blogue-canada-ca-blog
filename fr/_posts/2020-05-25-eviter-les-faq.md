@@ -28,7 +28,7 @@ Quiconque a vu une carte thermique de la façon dont les gens lisent une page We
 
 {% include components/gc-simple-img.html
    alt="Carte de chaleur issue d'une étude de suivi des yeux qui montre comment les yeux se sont déplacés en travers puis en bas de la page selon un schéma F de base"
-   file="/images/heatmap.jpg"
+   file="heatmap.jpg"
 %}
 
 Ce comportement de l’utilisateur est la source de quelques-unes des directives de conception de contenu les plus basiques concernant la structure des pages et des en-têtes. Les titres de «&nbsp;chargement frontal&nbsp;», qui est le fait de placer les mots les plus importants au début, profite de ce comportement connu.
@@ -62,7 +62,7 @@ Sur la page Renseignements généraux par téléphone, nous avons ajouté une no
 
 {% include components/gc-simple-img.html
    alt="Informations générales par page téléphonique montrant les réponses aux appels les plus fréquents des conducteurs en haut de la page (en mode expansion/réduction pour minimiser l'immobilier de l'écran) et les temps d'attente ainsi que le numéro de téléphone de contact en bas de la page"
-   file="/images/faq_fr.png"
+   file="faq_fr.png"
 %}
 
 ## Lignes directrices sur l’utilisation limitée des FAQ

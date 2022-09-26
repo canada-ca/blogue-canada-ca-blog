@@ -49,7 +49,7 @@ Bannière d'alerte antérieure (sur un écran mobile complet)
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/alerte-3.png"
+   file="alerte-3.png"
    caption=""
    summary="Bannière d'alerte antérieure - avant «&nbsp;sur un écran mobile complet&nbsp;»"
    content="<p>Le texte original de la bannière d'alerte indiquait comme titre &quot;Nous contacter pendant la pandémie COVID-19&quot;. Elle couvrait plus qu'un écran mobile complet, comprenait beaucoup de texte, plusieurs concepts et de multiples liens.</p>"
@@ -57,7 +57,7 @@ Bannière d'alerte antérieure (sur un écran mobile complet)
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."
-   file="/images/telephone-2.PNG"
+   file="telephone-2.PNG"
    caption=""
    summary="Nous avons placé les réponses aux questions les plus posées tout en haut de la page, en utilisant le modèle afficher/masquer"
    content="<p>Immédiatement en dessous de la bannière d'alerte raccourcie, une série de 7 champs d'afficher/masquer fournissent les réponses aux questions principales - comme &quot;Dois-je faire une nouvelle demande de PCU?&quot;.</p>"
