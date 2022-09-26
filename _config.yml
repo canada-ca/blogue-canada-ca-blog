@@ -3,6 +3,11 @@ analytics:
   provider: google-gtag
   google:
     tracking_id: GTM-KMVB8C2
+assets:
+  css: /css/
+  img: /images/
+  js: /scripts/
+  thumbs: /images/thumbs/
 author:
   en: Digital Transformation Office
   fr: Bureau de la transformation numérique

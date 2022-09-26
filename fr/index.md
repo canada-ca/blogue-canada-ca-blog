@@ -1,5 +1,8 @@
 ---
 altLangPage: /index
+breadcrumbs:
+  - title: "A propos de Canada.ca"
+    link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
 date: 2019-01-29
 dateModified: 2021-05-10
 description: Validations et perspectives de l’équipe Canada.ca.
@@ -22,12 +25,14 @@ title: Blogue de Canada.ca
 {%- assign posts = site.posts | where: "lang", page.lang -%}
 {%- if posts.size > 0 -%}
 	{%- for post in posts limit:3 -%}
+    {%- assign thumbnail = post.date | date: "%F" | prepend: "/thumbs/" -%}
+    {%- assign file = site.static_files | where: "lang", page.lang | find_exp: "item", "item.path contains thumbnail" -%}
 	<div class="col-md-4">
 		<div class="hght-inhrt">
 			<div class="hidden-xs hidden-sm">
-				<img src="/images/thumbs/{{ post.date | date: "%F" }}.png" alt="{{ post.title }}" class="img-responsive mrgn-bttm-md thumbnail">
+				<img src="{{ file.path | absolute_url }}" alt="{{ post.title }}" class="img-responsive mrgn-bttm-md thumbnail">
 			</div>
-			<h3><a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}" class="stretched-link">{{ post.title }}</a></h3>
+			<h3><a href="{{ post.url | absolute_url }}" class="stretched-link">{{ post.title }}</a></h3>
 			<p>{{ post.description }}</p>
 			<p class="small"><time datetime="{{ post.date | date: "%F" }}" class="nowrap">[{% include locale-date.html date=post.date format="%-d %B %Y" %}]</time></p>
 		</div>
