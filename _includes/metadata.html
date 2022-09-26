@@ -37,16 +37,21 @@
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif -%}
 <meta property="og:locale" content='{{ page.lang | append: '_CA' }}' />
-<meta property="og:url" content="{{ site.urlalt[ page.lang ] }}{{ page.url | remove_first: '/' | remove_first: page.lang }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
 {%- if page.image -%}
-	{%- capture ogimage -%}{{ page.lang | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
-	{%- assign file_exists = site.static_files | where: "path", ogimage -%}
-	{%- if file_exists[0].path -%}
-<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
+	{%- capture ogimage -%}{{ site.assets.img }}{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
+	{%- capture twitterimage -%}{{ site.assets.img }}{{ page.date | date: "%F" | prepend: "og-twitter-" }}.png{%- endcapture -%}
+	{%- assign og-file = site.static_files | where: "lang", page.lang | find_exp: "item", "item.path contains ogimage" -%}
+	{%- assign og-twitter-file = site.static_files | where: "lang", page.lang | find_exp: "item", "item.path contains twitterimage" -%}
+	{%- if og-file.path -%}
+<meta property="og:image" content="{{ og-file.path | absolute_url }}" />
 	{%- else -%}
-<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="og:image" content="{{ site.assets.img }}{{ page.date | date: "%F" }}.png" />
+	{%- endif -%}
+	{%- if og-twitter-file.path -%}
+<meta property="twitter:image" content="{{ og-twitter-file.path | absolute_url }}" />
+	{%- else -%}
+<meta property="twitter:image" content="{{ site.assets.img }}{{ page.date | date: "%F" }}.png" />
 	{%- endif -%}
 	{%- if page.image.height -%}
 <meta property="og:image:height" content="{{ page.image.height }}" />
