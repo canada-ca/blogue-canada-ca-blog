@@ -1,6 +1,7 @@
 ---
-altLangPage: 2022/09/23/introducing-contextual-sign-in-button
+altLangPage: /2022/09/23/introducing-contextual-sign-in-button
 date: 2022-09-23
+dateModified: 2022-09-29
 description: Afin d’améliorer la repérabilité de cette importante tâche principale, la composante d’en-tête générale du site Canada.ca inclut désormais l’option d’ajouter un bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo; sur les pages où les gens cherchent probablement à se connecter à un compte.
 title: Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;
 ---
@@ -56,8 +57,8 @@ Lorsque nous utilisons une terminologie uniforme dans l’ensemble de l’écosy
 
 ## Pour en savoir davantage
 -   [Choisir le bon bouton pour la réussite des tâches](https://blogue.canada.ca/2020/12/17/choisir-des-boutons)
--   [Système de conception de Canada.ca&nbsp;: Boutons](https://conception.canada.ca/configurations-conception-communes/boutons.html)
--   [BOEW (Boîte à outils de l'expérience Web)](https://wet-boew.github.io/wet-boew-styleguide/design/buttons-fr)
+-   [Bouton contextuel «&nbsp;Se connecter&nbsp;» – modèle de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html)
+-   [GCWeb (BOEW)&nbsp;: Modèles d'authentification](https://wet-boew.github.io/GCWeb/sites/authentication/authentication-fr.html)
 -   [Ask a UXpert: Why is consistency important in design?](https://www.youtube.com/watch?v=UHUluiMe0cA) (en anglais seulement)
 -   [Ligne directrice sur la définition des exigences en matière d’authentification](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=26262)
 -   [Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux](https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes)
