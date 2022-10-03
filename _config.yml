@@ -1,6 +1,11 @@
 # Site settings
 analytics:
-  provider: google-gtag
+  providers:
+  - google-gtag
+  - adobe
+  adobe:
+    tracking_id: be5dfd287373/0127575cd23a/launch-f7c3e6060667
+    service: TBS-DTO_BTN-SCT
   google:
     tracking_id: GTM-KMVB8C2
 author:
@@ -24,24 +29,24 @@ webmaster_verifications:
 
 # Files excluded from Jekyll builds
 exclude:
-- .editorconfig
-- .jekyll-cache
-- .gitignore
-- .github
-- "*.gpg"
-- "*.tmp"
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- CNAME
-- gcweb-jekyll.gemspec
-- Gemfile
-- Gemfile.lock
-- LICENSE*
-- node_modules
-- screenshot.png
-- SECURITY.md
-- README.md
-- vendor/*
+  - .editorconfig
+  - .jekyll-cache
+  - .gitignore
+  - .github
+  - "*.gpg"
+  - "*.tmp"
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - CNAME
+  - gcweb-jekyll.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE*
+  - node_modules
+  - screenshot.png
+  - SECURITY.md
+  - README.md
+  - vendor/*
 
 # Jekyll settings
 defaults:
