@@ -1,5 +1,8 @@
 # Strings for dates
 # language English
+dateIssued:
+  en: "Date published:"
+  fr: "Date publiée&nbsp;:"
 abbr_weekday:
   en:
     - Sun

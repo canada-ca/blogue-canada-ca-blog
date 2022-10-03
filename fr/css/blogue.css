@@ -38,3 +38,7 @@ figure.gc-complex-img {
 	top: 0;
 	z-index: 1;
 }
+#wb-dtmd.dl-horizontal dd {
+	display: block;
+	max-width: 11ch;
+}

@@ -26,6 +26,10 @@
 {%- endif %}
 <meta name="dcterms.issued" title="W3CDTF" content="{{ page.date }}"/>
 <meta name="dcterms.modified" title="W3CDTF" content="{% if page.dateModified %}{{ page.dateModified }}{% else %}{{ page.date }}{%- endif -%}"/>
+{%- if site.analytics.providers contains 'adobe' %}
+<meta name="dcterms.accessRights" content="{{ page.accessRights | default: '2' }}">
+<meta name="dcterms.service" content="{{ site.analytics.adobe.service }}">
+{%- endif %}
 <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
 {%- if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
