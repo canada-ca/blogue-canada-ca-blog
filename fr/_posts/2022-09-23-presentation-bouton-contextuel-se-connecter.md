@@ -59,6 +59,5 @@ Lorsque nous utilisons une terminologie uniforme dans l’ensemble de l’écosy
 -   [Choisir le bon bouton pour la réussite des tâches](https://blogue.canada.ca/2020/12/17/choisir-des-boutons)
 -   [Bouton contextuel «&nbsp;Se connecter&nbsp;» – modèle de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html)
 -   [GCWeb (BOEW)&nbsp;: Modèles d'authentification](https://wet-boew.github.io/GCWeb/sites/authentication/authentication-fr.html)
--   [Ask a UXpert: Why is consistency important in design?](https://www.youtube.com/watch?v=UHUluiMe0cA) (en anglais seulement)
 -   [Ligne directrice sur la définition des exigences en matière d’authentification](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=26262)
 -   [Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux](https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes)
