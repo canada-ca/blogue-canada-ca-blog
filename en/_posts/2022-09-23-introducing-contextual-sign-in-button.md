@@ -60,7 +60,6 @@ When we use consistent terminology across the ecosystem, it helps people feel co
 - [Choosing the right button for task success](https://blog.canada.ca/2020/12/17/choosing-buttons.html)
 - [Contextual Sign in button - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/contextual-signin.html)
 - [GCWeb (WET): Authentication patterns](https://wet-boew.github.io/GCWeb/sites/authentication/authentication-en.html)
-- [Ask a UXpert: Why is consistency important in design?](https://www.youtube.com/watch?v=UHUluiMe0cA&t=51s)
 - [Guideline on Defining Authentication Requirements](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=26262)
 - [Labelling study: which words work best
 ](https://blog.canada.ca/2020/10/02/labelling-study)
