@@ -14,6 +14,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 
   <p>– Clement Mok</p>
 </blockquote>
+
 <h2>The Wayfinding project</h2>
 <p>The research included a baseline study to discover and assess findability problems and a comparison study to test possible solutions. Our findings have directed changes to the Canada.ca design.</p>
 <p>Research and prototyping explored options to remove the menu while maintaining or improving the effectiveness of global navigation.  We also wanted to preserve the confidence and trust we’ve established with the Canada.ca site brand.</p>
