@@ -9,7 +9,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 
 <p>We needed to look beyond the menu though and toward navigation habits as a whole to see how institutions could meet user needs effectively.</p>
 
-<blockquote>
+<blockquote class="mrgn-tp-lg">
   <p>Navigation is about wayfinding, you can't treat it as separate because many other things run parallel with it. If you look at studies in wayfinding, everything from exhibit design to building the cathedrals, it's about creating a complete system. It's about looking at the whole.</p>
 
   <p>– Clement Mok</p>
