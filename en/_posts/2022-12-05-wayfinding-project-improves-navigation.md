@@ -5,7 +5,7 @@ dateModified: 2022-12-05
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design for departments and agencies.  The main improvements include the introduction of a new sign in button, removing the menu button, a contextual footer band, a main footer band with themes, and a simplified design for the theme page."
 title: "The Wayfinding project improves Canada.ca navigation"
 ---
-<p>To better understand how people navigate different parts of the Government of Canada web presence, the Digital Transformation Office carried out a wayfinding research project.  We were particularly interested in how people used the theme and topic menu on Canada.ca.  We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.   In some cases, this meant that institutions weren’t adopting the Canada.ca design.</p>
+<p>To better understand how people navigate different parts of the Government of Canada web presence, the Digital Transformation Office carried out a wayfinding research project.  We were particularly interested in how people used the global theme and topic menu on Canada.ca.  We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.   In some cases, this meant that institutions weren’t adopting the Canada.ca design.</p>
 
 <p>We needed to look beyond the menu though and toward navigation habits as a whole to see how institutions could meet user needs effectively.</p>
 
@@ -25,3 +25,4 @@ title: "The Wayfinding project improves Canada.ca navigation"
    <li>more prominent breadcrumb links</li>
    <li>a simplified theme page template</li>
 </ul>
+<p>We applied the new design to pages that were already using the Canada.ca design, as well as pages that weren't. Task success remained consistent and there was even an improvement for navigating between themes.  One of the reasons for the consistent performance is that breadcrumbs are used more often than the global menu for navigation.  People can find their destination when there are clear links to theme-level pages in the breadcrumb.  We also found that people use the menu to find a way to sign into their account.  Signing in is a top task on Canada.ca!  An exposed contextual Sign in button on relevant pages will significantly reduce the use of the menu.  The Sign in button is placed at the top-right, just below the global header, an area where people typically look for signing into an account.</p>
