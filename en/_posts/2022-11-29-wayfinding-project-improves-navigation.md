@@ -50,3 +50,11 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Done</p>
 <p>Analysis of footer usage patterns on the home page vs all other pages showed that some footer links were used a lot from the Canada.ca homepage, but very little from elsewhere in the site. We’ve moved these links out of the footer and into the content section of the Canada.ca homepage. This makes them more visible where people actually use them, and frees up space in the footer for more appropriate links.</p>
 
+<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="panel-bodye small">
+<p><a href="https://www.canada.ca/en.html">Canada.ca homepage</a><br>
+ Visit the Canada.ca homepage to see the updated footer with links added to the content area.</p>
+ </div>
+</div>
+<h2 class="mrgn-tp-lg">2. Contextual Sign in button</h2>
+<p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
