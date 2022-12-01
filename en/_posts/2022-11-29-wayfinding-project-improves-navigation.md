@@ -4,6 +4,7 @@ css:
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 layout: post-01
+contextualFooterTitle: Digital Transformation Office
 altLangPage: /2022/12/05/
 date: 2022-11-29
 dateModified: 2022-11-29
