@@ -40,7 +40,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p>We applied the new design to pages that were already using the Canada.ca design, as well as pages that weren't. Task success remained consistent and there was even an improvement for navigating between themes.  One of the reasons for the consistent performance is that breadcrumbs are used more often than the global menu for navigation.  People can find their destination when there are clear links to theme-level pages in the breadcrumb.  We also found that people use the menu to find a way to sign into their account.  Signing in is a top task on Canada.ca!  An exposed contextual Sign in button on relevant pages will significantly reduce the use of the menu.  The Sign in button is placed at the top-right, just below the global header, an area where people typically look for signing into an account.</p>
 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-  <div class="well">
+  <div class="well small">
 <p><a href="#">Canada.ca Wayfinding research summary</a><br>
  A summary Wayfinding research DTO conducted to examine the use of the menu on in-site navigation.</p>
 </div></div></div>
@@ -51,26 +51,26 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Done</p>
 <p>Analysis of footer usage patterns on the home page vs all other pages showed that some footer links were used a lot from the Canada.ca homepage, but very little from elsewhere in the site. We’ve moved these links out of the footer and into the content section of the Canada.ca homepage. This makes them more visible where people actually use them, and frees up space in the footer for more appropriate links.</p>
 
-<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-  <div class="panel-bodye small">
+<div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="well small">
 <p><a href="https://www.canada.ca/en.html">Canada.ca homepage</a><br>
  Visit the Canada.ca homepage to see the updated footer with links added to the content area.</p>
- </div>
-</div>
+</div></div></div>
+<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>The global header now includes the contextual Sign in button.  It is an optional element to be used on pages where people are likely looking to sign in to an account.  We saw that a lot of people used the global menu to access a sign in page.  When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy.</p> 
 <p>Some pages may have both the global menu and the new Sign in button during the transition period.  As dependency on the menu decreases over time, you can remove the menu without disrupting access to the sign in tasks.</p> 
-<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-  <div class="panel-bodye small">
+<div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="well small">
 <p><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Introducing the contextual Sign in button</a><br>
  A blog that introduces addition of the the Sign in button to the global header.</p>
     <p><a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">Contextual Sign in button</a><br>
  A Canada.ca design system pattern header element that directs people to government accounts.</p>
     <p><a href="https://design.canada.ca/common-design-patterns/global-header.html">Global header</a><br>
   A Canada.ca design system pattern that is at the top of each web page from the Government of Canada.</p>
- </div>
-</div>
+</div></div></div>
+<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer is made up of three content bands.</p>  
