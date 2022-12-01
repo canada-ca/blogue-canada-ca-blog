@@ -38,4 +38,9 @@ title: "The Wayfinding project improves Canada.ca navigation"
  A summary Wayfinding research DTO conducted to examine the use of the menu on in-site navigation.</p>
  </div>
 </div>
+<h2>A transitional approach to change</h2>
+<p>We are using a transitional approach to make these design improvements to our navigation.  Some of the work has already been done. This is our roll-out plan.</p>
+<h3>1. Updates to the Canada.ca homepage</h3>
+<p>✔️ Done</p>
+<p>Analysis of footer usage patterns on the home page vs all other pages showed that some footer links were used a lot from the Canada.ca homepage, but very little from elsewhere in the site. We’ve moved these links out of the footer and into the content section of the Canada.ca homepage. This makes them more visible where people actually use them, and frees up space in the footer for more appropriate links.</p>
 
