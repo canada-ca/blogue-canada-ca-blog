@@ -60,3 +60,14 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>The global header now includes the contextual Sign in button.  It is an optional element to be used on pages where people are likely looking to sign in to an account.  We saw that a lot of people used the global menu to access a sign in page.  When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy.</p> 
 <p>Some pages may have both the global menu and the new Sign in button during the transition period.  As dependency on the menu decreases over time, you can remove the menu without disrupting access to the sign in tasks.</p> 
+<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="panel-bodye small">
+<p><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Introducing the contextual Sign in button</a><br>
+ A blog that introduces addition of the the Sign in button to the global header.</p>
+    <p><a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">Contextual Sign in button</a><br>
+ A Canada.ca design system pattern header element that directs people to government accounts.</p>
+    <p><a href="[https://www.canada.ca/en.html](https://design.canada.ca/common-design-patterns/global-header.html)">Global header</a><br>
+  A Canada.ca design system pattern that is at the top of each web page from the Government of Canada.</p>
+ </div>
+</div>
+
