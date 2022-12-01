@@ -83,7 +83,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p>The sub-footer band is mandatory on all pages.  It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible.</p> 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
   <div class="well small">
-<p>An introduction to the global site footer (Coming soon)<br>
+    <p><strong>An introduction to the global site footer (Coming soon)</strong><br>
  A blog that introduces updates to the global footer.</p>
     <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Global site footer</a><br>
   A Canada.ca design system pattern that is at the bottom of each web page from the Government of Canada.</p>
