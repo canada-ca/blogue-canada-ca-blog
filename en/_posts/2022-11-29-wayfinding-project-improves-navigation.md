@@ -81,14 +81,14 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focussed on a very specific task and you want to reduce distractions as much as possible.  You can’t configure this band.</p>  
 <h4>Sub-footer band</h4>
 <p>The sub-footer band is mandatory on all pages.  It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible.</p> 
-<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-  <div class="panel-bodye small">
+<div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="well small">
 <p>An introduction to the global site footer (Coming soon)<br>
  A blog that introduces updates to the global footer.</p>
     <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Global site footer</a><br>
   A Canada.ca design system pattern that is at the bottom of each web page from the Government of Canada.</p>
- </div>
-</div>
+</div></div></div>
+<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
 <p>Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success, and in some cases we can make it easier to find key tasks, like Sign in.  As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
