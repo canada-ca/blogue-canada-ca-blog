@@ -76,6 +76,10 @@ title: "The Wayfinding project improves Canada.ca navigation"
 </div></div></div>
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
+<div class="row"><div class="col-md-8">
+<img src="/images/wafingding-footer-en.png" class="img-responsive" alt="" />
+  </div>  
+  </div>  
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer is made up of three content bands.</p>  
 <h4>Contextual-footer band</h4>
