@@ -44,7 +44,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
  A summary Wayfinding research DTO conducted to examine the use of the menu on in-site navigation.</p>
  </div>
 </div>
-<h2>A transitional approach to change</h2>
+<h2 class="mrgn-tp-lg">A transitional approach to change</h2>
 <p>We are using a transitional approach to make these design improvements to our navigation.  Some of the work has already been done. This is our roll-out plan.</p>
 <h3>1. Updates to the Canada.ca homepage</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Done</p>
