@@ -56,5 +56,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
  Visit the Canada.ca homepage to see the updated footer with links added to the content area.</p>
  </div>
 </div>
-<h2 class="mrgn-tp-lg">2. Contextual Sign in button</h2>
+<h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
+<p>The global header now includes the contextual Sign in button.  It is an optional element to be used on pages where people are likely looking to sign in to an account.  We saw that a lot of people used the global menu to access a sign in page.  When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy.</p> 
+<p>Some pages may have both the global menu and the new Sign in button during the transition period.  As dependency on the menu decreases over time, you can remove the menu without disrupting access to the sign in tasks.</p> 
