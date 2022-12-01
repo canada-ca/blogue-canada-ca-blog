@@ -91,4 +91,10 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
 <p>Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success, and in some cases we can make it easier to find key tasks, like Sign in.  As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
+<h3 class="mrgn-tp-lg">5. Simplified theme page design</h3>
+<p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the future.</p>
+<p>We still need theme pages to play an organizing function in our information architecture, but we can simplify the layout. We’re working toward updating the theme page template to provide more straightforward access to top tasks.  Our research will consider a navigation bar to help people navigate across themes and a Most requested band.   We’re removing the features section and social media links because analytics show that people rarely use them.</p>
+<h2>Final thoughts</h2>
+<p>Stay tuned!  This is a transition process that will take some time to complete.</p>
+<p>We are continuing to conduct research and analysis to improve navigation and brand trust.   There are always areas that can be improved and new challenges will arise as we transition to these new patterns.  Share your experience with us.  Ask us how you can participate in research.</p>
 
