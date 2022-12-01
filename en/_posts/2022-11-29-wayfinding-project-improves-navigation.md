@@ -89,4 +89,6 @@ title: "The Wayfinding project improves Canada.ca navigation"
  </div>
 </div>
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
-<p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available to use</p>
+<p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
+<p>Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success, and in some cases we can make it easier to find key tasks, like Sign in.  As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
+
