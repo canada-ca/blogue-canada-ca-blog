@@ -70,4 +70,23 @@ title: "The Wayfinding project improves Canada.ca navigation"
   A Canada.ca design system pattern that is at the top of each web page from the Government of Canada.</p>
  </div>
 </div>
-
+<h3 class="mrgn-tp-lg">3. Footer updates</h3>
+<p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
+<p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer is made up of three content bands.</p>  
+<h4>Contextual-footer band</h4>
+<p>The contextual band is optional and configurable.  Institutions can provide up to three contextual support links that are relevant to the content within a  group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
+<p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
+<h4>Main-footer band</h4>
+<p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focussed on a very specific task and you want to reduce distractions as much as possible.  You can’t configure this band.</p>  
+<h4>Sub-footer band</h4>
+<p>The sub-footer band is mandatory on all pages.  It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible.</p> 
+<div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+  <div class="panel-bodye small">
+<p><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Introducing the contextual Sign in button</a><br>
+ A blog that introduces addition of the the Sign in button to the global header.</p>
+    <p><a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">Contextual Sign in button</a><br>
+ A Canada.ca design system pattern header element that directs people to government accounts.</p>
+    <p><a href="[https://www.canada.ca/en.html](https://design.canada.ca/common-design-patterns/global-header.html)">Global header</a><br>
+  A Canada.ca design system pattern that is at the top of each web page from the Government of Canada.</p>
+ </div>
+</div>
