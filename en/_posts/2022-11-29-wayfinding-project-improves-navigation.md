@@ -5,7 +5,10 @@ dateModified: 2022-11-29
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design for departments and agencies.  The main improvements include the introduction of a new sign in button, removing the menu button, a contextual footer band, a main footer band with themes, and a simplified design for the theme page."
 title: "The Wayfinding project improves Canada.ca navigation"
 ---
-<img src="/images/thumbs/2022-11-29.png" alt="" />
+<div class="row"><div class="col-md-7">
+<img src="/images/thumbs/2022-11-29.png" class="img-responsive" alt="" />
+  </div>  
+  </div>
 <p>To better understand how people navigate different parts of the Government of Canada web presence, the Digital Transformation Office carried out a wayfinding research project.  We were particularly interested in how people used the global theme and topic menu on Canada.ca.  We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.   In some cases, this meant that institutions weren’t adopting the Canada.ca design.</p>
 
 <p>We needed to look beyond the menu though and toward navigation habits as a whole to see how institutions could meet user needs effectively.</p>
