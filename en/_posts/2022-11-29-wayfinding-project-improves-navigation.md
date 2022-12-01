@@ -18,12 +18,13 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p class="mrgn-tp-lg">To better understand how people navigate different parts of the Government of Canada web presence, the Digital Transformation Office carried out a wayfinding research project.  We were particularly interested in how people used the global theme and topic menu on Canada.ca.  We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.   In some cases, this meant that institutions weren’t adopting the Canada.ca design.</p>
 
 <p>We needed to look beyond the menu though and toward navigation habits as a whole to see how institutions could meet user needs effectively.</p>
-
+<div class="col-md-8 mrgn-tp-lg">
 <blockquote class="mrgn-tp-lg">
   <p>Navigation is about wayfinding, you can't treat it as separate because many other things run parallel with it. If you look at studies in wayfinding, everything from exhibit design to building the cathedrals, it's about creating a complete system. It's about looking at the whole.</p>
 
   <p>– Clement Mok</p>
-</blockquote>
+</blockquote></div>
+<div class="clearfix"></div>
 
 <h2>The Wayfinding project</h2>
 <p>The research included a baseline study to discover and assess findability problems and a comparison study to test possible solutions. Our findings have directed changes to the Canada.ca design.</p>
