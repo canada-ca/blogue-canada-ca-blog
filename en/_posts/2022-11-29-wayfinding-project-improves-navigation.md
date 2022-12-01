@@ -83,7 +83,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <div class="well col-md-8 mrgn-tp-lg mrgn-bttm-lg">
   <div class="panel-bodye small">
 <p>An introduction to the global site footer (Coming soon)<br>
- A blog that introduces updates to the global Footer.</p>
+ A blog that introduces updates to the global footer.</p>
     <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Global site footer</a><br>
   A Canada.ca design system pattern that is at the bottom of each web page from the Government of Canada.</p>
  </div>
