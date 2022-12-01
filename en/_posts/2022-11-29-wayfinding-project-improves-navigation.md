@@ -3,7 +3,6 @@ css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-layout: without-h1
 altLangPage: /2022/12/05/
 date: 2022-11-29
 dateModified: 2022-11-29
