@@ -5,7 +5,7 @@ dateModified: 2022-11-29
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design for departments and agencies.  The main improvements include the introduction of a new sign in button, removing the menu button, a contextual footer band, a main footer band with themes, and a simplified design for the theme page."
 title: "The Wayfinding project improves Canada.ca navigation"
 ---
-<div class="row"><div class="col-md-7">
+<div class="row"><div class="col-md-8">
 <img src="/images/thumbs/2022-11-29.png" class="img-responsive" alt="" />
   </div>  
   </div>
