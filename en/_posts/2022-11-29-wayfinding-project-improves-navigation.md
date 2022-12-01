@@ -60,7 +60,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <div class="row"><div class="col-md-8">
-<img src="wayfaring-sign-in-desktop-en.jpg" class="img-responsive" alt="" />
+<img src="/images/wayfaring-sign-in-desktop-en.jpg" class="img-responsive" alt="" />
   </div>  
   </div>
   
