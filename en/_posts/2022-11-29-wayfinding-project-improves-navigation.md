@@ -74,7 +74,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 </div></div></div>
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
-<div class="panel panel-default col-md-8 mrgn-tp-md"><div class="panel-body">
+<div class="panel panel-default col-md-8 mrgn-tp-md"><div class="panel-bodya">
 <img src="/images/wafingding-footer-en.png" class="img-responsive" alt="" />
   </div>   </div> 
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
