@@ -118,7 +118,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <h2>Final thoughts</h2>
 <p>Stay tuned! This is a transition process that will take some time to complete. We’re monitoring each step of the rollout to see if we need to make adjustments to the plan.</p>
 <p>We’re continuing to conduct research and analysis to improve navigation and brand trust. There are always areas that can be improved, and new challenges will arise as we transition to these new patterns. Share your experience with us. Ask us how you can participate in research.</p>
-<h2>Connect with the Digital Transformation Office</h2>
+<h2>Connect with DTO</h2>
 <ul>
   <li>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
 <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
