@@ -78,10 +78,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>  
 <h4>Contextual-footer band</h4>
-<div class="row"><div class="col-md-8">
-<img src="/images/wayfinding-footer-contextual-en.jpg" class="img-responsive" alt="" />
-  </div>  
-  </div>  
+<div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div> 
 <p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
