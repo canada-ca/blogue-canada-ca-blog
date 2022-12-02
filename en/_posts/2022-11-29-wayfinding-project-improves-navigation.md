@@ -82,10 +82,8 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
-<div class="row"><div class="col-md-8">
-<img src="/images/wayfinding-footer-main-en.jpg" class="img-responsive" alt="" />
-  </div>  
-  </div>  
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div> 
+ 
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>  
 <h4>Sub-footer band</h4>
 <div class="row"><div class="col-md-8">
