@@ -82,11 +82,23 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>  
 <h4>Contextual-footer band</h4>
+<div class="row"><div class="col-md-8">
+<img src="/images/wayfinding-footer-contextual-en.jpg" class="img-responsive" alt="" />
+  </div>  
+  </div>  
 <p>TThe contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
+<div class="row"><div class="col-md-8">
+<img src="/images/wayfinding-footer-main-en.jpg" class="img-responsive" alt="" />
+  </div>  
+  </div>  
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>  
 <h4>Sub-footer band</h4>
+<div class="row"><div class="col-md-8">
+<img src="/images/wayfinding-footer-sub-en.jpg" class="img-responsive" alt="" />
+  </div>  
+  </div>  
 <p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p> 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
   <div class="well small">
