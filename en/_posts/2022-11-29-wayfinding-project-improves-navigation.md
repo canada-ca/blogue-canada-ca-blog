@@ -86,7 +86,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <img src="/images/wayfinding-footer-contextual-en.jpg" class="img-responsive" alt="" />
   </div>  
   </div>  
-<p>TThe contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
+<p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
 <div class="row"><div class="col-md-8">
@@ -110,7 +110,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
-<pYes, you read that right. Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success.  In some cases, we can make it easier to find key tasks, like Sign in.</p> 
+<p>Yes, you read that right. Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success.  In some cases, we can make it easier to find key tasks, like Sign in.</p> 
 <p>As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
 <h3 class="mrgn-tp-lg">5. Simplified theme page design</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the future.</p>
