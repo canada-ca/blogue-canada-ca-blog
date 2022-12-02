@@ -74,7 +74,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 </div></div></div>
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
-<div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div> 
+<div class="row"><div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div></div>  
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>  
 <h4>Contextual-footer band</h4>
@@ -82,7 +82,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div> 
+  <div class="row"><div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div></div>
  
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>  
 <h4>Sub-footer band</h4>
