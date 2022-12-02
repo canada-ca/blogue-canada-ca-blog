@@ -86,7 +86,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
  
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>  
 <h4>Sub-footer band</h4>
- <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-sub-01-en.png" class="img-responsive" alt="" /></div> 
+ <div class="row"><div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-sub-01-en.png" class="img-responsive" alt="" /></div></div>
 
 <p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p> 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
