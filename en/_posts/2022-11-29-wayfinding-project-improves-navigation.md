@@ -46,7 +46,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 </div></div></div>
 <div class="clearfix"></div>
 <h2 class="mrgn-tp-lg">A transitional approach to change</h2>
-<p>These are complex changes to a site that people depend on every day.  To minimize disruption for users, we’re using a transitional approach to make these design improvements to our navigation. Some of the work has already been done and more is in progress. This is our roll-out plan.</p>
+<p>These are complex changes to a site that people depend on every day.  To minimize disruption for users we’re using a transitional approach to make these design improvements to our navigation. Some of the work has already been done and more is in progress. This is our roll-out plan.</p>
 <h3>1. Updates to the Canada.ca homepage</h3>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Done</p>
 <p>Analysis of footer usage patterns on the home page vs all other pages showed that some footer links were used a lot from the Canada.ca homepage, but very little from elsewhere in the site. We’ve moved these links out of the footer and into the content section of the Canada.ca homepage. This makes them more visible where people actually use them and frees up space in the footer for more appropriate links.</p>
