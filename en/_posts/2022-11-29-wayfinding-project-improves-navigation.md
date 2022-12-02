@@ -63,16 +63,15 @@ title: "The Wayfinding project improves Canada.ca navigation"
   </div>  
   </div>  
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
-<p>The global header now includes the contextual Sign in button.  It is an optional element to be used on pages where people are likely looking to sign in to an account.  We saw that a lot of people used the global menu to access a sign in page.  When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy.</p> 
-<p>Some pages may have both the global menu and the new Sign in button during the transition period.  As dependency on the menu decreases over time, you can remove the menu without disrupting access to the sign in tasks.</p> 
+<p>The global header now includes the contextual Sign in button. It’s an optional element to be used on pages where people are likely looking to sign in to an account. We saw that a lot of people used the global menu to access a sign in page. When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy to find. As people become accustomed to seeing and using the sign in button in a relevant and consistent spot below the header, they will depend less on the menu to find and sign in to their account(s).</p> 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
   <div class="well small">
 <p><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Introducing the contextual Sign in button</a><br>
- A blog that introduces addition of the the Sign in button to the global header.</p>
+ Blog post that introduces the addition of the Sign in button to the global header</p>
     <p><a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">Contextual Sign in button</a><br>
- A Canada.ca design system pattern header element that directs people to government accounts.</p>
+ Canada.ca design system pattern that directs people to government accounts</p>
     <p><a href="https://design.canada.ca/common-design-patterns/global-header.html">Global header</a><br>
-  A Canada.ca design system pattern that is at the top of each web page from the Government of Canada.</p>
+ Canada.ca design system pattern for the top of web pages from the Government of Canada</p>
 </div></div></div>
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
@@ -81,36 +80,36 @@ title: "The Wayfinding project improves Canada.ca navigation"
   </div>  
   </div>  
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
-<p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer is made up of three content bands.</p>  
+<p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>  
 <h4>Contextual-footer band</h4>
-<p>The contextual band is optional and configurable.  Institutions can provide up to three contextual support links that are relevant to the content within a  group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
+<p>TThe contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>   
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>  
 <h4>Main-footer band</h4>
-<p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focussed on a very specific task and you want to reduce distractions as much as possible.  You can’t configure this band.</p>  
+<p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>  
 <h4>Sub-footer band</h4>
-<p>The sub-footer band is mandatory on all pages.  It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible.</p> 
+<p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p> 
 <div class="row"><div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
   <div class="well small">
-    <p><strong>An introduction to the global site footer (Coming soon)</strong><br>
- A blog that introduces updates to the global footer.</p>
+    <!--<p><strong>An introduction to the global site footer (Coming soon)</strong><br>
+ A blog that introduces updates to the global footer.</p>-->
     <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Global site footer</a><br>
-  A Canada.ca design system pattern that is at the bottom of each web page from the Government of Canada.</p>
+  Canada.ca design system pattern for the bottom of web pages from the Government of Canada</p>
 </div></div></div>
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
-<p>Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success, and in some cases we can make it easier to find key tasks, like Sign in.  As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
+<pYes, you read that right. Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success.  In some cases, we can make it easier to find key tasks, like Sign in.</p> 
+<p>As departments implement other changes, like the updated footer and contextual Sign in buttons where needed, we expect they'll see a decline in menu use. When web analytics show that people are using the menu less than 1% of the time within a certain set of pages, departments can remove it. This is a staged approach aimed at gently encouraging users to shift their navigating habits.</p>
 <h3 class="mrgn-tp-lg">5. Simplified theme page design</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the future.</p>
-<p>We still need theme pages to play an organizing function in our information architecture, but we can simplify the layout. We’re working toward updating the theme page template to provide more straightforward access to top tasks.  Our research will consider a navigation bar to help people navigate across themes and a Most requested band.   We’re removing the features section and social media links because analytics show that people rarely use them.</p>
+<p>Theme pages still play a vital organizing function in our information architecture, but we can simplify the layout. We’re working toward updating the theme page template to provide more straightforward access to top tasks.  Our research will test a navigation bar to help people navigate across themes and a Most requested band. We’re considering removing the features section and social media links because analytics show that people rarely use them.</p>
 <h2>Final thoughts</h2>
-<p>Stay tuned!  This is a transition process that will take some time to complete.</p>
-<p>We are continuing to conduct research and analysis to improve navigation and brand trust.   There are always areas that can be improved and new challenges will arise as we transition to these new patterns.  Share your experience with us.  Ask us how you can participate in research.</p>
-<!--<h2>Connect with the Digital Transformation Office</h2>
+<p>Stay tuned! This is a transition process that will take some time to complete. We’re monitoring each step of the rollout to see if we need to make adjustments to the plan.</p>
+<p>We’re continuing to conduct research and analysis to improve navigation and brand trust. There are always areas that can be improved, and new challenges will arise as we transition to these new patterns. Share your experience with us. Ask us how you can participate in research.</p>
+<h2>Connect with the Digital Transformation Office</h2>
 <ul>
   <li>Email: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
 <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
   </ul>
- <h2>Sign up to the Digital Transformation Office mailing list</h2>-->
 
