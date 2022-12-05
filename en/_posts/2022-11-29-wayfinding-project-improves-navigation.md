@@ -59,7 +59,7 @@ title: "The Wayfinding project improves Canada.ca navigation"
 <div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <div class="panel panel-default col-md-8 mrgn-tp-md">
-<img src="/images/wayfaring-sign-in-desktop-en.jpg" class="img-responsive" alt="" />
+<img src="/images/wayfaring-sign-in-desktop-01-en.jpg" class="img-responsive" alt="" />
   </div>  
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>The global header now includes the contextual Sign in button. It’s an optional element to be used on pages where people are likely looking to sign in to an account. We saw that a lot of people used the global menu to access a sign in page. When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy to find. As people become accustomed to seeing and using the sign in button in a relevant and consistent spot below the header, they will depend less on the menu to find and sign in to their account(s).</p> 
