@@ -14,8 +14,8 @@ language:
   en: English
   fr: Français
 title:
-  en: Canada.ca digital design blog
-  fr: Blogue de conception numérique du Canada.ca
+  en: Canada.ca blog
+  fr: Blogue de Canada.ca
 urlalt:
   en: https://blog.canada.ca
   fr: https://blogue.canada.ca
@@ -57,13 +57,13 @@ defaults:
     scope:
       path: "en/"
     values:
-      css: "https://blog.canada.ca/css/blog.css"
+      css: "../../../css/blog.css"
       lang: "en"
   -
     scope:
       path: "fr/"
     values:
-      css: "https://blogue.canada.ca/css/blogue.css"
+      css: "../../../css/blogue.css"
       lang: "fr"
   -
     scope:

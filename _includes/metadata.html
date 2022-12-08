@@ -66,7 +66,7 @@
 <meta property="og:type" content="website" />
 {%- endif %}
 {%- if site.title %}
-<meta property="og:site_name" content="{{ site.title[ page.lang ] }}" />
+<meta property="og:site_name" content="{%- if page.section-title -%} {{ page.section-title }} {%- else -%} {{ site.title[ page.lang ] }} {%- endif -%}" /> <!-- Temporary fix specific for Research summaries 2022-12-22 -->
 {%- endif -%}
 {%- if paginator.previous_page %}
 <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />

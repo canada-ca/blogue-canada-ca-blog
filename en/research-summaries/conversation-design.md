@@ -3,15 +3,17 @@ altLangPage: "/resumes-recherche/design-conversationnel"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
-  - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
   - title: Improving content on Canada.ca
     link: "https://blog.canada.ca/pages/project-overview.html"
+css:
+- ../css/blog.css
+- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2021-06-30
 description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
 lang: en
 layout: default
-title: "Research summary: Delivering government services through conversation design"
+section-title: "Research summary"
+title: "Delivering government services through conversation design"
 ---
 Canadians seek answers from governments on whatever device they have on hand - on their mobile phones, on tablets, computers and increasingly via voice. We wanted to learn more about how different kinds of interaction could help users find the answers they were looking for.
 
