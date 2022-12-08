@@ -7,7 +7,7 @@ layout: post-01
 altLangPage: /2022/12/05/
 date: 2022-11-29
 dateModified: 2022-11-29
-description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design for departments and agencies.  The main improvements include the introduction of a new sign in button, removing the menu button, a contextual footer band, a main footer band with themes, and a simplified design for the theme page."
+description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design for departments and agencies."
 title: "The Wayfinding project improves Canada.ca navigation"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>The Wayfinding project improves Canada.ca navigation</span>: <span>Canada.ca blog</span></span></h1>
