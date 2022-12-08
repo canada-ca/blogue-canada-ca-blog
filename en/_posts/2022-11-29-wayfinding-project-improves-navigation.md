@@ -24,7 +24,6 @@ title: "The Wayfinding project improves Canada.ca navigation"
     </blockquote>
   </div>
 </div>
-<div class="clearfix"></div>
 <h2>The Wayfinding project</h2>
 <p>The research included a baseline study to discover and assess findability problems and a comparison study to test possible solutions. Our findings have informed changes to the Canada.ca design.</p>
 <p>Research and prototyping activities explored options to remove the menu while maintaining or improving the effectiveness of global navigation. We also wanted to preserve the confidence and trust we’ve established with the Canada.ca site brand.</p>
@@ -60,7 +59,6 @@ title: "The Wayfinding project improves Canada.ca navigation"
     </div>
   </div>
 </div>
-<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <div class="row">
   <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfaring-sign-in-desktop-01-en.png" class="img-responsive" alt="" /></div>
@@ -79,7 +77,6 @@ title: "The Wayfinding project improves Canada.ca navigation"
     </div>
   </div>
 </div>
-<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
 <div class="row">
   <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
@@ -112,7 +109,6 @@ title: "The Wayfinding project improves Canada.ca navigation"
     </div>
   </div>
 </div>
-<div class="clearfix"></div>
 <h3 class="mrgn-tp-lg">4. Retire the global menu button</h3>
 <p><span class="fas fa-circle text-warning mrgn-rght-sm"></span> Available in the near future.</p>
 <p>Yes, you read that right. Our research shows that the theme and topic menu isn’t essential to successful navigation. We can move things out of the menu without disrupting people’s task success.  In some cases, we can make it easier to find key tasks, like Sign in.</p>
