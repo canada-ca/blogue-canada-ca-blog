@@ -3,6 +3,7 @@ altLangPage: /2022/09/23/presentation-bouton-contextuel-se-connecter
 date: 2022-09-23
 dateModified: 2022-09-29
 description: "To improve findability for this important top task, the global header component of Canada.ca now includes the option of adding a contextual Sign in button on pages where people are likely looking to sign in to an account."
+noFooterContextual: true
 title: "Introducing the contextual Sign in button"
 ---
 Every day, over a million visitors come to Canada.ca to access government services. For many of these services, people must sign in to an authenticated government account.
