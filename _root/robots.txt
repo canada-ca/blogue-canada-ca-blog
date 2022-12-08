@@ -1,0 +1,17 @@
+---
+layout: null
+sitemap:
+  exclude: true
+---
+User-agent: *
+Disallow: /images/
+Allow: /2023/
+ALlow: /2022/
+Allow: /2021/
+Allow: /2020/
+Allow: /2019/
+Allow: /2018/
+Allow: /2017/
+Allow: /research-summaries/
+Allow: /pages/
+Sitemap: {{ site.urlalt[page.lang] }}/sitemap.xml
