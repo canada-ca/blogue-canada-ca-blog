@@ -1,5 +1,5 @@
 ---
-altLangPage: /2022/12/08/le-projet-Orientation
+altLangPage: /2022/12/08/le-projet-orientation
 date: 2022-12-08
 dateModified: 2022-12-08
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design."
