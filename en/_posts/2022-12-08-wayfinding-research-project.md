@@ -73,24 +73,24 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 </div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/23742b9aa438add68641e341efb7549f7134d0fb/f9baa/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>
 <h4>Contextual-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/7e8b0c4e46e6e5d0f9f66a01685e24e0bc946abc/686cc/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>
 <h4>Main-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/63dffec328efba78512d86524519df08b61ecfa8/150f9/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>
 <h4>Sub-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/8b88d65f54f58f1146b71bdcf12e63f19bc43571/e5e7f/images/wayfinding-footer-sub-02-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-sub-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links for “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p>
 <div class="row">
