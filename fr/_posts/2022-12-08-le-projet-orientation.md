@@ -6,7 +6,7 @@ description: "Le projet Orientation dans Canada.ca améliore notre approche en m
 title: "Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation"
 ---
 <div class="row">
-  <div class="col-md-8"> <img src="/fr/images/thumbs/2022-11-29.png" class="img-responsive" alt="" /> </div>
+  <div class="col-md-8"><img src="/fr/images/thumbs/2022-12-08.png" class="img-responsive" alt="" /> </div>
 </div>
 <p class="mrgn-tp-lg">Le Bureau de la transformation numérique a mené un projet de recherche sur l’orientation pour mieux comprendre comment les gens naviguent dans les différentes parties des sites Web du gouvernement du Canada. Nous avons travaillé avec Immigration, Réfugiés et Citoyenneté Canada, Agriculture et Agroalimentaire Canada, Anciens Combattants Canada et Statistique Canada pour étudier comment les gens utilisent le menu thématique global sur Canada.ca. Nous savions que certaines institutions trouvaient que le menu ne répondait pas à leurs besoins de navigation plus complexes. Cela a même empêché quelques institutions d’adopter la conception de Canada.ca. </p>
 <p>Pour trouver une solution, nous devions aller au-delà du menu et penser plutôt aux habitudes de navigation dans leur ensemble pour voir comment les institutions pouvaient répondre efficacement aux besoins des utilisateurs.</p>
@@ -55,7 +55,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 </div>
 <h3 class="mrgn-tp-lg">2. Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</h3>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/7a31a8fe1766b09eb6521bf6ee10dd15d307c483/2e9e7/images/wayfaring-sign-in-desktop-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfaring-sign-in-desktop-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Prêt à utiliser</p>
 <p>L’en-tête général inclut désormais le bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;. Il s’agit d’un élément facultatif à utiliser sur les pages où les internautes cherchent souvent à se connecter à un compte. Nous avons constaté que beaucoup de gens utilisent le menu général pour accéder à une page de connexion. Lorsque la connexion est une tâche principale, la présentation d’un bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; en haut à droite de la zone de contenu rend la connexion plus évidente et facile à trouver. Au fur et à mesure que les gens s’habituent à voir et à utiliser le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; à un endroit pertinent et uniforme sous l’en-tête, ils dépendront moins du menu pour trouver la fonction de connexion et se connecter à leurs comptes.</p>
@@ -72,19 +72,19 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 </div>
 <h3 class="mrgn-tp-lg">3. Mises à jour du pied de page</h3>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/23742b9aa438add68641e341efb7549f7134d0fb/f9baa/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Prêt à utiliser</p>
 <p>Pour réduire davantage la dépendance au menu thématique, nous avons apporté quelques modifications au pied de page général. Le nouveau pied de page général sera composé de trois bandes de contenu.</p>
 <h4>Bande contextuelle de pied de page</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/7e8b0c4e46e6e5d0f9f66a01685e24e0bc946abc/686cc/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>La bande contextuelle est facultative et configurable. Les institutions peuvent fournir jusqu’à trois liens d’assistance contextuelle pertinents par rapport au contenu d’un groupe de pages. Par exemple, les ministères qui avaient un lien de contact contextualisé dans l’ancien pied de page peuvent désormais configurer cette bande contextuelle pour inclure un lien de contact direct.</p>
 <p>Gardez à l’esprit que les liens de pied de page sont principalement utilisés comme liens de dépannage Ils sont souvent un dernier recours pour les gens frustrés qui ne trouvent pas ce qu’ils cherchent.</p>
 <h4>Bande de pied de page principale</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="https://d33wubrfki0l68.cloudfront.net/63dffec328efba78512d86524519df08b61ecfa8/150f9/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>Nous avons ajouté les liens vers toutes les pages thématiques et les pages générales dans la bande de pied de page principale. Cette bande est obligatoire sur les pages standard pour fournir une base cohérente à la majeure partie de la présence Web. Elle est facultative sur les pages transactionnelles et de campagne où les gens se concentrent sur une tâche très précise. Sur ces pages, il vaut mieux réduire autant que possible les sources de distraction. Les institutions ne pourront pas modifier cette bande.</p>
 <h4>Bande sous pied de page</h4>
