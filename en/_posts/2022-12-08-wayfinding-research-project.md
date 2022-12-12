@@ -57,7 +57,7 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 </div>
 <h3 class="mrgn-tp-lg">2. Contextual Sign in button</h3>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfaring-sign-in-desktop-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfaring-sign-in-desktop-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>The global header now includes the contextual Sign in button. It’s an optional element to be used on pages where people are likely looking to sign in to an account. We saw that a lot of people used the global menu to access a sign in page. When signing in is a top task, presenting a Sign in button in the top right of the content area makes signing in more obvious and easy to find. As people become accustomed to seeing and using the sign in button in a relevant and consistent spot below the header, they will depend less on the menu to find and sign in to their account(s).</p>
@@ -75,24 +75,24 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 </div>
 <h3 class="mrgn-tp-lg">3. Footer updates</h3>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p><span class="fas fa-check text-success mrgn-rght-sm"></span> Available to use</p>
 <p>To further reduce dependency on the theme and topic menu, we’ve made some adjustments to the Global footer. The new Global footer will be made up of three content bands.</p>
 <h4>Contextual-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-contextual-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>The contextual band is optional and configurable. Institutions can provide up to three contextual support links that are relevant to the content within a group of pages. For example, departments who had a contextualized contact link in the old footer can now configure this contextual band to include a direct contact link.</p>
 <p>Bear in mind that footer links are mostly used as rescue links. They are often a last resort for frustrated people who can’t find what they’re looking for.</p>
 <h4>Main-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>We’ve added the links to all theme and audience pages into the main footer band. This band is mandatory on standard pages to provide a consistent base to the majority of the web presence. It’s optional on transactional and campaign pages where people are focused on a very specific task and you want to reduce distractions as much as possible. Institutions will not be able to  change this band.</p>
 <h4>Sub-footer band</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/en/images/wayfinding-footer-sub-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/images/wayfinding-footer-sub-01-en.png" class="img-responsive" alt="" /></div>
 </div>
 <p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links for “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p>
 <div class="row">
