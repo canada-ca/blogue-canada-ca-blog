@@ -91,7 +91,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <p>Nous avons ajouté les liens vers toutes les pages thématiques et les pages générales dans la bande de pied de page principale. Cette bande est obligatoire sur les pages standard pour fournir une base cohérente à la majeure partie de la présence Web. Elle est facultative sur les pages transactionnelles et de campagne où les gens se concentrent sur une tâche très précise. Sur ces pages, il vaut mieux réduire autant que possible les sources de distraction. Les institutions ne pourront pas modifier cette bande.</p>
 <h4>Bande sous pied de page</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/images/wayfinding-footer-sub-01-fr.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-sub-01-fr.png" class="img-responsive" alt="" /></div>
 </div>
 <p>La bande sous pied de page est obligatoire sur toutes les pages. Elle contient le mot-symbole Canada et des liens corporatifs pour &laquo;&nbsp;Médias sociaux&nbsp;&raquo;, &laquo;&nbsp;Applications mobiles&nbsp;&raquo;, &laquo;&nbsp;À propos de Canada.ca&nbsp;&raquo;, &laquo;&nbsp;Avis&nbsp;&raquo; et &laquo;&nbsp;Confidentialité&nbsp;&raquo;. Les institutions peuvent contextualiser à la fois le lien &laquo;&nbsp;Avis » et le lien &laquo;&nbsp;Confidentialité&nbsp;&raquo;. Les autres liens sont facultatifs sur les pages transactionnelles et de campagne, où il est préférable de réduire au maximum les sources de distraction.</p>
 <div class="row">
