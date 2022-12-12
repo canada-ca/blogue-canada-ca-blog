@@ -1,4 +1,6 @@
 ---
+css:
+- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/08/le-projet-orientation
 date: 2022-12-08
 dateModified: 2022-12-08
