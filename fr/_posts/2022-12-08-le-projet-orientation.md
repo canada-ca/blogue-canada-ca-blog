@@ -86,7 +86,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <p>Gardez à l’esprit que les liens de pied de page sont principalement utilisés comme liens de dépannage Ils sont souvent un dernier recours pour les gens frustrés qui ne trouvent pas ce qu’ils cherchent.</p>
 <h4>Bande de pied de page principale</h4>
 <div class="row">
-  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-main-01-en.png" class="img-responsive" alt="" /></div>
+  <div class="col-md-8 mrgn-tp-md mrgn-bttm-md"><img src="/fr/images/wayfinding-footer-main-01-fr.png" class="img-responsive" alt="" /></div>
 </div>
 <p>Nous avons ajouté les liens vers toutes les pages thématiques et les pages générales dans la bande de pied de page principale. Cette bande est obligatoire sur les pages standard pour fournir une base cohérente à la majeure partie de la présence Web. Elle est facultative sur les pages transactionnelles et de campagne où les gens se concentrent sur une tâche très précise. Sur ces pages, il vaut mieux réduire autant que possible les sources de distraction. Les institutions ne pourront pas modifier cette bande.</p>
 <h4>Bande sous pied de page</h4>
