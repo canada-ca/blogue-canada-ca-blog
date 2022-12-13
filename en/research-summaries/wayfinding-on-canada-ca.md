@@ -13,6 +13,7 @@ date: 2022-12-13
 description: ""
 lang: en
 layout: without-h1
+pageclass: cnt-wdth-lmtd
 title: "Wayfinding on Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Wayfinding on Canada.ca</span>: <span>Research summary</span></span></h1>
