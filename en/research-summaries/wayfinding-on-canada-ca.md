@@ -54,4 +54,62 @@ title: "Wayfinding on Canada.ca"
 <li>academics</li>  
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
 
+  
+  <table class="table table-striped">
+<caption class="wb-inv">List of tasks scenarios</caption>
+  <thead <tr>
+      <th scope="col" class="col-sm-4">Tasks</th>
+      <th scope="col" class="col-sm-8">Scenarios</th>
+    </tr></thead>
+  <tbody>
+<tr>
+     <td>Start on a Google results page with links to Canada.ca URLS and to other sites (trust task)</td>
+     <td>Your friend from France won't need a visa to come visit but will need an Electronic Travel Authorization. How much will it cost to apply?</td> 
+<tr>
+     <td>Start on a page with the Canada.ca design
+Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
+     <td>Your Egyptian friend wants to come to a Canadian university this year. How much will it cost to apply for a study permit?</td> 
+<tr>
+     <td>Go to IRCC to check status (Canada.ca design - Sign in task)</td>
+     <td>Yen applied for a permanent resident card and needs to find out if it has been mailed yet. Find a page where she can enter her user ID and password to get into her Immigration account.</td>
+<tr>
+     <td>Agriculture topic for temporary foreign workers (no Canada.ca design navigation between themes)</td>
+     <td>You finished researching some ideas for the next farming season. Now you need to find out if there is a special way to hire temporary seasonal farm workers from Mexico.</td> 
+<tr>
+     <td>Agriculture to agriculture topic (no Canada.ca theme navigation)</td>
+     <td>Your friend is going to start growing wheat this spring in Saskatchewan. Is there crop insurance available there?</td> 
+<tr>
+     <td>Agriculture to agriculture topic (no Canada.ca theme navigation)</td>
+     <td>That friend wants to understand the market for organic wheat outside Canada. Are there any 2019 reports with a trade overview and consumption trends that might help them?</td> 
+<tr>
+     <td>VAC (interdepartmental task)</td>
+     <td>Nour is an injured veteran working out her family budget. How much can they expect to receive if her spouse Pat is recognized as her daily caregiver?</td>
+<tr>
+     <td>VAC to Child Benefit (CRA)
+(inter-theme navigation)</td>
+     <td>Like all Canadian parents, Pat and Nour also get monthly Canada Child Benefit payments for their 15 year old son. Will they still get payments next month when he turns 16?</td> 
+<tr>
+     <td>VAC caregiver to account (no Canada.ca sign in experience)</td>
+     <td>Nour just switched to a new bank. Is it possible for her to change her bank information online somehow for her veterans payments, or would she have to call?</td>   
+<tr>
+     <td>StatCan interdepartmental navigation
+
+(removed in Comparison)</td>
+     <td>You searched and found these soybean reports but now you need recent numbers. Find estimated soybean production for 2019 in Canada.</td>
+<tr>
+     <td>StatCan interdepartmental navigation
+
+
+(removed in Comparison)</td>
+     <td>You have a voice message from someone claiming to be a Statistics Canada interviewer. They say your household was selected to complete the Labour Force Survey. Find the special number for survey participants to call so you can check if it's a real survey.</td>
+<tr>
+     <td>Compare with UK to evaluate design options
+Gov UK Student visa cost
+
+
+(removed in Comparison)</td>
+     <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
+
+</tbody>
+</table>
 
