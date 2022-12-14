@@ -148,7 +148,7 @@ Gov UK Student visa cost
 <h3>New layered theme template</h3>
 <div class="row">
 <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8"> 
- <figure class="gc-complex-img mrgn-tp-lg mrgn-bttm-lg" role="group">
+ <figure class="gc-complex-img" role="group">
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>Redesign of the theme pages with a navigation bar on the left</summary>
