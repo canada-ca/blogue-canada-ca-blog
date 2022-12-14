@@ -145,9 +145,18 @@ Gov UK Student visa cost
 </figure>
 			<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
       <p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p> 
- 
 <h3>New layered theme template</h3>
- 
+ <figure class="gc-complex-img mrgn-tp-lg" role="group">
+	<img alt="A long description can be found after the image." src="../images/" />
+	<figcaption><details>
+			<summary>Redesign of the theme pages with a navigation bar on the left</summary>
+			<p>The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
+		</details></figcaption>
+</figure>
+<p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
+<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme below the Most requested band.</p>
+<h3>New contextual Sign in button<h3>
+  <p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
  
 
 <h2 id="measuring_success">Measuring success</h2>
