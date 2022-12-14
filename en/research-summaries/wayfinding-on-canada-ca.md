@@ -43,5 +43,15 @@ title: "Wayfinding on Canada.ca"
 <li>4.7% of visits use the breadcrumbs</li>  
 <li>2.6% of visits use the menu</li> 
 </ul>
-<p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>  
+<p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>
+<h2>Establishing a baseline</h2>
+<p>The initial study in 2019 established a baseline measurement of the top tasks for each participating department. The research compared sites with the Canada.ca design against sites from departments with different designs. At that time, Immigration, Refugees and Citizenship (IRC) had adopted the Canada.ca design, whereas Agriculture and Agri-Food Canada (AAFC), Veterans Affairs Canada (VAC) and Statistics Canada (StatCan) had not.</p>
+<p>20 participants tested 12 tasks from those departments to understand pain points with the menu and give us ideas for potential solutions. The participants included:</p> 
+<ul>
+<li>international students</li>  
+<li>farmers</li>  
+<li>veterans</li>  
+<li>academics</li>  
+<p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
+
 
