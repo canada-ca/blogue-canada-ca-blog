@@ -112,4 +112,4 @@ Gov UK Student visa cost
 
 </tbody>
 </table>
-
+<p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
