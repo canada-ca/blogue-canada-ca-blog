@@ -143,8 +143,8 @@ Gov UK Student visa cost
 			<p>The global footer includes 3 distinct bands of links. The first is the new contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
 		</details></figcaption>
 </figure>
-			<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
-      <p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p> 
+<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
+<p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p> 
 <h3>New layered theme template</h3>
  <figure class="gc-complex-img mrgn-tp-lg" role="group">
 	<img alt="A long description can be found after the image." src="../images/rs-wafingding-theme-en.png" />
