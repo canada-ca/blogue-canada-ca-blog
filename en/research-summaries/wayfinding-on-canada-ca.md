@@ -157,14 +157,15 @@ Gov UK Student visa cost
 <p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme below the Most requested band.</p>
 <h3>New contextual Sign in button</h3>
   <p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
-  
-<figure class="gc-complex-img mrgn-tp-lg mrgn-bttm-lg col-md-8" role="group">
-	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" />
+<div class="row">
+<div class="mrgn-tp-lg mrgn-bttm-lg col-md-8"> 
+<figure class="gc-complex-img" role="group">
+	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>New header with the optional contextual Sign in button</summary>
 			<p>The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle, the Canada.ca search bar, and a Sign in button.</p>
 		</details></figcaption>
-</figure> 
+</figure> </div> </div> 
 <p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
 <h2 id="measuring_success">Measuring success</h2>
 <h2 id="what_we_learned">What we learned</h2>
