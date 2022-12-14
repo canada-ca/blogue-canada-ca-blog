@@ -57,7 +57,7 @@ title: "Wayfinding on Canada.ca"
   
   <table class="table table-striped">
 <caption class="wb-inv">List of tasks scenarios</caption>
-  <thead <tr>
+  <thead> <tr>
       <th scope="col" class="col-sm-4">Tasks</th>
       <th scope="col" class="col-sm-8">Scenarios</th>
     </tr></thead>
