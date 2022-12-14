@@ -27,7 +27,22 @@ title: "Wayfinding on Canada.ca"
 			<p>The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
 		</details></figcaption>
 </figure>
-<h2>Understanding the problem</h2>
+
+<h2>On this page</h2>
+<ul>
+  <li><a href="#understanding_the_problem">Understanding the problem</a></li> 
+  <li><a href="#"></a></li>  
+  
+  </ul>
+
+
+
+
+
+
+
+
+<h2 id="understanding_the_problem">Understanding the problem</h2>
 <p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
 <p>While many visits start from a search engine result, the website should support navigation no matter where a user enters the site. This is especially important when they start their journey on the wrong page.</p>
 <p>Some departments have expressed concerns about adopting the Canada.ca design as the menu would compete with their existing local menus or not provide any navigational benefit.  For example, Statistics Canada has a statistics menu for the same themes that are present in the Canada.ca menu. Veterans Affairs Canada provides benefits that are similar but different from the benefits in the current menu.</p>
@@ -55,9 +70,9 @@ title: "Wayfinding on Canada.ca"
   </ul>
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
 
-  
+
   <table class="table table-striped">
-<caption class="wb-inv">List of tasks scenarios</caption>
+<caption class="wb-inv1">List of tasks scenarios</caption>
   <thead> <tr>
       <th scope="col" class="col-sm-4">Tasks</th>
       <th scope="col" class="col-sm-8">Scenarios</th>
@@ -114,3 +129,12 @@ Gov UK Student visa cost
 </tbody>
 </table>
 <p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
+<h2>Design efforts</h2>
+<p>To test ways to replace the menu, we built:</p>
+<uL>
+<li>a new footer that includes links to all themes, with a contextual band above it</li>
+<li>a layered theme page with a widget to switch themes easily</li>
+<li>a Sign in button to support this top task</li>
+  </ul>
+
+
