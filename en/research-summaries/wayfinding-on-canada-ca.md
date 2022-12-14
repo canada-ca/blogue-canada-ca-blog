@@ -37,11 +37,11 @@ title: "Wayfinding on Canada.ca"
 <li>explore options to replace the menu</li>
 <li>do no harm to existing task success on sites that have already transitioned to the Canada.ca design</li>
 <li>improve navigation to top tasks from different themes/departments</li> 
-<ul>
+</ul>
 <p>We conducted 2 large rounds of task performance usability testing and used web analytics to inform our design sprints. Just as in the studies, the analytics showed that breadcrumbs are used more than the menu:</p>
 <ul>
 <li>4.7% of visits use the breadcrumbs</li>  
 <li>2.6% of visits use the menu</li> 
-<ul>
+</ul>
 <p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>  
 
