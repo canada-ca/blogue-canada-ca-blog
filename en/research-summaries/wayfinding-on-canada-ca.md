@@ -21,7 +21,7 @@ title: "Wayfinding on Canada.ca"
 <p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <figure class="gc-complex-img" role="group">
-	<img alt="A long description can be found after the image." src="/images/rs-wayfinding-gh-01-en.png" />
+	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" />
 	<figcaption><details>
 			<summary>Screenshot of the global header including the theme and topic menu</summary>
 			<p>The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
