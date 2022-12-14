@@ -31,21 +31,14 @@ title: "Wayfinding on Canada.ca"
 <h2>On this page</h2>
 <ul>
   <li><a href="#understanding_the_problem">Understanding the problem</a></li> 
-  <li><a href="#">Establishing a baseline</a></li>  
-  <li><a href="#">Design efforts</a></li> 
-  <li><a href="#">Measuring success</a></li>
-  <li><a href="#">What we learned</a></li> 
-    <li><a href="#">Explore further</a></li> 
-    <li><a href="#">Connect with the Digital Transformation Office</a></li> 
-      <li><a href="#">Digital Transformation Office mailing list</a></li> 
+  <li><a href="#establishing_baseline">Establishing a baseline</a></li>  
+  <li><a href="#design_efforts">Design efforts</a></li> 
+  <li><a href="#measuring_success">Measuring success</a></li>
+  <li><a href="#what_we_learned">What we learned</a></li> 
+    <li><a href="#explore_further">Explore further</a></li> 
+    <li><a href="#Connect">Connect with the Digital Transformation Office</a></li> 
+      <li><a href="#mailing_list">Digital Transformation Office mailing list</a></li> 
   </ul>
-
-
-
-
-
-
-
 
 <h2 id="understanding_the_problem">Understanding the problem</h2>
 <p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
@@ -64,7 +57,7 @@ title: "Wayfinding on Canada.ca"
 <li>2.6% of visits use the menu</li> 
 </ul>
 <p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>
-<h2>Establishing a baseline</h2>
+<h2 id="establishing_baseline">Establishing a baseline</h2>
 <p>The initial study in 2019 established a baseline measurement of the top tasks for each participating department. The research compared sites with the Canada.ca design against sites from departments with different designs. At that time, Immigration, Refugees and Citizenship (IRC) had adopted the Canada.ca design, whereas Agriculture and Agri-Food Canada (AAFC), Veterans Affairs Canada (VAC) and Statistics Canada (StatCan) had not.</p>
 <p>20 participants tested 12 tasks from those departments to understand pain points with the menu and give us ideas for potential solutions. The participants included:</p> 
 <ul>
@@ -134,7 +127,7 @@ Gov UK Student visa cost
 </tbody>
 </table>
 <p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
-<h2>Design efforts</h2>
+<h2 id="design_efforts">Design efforts</h2>
 <p>To test ways to replace the menu, we built:</p>
 <uL>
 <li>a new footer that includes links to all themes, with a contextual band above it</li>
@@ -142,4 +135,8 @@ Gov UK Student visa cost
 <li>a Sign in button to support this top task</li>
   </ul>
 
-
+<h2 id="measuring_success">Measuring success</h2>
+<h2 id="what_we_learned">What we learned</h2>
+<h2 id="explore_further">Explore further</h2>
+<h2 id="connect">Connect with the Digital Transformation Office</h2>
+<h2 id="mailing_list">Digital Transformation Office mailing list</h2>
