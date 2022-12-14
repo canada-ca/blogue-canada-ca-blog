@@ -147,7 +147,7 @@ Gov UK Student visa cost
 <p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p> 
 <h3>New layered theme template</h3>
  <figure class="gc-complex-img mrgn-tp-lg mrgn-bttm-lg" role="group">
-	<img alt="A long description can be found after the image." src="../images/rs-wafingding-theme-en.png" />
+	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-01-en.png" />
 	<figcaption><details>
 			<summary>Redesign of the theme pages with a navigation bar on the left</summary>
 			<p>The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
