@@ -31,8 +31,13 @@ title: "Wayfinding on Canada.ca"
 <h2>On this page</h2>
 <ul>
   <li><a href="#understanding_the_problem">Understanding the problem</a></li> 
-  <li><a href="#"></a></li>  
-  
+  <li><a href="#">Establishing a baseline</a></li>  
+  <li><a href="#">Design efforts</a></li> 
+  <li><a href="#">Measuring success</a></li>
+  <li><a href="#">What we learned</a></li> 
+    <li><a href="#">Explore further</a></li> 
+    <li><a href="#">Connect with the Digital Transformation Office</a></li> 
+      <li><a href="#">Digital Transformation Office mailing list</a></li> 
   </ul>
 
 
