@@ -76,7 +76,7 @@ title: "Wayfinding on Canada.ca"
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
 
 
-  <table class="table table-striped">
+  <table class="table table-striped mrgn-tp-lg">
 <caption class="wb-inv1">List of tasks scenarios</caption>
   <thead> <tr>
       <th scope="col" class="col-sm-4">Tasks</th>
