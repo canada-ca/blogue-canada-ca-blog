@@ -67,10 +67,10 @@ title: "Wayfinding on Canada.ca"
 <li>academics</li>  
   </ul>
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
-
+<h3>List of tasks scenarios</h3>
 <div class="panel panel-default mrgn-tp-lg">
   <table class="table table-striped">
-<caption class="wb-inv1">List of tasks scenarios</caption>
+<caption class="wb-inv">List of tasks scenarios</caption>
   <thead> <tr>
       <th scope="col" class="col-sm-4">Tasks</th>
       <th scope="col" class="col-sm-8">Scenarios</th>
