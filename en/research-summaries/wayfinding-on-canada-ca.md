@@ -68,8 +68,8 @@ title: "Wayfinding on Canada.ca"
   </ul>
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
 
-
-  <table class="table table-striped mrgn-tp-lg">
+<div class="panel panel-default mrgn-tp-lg">
+  <table class="table table-striped">
 <caption class="wb-inv1">List of tasks scenarios</caption>
   <thead> <tr>
       <th scope="col" class="col-sm-4">Tasks</th>
@@ -125,7 +125,7 @@ Gov UK Student visa cost
      <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
     </tr>
 </tbody>
-</table>
+</table></div>
 <p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
 <h2 id="design_efforts">Design efforts</h2>
 <p>To test ways to replace the menu, we built:</p>
