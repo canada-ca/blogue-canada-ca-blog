@@ -193,7 +193,7 @@ title: "Wayfinding on Canada.ca"
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
 <div class="panel panel-default">
-  <table class="table table-bordered">
+  <table class="table table-bordered small">
     <caption class="wb-inv1">
     caption needed (can be invisible)
     </caption>
