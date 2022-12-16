@@ -180,17 +180,17 @@ Gov UK Student visa cost
   <table class="table table-bordered">
 <caption class="wb-inv1">caption needed</caption>
   <thead> <tr>
-      <th scope="col" class="col-sm-6"></th>
+      <th scope="col" class="col-sm-6">Task</th>
       <th scope="col" class="col-sm-3">Baseline 2019</th>
       <th scope="col" class="col-sm-3">Comparison 2021</th>    
     </tr></thead>
   <tbody>
 <tr>
-      <th scope="row">Overall task success</th>
+      <th scope="row"><span class="mrgn-lft-md">Overall task success</span></th>
      <td>54%</td>
      <td>61%</td>   
  </tr><tr>
-      <th scope="row">Overall findability (found the page where the answer is)</th>
+      <th scope="row"><span class="mrgn-lft-md">Overall findability (found the page where the answer is)</span></th>
      <td>61%</td>
      <td>66%</td>   
  </tr>
