@@ -21,7 +21,7 @@ title: "Wayfinding on Canada.ca"
 <p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
-<div class="mrgn-tp-lg mrgn-bttm-lg col-md-8"> 
+<div class="mrgn-tp-lg mrgn-bttm-md col-md-8"> 
 <figure class="gc-complex-img mrgn-tp-lg" role="group">
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
 	<figcaption><details>
@@ -70,7 +70,7 @@ title: "Wayfinding on Canada.ca"
   </ul>
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p> 
 <h3>List of tasks scenarios</h3>
-<div class="panel panel-default mrgn-tp-lg">
+<div class="panel panel-default mrgn-tp-lg mrgn-bttm-md">
   <table class="table table-striped">
 <caption class="wb-inv">List of tasks scenarios</caption>
   <thead> <tr>
@@ -179,22 +179,24 @@ Gov UK Student visa cost
 <div class="panel panel-default mrgn-tp-lg">
   <table class="table table-bordered">
 <caption class="wb-inv1">caption needed</caption>
-  <thead> <tr>
+  <thead> 
+    <tr>
       <th scope="col" class="col-sm-6">Task</th>
       <th scope="col" class="col-sm-3">Baseline 2019</th>
       <th scope="col" class="col-sm-3">Comparison 2021</th>    
-    </tr></thead>
+    </tr>
+    </thead>
   <tbody>
 <tr>
       <th scope="row"><span class="mrgn-lft-md">Overall task success</span></th>
      <td>54%</td>
      <td>61%</td>   
- </tr><tr>
-      <th scope="row"><span class="mrgn-lft-md">Overall findability (found the page where the answer is)</span></th>
+ </tr>
+    <tr>
+     <th scope="row"><span class="mrgn-lft-md">Overall findability (found the page where the answer is)</span></th>
      <td>61%</td>
      <td>66%</td>   
- </tr>
-    </tbody></table>
+ </tr></tbody></table>
   <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
   <h2 id="what_we_learned">What we learned</h2>
   <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
