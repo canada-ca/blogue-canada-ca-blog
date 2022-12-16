@@ -190,6 +190,8 @@ title: "Wayfinding on Canada.ca"
 <h2 id="measuring_success">Measuring success</h2>
 <p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing the design to Canada.ca. We achieved our goal.</p>
 <p>18 participants tested 8 tasks from IRCC, AAFC and VAC to compare them with the baseline. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
+<div class="row">
+  <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
 <div class="panel panel-default mrgn-tp-lg">
   <table class="table table-bordered">
     <caption class="wb-inv1">
@@ -215,7 +217,7 @@ title: "Wayfinding on Canada.ca"
       </tr>
     </tbody>
   </table>
-</div>
+    </div></div></div>
 <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
 <h2 id="what_we_learned">What we learned</h2>
 <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
