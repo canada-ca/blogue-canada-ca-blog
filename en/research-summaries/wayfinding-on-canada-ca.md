@@ -88,8 +88,7 @@ title: "Wayfinding on Canada.ca"
         <td>Your friend from France won't need a visa to come visit but will need an Electronic Travel Authorization. How much will it cost to apply?</td>
       </tr>
       <tr>
-        <td>Start on a page with the Canada.ca design
-          Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
+        <td>Start on a page with the Canada.ca design<br>Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
         <td>Your Egyptian friend wants to come to a Canadian university this year. How much will it cost to apply for a study permit?</td>
       </tr>
       <tr>
@@ -113,8 +112,7 @@ title: "Wayfinding on Canada.ca"
         <td>Nour is an injured veteran working out her family budget. How much can they expect to receive if her spouse Pat is recognized as her daily caregiver?</td>
       </tr>
       <tr>
-        <td>VAC to Child Benefit (CRA)
-          (inter-theme navigation)</td>
+        <td>VAC to Child Benefit (CRA)<br>(inter-theme navigation)</td>
         <td>Like all Canadian parents, Pat and Nour also get monthly Canada Child Benefit payments for their 15 year old son. Will they still get payments next month when he turns 16?</td>
       </tr>
       <tr>
@@ -122,24 +120,15 @@ title: "Wayfinding on Canada.ca"
         <td>Nour just switched to a new bank. Is it possible for her to change her bank information online somehow for her veterans payments, or would she have to call?</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation
-          
-          (removed in Comparison)</td>
+        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
         <td>You searched and found these soybean reports but now you need recent numbers. Find estimated soybean production for 2019 in Canada.</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation
-          
-          
-          (removed in Comparison)</td>
+        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
         <td>You have a voice message from someone claiming to be a Statistics Canada interviewer. They say your household was selected to complete the Labour Force Survey. Find the special number for survey participants to call so you can check if it's a real survey.</td>
       </tr>
       <tr>
-        <td>Compare with UK to evaluate design options
-          Gov UK Student visa cost
-          
-          
-          (removed in Comparison)</td>
+        <td>Compare with UK to evaluate design options<br>Gov UK Student visa cost<br>(removed in Comparison)</td>
         <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
       </tr>
     </tbody>
