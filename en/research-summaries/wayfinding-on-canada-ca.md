@@ -228,11 +228,11 @@ title: "Wayfinding on Canada.ca"
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
   <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>A list of other projects we have done with our partners</li>
 </ul>
-
-
-
-
-
-
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
-<h2 id="mailing_list">Digital Transformation Office mailing list</h2>
+<p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.<p>
+<ul>
+  <li>Email: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
+<li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+</ul>  
+<h2 id="mailing_list">Sign up to the Digital Transformation Office mailing list</h2>
