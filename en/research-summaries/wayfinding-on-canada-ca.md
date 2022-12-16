@@ -13,6 +13,7 @@ date: 2022-12-13
 description: "The Wayfinding project looked at how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites."
 lang: en
 layout: without-h1
+share: true
 pageclass: cnt-wdth-lmtd
 title: "Wayfinding on Canada.ca"
 ---
