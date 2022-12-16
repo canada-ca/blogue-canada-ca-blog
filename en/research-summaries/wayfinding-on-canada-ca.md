@@ -78,8 +78,8 @@ title: "Wayfinding on Canada.ca"
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col" class="col-sm-4">Tasks</th>
-        <th scope="col" class="col-sm-8">Scenarios</th>
+        <th scope="col" class="col-sm-4">Task</th>
+        <th scope="col" class="col-sm-8">Scenario</th>
       </tr>
     </thead>
     <tbody>
