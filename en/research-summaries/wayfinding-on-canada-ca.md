@@ -72,12 +72,12 @@ title: "Wayfinding on Canada.ca"
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p>
 <h3>List of tasks scenarios</h3>
 <div class="panel panel-default mrgn-tp-lg mrgn-bttm-lg">
-  <table class="table table-striped small">
+  <table class="table table-striped table-bordered small">
     <caption class="wb-inv">
     List of tasks scenarios
     </caption>
     <thead>
-      <tr>
+      <tr class="active">
         <th scope="col" class="col-sm-4">Tasks</th>
         <th scope="col" class="col-sm-8">Scenarios</th>
       </tr>
@@ -198,8 +198,8 @@ title: "Wayfinding on Canada.ca"
     caption needed (can be invisible)
     </caption>
     <thead>
-      <tr class="brdr-tp">
-        <th scope="col" class="col-sm-6">Task</th>
+      <tr class="brdr-tp active">
+        <th scope="col" class="col-sm-6">Task description</th>
         <th scope="col" class="col-sm-3">Baseline 2019</th>
         <th scope="col" class="col-sm-3">Comparison 2021</th>
       </tr>
