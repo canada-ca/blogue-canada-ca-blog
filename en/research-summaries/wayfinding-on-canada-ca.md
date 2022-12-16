@@ -207,13 +207,13 @@ title: "Wayfinding on Canada.ca"
     <tbody>
       <tr>
         <th scope="row" class="mrgn-lft-md">Overall task success</th>
-        <td>54%</td>
-        <td>61%</td>
+        <td class="text-center">54%</td>
+        <td class="text-center">61%</td>
       </tr>
       <tr>
         <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
-        <td>61%</td>
-        <td>66%</td>
+        <td class="text-center">61%</td>
+        <td class="text-center">66%</td>
       </tr>
     </tbody>
   </table>
