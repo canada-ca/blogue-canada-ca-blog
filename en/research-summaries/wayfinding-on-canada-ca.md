@@ -223,5 +223,16 @@ title: "Wayfinding on Canada.ca"
 <p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
 <h2 id="explore_further">Explore further</h2>
+<ul>
+<li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>A blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
+  <li><a href="[#](https://blog.canada.ca/pages/project-overview.html)">Improving content on Canada.ca</a><br>Overviews of other projects</li>
+</ul>
+
+
+
+
+
+
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
 <h2 id="mailing_list">Digital Transformation Office mailing list</h2>
