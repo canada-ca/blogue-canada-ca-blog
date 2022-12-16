@@ -20,13 +20,15 @@ title: "Wayfinding on Canada.ca"
 <p>Date: Dec X, 2022</p>
 <p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
+<div class="row">
+<div class="mrgn-tp-lg mrgn-bttm-lg col-md-8"> 
 <figure class="gc-complex-img mrgn-tp-lg" role="group">
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" />
 	<figcaption><details>
 			<summary>Screenshot of the global header including the theme and topic menu</summary>
 			<p>The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
 		</details></figcaption>
-</figure>
+  </figure></div></div>
 
 <h2>On this page</h2>
 <ul>
@@ -136,13 +138,15 @@ Gov UK Student visa cost
   </ul>
   
  <h3>New footer</h3>
- <figure class="gc-complex-img mrgn-tp-lg" role="group">
+ <div class="row">
+<div class="mrgn-tp-lg mrgn-bttm-lg col-md-8"> 
+ <figure class="gc-complex-img" role="group">
 	<img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" />
 	<figcaption><details>
 			<summary>The redesigned Canada.ca footer</summary>
 			<p>The global footer includes 3 distinct bands of links. The first is the new contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
 		</details></figcaption>
-</figure>
+  </figure></div></div>
 <p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
 <p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p> 
 <h3>New layered theme template</h3>
