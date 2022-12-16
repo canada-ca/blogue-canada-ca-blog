@@ -221,8 +221,13 @@ title: "Wayfinding on Canada.ca"
 <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
 <h2 id="what_we_learned">What we learned</h2>
 <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
-<p>Read our blog post to know how we are rolling this change out.</p>
-<p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
+<div class="row">
+  <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
+    <div class="well small"> 
+      <p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br />Read our blog post to know how we are rolling this change out</p>
+    </div>
+  </div>
+</div>
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
 <h2 id="explore_further">Explore further</h2>
 <ul>
