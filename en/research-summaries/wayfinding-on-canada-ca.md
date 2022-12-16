@@ -26,7 +26,7 @@ title: "Wayfinding on Canada.ca"
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>Screenshot of the global header including the theme and topic menu</summary>
-			<p class="mrgn-tp-md">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
+			<p class="mrgn-tp-lg">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
 		</details></figcaption>
   </figure></div></div>
 
@@ -144,7 +144,7 @@ Gov UK Student visa cost
 	<img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>The redesigned Canada.ca footer</summary>
-		<p class="mrgn-tp-md">The global footer includes 3 distinct bands of links. The first is the new contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
+	<p class="mrgn-tp-lg">The global footer includes 3 distinct bands of links. The first is the new contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
 		</details></figcaption>
   </figure></div></div>
 <p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
@@ -169,7 +169,7 @@ Gov UK Student visa cost
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>New header with the optional contextual Sign in button</summary>
-			<p class="mrgn-tp-md">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle, the Canada.ca search bar, and a Sign in button.</p>
+		<p class="mrgn-tp-lg">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle, the Canada.ca search bar, and a Sign in button.</p>
 		</details></figcaption>
 </figure> </div> </div> 
 <p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
