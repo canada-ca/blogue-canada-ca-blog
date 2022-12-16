@@ -186,11 +186,11 @@ Gov UK Student visa cost
     </tr></thead>
   <tbody>
 <tr>
-      <th scope="row">Overall task success</td>
+      <th scope="row">Overall task success</th>
      <td>54%</td>
      <td>61%</td>   
  </tr><tr>
-      <th scope="row">Overall findability (found the page where the answer is)</td>
+      <th scope="row">Overall findability (found the page where the answer is)</th>
      <td>61%</td>
      <td>66%</td>   
  </tr>
