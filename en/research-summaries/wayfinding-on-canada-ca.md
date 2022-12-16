@@ -72,7 +72,7 @@ title: "Wayfinding on Canada.ca"
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p>
 <h3>List of tasks scenarios</h3>
 <div class="panel panel-default mrgn-tp-lg mrgn-bttm-md">
-  <table class="table table-striped">
+  <table class="table table-striped small">
     <caption class="wb-inv">
     List of tasks scenarios
     </caption>
@@ -196,7 +196,7 @@ title: "Wayfinding on Canada.ca"
     caption needed (can be invisible)
     </caption>
     <thead>
-      <tr>
+      <tr class="brdr-tp">
         <th scope="col" class="col-sm-6">Task</th>
         <th scope="col" class="col-sm-3">Baseline 2019</th>
         <th scope="col" class="col-sm-3">Comparison 2021</th>
@@ -204,12 +204,12 @@ title: "Wayfinding on Canada.ca"
     </thead>
     <tbody>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Overall task success</span></th>
+        <th scope="row" class="mrgn-lft-md">Overall task success</th>
         <td>54%</td>
         <td>61%</td>
       </tr>
       <tr>
-        <th scope="row"><span class="mrgn-lft-md">Overall findability (found the page where the answer is)</span></th>
+        <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
         <td>61%</td>
         <td>66%</td>
       </tr>
