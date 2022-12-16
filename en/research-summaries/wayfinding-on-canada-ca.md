@@ -200,8 +200,8 @@ title: "Wayfinding on Canada.ca"
     <thead>
       <tr class="brdr-tp active">
         <th scope="col" class="col-sm-6">Task description</th>
-        <th scope="col" class="col-sm-3">Baseline 2019</th>
-        <th scope="col" class="col-sm-3">Comparison 2021</th>
+        <th scope="col" class="col-sm-3 text-center">Baseline 2019</th>
+        <th scope="col" class="col-sm-3 text-center">Comparison 2021</th>
       </tr>
     </thead>
     <tbody>
