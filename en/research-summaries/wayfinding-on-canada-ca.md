@@ -174,6 +174,27 @@ Gov UK Student visa cost
 </figure> </div> </div> 
 <p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
 <h2 id="measuring_success">Measuring success</h2>
+<p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing the design to Canada.ca. We achieved our goal.</p>
+<p>18 participants tested 8 tasks from IRCC, AAFC and VAC to compare them with the baseline. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p> 
+<div class="panel panel-default mrgn-tp-lg">
+  <table class="table table-bordered">
+<caption class="wb-inv1">caption needed</caption>
+  <thead> <tr>
+      <th scope="col" class="col-sm-6"></th>
+      <th scope="col" class="col-sm-3">Baseline 2019</th>
+      <th scope="col" class="col-sm-3">Comparison 2021</th>    
+    </tr></thead>
+  <tbody>
+<tr>
+      <th scope="row">Overall task success</td>
+     <td>54%</td>
+     <td>61%</td>   
+ </tr><tr>
+      <th scope="row">Overall findability (found the page where the answer is)</td>
+     <td>61%</td>
+     <td>66%</td>   
+ </tr>
+    </tbody></table>
 <h2 id="what_we_learned">What we learned</h2>
 <h2 id="explore_further">Explore further</h2>
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
