@@ -156,7 +156,7 @@ Gov UK Student visa cost
 	<img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
 	<figcaption><details>
 			<summary>Redesign of the theme pages with a navigation bar on the left</summary>
-		<p class="mrgn-tp-md">The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
+		<p class="mrgn-tp-lg">The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
 		</details></figcaption>
 </figure> </div> </div> 
 <p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
@@ -195,7 +195,12 @@ Gov UK Student visa cost
      <td>66%</td>   
  </tr>
     </tbody></table>
-<h2 id="what_we_learned">What we learned</h2>
+  <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
+  <h2 id="what_we_learned">What we learned</h2>
+  <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
+  <p>Read our blog post to know how we are rolling this change out.</p>
+  <p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
+  <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>  
 <h2 id="explore_further">Explore further</h2>
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
 <h2 id="mailing_list">Digital Transformation Office mailing list</h2>
