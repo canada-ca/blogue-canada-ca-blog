@@ -22,7 +22,7 @@ title: "Wayfinding on Canada.ca"
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img mrgn-tp-lg" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Screenshot of the global header including the theme and topic menu</summary>
