@@ -158,7 +158,7 @@ title: "Wayfinding on Canada.ca"
     </figure>
   </div>
 </div>
-<h3>New layered theme template</h3>
+<h3>New layered theme page template</h3>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
@@ -172,7 +172,7 @@ title: "Wayfinding on Canada.ca"
   </div>
 </div>
 <p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
-<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme below the Most requested band.</p>
+<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme are below the Most requested band.</p>
 <h3>New contextual Sign in button</h3>
 <p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
 <div class="row">
@@ -189,8 +189,8 @@ title: "Wayfinding on Canada.ca"
 </div>
 <p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
 <h2 id="measuring_success">Measuring success</h2>
-<p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing the design to Canada.ca. We achieved our goal.</p>
-<p>18 participants tested 8 tasks from IRCC, AAFC and VAC to compare them with the baseline. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
+<p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing to the Canada.ca design. We achieved our goal.</p>
+<p>18 participants tested 8 tasks from IRCC, AAFC and VAC. We compared their results with the results from the baseline study. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
 <div class="panel panel-default">
@@ -227,9 +227,9 @@ title: "Wayfinding on Canada.ca"
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
 <h2 id="explore_further">Explore further</h2>
 <ul>
-<li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>Blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
+<li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
-  <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>A list of other projects we have done with our partners</li>
+  <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>a list of other projects we have done with our partners</li>
 </ul>
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
 <p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.<p>
