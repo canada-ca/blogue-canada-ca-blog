@@ -136,15 +136,15 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
     </tbody>
   </table>
 </div>
-<p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
+<p>L’étude de référence nous a donné un aperçu de solutions possibles aux problèmes rencontrés par les participants, ainsi que des taux de repérabilité et de réussite des tâches afin que nous puissions évaluer les conceptions proposées. Comme prévu, les participants ont eu de la difficulté à passer d’un thème à l’autre sur des sites n’utilisant pas la conception Canada.ca. Une autre lacune que cette étude a mise en évidence concerne l’absence d’un bouton de connexion classique.</p>
 <h2 id="efforts_de_conception">Efforts de conception</h2>
-<p>To test ways to replace the menu, we built:</p>
+<p>Pour tester des façons de remplacer le menu, nous avons élaboré ce qui suit : </p>
 <ul>
-  <li>a new footer that includes links to all themes, with a contextual band above it</li>
-  <li>a layered theme page with a widget to switch themes easily</li>
-  <li>a Sign in button to support this top task</li>
+  <li>un nouveau pied de page qui comprend des liens vers tous les thèmes, avec une bande contextuelle au-dessus;</li>
+  <li>une conception stratifiée pour les pages thématiques avec un widget pour changer de thème facilement;</li>
+  <li>un bouton de connexion pour promouvoir cette tâche principale.</li>
 </ul>
-<h3>New footer</h3>
+<h3>Nouveau pied de page</h3>
 <p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the theme page links from the menu into the main band of the  footer.</p>  
 <p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p> 
 <div class="row">
