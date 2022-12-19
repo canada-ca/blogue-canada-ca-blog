@@ -47,7 +47,7 @@ title: "Wayfinding on Canada.ca"
 <h2 id="understanding_the_problem">Understanding the problem</h2>
 <p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
 <p>While many visits start from a search engine result, the website should support navigation no matter where a user enters the site. This is especially important when they start their journey on the wrong page.</p>
-<p>Some departments have expressed concerns about adopting the Canada.ca design as the menu would compete with their existing local menus or not provide any navigational benefit.  For example, Statistics Canada has a statistics menu for the same themes that are present in the Canada.ca menu. Veterans Affairs Canada provides benefits that are similar but different from the benefits in the current menu.</p>
+<p>Some departments have expressed concerns about adopting the Canada.ca design as the menu would compete with their existing local menus or not provide any navigational benefit.  For example, Statistics Canada has a statistics menu for the same themes that are present in the Canada.ca menu. The benefits that Veterans Affairs Canada offers have similar titles to those found through the theme menu, but they're different benefits.</p>
 <p>We worked with these and other departments to explore navigation and design options to facilitate the adoption of the Canada.ca design.</p>
 <p>The goals of this extensive research study were:</p>
 <ul>
