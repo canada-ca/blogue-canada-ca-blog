@@ -46,33 +46,33 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
   <li><a href="#liste_de_diffusion">la liste de diffusion du Bureau de la transformation numérique</a></li>
 </ul>
 <h2 id="comprendre_le_probleme">Comprendre le problème</h2>
-<p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
-<p>While many visits start from a search engine result, the website should support navigation no matter where a user enters the site. This is especially important when they start their journey on the wrong page.</p>
-<p>Some departments have expressed concerns about adopting the Canada.ca design as the menu would compete with their existing local menus or not provide any navigational benefit.  For example, Statistics Canada has a statistics menu for the same themes that are present in the Canada.ca menu. The benefits that Veterans Affairs Canada offers have similar titles to those found through the theme menu, but they're different benefits.</p>
-<p>We worked with these and other departments to explore navigation and design options to facilitate the adoption of the Canada.ca design.</p>
-<p>The goals of this extensive research study were:</p>
+<p>L’orientation est la façon dont les utilisateurs évaluent où ils se trouvent dans un site Web et planifient un parcours à suivre. Sur Canada.ca, le menu est un moyen pour les utilisateurs de naviguer dans le site. Il présente des pages de niveau supérieur (thèmes) pour aider les utilisateurs à trouver des réponses et des services.</p>
+<p>Alors que de nombreuses visites commencent à partir d’un résultat de moteur de recherche, le site Web doit prendre en charge la navigation, peu importe la façon dont un utilisateur accède au site. Cela est particulièrement important lorsque les utilisateurs commencent leur parcours sur la mauvaise page.</p>
+<p>Certains ministères ont exprimé leurs réticences à adopter la conception de Canada.ca, car le menu ferait concurrence à leurs menus locaux existants ou n’offrirait aucun avantage en matière de navigation. Par exemple, Statistique Canada a un menu de statistiques qui reprend les mêmes thèmes qui sont présents dans le menu Canada.ca. Les prestations offertes par Anciens Combattants Canada ont des titres ressemblant à ceux que l'on trouve dans le menu thématique, mais il s'agit de prestations différentes.</p>
+<p>Nous avons travaillé avec ces ministères et d’autres pour explorer les options de navigation et de conception afin de faciliter l’adoption de la conception de Canada.ca.</p>
+<p>Les objectifs de cette étude approfondie étaient les suivants&nbsp;:</p>
 <ul>
-  <li>explore options to replace the menu</li>
-  <li>do no harm to existing task success on sites that have already transitioned to the Canada.ca design</li>
-  <li>improve navigation to top tasks from different themes/departments</li>
+  <li>explorer les façons possibles de remplacer le menu;</li>
+  <li>ne pas nuire à la réussite des tâches existante sur les sites qui sont déjà passés à la conception Canada.ca;</li>
+  <li>améliorer la navigation vers les tâches principales à partir de différents thèmes ou ministères.</li>
 </ul>
-<p>We conducted 2 large rounds of task performance usability testing and used web analytics to inform our design sprints. Just as in the studies, the analytics showed that breadcrumbs are used more than the menu:</p>
+<p>Nous avons effectué deux grandes séries de tests de convivialité relative à l’exécution des tâches, et nous avons utilisé l’analyse Web pour éclairer nos sprints de conception. Tout comme l’ont fait les études, les analyses ont montré que le fil d’Ariane est plus utilisé que le menu&nbsp;:</p>
 <ul>
-  <li>4.7% of visits use the breadcrumbs</li>
-  <li>2.6% of visits use the menu</li>
+  <li>4,7 % des visites utilisent des fils d’Ariane</li>
+  <li>2,6 % des visites utilisent le menu</li>
 </ul>
-<p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>
+<p>Cela laisse entendre qu’il serait possible de remplacer le menu sans avoir d’incidence sur la réussite des tâches. Nous avons également remarqué que les gens utilisent souvent le menu pour se connecter à des comptes. Cela laisse supposer que la création d’un parcours de connexion différent pourrait réduire encore davantage l’utilisation du menu.</p>
 <h2 id="mesure_de_reference">Établir une mesure de référence</h2>
-<p>The initial study in 2019 established a baseline measurement of the top tasks for each participating department. The research compared sites with the Canada.ca design against sites from departments with different designs. At that time, Immigration, Refugees and Citizenship (IRC) had adopted the Canada.ca design, whereas Agriculture and Agri-Food Canada (AAFC), Veterans Affairs Canada (VAC) and Statistics Canada (StatCan) had not.</p>
-<p>20 participants tested 12 tasks from those departments to understand pain points with the menu and give us ideas for potential solutions. The participants included:</p>
+<p>En 2019, l’étude initiale a établi une mesure de référence des tâches principales pour chaque ministère participant. La recherche a comparé des sites affichant la conception de Canada.ca à des sites de ministères ayant des conceptions différentes. À cette époque, Immigration, Réfugiés et Citoyenneté Canada (IRCC) avait adopté la conception de Canada.ca, contrairement à Agriculture et Agroalimentaire Canada (AAC), Anciens Combattants Canada (ACC) et Statistique Canada (StatCan).</p>
+<p>Un total de 20 participants ont essayé 12 tâches de ces ministères pour nous aider à comprendre les lacunes du menu et pour nous donner des idées de solutions potentielles. Parmi les participants, on comptait les personnes suivantes&nbsp;:</p>
 <ul>
-  <li>international students</li>
-  <li>farmers</li>
-  <li>veterans</li>
-  <li>academics</li>
+  <li>des étudiants étrangers;</li>
+  <li>des agriculteurs;</li>
+  <li>des vétérans;</li>
+  <li>des universitaires.</li>
 </ul>
-<p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p>
-<h3>List of tasks scenarios</h3>
+<p>L’étude a examiné des tâches typiques que les utilisateurs accomplissent dans chaque site ministériel, y compris un scénario qui commençait sur une page de résultats de recherche Google.</p>
+<h3>Liste de scénarios de tâches</h3>
 <div class="panel panel-default mrgn-tp-lg mrgn-bttm-lg">
   <table class="table table-striped table-bordered small">
     <caption class="wb-inv">
