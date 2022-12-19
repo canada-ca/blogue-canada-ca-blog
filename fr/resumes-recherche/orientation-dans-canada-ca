@@ -19,15 +19,16 @@ title: "Orientation dans Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Orientation dans Canada.ca</span>: <span>Résumé de recherche</span></span></h1>
 <p>Date: X décembre 2022</p>
-<p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
-<p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
+<p>Les ministères et organismes gouvernementaux adoptent la conception de Canada.ca pour améliorer la confiance et la convivialité grâce à une expérience cohérente. La conception comprend des éléments de marque de base et des modèles de navigation. Les utilisateurs doivent pouvoir reconnaître rapidement les renseignements et les services officiels du gouvernement afin d’éviter les sites frauduleux. Ils ont également besoin de modèles intuitifs pour naviguer et accomplir leurs tâches.</p>
+<p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Screenshot of the global header including the theme and topic menu</summary>
-          <p class="mrgn-tp-lg">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
+          <summary>Capture d’écran de l’en-tête général comprenant le menu thématique.</summary>
+          <p class="mrgn-tp-lg">
+L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et un fil d’Ariane Canada.ca sur le côté gauche de l’écran. Sur le côté droit de l’écran se trouvent une bascule de langue et la barre de recherche Canada.ca.</p>
         </details>
       </figcaption>
     </figure>
@@ -35,16 +36,16 @@ title: "Orientation dans Canada.ca"
 </div>
 <h2>On this page</h2>
 <ul>
-  <li><a href="#understanding_the_problem">Understanding the problem</a></li>
-  <li><a href="#establishing_baseline">Establishing a baseline</a></li>
-  <li><a href="#design_efforts">Design efforts</a></li>
-  <li><a href="#measuring_success">Measuring success</a></li>
-  <li><a href="#what_we_learned">What we learned</a></li>
-  <li><a href="#explore_further">Explore further</a></li>
-  <li><a href="#Connect">Connect with the Digital Transformation Office</a></li>
-  <li><a href="#mailing_list">Digital Transformation Office mailing list</a></li>
+  <li><a href="#comprendre_le_probleme">Comprendre le problème</a></li>
+  <li><a href="#mesure_de_reference">Établir une mesure de référence</a></li>
+  <li><a href="#efforts_de_conception">Efforts de conception</a></li>
+  <li><a href="#mesure_du_succes">Mesure du succès</a></li>
+  <li><a href="#ce_que_nous_avons_appris">Ce que nous avons appris</a></li>
+  <li><a href="#pour_explorer_davantage">Pour explorer davantage</a></li>
+  <li><a href="#communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</a></li>
+  <li><a href="#liste_de_diffusion">la liste de diffusion du Bureau de la transformation numérique</a></li>
 </ul>
-<h2 id="understanding_the_problem">Understanding the problem</h2>
+<h2 id="comprendre_le_probleme">Comprendre le problème</h2>
 <p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
 <p>While many visits start from a search engine result, the website should support navigation no matter where a user enters the site. This is especially important when they start their journey on the wrong page.</p>
 <p>Some departments have expressed concerns about adopting the Canada.ca design as the menu would compete with their existing local menus or not provide any navigational benefit.  For example, Statistics Canada has a statistics menu for the same themes that are present in the Canada.ca menu. The benefits that Veterans Affairs Canada offers have similar titles to those found through the theme menu, but they're different benefits.</p>
@@ -61,7 +62,7 @@ title: "Orientation dans Canada.ca"
   <li>2.6% of visits use the menu</li>
 </ul>
 <p>This suggested that it would be possible to replace the menu without affecting task success. We also noticed that people often used the menu to sign into accounts. This suggested that creating a different sign-in route could further reduce the use of the menu.</p>
-<h2 id="establishing_baseline">Establishing a baseline</h2>
+<h2 id="mesure_de_reference">Établir une mesure de référence</h2>
 <p>The initial study in 2019 established a baseline measurement of the top tasks for each participating department. The research compared sites with the Canada.ca design against sites from departments with different designs. At that time, Immigration, Refugees and Citizenship (IRC) had adopted the Canada.ca design, whereas Agriculture and Agri-Food Canada (AAFC), Veterans Affairs Canada (VAC) and Statistics Canada (StatCan) had not.</p>
 <p>20 participants tested 12 tasks from those departments to understand pain points with the menu and give us ideas for potential solutions. The participants included:</p>
 <ul>
@@ -136,7 +137,7 @@ title: "Orientation dans Canada.ca"
   </table>
 </div>
 <p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
-<h2 id="design_efforts">Design efforts</h2>
+<h2 id="efforts_de_conception">Efforts de conception</h2>
 <p>To test ways to replace the menu, we built:</p>
 <ul>
   <li>a new footer that includes links to all themes, with a contextual band above it</li>
@@ -188,7 +189,7 @@ title: "Orientation dans Canada.ca"
   </div>
 </div>
 <p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
-<h2 id="measuring_success">Measuring success</h2>
+<h2 id="mesure_du_succes">Mesure du succès</h2>
 <p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing to the Canada.ca design. We achieved our goal.</p>
 <p>18 participants tested 8 tasks from IRCC, AAFC and VAC. We compared their results with the results from the baseline study. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
 <div class="row">
@@ -220,25 +221,25 @@ title: "Orientation dans Canada.ca"
   </table>
     </div></div></div>
 <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
-<h2 id="what_we_learned">What we learned</h2>
+<h2 id="ce_que_nous_avons_appris">Ce que nous avons appris</h2>
 <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
 <p>Read our blog post to know how we are rolling this change out.</p>
 <p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
-<h2 id="explore_further">Explore further</h2>
+<h2 id="pour_explorer_davantage">Pour explorer davantage</h2>
 <ul>
 <li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
   <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>a list of other projects we have done with our partners</li>
 </ul>
-<h2 id="connect">Connect with the Digital Transformation Office</h2>
+<h2 id="communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</h2>
 <p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.<p>
 <ul>
   <li>Email: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
 <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>  
-<h2 id="mailing_list">Sign up to the Digital Transformation Office mailing list</h2>
+<h2 id="liste_de_diffusion">La liste de diffusion du Bureau de la transformation numérique</h2>
 <div class="row mrgn-tp-lg">
 			<form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll" class="well well-sm">
