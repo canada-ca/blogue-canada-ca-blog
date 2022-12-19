@@ -144,6 +144,8 @@ title: "Wayfinding on Canada.ca"
   <li>a Sign in button to support this top task</li>
 </ul>
 <h3>New footer</h3>
+<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the theme page links from the menu into the main band of the  footer.</p>  
+<p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p> 
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
@@ -156,8 +158,6 @@ title: "Wayfinding on Canada.ca"
     </figure>
   </div>
 </div>
-<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the links to theme pages there.</p>
-<p>The new footer design added an optional contextual band for “Contact us” and other contextual rescue links, while maintaining the Government of Canada contacts and theme links.</p>
 <h3>New layered theme template</h3>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
