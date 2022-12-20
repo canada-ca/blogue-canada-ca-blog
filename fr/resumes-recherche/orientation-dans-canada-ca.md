@@ -43,7 +43,7 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
   <li><a href="#ce_que_nous_avons_appris">Ce que nous avons appris</a></li>
   <li><a href="#pour_explorer_davantage">Pour explorer davantage</a></li>
   <li><a href="#communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</a></li>
-  <li><a href="#liste_de_diffusion">la liste de diffusion du Bureau de la transformation numérique</a></li>
+  <li><a href="#liste_de_diffusion">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</a></li>
 </ul>
 <h2 id="comprendre_le_probleme">Comprendre le problème</h2>
 <p>L’orientation est la façon dont les utilisateurs évaluent où ils se trouvent dans un site Web et planifient un parcours à suivre. Sur Canada.ca, le menu est un moyen pour les utilisateurs de naviguer dans le site. Il présente des pages de niveau supérieur (thèmes) pour aider les utilisateurs à trouver des réponses et des services.</p>
@@ -241,12 +241,12 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
 <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>  
-<h2 id="liste_de_diffusion">La liste de diffusion du Bureau de la transformation numérique</h2>
+<h2 id="liste_de_diffusion">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</h2>
 <div class="row mrgn-tp-lg">
 			<form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll" class="well well-sm">
 					<fieldset class="gc-chckbxrdio">
-						<legend>Preferred newsletter format</legend>
+						<legend>Format d'infolettre désirée</legend>
 						<ul class="list-unstyled lst-spcd-2">
 							<li class="radio">
 								<input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0">
@@ -254,16 +254,16 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
 							</li>
 							<li class="radio">
 								<input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1">
-								<label for="mce-EMAILTYPE-1">plain text <small>(We recommend 'plain text' if your firewall might block HTML emails)</small></label>
+								<label for="mce-EMAILTYPE-1">texte clair <small>(Nous recommandons 'texte clair' si votre pare-feu bloque les courriels HTML)</small></label>
 							</li>
 						</ul>
 					</fieldset>
 					<div class="mc-field-group">
 						<div class="input-group">
-							<label class="wb-inv" for="mce-EMAIL">Email address</label>
-							<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="Email address">
+							<label class="wb-inv" for="mce-EMAIL">Votre courriel</label>
+							<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="Votre courriel">
 							<span class="input-group-btn">
-								<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">Subscribe</button>
+								<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">Abonnez-vous</button>
 							</span>
 						</div>
 					</div>
@@ -299,16 +299,16 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
 		</script>
 		<!--End mc_embed_signup-->
 		<div class="mce-privacy" style="padding-top: 9px;">
-			<a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy notice</a>
+			<a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Énoncé de confidentialité</a>
 		</div>
 		<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
 			<header class="modal-header">
-				<h2 class="modal-title">Privacy notice</h2>
+				<h2 class="modal-title">Énoncé de confidentialité</h2>
 			</header>
 			<div class="modal-body">
-				<p>Our newsletter feature uses <a href="https://mailchimp.com/">Mailchimp</a>, a third-party application. Sign-up is voluntary and subject to the <a href="https://mailchimp.com/legal/terms/">Terms of Use</a> for the Mailchimp platform.  When you sign up, your email address and language preference (English or French) is collected. No other personal information is collected.</p>
-				<p>The collection and use of your personal information is authorized by the <em>Financial Administration Act</em>. Collection and use of your personal information for this site is in accordance with the federal <em>Privacy Act</em>. Your personal information may be used to respond to your inquiries, if applicable, and to help evaluate the effectiveness of Treasury Board of Canada Secretariat (TBS) programs in responding to client needs. In exceptional circumstances (e.g., individuals who make inappropriate remarks or threats), personal information may be disclosed without your consent pursuant to subsection 8(2) of the <em>Privacy Act</em>.</p>
-				<p>Any personal information that may be collected is described in the Standard Personal Information Bank entitled <a href="http://www.infosource.gc.ca/emp/emp03-eng.asp#psu938">Outreach Activities, PSU 938</a>, which can be found in the TBS webpage <a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings.html">Information about programs and information holdings</a>.</p>
-				<p>Any questions, comments, concerns or complaints you may have regarding this Statement, your privacy rights and the Privacy Act may be directed to the TBS Access to Information and Privacy Coordinator by email at <a href="mailto:ATIP.AIPRP@TBS-SCT.gc.ca">ATIP.AIPRP@tbs-sct.gc.ca</a> or by telephone at 1-866-312-1511. You may also wish to contact the Office of the Privacy Commissioner of Canada by email at <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a> or by telephone at 1-800-282-1376. You have the right to complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information by TBS.</p>
+				<p>Notre fonction Bulletin de nouvelles fait appel &agrave; <a href="https://mailchimp.com/">Mailchimp</a>, une application tierce. L'adh&eacute;sion est libre et est assujettie aux <a href="https://mailchimp.com/legal/terms/">Conditions d'utilisation</a> associ&eacute;es &agrave; la plateforme Mailchimp. Au moment de l'adh&eacute;sion, le syst&egrave;me enregistre votre adresse &eacute;lectronique et votre langue de pr&eacute;f&eacute;rence (anglais ou fran&ccedil;ais). Aucun autre renseignement personnel n'est recueilli.</p>
+				<p>La collecte et l'utilisation de vos renseignements personnels sont autoris&eacute;es par la <em>Loi sur la gestion des finances publiques</em>. La collecte et l'utilisation de vos renseignements personnels aux fins du pr&eacute;sent site sont conformes &agrave; la <em>Loi f&eacute;d&eacute;rale sur la protection des renseignements personnels</em>. Vos renseignements personnels peuvent servir &agrave; r&eacute;pondre &agrave; vos demandes de renseignements, au besoin, et &agrave; &eacute;valuer l'efficacit&eacute; avec laquelle les programmes du Secr&eacute;tariat du Conseil du Tr&eacute;sor (SCT) r&eacute;pondent aux besoins des clients. Dans des cas exceptionnels (p. ex., le cas de quelqu'un qui fait des remarques inappropri&eacute;es ou des menaces), les renseignements personnels peuvent &ecirc;tre divulgu&eacute;s sans votre consentement conform&eacute;ment au paragraphe 8(2) de la <em>Loi sur la protection des renseignements personnels</em>.</p>
+				<p>Tout renseignement personnel qui pourra &ecirc;tre recueilli est d&eacute;crit dans le Fichier de renseignement personnel ordinaire intitul&eacute; <a href="http://www.infosource.gc.ca/emp/emp03-fra.asp#psu938">Activit&eacute;s de sensibilisation, POU 938</a> qui figure sur la page Web du SCT intitul&eacute;e <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html"><em>Renseignements sur les programmes et les fonds de renseignements</em></a>.</p>
+				<p>Pour transmettre vos questions, commentaires ou pr&eacute;occupations concernant le pr&eacute;sent avis, vos droits en mati&egrave;re de protection des renseignements personnels ou la <em>Loi sur la protection des renseignements personnels</em>, communiquez avec le coordonnateur de l&rsquo;acc&egrave;s &agrave; l&rsquo;information et de la protection des renseignements personnels du SCT, &agrave; <a href="mailto:atip.aiprp@tbs-sct.gc.ca">atip.aiprp@tbs-sct.gc.ca</a>, ou en composant le 1-866-312-1511. Vous pouvez aussi communiquer avec le Commissariat &agrave; la protection de la vie priv&eacute;e du Canada par courriel, &agrave; <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a>, ou par t&eacute;l&eacute;phone, au 1-800-282-1376. Vous avez &eacute;galement la possibilit&eacute; de d&eacute;poser une plainte aupr&egrave;s du Commissariat &agrave; la protection de la vie priv&eacute;e du Canada quant &agrave; la fa&ccedil;on dont le SCT traite vos renseignements personnels.</p>
 			</div>
 		</section>
