@@ -23,7 +23,7 @@ title: "Orientation dans Canada.ca"
 <p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Capture d’écran de l’en-tête général comprenant le menu thématique.</summary>
