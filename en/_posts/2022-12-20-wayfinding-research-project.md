@@ -36,7 +36,7 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small">
-      <p><a href="#">Canada.ca Wayfinding research summary</a><br />
+      <p><a href="https://blog.canada.ca/research-summaries/wayfinding-on-canada-ca.html">Canada.ca Wayfinding research summary</a><br />
         Summary of the Wayfinding research DTO conducted to examine how people navigate different parts of the Government of Canada web presence</p>
     </div>
   </div>
