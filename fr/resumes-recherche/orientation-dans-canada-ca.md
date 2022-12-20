@@ -141,94 +141,93 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
 </div>
 <p>L’étude de référence nous a donné un aperçu de solutions possibles aux problèmes rencontrés par les participants, ainsi que des taux de repérabilité et de réussite des tâches afin que nous puissions évaluer les conceptions proposées. Comme prévu, les participants ont eu de la difficulté à passer d’un thème à l’autre sur des sites n’utilisant pas la conception Canada.ca. Une autre lacune que cette étude a mise en évidence concerne l’absence d’un bouton de connexion classique.</p>
 <h2 id="efforts_de_conception">Efforts de conception</h2>
-<p>Pour tester des façons de remplacer le menu, nous avons élaboré ce qui suit : </p>
+<p>Pour tester des façons de remplacer le menu, nous avons élaboré ce qui suit&nbsp;: </p>
 <ul>
   <li>un nouveau pied de page qui comprend des liens vers tous les thèmes, avec une bande contextuelle au-dessus;</li>
   <li>une conception stratifiée pour les pages thématiques avec un widget pour changer de thème facilement;</li>
   <li>un bouton de connexion pour promouvoir cette tâche principale.</li>
 </ul>
 <h3>Nouveau pied de page</h3>
-<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the theme page links from the menu into the main band of the  footer.</p>  
-<p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p> 
+<p>L’analyse des modèles d’utilisation du pied de page sur la page d’accueil par rapport à toutes les autres pages a révélé une possibilité de réduire l’ensemble de liens de pied de page à l’échelle du GC à trois (&laquo;&nbsp;Tous les personnes-ressources&nbsp;&raquo;, &laquo;&nbsp;Ministères et organismes&nbsp;&raquo;, &laquo;&nbsp;À propos du gouvernement&nbsp;&raquo;). Cela a libéré de l’espace pour retirer les liens vers les pages thématiques du menu et les placer dans la bande principale du pied de page.</p>  
+<p>La nouvelle conception du pied de page a aussi permis d’ajouter une bande contextuelle facultative pour &laquo;&nbsp;Contactez-nous&nbsp;&raquo; et d’autres liens de dépannage contextuels.</p> 
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>The redesigned Canada.ca footer</summary>
-          <p class="mrgn-tp-lg">The global footer includes 3 distinct bands of links. The first is the new contextual band. It contains a title and 3 contextual links in a single row. The second is the main band. It’s arranged in 3 columns and contains links to “All contacts,” “Departments and agencies,” and “About government.” There is a small decorative line as a break before continuing with links to all themes and audiences. The sub-footer is at the bottom and contains links to “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy.” These are all aligned to the left in a single row. It also includes the Canada wordmark in the same row, aligned to the right.</p>
+          <summary>Le nouveau pied de page Canada.ca</summary>
+          <p class="mrgn-tp-lg"> Le pied de page général comprend trois bandes de liens distinctes. La première est la nouvelle bande contextuelle. Elle contient un titre et trois liens contextuels sur une seule ligne. La deuxième est la bande principale. Elle est organisée en trois colonnes et contient des liens vers &laquo;&nbsp;Tous les personnes-ressources&nbsp;&raquo;, &laquo;&nbsp;Ministères et organismes&nbsp;&raquo; et &laquo;&nbsp;À propos du gouvernement&nbsp;&raquo;. Il y a une petite ligne décorative servant de démarcation avec les liens vers tous les thèmes et tous les publics. Le sous-pied de page se trouve au bas et contient des liens vers &laquo;&nbsp;Médias sociaux&nbsp;&raquo;, &laquo;&nbsp;Applications mobiles&nbsp;&raquo;, &laquo;&nbsp;À propos de Canada.ca&nbsp;&raquo;, &laquo;&nbsp;Avis&nbsp;&raquo; et &laquo;&nbsp;Confidentialité&nbsp;&raquo;. Ceux-ci sont tous alignés à gauche sur une seule ligne. Elle comprend également le mot-symbole &laquo;&nbsp;Canada&nbsp;&raquo; sur la même rangée, aligné à droite.</p>
         </details>
       </figcaption>
     </figure>
   </div>
 </div>
-<h3>New layered theme page template</h3>
+<h3>Nouveau modèle stratifié pour les pages thématiques</h3>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Redesign of the theme pages with a navigation bar on the left</summary>
-          <p class="mrgn-tp-lg">The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
+          <summary>Refonte des pages thématiques avec une barre de navigation à gauche </summary>
+          <p class="mrgn-tp-lg">La page thématique remaniée comporte une barre de navigation sur la gauche. Le côté droit de la page contient le nom du thème, les liens les plus demandés, et les sujets avec des descriptions.</p>
         </details>
       </figcaption>
     </figure>
   </div>
 </div>
-<p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
-<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme are below the Most requested band.</p>
-<h3>New contextual Sign in button</h3>
-<p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
+<p>Nous avons également créé un nouveau modèle de page thématique stratifié accessible à la fois par les fils d’Ariane et le pied de page.</p>
+<p>Le modèle de page thématique stratifié comporte une barre de navigation sur la gauche et une bande En demande dans la partie supérieure. Les sujets du thème se trouvent sous la bande En demande.</p>
+<h3>Nouveau bouton de connexion contextuel</h3>
+<p>Les utilisateurs s’attendent généralement à trouver un bouton de connexion en haut à droite de la page. Ceci est courant sur de nombreux sites Web. C’est devenu une convention Web. Nous en avons ajouté un pour soutenir cette tâche principale.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="A long description can be found after the image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>New header with the optional contextual Sign in button</summary>
-          <p class="mrgn-tp-lg">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle, the Canada.ca search bar, and a Sign in button.</p>
+          <summary>Nouvel en-tête avec le bouton contextuel facultatif &laquo;&nbsp;Se connecter.&nbsp;&raquo;
+</summary>
+          <p class="mrgn-tp-lg">Texte de remplacement : L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et un fil d’Ariane Canada.ca sur le côté gauche de l’écran. Sur le côté droit de l’écran se trouvent une bascule de langue, la barre de recherche Canada.ca et un bouton  &laquo;&nbsp;Se connecter.&nbsp;&raquo;</p>
         </details>
       </figcaption>
     </figure>
   </div>
 </div>
-<p>Once various pieces of the new design came together, we launched another study. This one tested the effectiveness of the prototype and let us finesse the implementation strategy.</p>
+<p>Une fois les différents éléments de la nouvelle conception définis, nous avons lancé une autre étude. Celle-ci nous a permis de vérifier l’efficacité du prototype et de peaufiner la stratégie de mise en œuvre.</p>
 <h2 id="mesure_du_succes">Mesure du succès</h2>
-<p>In contrast to other optimization projects where large improvements were expected, in this project we were looking to maintain or, hopefully increase, task success despite removing the menu and changing to the Canada.ca design. We achieved our goal.</p>
-<p>18 participants tested 8 tasks from IRCC, AAFC and VAC. We compared their results with the results from the baseline study. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
+<p>Contrairement à d’autres projets d’optimisation devant mener à de grandes améliorations, dans ce projet, nous cherchions à maintenir ou, préférablement, à augmenter la réussite des tâches malgré la suppression du menu et le passage à la conception de Canada.ca. Nous avons atteint notre objectif.</p>
+<p>Un total de 18 participants ont essayé huit tâches sur les sites d’IRCC, d’AAC et d’ACC. Nous avons comparé leurs résultats avec ceux de l'étude de référence. Nous avons utilisé des prototypes avec les nouvelles conceptions que nous avions créées. Nous n’avons pas inclus de tâches de StatCan dans cette ronde parce que nous avions besoin de plus de temps pour expérimenter des façons de répondre à son besoin d’une solution de navigation locale. Nous voulions nous concentrer d’abord sur l’amélioration de la navigation globale, car cela était moins complexe. Nous avons également ajouté quatre nouvelles tâches pour évaluer et améliorer les nouvelles conceptions.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
 <div class="panel panel-default">
   <table class="table table-bordered small">
-    <caption class="wb-inv1">
-    caption needed (can be invisible)
-    </caption>
+    <caption class="wb-inv1">Résultats de la recherche pour les 8 tâches étudiées</caption>
     <thead>
       <tr class="brdr-tp active">
-        <th scope="col" class="col-sm-6">Task description</th>
-        <th scope="col" class="col-sm-3 text-center">Baseline 2019</th>
-        <th scope="col" class="col-sm-3 text-center">Comparison 2021</th>
+        <th scope="col" class="col-sm-6">Description de la tâche</th>
+        <th scope="col" class="col-sm-3 text-center">Étude de référence&nbsp;: 2019</th>
+        <th scope="col" class="col-sm-3 text-center">Étude de comparaison&nbsp;: 2021</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row" class="mrgn-lft-md">Overall task success</th>
-        <td class="text-center">54%</td>
-        <td class="text-center">61%</td>
+        <th scope="row" class="mrgn-lft-md">Réussite globale des tâches</th>
+        <td class="text-center">54&nbsp;%</td>
+        <td class="text-center">61&nbsp;%</td>
       </tr>
       <tr>
-        <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
-        <td class="text-center">61%</td>
-        <td class="text-center">66%</td>
+        <th scope="row" class="mrgn-lft-md">Repérabilité globale (trouver la page où se trouve la réponse)</th>
+        <td class="text-center">61&nbsp;%</td>
+        <td class="text-center">66&nbsp;%</td>
       </tr>
     </tbody>
   </table>
     </div></div></div>
-<p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
+<p>L’application de la conception Canada.ca à des sites ministériels affichant d’autres conceptions a permis de maintenir ou d’améliorer la réussite des tâches. En ce qui concerne la tâche qui nécessitait de passer du site d’Anciens Combattants aux prestations pour enfants, il y a eu une grande amélioration. Pour les autres tâches nécessitant une navigation dans le même thème, les résultats de la comparaison étaient semblables à la mesure de référence.</p>
 <h2 id="ce_que_nous_avons_appris">Ce que nous avons appris</h2>
-<p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
-<p>Read our blog post to know how we are rolling this change out.</p>
-<p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
-<p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
+<p>L’étude a montré qu’il est possible de supprimer le menu s’il est remplacé par le nouveau pied de page, le bouton de connexion et une conception stratifiée pour les pages thématiques. Il s’agit d’un changement important qui nécessite une stratégie de transition.</p>
+<p>Lisez notre billet de blogue pour savoir comment nous déployons ce changement.</p>
+<p><a href="#"Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a></p>
+<p>Nous avons maintenu la réussite des tâches et aidé de nouveaux ministères à adopter la conception de Canada.ca.</p>
 <h2 id="pour_explorer_davantage">Pour explorer davantage</h2>
 <ul>
 <li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
