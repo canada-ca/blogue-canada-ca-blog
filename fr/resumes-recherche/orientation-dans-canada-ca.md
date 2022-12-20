@@ -80,58 +80,61 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
     </caption>
     <thead>
       <tr class="active">
-        <th scope="col" class="col-sm-4">Task</th>
-        <th scope="col" class="col-sm-8">Scenario</th>
+        <th scope="col" class="col-sm-4">Tâche</th>
+        <th scope="col" class="col-sm-8">Scénario</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Start on a Google results page with links to Canada.ca URLS and to other sites (trust task)</td>
-        <td>Your friend from France won't need a visa to come visit but will need an Electronic Travel Authorization. How much will it cost to apply?</td>
+        <td>Commencez sur une page de résultats Google avec des liens vers des URL Canada.ca et vers d’autres sites (tâche de confiance)</td>
+        <td>Votre ami de la France n’aura pas besoin de visa pour venir vous rendre visite, mais aura besoin d’une autorisation de voyage électronique. Combien lui en coûtera-t-il pour faire une demande?</td>
       </tr>
       <tr>
-        <td>Start on a page with the Canada.ca design<br>Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
-        <td>Your Egyptian friend wants to come to a Canadian university this year. How much will it cost to apply for a study permit?</td>
+        <td>Commencez sur une page affichant la conception Canada.ca<br>Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour le permis d’études (tâche de navigation dans un site ministériel)</td>
+        <td>Yen a demandé une carte de résidente permanente et veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
       </tr>
       <tr>
-        <td>Go to IRCC to check status (Canada.ca design - Sign in task)</td>
-        <td>Yen applied for a permanent resident card and needs to find out if it has been mailed yet. Find a page where she can enter her user ID and password to get into her Immigration account.</td>
+        <td>Allez à IRCC pour vérifier le statut (conception Canada.ca – tâche de connexion)</td>
+        <td>veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
       </tr>
       <tr>
         <td>Agriculture topic for temporary foreign workers (no Canada.ca design navigation between themes)</td>
         <td>You finished researching some ideas for the next farming season. Now you need to find out if there is a special way to hire temporary seasonal farm workers from Mexico.</td>
       </tr>
       <tr>
-        <td>Agriculture to agriculture topic (no Canada.ca theme navigation)</td>
-        <td>Your friend is going to start growing wheat this spring in Saskatchewan. Is there crop insurance available there?</td>
+        <td>Sujet de l’agriculture pour les travailleurs étrangers temporaires (pas de navigation entre les thèmes propres à la conception Canada.ca)</td>
+        <td>Vous avez fini de chercher des idées pour la prochaine saison agricole. Vous devez maintenant savoir s’il existe un moyen particulier d’embaucher des travailleurs agricoles saisonniers temporaires du Mexique.</td>
       </tr>
       <tr>
-        <td>Agriculture to agriculture topic (no Canada.ca theme navigation)</td>
-        <td>That friend wants to understand the market for organic wheat outside Canada. Are there any 2019 reports with a trade overview and consumption trends that might help them?</td>
+        <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
+        <td>Votre ami va commencer à cultiver du blé ce printemps en Saskatchewan. Y a-t-il une assurance-récolte là-bas?</td>
+      </tr>     <tr>
+        <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
+        <td>Cet ami veut comprendre le marché du blé biologique à l’extérieur du Canada. Existe-t-il des rapports datant de 2019 et offrant un aperçu du commerce et des tendances de consommation qui pourraient l’aider?</td>
       </tr>
       <tr>
-        <td>VAC (interdepartmental task)</td>
-        <td>Nour is an injured veteran working out her family budget. How much can they expect to receive if her spouse Pat is recognized as her daily caregiver?</td>
+        <td>ACC (tâche interministérielle)</td>
+        <td>Nour est un vétéran blessé qui gère son budget familial. Combien peut-elle s’attendre à recevoir si son conjoint Pat est reconnu comme son proche aidant?</td>
       </tr>
       <tr>
-        <td>VAC to Child Benefit (CRA)<br>(inter-theme navigation)</td>
-        <td>Like all Canadian parents, Pat and Nour also get monthly Canada Child Benefit payments for their 15 year old son. Will they still get payments next month when he turns 16?</td>
+        <td>Site d’ACC vers l’allocation canadienne pour enfants (site d’ARC)<br>(navigation interthématique)</td>
+        <td>Comme tous les parents canadiens, Pat et Nour reçoivent également des versements mensuels de l’allocation canadienne pour enfants pour leur fils de 15 ans. Recevront-ils toujours des paiements le mois prochain lorsqu’il aura 16 ans?</td>
       </tr>
       <tr>
-        <td>VAC caregiver to account (no Canada.ca sign in experience)</td>
-        <td>Nour just switched to a new bank. Is it possible for her to change her bank information online somehow for her veterans payments, or would she have to call?</td>
+        <td>Pages sur les aidants d’ACC vers un compte (pas d’expérience de connexion à Canada.ca)</td>
+        <td>Nour vient de changer de banque. Est-il possible pour elle de modifier ses renseignements bancaires en ligne pour les versements d’ACC, ou doit-elle appeler le ministère?</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
-        <td>You searched and found these soybean reports but now you need recent numbers. Find estimated soybean production for 2019 in Canada.</td>
+        <td>Navigation intraministérielle dans le site de StatCan<br>(supprimé dans la comparaison)</td>
+        <td>Vous avez recherché et trouvé des rapports sur le soja, et vous avez maintenant besoin de données récentes. Trouvez la production estimée de soja en 2019 au Canada.</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
-        <td>You have a voice message from someone claiming to be a Statistics Canada interviewer. They say your household was selected to complete the Labour Force Survey. Find the special number for survey participants to call so you can check if it's a real survey.</td>
+        <td>Navigation intraministérielle dans le site de StatCan<br>(supprimé dans la comparaison)</td>
+        <td>Vous avez un message vocal d’une personne prétendant être un intervieweur de Statistique Canada. La personne indique que votre ménage a été sélectionné pour répondre à l’Enquête sur la population active. Trouvez le numéro spécial que les participants à l’enquête peuvent appeler pour vérifier s’il s’agit d’une véritable enquête.</td>
       </tr>
       <tr>
-        <td>Compare with UK to evaluate design options<br>Gov UK Student visa cost<br>(removed in Comparison)</td>
-        <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
+        <td>Comparez avec le Royaume-Uni pour évaluer les options de conception<br>Coût du visa étudiant du gouvernement britannique<br>(supprimé dans la comparaison)</td>
+        <td>Zak a été accepté dans un programme d’études de deux ans au Royaume-Uni. Combien lui en coûtera-t-il pour obtenir un visa étudiant? Commencez sur une page Gov.UK pour comparer l’expérience sur ce site avec une tâche semblable sur Canada.ca (uniquement pour la recherche, pas une tâche de mesure).</td>
       </tr>
     </tbody>
   </table>
