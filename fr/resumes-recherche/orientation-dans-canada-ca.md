@@ -171,7 +171,7 @@ title: "Orientation dans Canada.ca"
 <h3>Nouveau modèle stratifié pour les pages thématiques</h3>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wafingding-theme-en.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Refonte des pages thématiques avec une barre de navigation à gauche</summary>
