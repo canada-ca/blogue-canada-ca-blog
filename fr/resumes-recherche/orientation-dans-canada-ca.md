@@ -181,7 +181,7 @@ L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et 
 <p>Les utilisateurs s’attendent généralement à trouver un bouton de connexion en haut à droite de la page. Ceci est courant sur de nombreux sites Web. C’est devenu une convention Web. Nous en avons ajouté un pour soutenir cette tâche principale.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-sign-in-01-en.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-sign-in-01-fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Nouvel en-tête avec le bouton contextuel facultatif &laquo;&nbsp;Se connecter.&nbsp;&raquo;
