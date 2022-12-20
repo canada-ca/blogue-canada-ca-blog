@@ -1,5 +1,5 @@
 ---
-altLangPage: "/research-summaries/wayfinding-on-canada-ca"
+altLangPage: "/en/research-summaries/wayfinding-on-canada-ca"
 breadcrumbs:
   - title: "À propos de Canada.ca"
     link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
