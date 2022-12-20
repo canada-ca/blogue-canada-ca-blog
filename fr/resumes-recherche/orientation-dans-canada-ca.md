@@ -18,7 +18,7 @@ pageclass: cnt-wdth-lmtd
 title: "Orientation dans Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Orientation dans Canada.ca</span>: <span>Résumé de recherche</span></span></h1>
-<p>Date: X décembre 2022</p>
+<p>Date: 20 décembre 2022</p>
 <p>Les ministères et organismes gouvernementaux adoptent la conception de Canada.ca pour améliorer la confiance et la convivialité grâce à une expérience cohérente. La conception comprend des éléments de marque de base et des modèles de navigation. Les utilisateurs doivent pouvoir reconnaître rapidement les renseignements et les services officiels du gouvernement afin d’éviter les sites frauduleux. Ils ont également besoin de modèles intuitifs pour naviguer et accomplir leurs tâches.</p>
 <p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
