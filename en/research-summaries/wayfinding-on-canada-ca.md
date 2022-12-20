@@ -89,7 +89,8 @@ title: "Wayfinding on Canada.ca"
         <td>Your friend from France won't need a visa to come visit but will need an Electronic Travel Authorization. How much will it cost to apply?</td>
       </tr>
       <tr>
-        <td>Start on a page with the Canada.ca design<br>Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
+        <td>Start on a page with the Canada.ca design<br>
+          Immigration Refugees and Citizenship (IRCC) page to study permit (department navigation task)</td>
         <td>Your Egyptian friend wants to come to a Canadian university this year. How much will it cost to apply for a study permit?</td>
       </tr>
       <tr>
@@ -113,7 +114,8 @@ title: "Wayfinding on Canada.ca"
         <td>Nour is an injured veteran working out her family budget. How much can they expect to receive if her spouse Pat is recognized as her daily caregiver?</td>
       </tr>
       <tr>
-        <td>VAC to Child Benefit (CRA)<br>(inter-theme navigation)</td>
+        <td>VAC to Child Benefit (CRA)<br>
+          (inter-theme navigation)</td>
         <td>Like all Canadian parents, Pat and Nour also get monthly Canada Child Benefit payments for their 15 year old son. Will they still get payments next month when he turns 16?</td>
       </tr>
       <tr>
@@ -121,15 +123,19 @@ title: "Wayfinding on Canada.ca"
         <td>Nour just switched to a new bank. Is it possible for her to change her bank information online somehow for her veterans payments, or would she have to call?</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
+        <td>StatCan interdepartmental navigation<br>
+          (removed in Comparison)</td>
         <td>You searched and found these soybean reports but now you need recent numbers. Find estimated soybean production for 2019 in Canada.</td>
       </tr>
       <tr>
-        <td>StatCan interdepartmental navigation<br>(removed in Comparison)</td>
+        <td>StatCan interdepartmental navigation<br>
+          (removed in Comparison)</td>
         <td>You have a voice message from someone claiming to be a Statistics Canada interviewer. They say your household was selected to complete the Labour Force Survey. Find the special number for survey participants to call so you can check if it's a real survey.</td>
       </tr>
       <tr>
-        <td>Compare with UK to evaluate design options<br>Gov UK Student visa cost<br>(removed in Comparison)</td>
+        <td>Compare with UK to evaluate design options<br>
+          Gov UK Student visa cost<br>
+          (removed in Comparison)</td>
         <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
       </tr>
     </tbody>
@@ -144,8 +150,8 @@ title: "Wayfinding on Canada.ca"
   <li>a Sign in button to support this top task</li>
 </ul>
 <h3>New footer</h3>
-<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the theme page links from the menu into the main band of the  footer.</p>  
-<p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p> 
+<p>Analysis of footer usage patterns on the home page versus all other pages revealed an opportunity to reduce the set of GC-wide footer links to 3 (“All contacts,” “Departments and agencies,” “About government”). This freed up space to move the theme page links from the menu into the main band of the  footer.</p>
+<p>The new footer design also added an optional contextual band for “Contact us” and other contextual rescue links.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wafingding-footer-en.png" class="img-responsive" />
@@ -193,32 +199,34 @@ title: "Wayfinding on Canada.ca"
 <p>18 participants tested 8 tasks from IRCC, AAFC and VAC. We compared their results with the results from the baseline study. We used prototypes with the new designs we had created. We didn’t include tasks from StatCan in this round because we needed more time to experiment with ways to address their need for a local navigation solution. We wanted to focus first on improving global navigation, since that was less complex. We also added 4 new tasks to evaluate and enhance the new designs.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
-<div class="panel panel-default">
-  <table class="table table-bordered small">
-    <caption class="wb-inv1">
-    caption needed (can be invisible)
-    </caption>
-    <thead>
-      <tr class="brdr-tp active">
-        <th scope="col" class="col-sm-6">Task description</th>
-        <th scope="col" class="col-sm-3 text-center">Baseline 2019</th>
-        <th scope="col" class="col-sm-3 text-center">Comparison 2021</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row" class="mrgn-lft-md">Overall task success</th>
-        <td class="text-center">54%</td>
-        <td class="text-center">61%</td>
-      </tr>
-      <tr>
-        <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
-        <td class="text-center">61%</td>
-        <td class="text-center">66%</td>
-      </tr>
-    </tbody>
-  </table>
-    </div></div></div>
+    <div class="panel panel-default">
+      <table class="table table-bordered small">
+        <caption class="wb-inv1">
+        caption needed (can be invisible)
+        </caption>
+        <thead>
+          <tr class="brdr-tp active">
+            <th scope="col" class="col-sm-6">Task description</th>
+            <th scope="col" class="col-sm-3 text-center">Baseline 2019</th>
+            <th scope="col" class="col-sm-3 text-center">Comparison 2021</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row" class="mrgn-lft-md">Overall task success</th>
+            <td class="text-center">54%</td>
+            <td class="text-center">61%</td>
+          </tr>
+          <tr>
+            <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
+            <td class="text-center">61%</td>
+            <td class="text-center">66%</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
 <p>Applying the Canada.ca design to departmental sites with other designs maintained or improved success. In particular, for the task that required navigating from Veterans to Child Benefits, there was a big improvement. For the other tasks that required navigation inside the same theme, the comparison results were similar to the baseline.</p>
 <h2 id="what_we_learned">What we learned</h2>
 <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
@@ -227,55 +235,58 @@ title: "Wayfinding on Canada.ca"
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
 <h2 id="explore_further">Explore further</h2>
 <ul>
-<li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>blog post that describes the rolling out a new design to navigate on Canada.ca</li>  
-  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
-  <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>a list of other projects we have done with our partners</li>
+  <li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+    blog post that describes the rolling out a new design to navigate on Canada.ca</li>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>
+    Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
+  <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>
+    a list of other projects we have done with our partners</li>
 </ul>
 <h2 id="connect">Connect with the Digital Transformation Office</h2>
-<p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.<p>
+<p>Connect with us if you have questions or would like to see the detailed research findings from this project or the trust study.</p>
 <ul>
   <li>Email: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
-<li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
+  <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
   <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
-</ul>  
+</ul>
 <h2 id="mailing_list">Sign up to the Digital Transformation Office mailing list</h2>
 <div class="row mrgn-tp-lg">
-			<form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
-				<div id="mc_embed_signup_scroll" class="well well-sm">
-					<fieldset class="gc-chckbxrdio">
-						<legend>Preferred newsletter format</legend>
-						<ul class="list-unstyled lst-spcd-2">
-							<li class="radio">
-								<input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0">
-								<label for="mce-EMAILTYPE-0">HTML</label>
-							</li>
-							<li class="radio">
-								<input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1">
-								<label for="mce-EMAILTYPE-1">plain text <small>(We recommend 'plain text' if your firewall might block HTML emails)</small></label>
-							</li>
-						</ul>
-					</fieldset>
-					<div class="mc-field-group">
-						<div class="input-group">
-							<label class="wb-inv" for="mce-EMAIL">Email address</label>
-							<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="Email address">
-							<span class="input-group-btn">
-								<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">Subscribe</button>
-							</span>
-						</div>
-					</div>
-					<div id="mce-responses" class="clear">
-						<div class="response" id="mce-error-response" style="display:none"></div>
-						<div class="response" id="mce-success-response" style="display:none"></div>
-					</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-					<div style="position: absolute; left: -5000px;" aria-hidden="true">
-						<input type="text" name="b_5700d338d6ab413ebca1099f4_c6bb0b9f64" tabindex="-1" value="">
-					</div>
-				</div>
-			</form>
-		</div>
-		<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-		<script type='text/javascript'>
+  <form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" class="well well-sm">
+      <fieldset class="gc-chckbxrdio">
+        <legend>Preferred newsletter format</legend>
+        <ul class="list-unstyled lst-spcd-2">
+          <li class="radio">
+            <input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0">
+            <label for="mce-EMAILTYPE-0">HTML</label>
+          </li>
+          <li class="radio">
+            <input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1">
+            <label for="mce-EMAILTYPE-1">plain text <small>(We recommend 'plain text' if your firewall might block HTML emails)</small></label>
+          </li>
+        </ul>
+      </fieldset>
+      <div class="mc-field-group">
+        <div class="input-group">
+          <label class="wb-inv" for="mce-EMAIL">Email address</label>
+          <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="Email address">
+          <span class="input-group-btn">
+          <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">Subscribe</button>
+          </span> </div>
+      </div>
+      <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_5700d338d6ab413ebca1099f4_c6bb0b9f64" tabindex="-1" value="">
+      </div>
+    </div>
+  </form>
+</div>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script> 
+<script type='text/javascript'>
 			( function( $ ) {
 				window.fnames = new Array();
 				window.ftypes = new Array();
@@ -293,19 +304,17 @@ title: "Wayfinding on Canada.ca"
 				ftypes[ 5 ]='birthday';
 			}( jQuery ));
 			var $mcj = jQuery.noConflict( true );
-		</script>
-		<!--End mc_embed_signup-->
-		<div class="mce-privacy" style="padding-top: 9px;">
-			<a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy notice</a>
-		</div>
-		<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
-			<header class="modal-header">
-				<h2 class="modal-title">Privacy notice</h2>
-			</header>
-			<div class="modal-body">
-				<p>Our newsletter feature uses <a href="https://mailchimp.com/">Mailchimp</a>, a third-party application. Sign-up is voluntary and subject to the <a href="https://mailchimp.com/legal/terms/">Terms of Use</a> for the Mailchimp platform.  When you sign up, your email address and language preference (English or French) is collected. No other personal information is collected.</p>
-				<p>The collection and use of your personal information is authorized by the <em>Financial Administration Act</em>. Collection and use of your personal information for this site is in accordance with the federal <em>Privacy Act</em>. Your personal information may be used to respond to your inquiries, if applicable, and to help evaluate the effectiveness of Treasury Board of Canada Secretariat (TBS) programs in responding to client needs. In exceptional circumstances (e.g., individuals who make inappropriate remarks or threats), personal information may be disclosed without your consent pursuant to subsection 8(2) of the <em>Privacy Act</em>.</p>
-				<p>Any personal information that may be collected is described in the Standard Personal Information Bank entitled <a href="http://www.infosource.gc.ca/emp/emp03-eng.asp#psu938">Outreach Activities, PSU 938</a>, which can be found in the TBS webpage <a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings.html">Information about programs and information holdings</a>.</p>
-				<p>Any questions, comments, concerns or complaints you may have regarding this Statement, your privacy rights and the Privacy Act may be directed to the TBS Access to Information and Privacy Coordinator by email at <a href="mailto:ATIP.AIPRP@TBS-SCT.gc.ca">ATIP.AIPRP@tbs-sct.gc.ca</a> or by telephone at 1-866-312-1511. You may also wish to contact the Office of the Privacy Commissioner of Canada by email at <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a> or by telephone at 1-800-282-1376. You have the right to complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information by TBS.</p>
-			</div>
-		</section>
+		</script> 
+<!--End mc_embed_signup-->
+<div class="mce-privacy" style="padding-top: 9px;"> <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy notice</a> </div>
+<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
+  <header class="modal-header">
+    <h2 class="modal-title">Privacy notice</h2>
+  </header>
+  <div class="modal-body">
+    <p>Our newsletter feature uses <a href="https://mailchimp.com/">Mailchimp</a>, a third-party application. Sign-up is voluntary and subject to the <a href="https://mailchimp.com/legal/terms/">Terms of Use</a> for the Mailchimp platform.  When you sign up, your email address and language preference (English or French) is collected. No other personal information is collected.</p>
+    <p>The collection and use of your personal information is authorized by the <em>Financial Administration Act</em>. Collection and use of your personal information for this site is in accordance with the federal <em>Privacy Act</em>. Your personal information may be used to respond to your inquiries, if applicable, and to help evaluate the effectiveness of Treasury Board of Canada Secretariat (TBS) programs in responding to client needs. In exceptional circumstances (e.g., individuals who make inappropriate remarks or threats), personal information may be disclosed without your consent pursuant to subsection 8(2) of the <em>Privacy Act</em>.</p>
+    <p>Any personal information that may be collected is described in the Standard Personal Information Bank entitled <a href="http://www.infosource.gc.ca/emp/emp03-eng.asp#psu938">Outreach Activities, PSU 938</a>, which can be found in the TBS webpage <a href="https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings.html">Information about programs and information holdings</a>.</p>
+    <p>Any questions, comments, concerns or complaints you may have regarding this Statement, your privacy rights and the Privacy Act may be directed to the TBS Access to Information and Privacy Coordinator by email at <a href="mailto:ATIP.AIPRP@TBS-SCT.gc.ca">ATIP.AIPRP@tbs-sct.gc.ca</a> or by telephone at 1-866-312-1511. You may also wish to contact the Office of the Privacy Commissioner of Canada by email at <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a> or by telephone at 1-800-282-1376. You have the right to complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information by TBS.</p>
+  </div>
+</section>
