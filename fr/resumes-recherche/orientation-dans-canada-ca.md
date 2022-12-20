@@ -10,7 +10,7 @@ css:
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2022-12-20
-description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont provoqué plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
+description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont mené à plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
 lang: fr
 layout: without-h1
 share: true
