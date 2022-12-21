@@ -9,7 +9,7 @@ css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-date: 2022-12-20
+date: 2022-12-21
 description: "The Wayfinding project looked at how people navigate Canada.ca. The findings have led to several design changes to improve navigation throughout Government of Canada websites."
 lang: en
 layout: without-h1
@@ -33,17 +33,6 @@ title: "Wayfinding on Canada.ca"
     </figure>
   </div>
 </div>
-<h2>On this page</h2>
-<ul>
-  <li><a href="#understanding_the_problem">Understanding the problem</a></li>
-  <li><a href="#establishing_baseline">Establishing a baseline</a></li>
-  <li><a href="#design_efforts">Design efforts</a></li>
-  <li><a href="#measuring_success">Measuring success</a></li>
-  <li><a href="#what_we_learned">What we learned</a></li>
-  <li><a href="#explore_further">Explore further</a></li>
-  <li><a href="#Connect">Connect with the Digital Transformation Office</a></li>
-  <li><a href="#mailing_list">Digital Transformation Office mailing list</a></li>
-</ul>
 <h2 id="understanding_the_problem">Understanding the problem</h2>
 <p>Wayfinding is how users assess where they are in a website and plan a route to follow. On Canada.ca, the menu is a way for users to navigate through the site. It displays top-level pages (themes) to help users find answers and services.</p>
 <p>While many visits start from a search engine result, the website should support navigation no matter where a user enters the site. This is especially important when they start their journey on the wrong page.</p>
