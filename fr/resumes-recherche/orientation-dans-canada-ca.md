@@ -208,7 +208,7 @@ title: "Orientation dans Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne réponse (réussite globale des taches)</th>
+            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne réponse (réussite globale des tâches)</th>
             <td class="text-center">54&nbsp;%</td>
             <td class="text-center">61&nbsp;%</td>
           </tr>
