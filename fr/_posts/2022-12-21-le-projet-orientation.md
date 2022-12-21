@@ -1,5 +1,6 @@
 ---
 css:
+-  ../../../css/blogue.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/21/wayfinding-research-project
 date: 2022-12-21
@@ -8,7 +9,7 @@ description: "Le projet Orientation dans Canada.ca améliore notre approche en m
 title: "Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation"
 ---
 <div class="row">
-  <div class="col-md-8"><img src="/images/thumbs/2022-12-08.png" class="img-responsive" alt="" /> </div>
+  <div class="col-md-8"><img src="/images/thumbs/2022-12-21.png" class="img-responsive" alt="" /> </div>
 </div>
 <p class="mrgn-tp-lg">Le Bureau de la transformation numérique a mené un projet de recherche sur l’orientation pour mieux comprendre comment les gens naviguent dans les différentes parties des sites Web du gouvernement du Canada. Nous avons travaillé avec Immigration, Réfugiés et Citoyenneté Canada, Agriculture et Agroalimentaire Canada, Anciens Combattants Canada et Statistique Canada pour étudier comment les gens utilisent le menu thématique global sur Canada.ca. Nous savions que certaines institutions trouvaient que le menu ne répondait pas à leurs besoins de navigation plus complexes. Cela a même empêché quelques institutions d’adopter la conception de Canada.ca. </p>
 <p>Pour trouver une solution, nous devions aller au-delà du menu et penser plutôt aux habitudes de navigation dans leur ensemble pour voir comment les institutions pouvaient répondre efficacement aux besoins des utilisateurs.</p>
