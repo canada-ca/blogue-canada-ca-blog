@@ -26,8 +26,8 @@ title: "Orientation dans Canada.ca"
     <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wayfinding-gh-01-fr.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Capture d’écran de l’en-tête général comprenant le menu thématique.</summary>
-          <p class="mrgn-tp-lg"> L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et un fil d’Ariane Canada.ca sur le côté gauche de l’écran. Sur le côté droit de l’écran se trouvent une bascule de langue et la barre de recherche Canada.ca.</p>
+          <summary>L’en-tête général comprenant le menu thématique</summary>
+          <p class="mrgn-tp-lg">L’en-tête comprend la signature du gouvernement du Canada, un bouton Menu et un fil d’Ariane Canada.ca sur le côté gauche de l’écran. Sur le côté droit de l’écran se trouvent une bascule de langue et la barre de recherche Canada.ca.</p>
         </details>
       </figcaption>
     </figure>
