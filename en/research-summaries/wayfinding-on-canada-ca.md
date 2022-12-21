@@ -199,23 +199,23 @@ title: "Wayfinding on Canada.ca"
     <div class="panel panel-default">
       <table class="table table-bordered small">
         <caption class="wb-inv1">
-        caption needed (can be invisible)
+        Evaluation of 2021 prototypes
         </caption>
         <thead>
           <tr class="brdr-tp active">
-            <th scope="col" class="col-sm-6">Task description</th>
+            <th scope="col" class="col-sm-6">Test results</th>
             <th scope="col" class="col-sm-3 text-center">Baseline 2019</th>
             <th scope="col" class="col-sm-3 text-center">Comparison 2021</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row" class="mrgn-lft-md">Overall task success</th>
+            <th scope="row" class="mrgn-lft-md">Users that found the correct answer (overall task success)</th>
             <td class="text-center">54%</td>
             <td class="text-center">61%</td>
           </tr>
           <tr>
-            <th scope="row" class="mrgn-lft-md">Overall findability (found the page where the answer is)</th>
+            <th scope="row" class="mrgn-lft-md">Users that found the correct page (findability)</th>
             <td class="text-center">61%</td>
             <td class="text-center">66%</td>
           </tr>
