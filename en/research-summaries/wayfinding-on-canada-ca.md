@@ -198,7 +198,7 @@ title: "Wayfinding on Canada.ca"
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <div class="panel panel-default">
       <table class="table table-bordered small">
-        <caption class="wb-inv1">
+        <caption class="wb-inv">
         Evaluation of 2021 prototypes
         </caption>
         <thead>
