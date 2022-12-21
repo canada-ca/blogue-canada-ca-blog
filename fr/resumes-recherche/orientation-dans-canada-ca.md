@@ -65,6 +65,7 @@ title: "Orientation dans Canada.ca"
 			<summary>Liste de scénarios de tâches</summary>
 <div class="mrgn-tp-lg mrgn-bttm-lg">
   <table class="table table-striped table-bordered small">
+    <caption>
     List of tasks scenarios
     </caption>
     <thead>
