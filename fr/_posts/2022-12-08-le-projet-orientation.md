@@ -2,8 +2,8 @@
 css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/08/wayfinding-research-project
-date: 2022-12-20
-dateModified: 2022-12-20
+date: 2022-12-21
+dateModified: 2022-12-21
 description: "Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation."
 title: "Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation"
 ---
@@ -27,7 +27,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <ul>
   <li>un en-tête général sans menu</li>
   <li>des liens thématiques déplacés du menu vers le pied de page</li>
-  <li>un bouton « Se connecter » dans l’en-tête général</li>
+  <li>un bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; dans l’en-tête général</li>
   <li>des fils d’Ariane plus visibles</li>
   <li>une conception de page thématique simplifiée</li>
 </ul>
@@ -50,7 +50,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small">
-      <p><a href="https://www.canada.ca/en.html">Page d’accueil de Canada.ca</a><br />
+      <p><a href="https://www.canada.ca/fr.html">Page d’accueil de Canada.ca</a><br />
         Page d’accueil de Canada.ca avec le pied de page et la zone de contenu mis à jour</p>
     </div>
   </div>
@@ -64,11 +64,9 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small">
-      <p><a href="https://blog.canada.ca/2022/09/23/introducing-contextual-sign-in-button">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />Billet de blogue qui présente l’ajout du bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; à l’en-tête général</p>
-      <p><a href="https://design.canada.ca/common-design-patterns/contextual-signin.html">Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />
-        Modèle de système de conception de Canada.ca qui dirige les gens vers les comptes du gouvernement</p>
-      <p><a href="https://design.canada.ca/common-design-patterns/global-header.html">En-tête général</a><br />
-        Modèle de système de conception de Canada.ca pour le haut des pages Web du gouvernement du Canada</p>
+      <p><a href="https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />Billet de blogue qui présente l’ajout du bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; à l’en-tête général</p>
+      <p><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />Modèle de système de conception de Canada.ca qui dirige les gens vers les comptes du gouvernement</p>
+      <p><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">En-tête général</a><br />Modèle de système de conception de Canada.ca pour le haut des pages Web du gouvernement du Canada</p>
     </div>
   </div>
 </div>
@@ -97,7 +95,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small"> 
-      <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Pied de page général</a><br />
+      <p><a href="https://conception.canada.ca/configurations-conception-communes/pied-page.html">Pied de page général</a><br />
         Modèle du Système de conception de Canada.ca pour le bas des pages Web du gouvernement du Canada</p>
     </div>
   </div>
