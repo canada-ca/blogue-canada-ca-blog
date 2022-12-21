@@ -131,7 +131,9 @@ title: "Wayfinding on Canada.ca"
         <td>Zak has been accepted into a two-year diploma program in the UK. How much will it cost to apply for a student visa? Start on a Gov.UK page to compare the experience there to the similar task on Canada.ca (for research only, not a measurement task).</td>
       </tr>
     </tbody>
-  </table></div></details>
+  </table>
+      </div>
+  </details>
 </div>
 <p>The baseline study gave us insights for solutions to the problems participants experienced, as well as findability and task success rates so we could evaluate proposed designs. As expected, participants had trouble switching between themes on sites not using the Canada.ca design. Another pain point this study highlighted was the lack of a conventional Sign in button.</p>
 <h2 id="design_efforts">Design efforts</h2>
