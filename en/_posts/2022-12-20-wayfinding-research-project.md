@@ -2,8 +2,8 @@
 css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/08/le-projet-orientation
-date: 2022-12-20
-dateModified: 2022-12-20
+date: 2022-12-21
+dateModified: 2022-12-21
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design."
 title: "Wayfinding research project improves our approach to navigation on Canada.ca"
 ---
