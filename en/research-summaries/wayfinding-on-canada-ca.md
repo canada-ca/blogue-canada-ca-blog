@@ -224,11 +224,11 @@ title: "Wayfinding on Canada.ca"
 <h2 id="what_we_learned">What we learned</h2>
 <p>The study showed that it’s possible to remove the menu if it’s replaced by the new footer, the Sign in button, and a layered theme page design.  This is a significant change that requires a transition strategy.</p>
 <p>Read our blog post to know how we are rolling this change out.</p>
-<p><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
+<p><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a></p>
 <p>We maintained task success and helped enable more departments to adopt the Canada.ca design.</p>
 <h2 id="explore_further">Explore further</h2>
 <ul>
-  <li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
+  <li><a href="https://blog.canada.ca/2022/12/21/wayfinding-research-project">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
     blog post that describes the rolling out of a new design to navigate on Canada.ca</li>
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>
     Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
