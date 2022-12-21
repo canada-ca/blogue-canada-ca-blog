@@ -197,7 +197,7 @@ title: "Orientation dans Canada.ca"
     <div class="panel panel-default">
       <table class="table table-bordered small">
         <caption class="wb-inv">
-        Résultats de la recherche pour les 8 tâches étudiées
+        Evaluation of 2021 prototypes
         </caption>
         <thead>
           <tr class="brdr-tp active">
