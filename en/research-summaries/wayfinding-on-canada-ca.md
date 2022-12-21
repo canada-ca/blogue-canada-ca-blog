@@ -26,7 +26,7 @@ title: "Wayfinding on Canada.ca"
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-gh-01-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Screenshot of the global header including the theme and topic menu</summary>
+          <summary>Global header including the theme and topic menu</summary>
           <p class="mrgn-tp-lg">The header includes the Government of Canada signature, a Menu button, and a Canada.ca breadcrumb on the left side of the screen. On the right side of the screen is a language toggle and the Canada.ca search bar.</p>
         </details>
       </figcaption>
