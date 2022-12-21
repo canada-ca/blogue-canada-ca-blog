@@ -64,9 +64,12 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small">
-      <p><a href="https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />Billet de blogue qui présente l’ajout du bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; à l’en-tête général</p>
-      <p><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />Modèle de système de conception de Canada.ca qui dirige les gens vers les comptes du gouvernement</p>
-      <p><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">En-tête général</a><br />Modèle de système de conception de Canada.ca pour le haut des pages Web du gouvernement du Canada</p>
+      <p><a href="https://blogue.canada.ca/2022/09/23/presentation-bouton-contextuel-se-connecter.html">Présentation du bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />
+        Billet de blogue qui présente l’ajout du bouton &laquo;&nbsp;Se connecter&nbsp;&raquo; à l’en-tête général</p>
+      <p><a href="https://conception.canada.ca/configurations-conception-communes/connexion-contextuel.html">Bouton contextuel &laquo;&nbsp;Se connecter&nbsp;&raquo;</a><br />
+        Modèle de système de conception de Canada.ca qui dirige les gens vers les comptes du gouvernement</p>
+      <p><a href="https://conception.canada.ca/configurations-conception-communes/en-tete-general.html">En-tête général</a><br />
+        Modèle de système de conception de Canada.ca pour le haut des pages Web du gouvernement du Canada</p>
     </div>
   </div>
 </div>
@@ -94,7 +97,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <p>La bande sous pied de page est obligatoire sur toutes les pages. Elle contient le mot-symbole Canada et des liens corporatifs pour &laquo;&nbsp;Médias sociaux&nbsp;&raquo;, &laquo;&nbsp;Applications mobiles&nbsp;&raquo;, &laquo;&nbsp;À propos de Canada.ca&nbsp;&raquo;, &laquo;&nbsp;Avis&nbsp;&raquo; et &laquo;&nbsp;Confidentialité&nbsp;&raquo;. Les institutions peuvent contextualiser à la fois le lien &laquo;&nbsp;Avis » et le lien &laquo;&nbsp;Confidentialité&nbsp;&raquo;. Les autres liens sont facultatifs sur les pages transactionnelles et de campagne, où il est préférable de réduire au maximum les sources de distraction.</p>
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-    <div class="well small"> 
+    <div class="well small">
       <p><a href="https://conception.canada.ca/configurations-conception-communes/pied-page.html">Pied de page général</a><br />
         Modèle du Système de conception de Canada.ca pour le bas des pages Web du gouvernement du Canada</p>
     </div>
