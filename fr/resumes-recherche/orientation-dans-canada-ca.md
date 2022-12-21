@@ -196,24 +196,24 @@ title: "Orientation dans Canada.ca"
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <div class="panel panel-default">
       <table class="table table-bordered small">
-        <caption class="wb-inv1">
+        <caption class="wb-inv">
         Résultats de la recherche pour les 8 tâches étudiées
         </caption>
         <thead>
           <tr class="brdr-tp active">
-            <th scope="col" class="col-sm-6">Description de la tâche</th>
+            <th scope="col" class="col-sm-6">Les résultats des tests</th>
             <th scope="col" class="col-sm-3 text-center">Étude de référence&nbsp;: 2019</th>
             <th scope="col" class="col-sm-3 text-center">Étude de comparaison&nbsp;: 2021</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <th scope="row" class="mrgn-lft-md">Réussite globale des tâches</th>
+            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne réponse (réussite globale des taches)</th>
             <td class="text-center">54&nbsp;%</td>
             <td class="text-center">61&nbsp;%</td>
           </tr>
           <tr>
-            <th scope="row" class="mrgn-lft-md">Repérabilité globale (trouver la page où se trouve la réponse)</th>
+            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne page (repérabilité) </th>
             <td class="text-center">61&nbsp;%</td>
             <td class="text-center">66&nbsp;%</td>
           </tr>
