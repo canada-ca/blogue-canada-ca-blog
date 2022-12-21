@@ -60,7 +60,7 @@ title: "Wayfinding on Canada.ca"
   <li>academics</li>
 </ul>
 <p>The study involved typical tasks users complete on each departmental site, including a scenario that started on a Google search results page.</p>
-<h3>List of tasks scenarios</h3>
+
 <div class="mrgn-tp-lg mrgn-bttm-lg">
 		<details>
 			<summary>List of tasks scenarios</summary>
