@@ -228,11 +228,11 @@ title: "Orientation dans Canada.ca"
 <h2 id="ce_que_nous_avons_appris">Ce que nous avons appris</h2>
 <p>L’étude a montré qu’il est possible de supprimer le menu s’il est remplacé par le nouveau pied de page, le bouton de connexion et une conception stratifiée pour les pages thématiques. Il s’agit d’un changement important qui nécessite une stratégie de transition.</p>
 <p>Lisez notre billet de blogue pour savoir comment nous déployons ce changement.</p>
-<p><a href="#">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a></p>
+<p><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a></p>
 <p>Nous avons maintenu la réussite des tâches et aidé de nouveaux ministères à adopter la conception de Canada.ca.</p>
 <h2 id="pour_explorer_davantage">Pour explorer davantage</h2>
 <ul>
-  <li><a href="#">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>&nbsp;: un billet de blog qui décrit le déploiement de la nouvelle conception de la navigation sur Canada.ca</li>
+  <li><a href="https://blogue.canada.ca/2022/12/21/le-projet-orientation">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>&nbsp;: un billet de blog qui décrit le déploiement de la nouvelle conception de la navigation sur Canada.ca</li>
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
   <li><a href="https://blogue.canada.ca/pages/apercu-projet.html">Améliorer le contenu sur Canada.ca</a>&nbsp;: une liste d'autres projets que nous avons réalisés avec nos partenaires</li>
 </ul>
