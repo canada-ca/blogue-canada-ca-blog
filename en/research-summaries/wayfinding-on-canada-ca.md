@@ -65,8 +65,6 @@ title: "Wayfinding on Canada.ca"
 	<li>
 		<details>
 			<summary>List of tasks scenarios</summary>
-		</details>
-	</li>
 <div class="panel panel-default mrgn-tp-lg mrgn-bttm-lg">
   <table class="table table-striped table-bordered small">
     <caption class="wb-inv">
