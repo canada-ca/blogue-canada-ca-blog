@@ -61,80 +61,82 @@ title: "Orientation dans Canada.ca"
 </ul>
 <p>L’étude a examiné des tâches typiques que les utilisateurs accomplissent dans chaque site ministériel, y compris un scénario qui commençait sur une page de résultats de recherche Google.</p>
 <div class="mrgn-tp-lg mrgn-bttm-lg">
-		<details>
-			<summary>Liste de scénarios de tâches</summary>
-<div class="mrgn-tp-lg mrgn-bttm-lg">
-  <table class="table table-striped table-bordered small">
-    <caption>
-    List of tasks scenarios
-    </caption>
-    <thead>
-      <tr class="active">
-        <th scope="col" class="col-sm-4">Tâche</th>
-        <th scope="col" class="col-sm-8">Scénario</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Commencez sur une page de résultats Google avec des liens vers des URL Canada.ca et vers d’autres sites (tâche de confiance)</td>
-        <td>Votre ami de la France n’aura pas besoin de visa pour venir vous rendre visite, mais aura besoin d’une autorisation de voyage électronique. Combien lui en coûtera-t-il pour faire une demande?</td>
-      </tr>
-      <tr>
-        <td>Commencez sur une page affichant la conception Canada.ca<br>
-          Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour le permis d’études (tâche de navigation dans un site ministériel)</td>
-        <td>Yen a demandé une carte de résidente permanente et veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
-      </tr>
-      <tr>
-        <td>Allez à IRCC pour vérifier le statut (conception Canada.ca – tâche de connexion)</td>
-        <td>veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
-      </tr>
-      <tr>
-        <td>Agriculture topic for temporary foreign workers (no Canada.ca design navigation between themes)</td>
-        <td>You finished researching some ideas for the next farming season. Now you need to find out if there is a special way to hire temporary seasonal farm workers from Mexico.</td>
-      </tr>
-      <tr>
-        <td>Sujet de l’agriculture pour les travailleurs étrangers temporaires (pas de navigation entre les thèmes propres à la conception Canada.ca)</td>
-        <td>Vous avez fini de chercher des idées pour la prochaine saison agricole. Vous devez maintenant savoir s’il existe un moyen particulier d’embaucher des travailleurs agricoles saisonniers temporaires du Mexique.</td>
-      </tr>
-      <tr>
-        <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
-        <td>Votre ami va commencer à cultiver du blé ce printemps en Saskatchewan. Y a-t-il une assurance-récolte là-bas?</td>
-      </tr>
-      <tr>
-        <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
-        <td>Cet ami veut comprendre le marché du blé biologique à l’extérieur du Canada. Existe-t-il des rapports datant de 2019 et offrant un aperçu du commerce et des tendances de consommation qui pourraient l’aider?</td>
-      </tr>
-      <tr>
-        <td>ACC (tâche interministérielle)</td>
-        <td>Nour est un vétéran blessé qui gère son budget familial. Combien peut-elle s’attendre à recevoir si son conjoint Pat est reconnu comme son proche aidant?</td>
-      </tr>
-      <tr>
-        <td>Site d’ACC vers l’allocation canadienne pour enfants (site d’ARC)<br>
-          (navigation interthématique)</td>
-        <td>Comme tous les parents canadiens, Pat et Nour reçoivent également des versements mensuels de l’allocation canadienne pour enfants pour leur fils de 15 ans. Recevront-ils toujours des paiements le mois prochain lorsqu’il aura 16 ans?</td>
-      </tr>
-      <tr>
-        <td>Pages sur les aidants d’ACC vers un compte (pas d’expérience de connexion à Canada.ca)</td>
-        <td>Nour vient de changer de banque. Est-il possible pour elle de modifier ses renseignements bancaires en ligne pour les versements d’ACC, ou doit-elle appeler le ministère?</td>
-      </tr>
-      <tr>
-        <td>Navigation intraministérielle dans le site de StatCan<br>
-          (supprimé dans la comparaison)</td>
-        <td>Vous avez recherché et trouvé des rapports sur le soja, et vous avez maintenant besoin de données récentes. Trouvez la production estimée de soja en 2019 au Canada.</td>
-      </tr>
-      <tr>
-        <td>Navigation intraministérielle dans le site de StatCan<br>
-          (supprimé dans la comparaison)</td>
-        <td>Vous avez un message vocal d’une personne prétendant être un intervieweur de Statistique Canada. La personne indique que votre ménage a été sélectionné pour répondre à l’Enquête sur la population active. Trouvez le numéro spécial que les participants à l’enquête peuvent appeler pour vérifier s’il s’agit d’une véritable enquête.</td>
-      </tr>
-      <tr>
-        <td>Comparez avec le Royaume-Uni pour évaluer les options de conception<br>
-          Coût du visa étudiant du gouvernement britannique<br>
-          (supprimé dans la comparaison)</td>
-        <td>Zak a été accepté dans un programme d’études de deux ans au Royaume-Uni. Combien lui en coûtera-t-il pour obtenir un visa étudiant? Commencez sur une page Gov.UK pour comparer l’expérience sur ce site avec une tâche semblable sur Canada.ca (uniquement pour la recherche, pas une tâche de mesure).</td>
-      </tr>
-    </tbody>
-  </table></div></details>
+  <details>
+    <summary>Liste de scénarios de tâches</summary>
+    <div class="mrgn-tp-lg mrgn-bttm-lg">
+      <table class="table table-striped table-bordered small">
+        <caption>
+        List of tasks scenarios
+        </caption>
+        <thead>
+          <tr class="active">
+            <th scope="col" class="col-sm-4">Tâche</th>
+            <th scope="col" class="col-sm-8">Scénario</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Commencez sur une page de résultats Google avec des liens vers des URL Canada.ca et vers d’autres sites (tâche de confiance)</td>
+            <td>Votre ami de la France n’aura pas besoin de visa pour venir vous rendre visite, mais aura besoin d’une autorisation de voyage électronique. Combien lui en coûtera-t-il pour faire une demande?</td>
+          </tr>
+          <tr>
+            <td>Commencez sur une page affichant la conception Canada.ca<br>
+              Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour le permis d’études (tâche de navigation dans un site ministériel)</td>
+            <td>Yen a demandé une carte de résidente permanente et veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
+          </tr>
+          <tr>
+            <td>Allez à IRCC pour vérifier le statut (conception Canada.ca – tâche de connexion)</td>
+            <td>veut savoir si elle a déjà été envoyée par la poste. Trouvez une page où elle peut entrer son identifiant et son mot de passe pour accéder à son compte d’immigration.</td>
+          </tr>
+          <tr>
+            <td>Agriculture topic for temporary foreign workers (no Canada.ca design navigation between themes)</td>
+            <td>You finished researching some ideas for the next farming season. Now you need to find out if there is a special way to hire temporary seasonal farm workers from Mexico.</td>
+          </tr>
+          <tr>
+            <td>Sujet de l’agriculture pour les travailleurs étrangers temporaires (pas de navigation entre les thèmes propres à la conception Canada.ca)</td>
+            <td>Vous avez fini de chercher des idées pour la prochaine saison agricole. Vous devez maintenant savoir s’il existe un moyen particulier d’embaucher des travailleurs agricoles saisonniers temporaires du Mexique.</td>
+          </tr>
+          <tr>
+            <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
+            <td>Votre ami va commencer à cultiver du blé ce printemps en Saskatchewan. Y a-t-il une assurance-récolte là-bas?</td>
+          </tr>
+          <tr>
+            <td>Site d’Agriculture Canada vers le sujet &laquo;&nbsp;agriculture&nbsp;&raquo; (pas de navigation thématique dans Canada.ca)</td>
+            <td>Cet ami veut comprendre le marché du blé biologique à l’extérieur du Canada. Existe-t-il des rapports datant de 2019 et offrant un aperçu du commerce et des tendances de consommation qui pourraient l’aider?</td>
+          </tr>
+          <tr>
+            <td>ACC (tâche interministérielle)</td>
+            <td>Nour est un vétéran blessé qui gère son budget familial. Combien peut-elle s’attendre à recevoir si son conjoint Pat est reconnu comme son proche aidant?</td>
+          </tr>
+          <tr>
+            <td>Site d’ACC vers l’allocation canadienne pour enfants (site d’ARC)<br>
+              (navigation interthématique)</td>
+            <td>Comme tous les parents canadiens, Pat et Nour reçoivent également des versements mensuels de l’allocation canadienne pour enfants pour leur fils de 15 ans. Recevront-ils toujours des paiements le mois prochain lorsqu’il aura 16 ans?</td>
+          </tr>
+          <tr>
+            <td>Pages sur les aidants d’ACC vers un compte (pas d’expérience de connexion à Canada.ca)</td>
+            <td>Nour vient de changer de banque. Est-il possible pour elle de modifier ses renseignements bancaires en ligne pour les versements d’ACC, ou doit-elle appeler le ministère?</td>
+          </tr>
+          <tr>
+            <td>Navigation intraministérielle dans le site de StatCan<br>
+              (supprimé dans la comparaison)</td>
+            <td>Vous avez recherché et trouvé des rapports sur le soja, et vous avez maintenant besoin de données récentes. Trouvez la production estimée de soja en 2019 au Canada.</td>
+          </tr>
+          <tr>
+            <td>Navigation intraministérielle dans le site de StatCan<br>
+              (supprimé dans la comparaison)</td>
+            <td>Vous avez un message vocal d’une personne prétendant être un intervieweur de Statistique Canada. La personne indique que votre ménage a été sélectionné pour répondre à l’Enquête sur la population active. Trouvez le numéro spécial que les participants à l’enquête peuvent appeler pour vérifier s’il s’agit d’une véritable enquête.</td>
+          </tr>
+          <tr>
+            <td>Comparez avec le Royaume-Uni pour évaluer les options de conception<br>
+              Coût du visa étudiant du gouvernement britannique<br>
+              (supprimé dans la comparaison)</td>
+            <td>Zak a été accepté dans un programme d’études de deux ans au Royaume-Uni. Combien lui en coûtera-t-il pour obtenir un visa étudiant? Commencez sur une page Gov.UK pour comparer l’expérience sur ce site avec une tâche semblable sur Canada.ca (uniquement pour la recherche, pas une tâche de mesure).</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
 </div>
 <p>L’étude de référence nous a donné un aperçu de solutions possibles aux problèmes rencontrés par les participants, ainsi que des taux de repérabilité et de réussite des tâches afin que nous puissions évaluer les conceptions proposées. Comme prévu, les participants ont eu de la difficulté à passer d’un thème à l’autre sur des sites n’utilisant pas la conception Canada.ca. Une autre lacune que cette étude a mise en évidence concerne l’absence d’un bouton de connexion classique.</p>
 <h2 id="efforts_de_conception">Efforts de conception</h2>
