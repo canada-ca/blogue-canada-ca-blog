@@ -1,5 +1,6 @@
 ---
 css:
+-  ../../../css/blogue.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/21/wayfinding-research-project
 date: 2022-12-21
