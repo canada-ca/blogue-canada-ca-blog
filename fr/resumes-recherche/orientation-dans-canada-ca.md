@@ -208,12 +208,12 @@ title: "Orientation dans Canada.ca"
         </thead>
         <tbody>
           <tr>
-            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne réponse (réussite globale des tâches)</th>
+            <th scope="row" class="mrgn-lft-md">Les utilisateurs qui ont trouvé la bonne réponse (réussite globale des tâches)</th>
             <td class="text-center">54&nbsp;%</td>
             <td class="text-center">61&nbsp;%</td>
           </tr>
           <tr>
-            <th scope="row" class="mrgn-lft-md">D’utilisateurs qui ont trouvé la bonne page (repérabilité) </th>
+            <th scope="row" class="mrgn-lft-md">Les utilisateurs qui ont trouvé la bonne page (repérabilité) </th>
             <td class="text-center">61&nbsp;%</td>
             <td class="text-center">66&nbsp;%</td>
           </tr>
