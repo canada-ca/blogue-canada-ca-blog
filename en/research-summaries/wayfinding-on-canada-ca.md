@@ -18,7 +18,7 @@ pageclass: cnt-wdth-lmtd
 title: "Wayfinding on Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Wayfinding on Canada.ca</span>: <span>Research summary</span></span></h1>
-<p>Date: Dec 20, 2022</p>
+<p>Date: December 21, 2022</p>
 <p>Government departments and agencies are adopting the Canada.ca design to enhance trust and ease of use through a consistent experience. The design includes core brand elements and navigation patterns. Users need to be able to quickly recognize official government information and services to avoid fraudulent sites. They also need intuitive patterns to navigate and get their tasks done.</p>
 <p>One of the core brand elements is the global header, which includes a theme and topic menu. This menu has several pain points. The Digital Transformation Office (DTO) conducted a set of studies to understand  the role and impact of the menu on in-site navigation.</p>
 <div class="row">
@@ -162,20 +162,20 @@ title: "Wayfinding on Canada.ca"
   </div>
 </div>
 <h3>New layered theme page template</h3>
+<p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
+<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme are below the Most requested band.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="A long description can be found after the image." src="../images/rs-wayfinding-theme-02-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Redesign of the theme pages with a navigation bar on the left</summary>
+          <summary>Prototype of a new theme page design</summary>
           <p class="mrgn-tp-lg">The redesigned theme page has the navigation bar on the left of the page. The right side of the page contains the theme name, most requested links, and topics with descriptions.</p>
         </details>
       </figcaption>
     </figure>
   </div>
 </div>
-<p>We also created a new layered theme page template that could be accessed through both the breadcrumbs and the footer.</p>
-<p>The layered theme template has a navigation bar on the left and a Most requested band on top. Topics for the theme are below the Most requested band.</p>
 <h3>New contextual Sign in button</h3>
 <p>Users commonly expect to find a Sign in button at the top right of the page. This is standard across many websites. It’s become a web convention. We added one to support this top task.</p>
 <div class="row">
@@ -233,7 +233,7 @@ title: "Wayfinding on Canada.ca"
 <h2 id="explore_further">Explore further</h2>
 <ul>
   <li><a href="#">Wayfinding research project improves our approach to navigation on Canada.ca</a><br>
-    blog post that describes the rolling out a new design to navigate on Canada.ca</li>
+    blog post that describes the rolling out of a new design to navigate on Canada.ca</li>
   <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Mandatory elements of the Canada.ca design system</a><br>
     Canada.ca Content and Information Architecture Specification that provides a consistent experience for site visitors</li>
   <li><a href="https://blog.canada.ca/pages/project-overview.html">Improving content on Canada.ca</a><br>
