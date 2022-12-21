@@ -9,7 +9,7 @@ css:
 - https://design.canada.ca/css/split-h1.css
 - https://design.canada.ca/css/custom.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-date: 2022-12-20
+date: 2022-12-21
 description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont mené à plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
 lang: fr
 layout: without-h1
@@ -33,17 +33,6 @@ title: "Orientation dans Canada.ca"
     </figure>
   </div>
 </div>
-<h2>On this page</h2>
-<ul>
-  <li><a href="#comprendre_le_probleme">Comprendre le problème</a></li>
-  <li><a href="#mesure_de_reference">Établir une mesure de référence</a></li>
-  <li><a href="#efforts_de_conception">Efforts de conception</a></li>
-  <li><a href="#mesure_du_succes">Mesure du succès</a></li>
-  <li><a href="#ce_que_nous_avons_appris">Ce que nous avons appris</a></li>
-  <li><a href="#pour_explorer_davantage">Pour explorer davantage</a></li>
-  <li><a href="#communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</a></li>
-  <li><a href="#liste_de_diffusion">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</a></li>
-</ul>
 <h2 id="comprendre_le_probleme">Comprendre le problème</h2>
 <p>L’orientation est la façon dont les utilisateurs évaluent où ils se trouvent dans un site Web et planifient un parcours à suivre. Sur Canada.ca, le menu est un moyen pour les utilisateurs de naviguer dans le site. Il présente des pages de niveau supérieur (thèmes) pour aider les utilisateurs à trouver des réponses et des services.</p>
 <p>Alors que de nombreuses visites commencent à partir d’un résultat de moteur de recherche, le site Web doit prendre en charge la navigation, peu importe la façon dont un utilisateur accède au site. Cela est particulièrement important lorsque les utilisateurs commencent leur parcours sur la mauvaise page.</p>
@@ -71,10 +60,11 @@ title: "Orientation dans Canada.ca"
   <li>des universitaires.</li>
 </ul>
 <p>L’étude a examiné des tâches typiques que les utilisateurs accomplissent dans chaque site ministériel, y compris un scénario qui commençait sur une page de résultats de recherche Google.</p>
-<h3>Liste de scénarios de tâches</h3>
-<div class="panel panel-default mrgn-tp-lg mrgn-bttm-lg">
+<div class="mrgn-tp-lg mrgn-bttm-lg">
+		<details>
+			<summary>Liste de scénarios de tâches</summary>
+<div class="mrgn-tp-lg mrgn-bttm-lg">
   <table class="table table-striped table-bordered small">
-    <caption class="wb-inv">
     List of tasks scenarios
     </caption>
     <thead>
@@ -143,7 +133,7 @@ title: "Orientation dans Canada.ca"
         <td>Zak a été accepté dans un programme d’études de deux ans au Royaume-Uni. Combien lui en coûtera-t-il pour obtenir un visa étudiant? Commencez sur une page Gov.UK pour comparer l’expérience sur ce site avec une tâche semblable sur Canada.ca (uniquement pour la recherche, pas une tâche de mesure).</td>
       </tr>
     </tbody>
-  </table>
+  </table></div></details>
 </div>
 <p>L’étude de référence nous a donné un aperçu de solutions possibles aux problèmes rencontrés par les participants, ainsi que des taux de repérabilité et de réussite des tâches afin que nous puissions évaluer les conceptions proposées. Comme prévu, les participants ont eu de la difficulté à passer d’un thème à l’autre sur des sites n’utilisant pas la conception Canada.ca. Une autre lacune que cette étude a mise en évidence concerne l’absence d’un bouton de connexion classique.</p>
 <h2 id="efforts_de_conception">Efforts de conception</h2>
