@@ -18,7 +18,7 @@ pageclass: cnt-wdth-lmtd
 title: "Orientation dans Canada.ca"
 ---
 <h1 property="name" id="wb-cont" dir="ltr"><span class="stacked"><span>Orientation dans Canada.ca</span>: <span>Résumé de recherche</span></span></h1>
-<p>Date: 20 décembre 2022</p>
+<p>Date: 21 décembre 2022</p>
 <p>Les ministères et organismes gouvernementaux adoptent la conception de Canada.ca pour améliorer la confiance et la convivialité grâce à une expérience cohérente. La conception comprend des éléments de marque de base et des modèles de navigation. Les utilisateurs doivent pouvoir reconnaître rapidement les renseignements et les services officiels du gouvernement afin d’éviter les sites frauduleux. Ils ont également besoin de modèles intuitifs pour naviguer et accomplir leurs tâches.</p>
 <p>L’un des principaux éléments de la marque est l’en-tête général, qui comprend un thème et un menu thématique. Ce menu comporte plusieurs lacunes. Le Bureau de la transformation numérique (BTN) a mené un ensemble d’études pour comprendre le rôle et les répercussions du menu sur la navigation dans le site.</p>
 <div class="row">
@@ -159,20 +159,20 @@ title: "Orientation dans Canada.ca"
   </div>
 </div>
 <h3>Nouveau modèle stratifié pour les pages thématiques</h3>
+<p>Nous avons également créé un nouveau modèle de page thématique stratifié accessible à la fois par les fils d’Ariane et le pied de page.</p>
+<p>Le modèle de page thématique stratifié comporte une barre de navigation sur la gauche et une bande En demande dans la partie supérieure. Les sujets du thème se trouvent sous la bande En demande.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
     <figure class="gc-complex-img" role="group"><img alt="Une longue description peut être trouvée après l'image." src="../images/rs-wafingding-theme-en.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Refonte des pages thématiques avec une barre de navigation à gauche</summary>
+          <summary>Prototype de la conception d'une nouvelle page thématique (en anglais seulement)</summary>
           <p class="mrgn-tp-lg">La page thématique remaniée comporte une barre de navigation sur la gauche. Le côté droit de la page contient le nom du thème, les liens les plus demandés, et les sujets avec des descriptions.</p>
         </details>
       </figcaption>
     </figure>
   </div>
 </div>
-<p>Nous avons également créé un nouveau modèle de page thématique stratifié accessible à la fois par les fils d’Ariane et le pied de page.</p>
-<p>Le modèle de page thématique stratifié comporte une barre de navigation sur la gauche et une bande En demande dans la partie supérieure. Les sujets du thème se trouvent sous la bande En demande.</p>
 <h3>Nouveau bouton de connexion contextuel</h3>
 <p>Les utilisateurs s’attendent généralement à trouver un bouton de connexion en haut à droite de la page. Ceci est courant sur de nombreux sites Web. C’est devenu une convention Web. Nous en avons ajouté un pour soutenir cette tâche principale.</p>
 <div class="row">
@@ -230,15 +230,15 @@ title: "Orientation dans Canada.ca"
 <h2 id="pour_explorer_davantage">Pour explorer davantage</h2>
 <ul>
   <li><a href="#">Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation</a>&nbsp;: un billet de blog qui décrit le déploiement de la nouvelle conception de la navigation sur Canada.ca</li>
-  <li><a href="[https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada/elements-obligatoires.html)">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
+  <li><a href="https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/mandatory-elements.html">Éléments obligatoires du système de conception de Canada.ca</a>&nbsp;: modèles et configurations qui offrent une expérience cohérente aux visiteurs du site</li>
   <li><a href="https://blogue.canada.ca/pages/apercu-projet.html">Améliorer le contenu sur Canada.ca</a>&nbsp;: une liste d'autres projets que nous avons réalisés avec nos partenaires</li>
 </ul>
 <h2 id="communiquez">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</h2>
 <p>Contactez-nous si vous avez des questions ou si vous souhaitez voir les résultats de recherche détaillés de ce projet ou de l’étude sur la confiance.</p>
 <ul>
-  <li>Email: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
-  <li>Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)</li>
-  <li>Slack: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
+  <li>Courriel&nbsp;: <a href="mailto:dto-btn@tbs-sct.gc.ca">dto-btn@tbs-sct.gc.ca</a></li>
+  <li>Twitter&nbsp;: #Canadapointca (français) / #Canadadotca (anglais)</li>
+  <li>Slack&nbsp;: <a href="http://design-GC-conception.slack.com">http://design-GC-conception.slack.com</a></li>
 </ul>
 <h2 id="liste_de_diffusion">Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique</h2>
 <div class="row mrgn-tp-lg">
