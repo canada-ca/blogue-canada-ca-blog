@@ -197,7 +197,7 @@ title: "Orientation dans Canada.ca"
     <div class="panel panel-default">
       <table class="table table-bordered small">
         <caption class="wb-inv">
-        Evaluation of 2021 prototypes
+        L’évaluation des prototypes de 2021
         </caption>
         <thead>
           <tr class="brdr-tp active">
