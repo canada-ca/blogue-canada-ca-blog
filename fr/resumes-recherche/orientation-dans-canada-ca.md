@@ -12,6 +12,7 @@ date: 2022-12-21
 description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont mené à plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
 lang: fr
 layout: default
+pageclass: cnt-wdth-lmtd
 share: true
 section-title: "Résumé de recherche"
 title: "Orientation dans Canada.ca"
