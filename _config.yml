@@ -48,22 +48,27 @@ defaults:
   -
     scope:
       path: ""
+    values:
+      layout: default
+      pageclass: "cnt-wdth-lmtd"
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
       image: true
       layout: "post"
-      pageclass: "cnt-wdth-lmtd"
   -
     scope:
       path: "en/"
     values:
-      css: "../../../css/blog.css"
+      css: "/css/blog.css"
       lang: "en"
   -
     scope:
       path: "fr/"
     values:
-      css: "../../../css/blogue.css"
+      css: "/css/blogue.css"
       lang: "fr"
   -
     scope:
@@ -89,6 +94,5 @@ defaults:
         type: "Blog"
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
 remote_theme: wet-boew/gcweb-jekyll
