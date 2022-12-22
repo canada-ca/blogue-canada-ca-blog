@@ -3,15 +3,17 @@ altLangPage: "/research-summaries/conversation-design"
 breadcrumbs:
   - title: "A propos de Canada.ca"
     link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
-  - title: Blogue de Canada.ca
-    link: "https://blogue.canada.ca/"
   - title: Améliorer le contenu sur Canada.ca
     link: "https://blogue.canada.ca/pages/apercu-projet.html"
+css:
+- ../css/blogue.css
+- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2021-06-30
 description: "Nous avons élaboré un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (*chatbot*) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun."
 lang: fr
 layout: default
-title: "Résumé de recherche&nbsp;: Fournir des services gouvernementaux grâce au design conversationnel"
+section-title: "Résumé de recherche"
+title: "Fournir des services gouvernementaux grâce au design conversationnel"
 ---
 
 Les Canadiens recherchent des réponses des gouvernements sur tous les appareils dont ils disposent – sur leur téléphone portable, leurs tablettes, leurs ordinateurs, et de plus en plus avec leur voix. Nous voulions en savoir plus sur la façon dont divers types d’interaction pouvaient aider les utilisateurs à trouver les réponses qu’ils recherchaient.
