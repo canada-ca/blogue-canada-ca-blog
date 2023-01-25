@@ -1,6 +1,6 @@
 ---
 altLangPage: /pages/signup
-css: /css/blog-dto-btn.css
+css: /css/blogue.css
 date: "2021-03-01"
 dateModified: "2018-01-29"
 description: Abonnez-vous à notre liste d’envoi pour des renseignements au sujet des ateliers, des événements, des activités de recherche sur les utilisateurs et des tests de convivialité auxquels vous pourriez vouloir participer.
@@ -8,8 +8,9 @@ layout: default
 pageclass: "cnt-wdth-lmtd"
 title: Abonnez-vous à la liste d’envoi du Bureau de la transformation numérique
 ---
-	{%- assign locales = site.data.locales.signup -%}
-	<p>{{ locales.intro[ page.lang ] }}</p>
+{%- assign locales = site.data.locales.signup -%}
+<p>{{ locales.intro[ page.lang ] }}</p>
+<div class="row">
 	<div class="col-md-8">
 		<!-- Begin MailChimp Signup Form -->
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -130,4 +131,4 @@ title: Abonnez-vous à la liste d’envoi du Bureau de la transformation numéri
 			</div>
 		</section>
 	</div>
-	<div class="clearfix"></div>
+</div>

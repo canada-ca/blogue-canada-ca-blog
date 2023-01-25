@@ -1,6 +1,6 @@
 ---
 altLangPage: /pages/inscrire
-css: /css/blog-dto-btn.css
+css: /css/blog.css
 date: "2021-03-01"
 dateModified: "2018-01-29"
 description: Sign up to our mailing list to find out about workshops, events, user research and usability testing activities that you may want to participate in.
@@ -8,8 +8,9 @@ layout: default
 pageclass: "cnt-wdth-lmtd"
 title: Sign up to the Digital Transformation Office mailing list
 ---
-	{%- assign locales = site.data.locales.signup -%}
-	<p>{{ locales.intro[ page.lang ] }}</p>
+{%- assign locales = site.data.locales.signup -%}
+<p>{{ locales.intro[ page.lang ] }}</p>
+<div class="row">
 	<div class="col-md-8">
 		<!-- Begin MailChimp Signup Form -->
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -108,4 +109,4 @@ title: Sign up to the Digital Transformation Office mailing list
 			</div>
 		</section>
 	</div>
-	<div class="clearfix"></div>
+</div>
