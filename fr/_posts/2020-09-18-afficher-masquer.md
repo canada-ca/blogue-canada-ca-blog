@@ -23,7 +23,7 @@ En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l
 
 Le modèle afficher/masquer a été testé avec succès dans le cadre de deux projets d'optimisation auprès de l'Agence du revenu du Canada (ARC). Dans les deux projets, nous avons utilisé le modèle pour simplifier la mise en page et réduire la charge cognitive. Le modèle aide les gens à trouver le contenu qui convient à leur situation et à se concentrer sur celui-ci.
 
-[Résumé de la recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+[Résumé de la recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 
 En raison des résultats positifs de nos projets d'optimisation, nous avons utilisé le modèle afficher/masquer sur plus de pages pour aider les Canadiens à trouver les réponses dont ils ont besoin concernant la pandémie de COVID-19.
 
@@ -75,4 +75,4 @@ Pour en savoir plus sur la façon d'utiliser le modèle afficher/masquer et d'au
 
 * [Accordéons pour appareil mobile](https://www.nngroup.com/articles/mobile-accordions/) (en anglais seulement)
 * [Afficher/masquer - Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html)
-* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )

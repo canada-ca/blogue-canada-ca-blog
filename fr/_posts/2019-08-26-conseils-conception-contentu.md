@@ -92,5 +92,5 @@ Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à <span cl
 
 ## Pour en apprendre davantage
 
-* [Résumé de recherche&nbsp;: Prêts étudiants]( {{ "/resumes-recherche/prets-etudiants-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
-* [Résumé de recherche&nbsp;: Prestations de maternité et prestations parentales de l’assurance-emploi]( {{ "/resumes-recherche/maternite-parentales-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de recherche&nbsp;: Prêts étudiants]( {{ "/resumes-recherche/prets-etudiants-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
+* [Résumé de recherche&nbsp;: Prestations de maternité et prestations parentales de l’assurance-emploi]( {{ "/resumes-recherche/maternite-parentales-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )

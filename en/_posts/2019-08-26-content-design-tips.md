@@ -99,5 +99,5 @@ Optimization projects are about connecting the lived experience of our users to 
 Let us know what you think. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
-* [Research summary: Student loans]( {{ "/research-summaries/student-loans-research-summary" | prepend: site.urlalt[ page.lang ] }} )
-* [Research summary: Employment insurance maternity and parental benefits]( {{ "/research-summaries/maternity-parental-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Student loans]( {{ "/research-summaries/student-loans-research-summary" | prepend: site.urlalt[ page.language ] }} )
+* [Research summary: Employment insurance maternity and parental benefits]( {{ "/research-summaries/maternity-parental-research-summary" | prepend: site.urlalt[ page.language ] }} )

@@ -25,7 +25,7 @@ Dans les semaines qui ont suivi, nous avons mené aux côtés d'autres ministèr
 
 ## 3. À l'heure de la COVID&nbsp;: Adaptation des échéanciers en fonction des jours plutôt que des semaines
 
-Des recherches concentrées et rapides ont aidé à formuler des recommandations quotidiennes. Lorsqu'il était possible de le faire, nous avons combiné des [recherches antérieures de projets d'optimisation du BTN]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} ) à de nouvelles recherches. Cela nous a permis de présenter des recommandations fondées sur des données probantes aux équipes Web et à la haute direction.
+Des recherches concentrées et rapides ont aidé à formuler des recommandations quotidiennes. Lorsqu'il était possible de le faire, nous avons combiné des [recherches antérieures de projets d'optimisation du BTN]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} ) à de nouvelles recherches. Cela nous a permis de présenter des recommandations fondées sur des données probantes aux équipes Web et à la haute direction.
 
 Nous avons utilisé des données faciles d'accès comme les renseignements Web analytiques, la surveillance des médias sociaux et les questions des centres d'appels pour déterminer les domaines sur lesquels nous devions concentrer nos recherches. Nous avons souvent intégré les questions des médias sociaux ou des centres d'appels directement dans des scénarios de tâches.
 
@@ -115,7 +115,7 @@ Dans cette vidéo (disponible en anglais) de test d'utilisabilité sans modérat
 
 ## 5. Utilisation stratégique de tests avec modérateur
 
-Nous avons réservé l'utilisation de tests avec modérateur pour les cas où nous avions besoin d'auditoires spécialisés comme les propriétaires d'entreprise, les étudiants ou les [personnes utilisant des technologies d'assistance]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.lang ] }} ). Le recours à un modérateur nous a donné le temps de planifier les tests sur plusieurs jours pendant que nous travaillions sur des prototypes complexes. Cela nous a donné plus de souplesse pour poser des questions de suivi. Lorsque nous constations des comportements intéressants, nous avons pu chercher à obtenir plus de détails. Cela nous permet de tirer le meilleur parti des séances.
+Nous avons réservé l'utilisation de tests avec modérateur pour les cas où nous avions besoin d'auditoires spécialisés comme les propriétaires d'entreprise, les étudiants ou les [personnes utilisant des technologies d'assistance]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.language ] }} ). Le recours à un modérateur nous a donné le temps de planifier les tests sur plusieurs jours pendant que nous travaillions sur des prototypes complexes. Cela nous a donné plus de souplesse pour poser des questions de suivi. Lorsque nous constations des comportements intéressants, nous avons pu chercher à obtenir plus de détails. Cela nous permet de tirer le meilleur parti des séances.
 
 Le modérateur peut encourager les participants à poursuivre une tâche qu'ils auraient autrement abandonnée dans le cadre d'un test sans modérateur.
 
@@ -176,7 +176,7 @@ Nous vous encourageons à mettre en œuvre les conseils de spécialistes en conc
 
 ## Pour en savoir davantage
 
-* [Conception axée sur l'accessibilité pendant la pandémie de la COVID‑19]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.lang ] }} )
-* [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
-* [Éviter les FAQ, à une exception près]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.lang ] }} )
-* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Conception axée sur l'accessibilité pendant la pandémie de la COVID‑19]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.language ] }} )
+* [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.language ] }} )
+* [Éviter les FAQ, à une exception près]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.language ] }} )
+* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )

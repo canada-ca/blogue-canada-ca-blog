@@ -80,7 +80,7 @@ The original mobile-friendly design in March 2020 had 15 links and 4 category ba
 So, we worked with Health Canada to limit the number of links on the page. If a link has less than a 0.5% click-through rate, it’s a signal for Health Canada to look at whether it’s time to remove the link from the page and/or move it to a lower level page.  This ensures that the page evolves based on what people are actually looking for.
 Looking at click-through rates can also help you refine link text to support better findability of important content. Comparing the click-through rates of different link labels can help you decide which are more effective. We used this method early in the Pandemic to help more people find mental health resources.
 
-[A case for descriptive link text (blog post)]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
+[A case for descriptive link text (blog post)]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.language ] }} )
 
 ## Rich write-in feedback
 
@@ -173,7 +173,7 @@ Content that doesn’t meet people’s expectations can undermine the credibilit
 ## Learn more
 * [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
-* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.lang ] }} )
-* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
+* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.language ] }} )
+* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} )
 * [ArriveCAN website](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html)
 

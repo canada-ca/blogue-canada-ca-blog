@@ -7,24 +7,24 @@ sitemap:
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- assign locales = site.data.locales.sitemap  -%}
   {%- for post in site.posts -%}
-    {%- if post.lang == page.lang -%}
+    {%- if post.language== page.language -%}
     <url>
-      <loc>{{ post.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}</loc>
+      <loc>{{ post.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}</loc>
       {%- if post.dateModified == null -%}
         <dateModified>{{ post.date | date: "%F" }}</dateModified>
       {% else %}
         <dateModified>{{ post.dateModified | date: "%F" }}</dateModified>
       {%- endif -%}
-      <changefreq>{{ locales.weekly[ post.lang ] }}</changefreq>
+      <changefreq>{{ locales.weekly[ post.language] }}</changefreq>
       <priority>1.0</priority>
     </url>
     {%- endif -%}
   {%- endfor -%}
   {%- for single_page in site.pages -%}
-    {%- if single_page.lang == page.lang -%}
+    {%- if single_page.language == page.language -%}
       {%- unless single_page.sitemap.exclude -%}
       <url>
-        <loc>{{ single_page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}</loc>
+        <loc>{{ single_page.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}</loc>
         <dateModified>{{ single_page.dateModified | date: "%F" }}</dateModified>
         <changefreq>{{ single_page.sitemap.changefreq }}</changefreq>
         <priority>{{ single_page.sitemap.priority }}</priority>

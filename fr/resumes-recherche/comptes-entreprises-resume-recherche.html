@@ -1,3 +1,6 @@
+---
+layout: void
+---
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="fr" dir="ltr"><!--<![endif]-->
@@ -9,8 +12,8 @@
 		<!-- Meta data -->
 		<!-- Meta data-->
 		<!-- Load closure template scripts -->
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-fr.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-fr.js"></script>
 		<link rel="stylesheet" href="../css/blog-dto-btn.css">
 
 
@@ -28,7 +31,7 @@
 			var defTop = document.getElementById("def-top");
 			defTop.outerHTML = wet.builder.top({
 				lngLinks: [{
-					lang: "en",
+					language: "en",
 					href: "https://blog.canada.ca/research-summaries/business-account-research-summary.html",
 					text: "English"
 				}],
@@ -181,8 +184,8 @@
 
 <ul>
 	<li><a href="https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscrire-votre-entreprise/inscription-direct-entreprises-apercu.html">Consultez les nouvelles pages d'inscription en direct des entreprises</a> conçues en se basant sur les résultats du projet</li>
-<li><a href=" {{ '/2019/02/04/comptes-entreprises.html' | prepend: site.urlalt[ page.lang ] }} ">Collaboration pour faciliter l’inscription des entreprises canadiennes</a>, un billet de blogue écrit par l’<abbr title="Agence du revenu du Canada">ARC</abbr>, notre partenaire d’optimisation</li>
-<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.lang ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+<li><a href=" {{ '/2019/02/04/comptes-entreprises.html' | prepend: site.urlalt[ page.language ] }} ">Collaboration pour faciliter l’inscription des entreprises canadiennes</a>, un billet de blogue écrit par l’<abbr title="Agence du revenu du Canada">ARC</abbr>, notre partenaire d’optimisation</li>
+<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 
 </ul>
 
@@ -206,21 +209,3 @@
 				});
 			</script>
 					</main>
-					<div id="def-footer">
-
-					</div>
-					<!-- Write closure template -->
-					<script type="text/javascript">
-						var defFooter = document.getElementById("def-footer");
-						defFooter.outerHTML = wet.builder.footer({
-							showFooter: true,
-							showFeatures: true
-						});
-					</script>
-					<!-- Write closure template -->
-					<script type="text/javascript">
-						document.write(wet.builder.refFooter({
-						}));
-					</script>
-				</body>
-			</html>

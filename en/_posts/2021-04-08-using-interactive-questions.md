@@ -81,7 +81,7 @@ Creating a successful set of interactive questions is very different from tradit
 
 To start out, talk to your call centre to see where there might be a need for this design approach. Chances are, if people are calling frequently about complex services, the text on the web isn’t doing enough for them.
 
-[The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.lang ] }} ) (blog post)
+[The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.language ] }} ) (blog post)
 
 First, map out the flow of decisions people need to make. You can start by sketching on a whiteboard. Then progress to a flowchart in Visio, a jamboard or even in a spreadsheet.
 
@@ -104,11 +104,11 @@ They help more than just visitors though. Interactive questions can:
 
 ## Learn more
 
-* [Optimize your content for voice search]( {{ "/2020/01/28/voice-search-optimization" | prepend: site.urlalt[ page.lang ] }} )
-* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Optimize your content for voice search]( {{ "/2020/01/28/voice-search-optimization" | prepend: site.urlalt[ page.language ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} )
 * [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 * [Google Conversation design learning material](https://developers.google.com/actions/design/)
-* [Voice First: The Future of Interaction? (Nielsen Norman Group)]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
+* [Voice First: The Future of Interaction? (Nielsen Norman Group)]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} )
 * [DialogFlow documentation](https://dialogflow.com/docs)
 

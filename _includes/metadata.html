@@ -1,26 +1,26 @@
-<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}" />
+<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}" />
 <link rel="alternate" href="{{ page.altLangPage | prepend: site.urlalt[ i18nText-altLang ] }}.html" hreflang="{{ i18nText-altLang }}" />
 
 {%- if page.description %}
 <meta name="description" content="{{ page.description }}" />
 <meta property="og:description" content="{{ page.description }}" />
 {% elsif site.description %}
-<meta name="description" content="{{ site.description[ page.lang ] }}" />
+<meta name="description" content="{{ site.description[ page.language ] }}" />
 {%- endif -%}
 <meta name="dcterms.title" content="{{ page.title }}"/>
 {%- if page.description %}
 <meta name="dcterms.description" content="{{ page.description }}"/>
 {%- elsif site.description %}
-<meta name="dcterms.description" content="{{ site.description[ page.lang ] }}" />
+<meta name="dcterms.description" content="{{ site.description[ page.language ] }}" />
 {%- endif %}
 {%- if page.author %}
 <meta name="dcterms.creator" content="{{ page.author }}"/>
 <meta name="author" content="{{ page.author }}"/>
 {% elsif site.author %}
-<meta name="dcterms.creator" content="{{ site.author[ page.lang ] }}"/>
-<meta name="author" content="{{ site.author[ page.lang ] }}" />
+<meta name="dcterms.creator" content="{{ site.author[ page.language ] }}"/>
+<meta name="author" content="{{ site.author[ page.language ] }}" />
 {%- endif %}
-<meta name="dcterms.language" title="ISO639-2/T" content="{{ site.language[ page.lang ] | downcase | truncate: 3, '' }}"/>
+<meta name="dcterms.language" title="ISO639-2/T" content="{{ site.language[ page.language ] | downcase | truncate: 3, '' }}"/>
 {%- if page.subject %}
 <meta name="dcterms.subject" title="gccore" content="{{ page.subject }}"/>
 {%- endif %}
@@ -31,17 +31,17 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif %}
-<meta property="og:locale" content='{{ page.lang | append: '_CA' }}' />
-<meta property="og:url" content="{{ site.urlalt[ page.lang ] }}{{ page.url | remove_first: '/' | remove_first: page.lang }}" />
+<meta property="og:locale" content='{{ page.language | append: '_CA' }}' />
+<meta property="og:url" content="{{ site.urlalt[ page.language ] }}{{ page.url | remove_first: '/' | remove_first: page.language }}" />
 {%- if page.image %}
-	{%- capture ogimage -%}{{ page.lang | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
+	{%- capture ogimage -%}{{ page.language | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
 	{%- assign file_exists = site.static_files | where: "path", ogimage -%}
 	{%- if file_exists[0].path %}
-<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}{{ ogimage | remove_first: '/' | remove_first: page.lang }}" />
+<meta property="og:image" content="{{ site.urlalt[ page.language ] }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
+<meta property="twitter:image" content="{{ site.urlalt[ page.language ] }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
 	{%- else %}
-<meta property="og:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.lang ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="og:image" content="{{ site.urlalt[ page.language ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="twitter:image" content="{{ site.urlalt[ page.language ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
 	{%- endif %}
 	{%- if page.image.height %}
 <meta property="og:image:height" content="{{ page.image.height }}" />
@@ -66,7 +66,7 @@
 <meta property="og:type" content="website" />
 {%- endif %}
 {%- if site.title %}
-<meta property="og:site_name" content="{%- if page.section-title -%} {{ page.section-title }} {%- else -%} {{ site.title[ page.lang ] }} {%- endif -%}" /> <!-- Temporary fix specific for Research summaries 2022-12-22 -->
+<meta property="og:site_name" content="{%- if page.section-title -%} {{ page.section-title }} {%- else -%} {{ site.title[ page.language ] }} {%- endif -%}" /> <!-- Temporary fix specific for Research summaries 2022-12-22 -->
 {%- endif -%}
 {%- if paginator.previous_page %}
 <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />

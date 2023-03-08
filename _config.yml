@@ -62,14 +62,24 @@ defaults:
     scope:
       path: "en/"
     values:
-      css: "/css/blog.css"
-      lang: "en"
+      contextualFooter:
+        title: Digital Transformation Office (DTO)
+        links: 
+          - url: "mailto:dto.btn@tbs-sct.gc.ca"
+            text: Contact us
+      css: "//blog.canada.ca/css/blog.css"
+      language: "en"
   -
     scope:
       path: "fr/"
     values:
-      css: "/css/blogue.css"
-      lang: "fr"
+      contextualFooter:
+        title: Bureau de la transformation numérique (BTN)
+        links: 
+          - url: "mailto:dto.btn@tbs-sct.gc.ca"
+            text: Contactez-nous
+      css: "//blogue.canada.ca/css/blogue.css"
+      language: "fr"
   -
     scope:
       path: "en/"

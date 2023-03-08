@@ -88,4 +88,4 @@ Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courr
 
 ## Pour en savoir plus
 
-* [Résumé de projet&nbsp;: Rappels et avis de sécurité ]( {{ "/resumes-recherche/rappels-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de projet&nbsp;: Rappels et avis de sécurité ]( {{ "/resumes-recherche/rappels-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )

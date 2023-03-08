@@ -5,7 +5,7 @@ description: "What we learned about improving voice services for Canadians."
 title:  "Optimize your content for voice search"
 ---
 
-Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} ) with the Canada Revenue Agency (CRA).
+Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} ) with the Canada Revenue Agency (CRA).
 
 We all want to deliver modern, efficient, and reliable services to Canadians. Building a conversational agent to help users solve their tasks seems like a great opportunity to be innovative and effective.
 
@@ -106,7 +106,7 @@ As we keep moving forward and experimenting with new approaches, we must always 
 * **usable**—is it easy to use? Will success rates on Canada.ca improve?
 * **sustainable**—can content teams easily maintain it?
 
-Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.lang ] }} ) to get the post delivered to your inbox.
+Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.language ] }} ) to get the post delivered to your inbox.
 
 ## Inspired by what you learned? Share this post with your team.
 
@@ -117,7 +117,7 @@ Next in the series, we’ll talk about building wizards. Sign up for the [DTO ma
 
 ## Learn more
 
-* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} )
 * [Government of Canada Service Strategy](https://open.canada.ca/en/content/government-canada-service-strategy)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 * [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)

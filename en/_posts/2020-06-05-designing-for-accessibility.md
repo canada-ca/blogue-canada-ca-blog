@@ -106,7 +106,7 @@ Designing digital government services with accessibility in mind is key to ensur
 
 ## Learn more
 
-* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.language ] }} )
 * [Making your service accessible: an introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [Do’s and don’ts of designing for accessibility (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 * [Accessible Canada Act](https://laws-lois.justice.gc.ca/eng/acts/A-0.6/)

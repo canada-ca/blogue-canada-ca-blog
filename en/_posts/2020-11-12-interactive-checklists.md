@@ -64,7 +64,7 @@ Carefully analyzing how to break things down using interactive elements can sign
 
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Latest changes to the Canada.ca design system](https://www.canada.ca/en/government/about/design-system/latest-changes.html)
-* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
-* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} )
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 

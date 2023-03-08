@@ -25,7 +25,7 @@ In the following weeks, we collaborated with other departments on larger researc
 
 ## 3. COVID-time: Adapting our timelines to days not weeks
 
-Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} ) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management.
+Light and fast research helped inform daily recommendations. Where possible, we combined [previous research from DTO optimization projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} ) with new research. This allowed us to deliver evidence-based recommendations to web teams and senior management.
 
 We used easy-to-access data like web analytics, search queries, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
 
@@ -117,7 +117,7 @@ As the situation stabilized, research activities became larger and aligned to up
 
 ## 5. Using moderated testing strategically
 
-We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} ). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
+We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} ). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
@@ -187,8 +187,8 @@ We encourage you to implement advice from web content design specialists about a
 
 ## Learn more
 
-* [Designing for accessibility during COVID-19]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
-* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
-* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
-* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Designing for accessibility during COVID-19]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} )
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.language ] }} )
+* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.language ] }} )
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} )
 

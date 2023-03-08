@@ -53,5 +53,5 @@ Si jamais l’occasion se présente à vous… saisissez-la!
 
 ## Pour en apprendre davantage
 
-* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
 * [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html)

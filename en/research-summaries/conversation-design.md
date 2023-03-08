@@ -10,7 +10,7 @@ css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2021-06-30
 description: "We built a phone number look-up wizard as well as an experimental agent that worked as both a chatbot agent on a screen, and a voice agent, so we could compare the design processes and outcomes for each."
-lang: en
+language: en
 layout: default
 section-title: "Research summary"
 title: "Delivering government services through conversation design"

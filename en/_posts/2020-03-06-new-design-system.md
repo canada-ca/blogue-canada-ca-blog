@@ -80,7 +80,7 @@ If you’re interested in testing the new documentation style, or if you’d lik
 * [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * [Join the conversation on Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
-We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [Digital Transformation Office mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.lang ] }} ) to get the blog delivered to your inbox.
+We will be sharing more updates from the Government of Canada Design System in future blog posts. Sign up for the [Digital Transformation Office mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.language ] }} ) to get the blog delivered to your inbox.
 
 ## Learn more
 
