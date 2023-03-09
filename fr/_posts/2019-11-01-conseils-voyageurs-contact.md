@@ -65,7 +65,7 @@ Jetez un coup d’œil à la [version alpha de la configuration du bloc de coord
 
 {% include components/gc-complex-img.html
    alt="Une capture d'écran d'une page de coordonnées simplifiée."
-   file="conseils-voyageurs-contact/coordonnees-modèle-conception.png"
+   file="conseils-voyageurs-contact/coordonnees-modele-conception.png"
    caption=""
    summary="Description détaillée"
    content="<p>Il s’agit d’une capture d’écran de la page de coordonnées du prototype. Au sommet de la page, une section énumère les types de paiements que l’on peut recevoir par dépôt direct en s’inscrivant. La méthode en ligne d’inscription au dépôt direct et de changement des renseignements bancaires est mise en exergue. Un grand bouton vert marqué des mots «&nbsp;Me connecter à mon compte&nbsp;» est le principal bouton d’appel à l’action. D’autres options suivent&nbsp;: un lien pour s’inscrire et un autre lien vers l’application mobile Mon<abbr title='Agence du revenu du Canada'>ARC</abbr>. Puis, un en-tête lisant «&nbsp;Autres moyens de s’inscrire au dépôt direct ou de changer vos renseignements bancaires&nbsp;». Il y a trois options dans cette catégorie&nbsp;: «&nbsp;Par téléphone&nbsp;», «&nbsp;En personne&nbsp;» et «&nbsp;Par courriel&nbsp;». Chacune de ces options comporte un champ masqué par défaut afin que l’utilisateur doive choisir un champ avant de voir s’afficher les renseignements pour ce champ particulier.</p>"

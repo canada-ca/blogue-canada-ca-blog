@@ -1,4 +1,7 @@
-{%- assign file = site.static_files | where: "lang", page.language | find_exp: "item", "item.path contains include.file" -%}
+{%- assign file = site.static_files | where: "language", page.language | find_exp: "item", "item.path contains include.file" -%}
+<!-- For debug puroses 
+<pre>{% link {{ file.path }} %}</pre> 
+-->
 <figure class="gc-complex-img" role="group">
 	<img alt="{{ include.alt }}" src="{{ file.path | remove_first: '/' | remove_first: page.language }}">
 	<figcaption>
