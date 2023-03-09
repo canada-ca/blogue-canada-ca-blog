@@ -75,7 +75,7 @@ Let us know what you think about task management. Email us at [dto.btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: CRA business registration and account maintenance]( {{ "/research-summaries/business-account-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Project summary: CRA business registration and account maintenance]( {{ "/research-summaries/business-account-research-summary" | prepend: site.urlalt[ page.language ] }} )
 
 ## About the author
 

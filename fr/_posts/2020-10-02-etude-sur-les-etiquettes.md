@@ -7,7 +7,7 @@ title:  "Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux"
 
 Canada.ca/Coronavirus est l'une des pages les plus consultées sur le site Canada.ca. Des équipes dans l'ensemble du gouvernement ont collaboré et mis à jour cette page régulièrement pour tenir compte des besoins changeants du public canadien. Dans le billet de blogue de la semaine dernière, nous avons parlé de la façon dont nous avons organisé Canada.ca/coronavirus en fonction des principales tâches.
 
-[Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19]( {{ "/2020/09/24/taches-principales-a-la-COVID-19" | prepend: site.urlalt[ page.lang ] }} )
+[Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19]( {{ "/2020/09/24/taches-principales-a-la-COVID-19" | prepend: site.urlalt[ page.language ] }} )
 
 Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches. Le public compte sur nous pour choisir les bons mots pour la catégorie et les étiquettes de liens pour s'assurer qu'il peut trouver des réponses rapidement et facilement sur Canada.ca. Cela est devenu encore plus évident pendant cette pandémie.
 
@@ -99,9 +99,9 @@ Les auditoires se comportent et interagissent différemment dans l'espace numér
 
 ## Pour en savoir davantage
 
-* [Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19]( {{ "/2020/09/24/taches-principales-a-la-COVID-19" | prepend: site.urlalt[ page.lang ] }} )
-* [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
-* [Projets d'amélioration du contenu]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19]( {{ "/2020/09/24/taches-principales-a-la-COVID-19" | prepend: site.urlalt[ page.language ] }} )
+* [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.language ] }} )
+* [Projets d'amélioration du contenu]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
 * [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
 

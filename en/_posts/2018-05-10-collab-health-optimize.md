@@ -73,7 +73,7 @@ Let us know what you think about task management. Email us at [dto.btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: Diseases and immunization]( {{ "/research-summaries/diseases-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Project summary: Diseases and immunization]( {{ "/research-summaries/diseases-research-summary" | prepend: site.urlalt[ page.language ] }} )
 
 ## About the author
 

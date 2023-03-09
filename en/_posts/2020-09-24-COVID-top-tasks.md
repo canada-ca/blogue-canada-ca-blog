@@ -79,9 +79,9 @@ Even during a pandemic, evidence from Canadians should drive decisions and chang
 
 ## Learn more
 
-* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.lang ] }} )
-* [How we’re optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.language ] }} )
+* [How we’re optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.language ] }} )
 * [What really matters: focusing on top tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [Gerry McGovern’s website](http://www.gerrymcgovern.com/)
-* [Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.lang ] }} )
+* [Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.language ] }} )
 

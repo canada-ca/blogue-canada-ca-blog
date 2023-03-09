@@ -127,4 +127,4 @@ Let us know what you think about task management. Email us at [dto.btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: Tax filing]( {{ "/research-summaries/taxfiling-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Project summary: Tax filing]( {{ "/research-summaries/taxfiling-research-summary" | prepend: site.urlalt[ page.language ] }} )

@@ -21,7 +21,7 @@ Sources of data include:
 
 See our previous post about how to use the different types of data you may be collecting.
 
-[Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
+[Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.language ] }} )
 
 When you get insights into user behaviour or points of failure, make it a priority to take immediate action and improve content. This can be hard when you’re short on time and resources, but even small changes can make a big difference in helping people find answers on Canada.ca.
 
@@ -39,7 +39,7 @@ However, you should also always consider whether there is a false information sc
 
 Reconsider your information architecture and information scent. We often put a lot of effort into the information architecture when we launch new sections, but it’s just as important to review it regularly as the web content evolves. Look at link labels.
 
-[A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} ) (blog post)
+[A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.language ] }} ) (blog post)
 
 ### 2. People don’t seem to understand the answer
 
@@ -49,7 +49,7 @@ Take a hard look at your content. Could you simplify it? Are you missing an impo
 
 Look at doing a plain language edit. Find out what words people are using when talking about this topic, and make sure you’re using the same ones. Then test your proposed content before publishing.
 
-[Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.lang ] }} )
+[Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.language ] }} )
 
 [Web readability score - Experimental](https://readability-lisibilite.tbs.alpha.canada.ca/)
 
@@ -89,10 +89,10 @@ Share this post with your colleagues who might be interested.
 
 ## Learn more
 
-* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
-* [The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.lang ] }} )
+* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.language ] }} )
+* [The importance of working with call centres]( {{ "/2021/03/01/work-with-call-centres" | prepend: site.urlalt[ page.language ] }} )
 * [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html)
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
-* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.lang ] }} )
-* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.lang ] }} )
+* [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.language ] }} )
+* [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} )
 

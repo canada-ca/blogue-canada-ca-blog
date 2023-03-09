@@ -79,9 +79,9 @@ Même en cas de pandémie, les données probantes des Canadiens devraient guider
 
 ## Pour en savoir davantage
 
-* [Mesurer les résultats pour améliorer les services numériques]( {{ "/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques" | prepend: site.urlalt[ page.lang ] }} )
-* [Comment nous optimisons les principales tâches sur le site Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation" | prepend: site.urlalt[ page.lang ] }} )
+* [Mesurer les résultats pour améliorer les services numériques]( {{ "/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques" | prepend: site.urlalt[ page.language ] }} )
+* [Comment nous optimisons les principales tâches sur le site Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation" | prepend: site.urlalt[ page.language ] }} )
 * [Article «&nbsp;What really matters: focusing on top tasks&nbsp;»](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) (en anglais seulement)
 * [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/) (en anglais seulement)
-* [Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.lang ] }} )
+* [Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.language ] }} )
 

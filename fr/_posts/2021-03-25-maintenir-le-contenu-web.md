@@ -22,7 +22,7 @@ Les données proviennent de plusieurs sources&nbsp;:
 
 Consultez notre publication précédente sur la façon d’exploiter les différents types de données que vous pourriez recueillir.
 
-[Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.lang ] }} )
+[Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.language ] }} )
 
 Lorsque vous obtenez des renseignements sur le comportement des utilisateurs ou sur les points de défaillance, donnez-vous comme priorité de prendre des mesures immédiates et d’améliorer le contenu. Il peut être difficile de le faire lorsque vous manquez de temps et de ressources, mais de petits changements peuvent quand même faire une grande différence lorsqu’il s’agit d’aider les gens à trouver des réponses sur Canada.ca.
 
@@ -40,7 +40,7 @@ Cependant, vous devez toujours tenir compte des fausses pistes d’information (
 
 Repensez votre architecture de l’information et vos pistes d’information. Nous consacrons souvent beaucoup d’efforts sur ce premier aspect lorsque nous lançons de nouvelles sections, mais il est tout aussi important de revoir sa conception régulièrement à mesure que le contenu Web évolue. Examinez les étiquettes de lien.
 
-[Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
+[Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.language ] }} )
 
 ### 2. Les gens ne semblent pas comprendre la réponse
 
@@ -50,7 +50,7 @@ Examinez attentivement votre contenu. Pourriez-vous le simplifier? Y a-t-il un �
 
 Envisagez d’effectuer une révision en langage simple. Trouvez quels mots les gens utilisent lorsqu’ils parlent de ce sujet et assurez-vous d’utiliser les mêmes. Mettez ensuite à l’essai le contenu que vous proposez avant de le publier.
 
-[Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.lang ] }} )
+[Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.language ] }} )
 
 [Score de lisibilité Web – Expérimental](https://readability-lisibilite.tbs.alpha.canada.ca/?&lang=fr)
 
@@ -90,10 +90,10 @@ Transmettez cette publication à vos collègues qui pourraient être intéressé
 
 ## Pour en savoir davantage
 
-* [Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.lang ] }} )
-* [L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.lang ] }} )
+* [Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.language ] }} )
+* [L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.language ] }} )
 * [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
-* [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.lang ] }} )
-* [Conception axée sur l’accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.lang ] }} )
+* [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.language ] }} )
+* [Conception axée sur l’accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.language ] }} )
 

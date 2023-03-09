@@ -104,7 +104,7 @@ Lorsque nous demandons aux gens de suivre un lien pour obtenir plus d'informatio
 
 Lorsque les utilisateurs ont **déjà pris la décision de vous contacter directement**, songez à mettre les **réponses** aux questions les plus importantes **sur une page «&nbsp;Contactez-nous&nbsp;»**.
 
-[Éviter les FAQ, à une exception près (article de blogue)]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.lang ] }} )
+[Éviter les FAQ, à une exception près (article de blogue)]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.language ] }} )
 
 ## Mise en œuvre du changement
 
@@ -122,9 +122,9 @@ Plus vous collaborerez étroitement avec le personnel de première ligne de votr
 
 ## Pour en savoir davantage
 
-* [Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.lang ] }} )
-* [Éviter les FAQ, à une exception près]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.lang ] }} )
+* [Exploiter les données pour améliorer le contenu]( {{ "/2021/02/04/les-donnees-a-laction" | prepend: site.urlalt[ page.language ] }} )
+* [Éviter les FAQ, à une exception près]( {{ "/2020/05/25/eviter-les-faq" | prepend: site.urlalt[ page.language ] }} )
 * [Alertes et perturbations de service sur Canada.ca](https://conception.canada.ca/crise/alertes.html)
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
-* [Résumé de recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 

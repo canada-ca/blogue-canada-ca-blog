@@ -88,6 +88,6 @@ We are looking forward to continuing to strengthen and grow our GCDigital commun
 
 ## Learn more
 
-* [Top ten content design lessons the Canada.ca design team learned in 2019]( {{ "/2019/12/20/top-ten-lessons" | prepend: site.urlalt[ page.lang ] }} )
+* [Top ten content design lessons the Canada.ca design team learned in 2019]( {{ "/2019/12/20/top-ten-lessons" | prepend: site.urlalt[ page.language ] }} )
 
 

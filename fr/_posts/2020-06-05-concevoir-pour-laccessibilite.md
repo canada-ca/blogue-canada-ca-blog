@@ -202,7 +202,7 @@ Il est essentiel de concevoir des services gouvernementaux numériques qui tienn
 
 ## Pour en savoir davantage
 
-- [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
+- [Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.language ] }} )
 - [Rendre votre service accessible&nbsp;: une introduction (Gov.uk)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) (en anglais seulement)
 - [Choses à faire et à ne pas faire en matière d’accessibilité (Gov.uk)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) (en anglais seulement)
 - [Loi canadienne sur l’accessibilité](https://laws-lois.justice.gc.ca/fra/lois/A-0.6/)

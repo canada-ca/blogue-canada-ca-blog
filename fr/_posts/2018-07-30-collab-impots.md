@@ -128,4 +128,4 @@ Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courr
 
 ## Pour en savoir plus
 
-* [Résumé de projet&nbsp;: Déclaration de la TPS/TVH et de retenues sur la paie]( {{ "/resumes-recherche/impots-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de projet&nbsp;: Déclaration de la TPS/TVH et de retenues sur la paie]( {{ "/resumes-recherche/impots-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )

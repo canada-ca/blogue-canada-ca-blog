@@ -15,7 +15,7 @@ La mesure de l’accomplissement de tâches en ligne nous aide à comprendre com
 
 <blockquote>
   <p>«&nbsp;Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs.&nbsp;»»</p>
-  <footer><a href=" {{ '/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques' | prepend: site.urlalt[ page.lang ] }} ">Gerry McGovern, février 2018</a></footer>
+  <footer><a href=" {{ '/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques' | prepend: site.urlalt[ page.language ] }} ">Gerry McGovern, février 2018</a></footer>
 </blockquote>
 
 ## Les avantages et les inconvénients de chaque méthode
@@ -87,6 +87,6 @@ Qu’est-ce qui vous permettrait de produire des rapports sur les tâches princi
 
 ## Pour en savoir davantage
 
-* [Mesurer les résultats pour améliorer les services numériques]( {{ "/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques" | prepend: site.urlalt[ page.lang ] }} )
-* [De quelle façon nous déterminons les principales tâches pour Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation" | prepend: site.urlalt[ page.lang ] }} )
-* [Comment nous optimisons les principales tâches sur le site Canada.ca]( {{ "/2017/12/11/100-taches-du-gc" | prepend: site.urlalt[ page.lang ] }} )
+* [Mesurer les résultats pour améliorer les services numériques]( {{ "/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques" | prepend: site.urlalt[ page.language ] }} )
+* [De quelle façon nous déterminons les principales tâches pour Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation" | prepend: site.urlalt[ page.language ] }} )
+* [Comment nous optimisons les principales tâches sur le site Canada.ca]( {{ "/2017/12/11/100-taches-du-gc" | prepend: site.urlalt[ page.language ] }} )

@@ -81,7 +81,7 @@ Nous avons donc travaillé avec Santé Canada pour réduire le nombre de liens s
 
 L'examen du taux de clics peut également vous aider à rendre le texte de vos liens plus clair pour faciliter le repérage et l'accès au contenu important. La comparaison des taux de clics de différentes étiquettes peut vous aider à déterminer lesquelles sont les plus efficaces. Nous avons utilisé cette méthode au début de la pandémie pour aider les personnes à la recherche de soutien en santé mentale.
 
-[Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.lang ] }} )
+[Un exemple en faveur du texte de lien descriptif]( {{ "/2020/05/26/texte-de-lien-descriptif" | prepend: site.urlalt[ page.language ] }} )
 
 ## Une rétroaction écrite précieuse
 
@@ -178,7 +178,7 @@ Un contenu qui ne répond pas aux attentes des visiteurs peut porter préjudice 
 ## Pour en savoir davantage
 * [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
-* [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.lang ] }} )
-* [Conception axée sur l'accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.lang ] }} )
+* [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.language ] }} )
+* [Conception axée sur l'accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.language ] }} )
 * [Site Web ArriveCAN](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/arrivecan.html)
 
