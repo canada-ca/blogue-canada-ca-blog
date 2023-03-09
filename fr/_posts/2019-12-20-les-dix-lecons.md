@@ -52,21 +52,19 @@ En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](h
 ## 7. Toujours tester le contenu&nbsp;: on ne peut pas toujours prévoir les embûches
 
 <blockquote>
-  <p>«&nbsp;Dans le cadre de notre tâche, les participants devaient déterminer s’ils avaient besoin d’un vaccin contre la fièvre jaune pour aller au Costa Rica. En fait, il est nécessaire de recevoir ce vaccin si l’on arrive d’un pays où il existe des foyers de fièvre jaune, à quelques exceptions près. Nous avons donc inclus un message pour informer les gens de cette possibilité. Ensuite, ils devaient cliquer pour lire les détails.
-Lorsque nous avons commencé l’essai, nous avons constaté que 2 des 4 premiers participants ont cessé de lire après avoir lu «&nbsp;il est nécessaire&nbsp;» dans le message initial. Ils n’ont pas continué à lire pour savoir dans quelles circonstances le vaccin est nécessaire.</p>
-  <p>
-Nous avons donc essayé une variante où nous avons remplacé «&nbsp;est&nbsp;» par «&nbsp;peut être&nbsp;», et tous les participants ont alors cliqué sur le lien pour obtenir plus de renseignements!</p>
-  <p>
-La première version était exacte, mais nous avons dû introduire un petit doute pour amener les gens à réfléchir davantage. Cet exemple démontre clairement qu’on ne peut pas savoir comment les gens réagiront tant qu’on n’a pas réalisé d’essais. En effet, écrire "est nécessaire" était tout à fait raisonnable, parce que les faits sont exacts et tout semble clair. Mais parfois, en effectuant un essai auprès de vraies personnes, on constate que même si on a raison, on peut quand même avoir tort!&nbsp;»</p>
+  <p>«&nbsp;Dans le cadre de notre tâche, les participants devaient déterminer s’ils avaient besoin d’un vaccin contre la fièvre jaune pour aller au Costa Rica. En fait, il est nécessaire de recevoir ce vaccin si l’on arrive d’un pays où il existe des foyers de fièvre jaune, à quelques exceptions près. Nous avons donc inclus un message pour informer les gens de cette possibilité. Ensuite, ils devaient cliquer pour lire les détails. Lorsque nous avons commencé l’essai, nous avons constaté que 2 des 4 premiers participants ont cessé de lire après avoir lu «&nbsp;il est nécessaire&nbsp;» dans le message initial. Ils n’ont pas continué à lire pour savoir dans quelles circonstances le vaccin est nécessaire.</p>
+
+  <p>Nous avons donc essayé une variante où nous avons remplacé «&nbsp;est&nbsp;» par «&nbsp;peut être&nbsp;», et tous les participants ont alors cliqué sur le lien pour obtenir plus de renseignements!</p>
+  
+  <p>La première version était exacte, mais nous avons dû introduire un petit doute pour amener les gens à réfléchir davantage. Cet exemple démontre clairement qu’on ne peut pas savoir comment les gens réagiront tant qu’on n’a pas réalisé d’essais. En effet, écrire "est nécessaire" était tout à fait raisonnable, parce que les faits sont exacts et tout semble clair. Mais parfois, en effectuant un essai auprès de vraies personnes, on constate que même si on a raison, on peut quand même avoir tort!&nbsp;»</p>
 </blockquote>
 <p>- Patrick Lajeunesse</p>
 
 ## 8. Un bon service repose sur des mesures fiables
 
 <blockquote>
-  <p>«&nbsp;Pour réussir à améliorer un service, il faut comprendre ce qui cause des problèmes et faire preuve d’empathie envers les citoyens qui essaient d’accomplir une tâche.
-La seule façon de s’assurer que l’on peut offrir un bon service, c’est de mesurer les bons paramètres.
-Par exemple, on ne mesure pas le succès à l’aide de données volumétriques. Il faut plutôt mesurer le taux de conversion, ou tenir compte des demandes rejetées ou des erreurs faites lors du remplissage des formulaires. On ne mesure pas le succès au nombre d’appels. Il faut plutôt voir ce qui change chez les interlocuteurs qui ont un problème en commun une fois que l’on a apporté un changement au contenu Web. Il faut voir ce qui se passe après que l’on a demandé aux gens d’abandonner un document papier au profit d’un service en ligne.</p>
+  <p>«&nbsp;Pour réussir à améliorer un service, il faut comprendre ce qui cause des problèmes et faire preuve d’empathie envers les citoyens qui essaient d’accomplir une tâche. La seule façon de s’assurer que l’on peut offrir un bon service, c’est de mesurer les bons paramètres. Par exemple, on ne mesure pas le succès à l’aide de données volumétriques. Il faut plutôt mesurer le taux de conversion, ou tenir compte des demandes rejetées ou des erreurs faites lors du remplissage des formulaires. On ne mesure pas le succès au nombre d’appels. Il faut plutôt voir ce qui change chez les interlocuteurs qui ont un problème en commun une fois que l’on a apporté un changement au contenu Web. Il faut voir ce qui se passe après que l’on a demandé aux gens d’abandonner un document papier au profit d’un service en ligne.</p>
+
   <p>En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de mesurer le rendement avant de commencer, de sorte que l’on peut commencer à expérimenter avec les changements qui peuvent faire toute une différence.&nbsp;»</p>
 </blockquote>
 <p>- Miguel Borges-Porteous</p>
@@ -74,7 +72,7 @@ Par exemple, on ne mesure pas le succès à l’aide de données volumétriques.
 ## 9. L’importance des mots
 
 <blockquote>
-  <p>«&nbsp;Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons constaté que, en anglais, les gens utilisent «&nbsp;student aid&nbsp;», et non pas «&nbsp;student financial assistance&nbsp;», soit le terme qui figurait partout sur le site Nous avons donc utilisé «&nbsp;student aid&nbsp;» dans notre version préliminaire.<p>
+  <p>«&nbsp;Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons constaté que, en anglais, les gens utilisent «&nbsp;student aid&nbsp;», et non pas «&nbsp;student financial assistance&nbsp;», soit le terme qui figurait partout sur le site Nous avons donc utilisé «&nbsp;student aid&nbsp;» dans notre version préliminaire.</p>
   <p>Pour trouver une réponse sur un site Web, on procède tous de la même manière&nbsp;: on balaye la page du regard en quête d’un indice pour savoir où aller ensuite. Autrement dit, on cherche une piste de réponse. Il est donc important de rédiger les hyperliens à l’aide des bons mots-clés, de composer soigneusement les titres en utilisant des termes pertinents, de diviser les longs blocs de texte et de simplifier le langage. Cela aidera les gens à trouver rapidement l’information qu’ils cherchent.&nbsp;»</p>
 </blockquote>
 <p>- David Pepin</p>
