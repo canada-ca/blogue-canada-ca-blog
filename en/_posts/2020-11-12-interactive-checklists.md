@@ -13,7 +13,6 @@ The behavioural principle behind using interactive elements is that people slow 
 ## Using checkboxes and radio buttons in web content
 
 Checklists help people break down complex eligibility lists to ensure that they meet all criteria.
-
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."
    file="eligibility-1.PNG"
