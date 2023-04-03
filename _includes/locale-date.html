@@ -3,7 +3,7 @@ This include allows to translate the days and months in the date by using string
 This include can be called with three parameters:
  - include.date: the date to be processed
  - include.format: the date format. (If empty a default format will be used)
- - include.lang: lang to use for translation.
+ - include.language: languageto use for translation.
 {%- endcomment -%}
 
 {%- comment -%}
@@ -15,18 +15,18 @@ If there is no default in _config, "%b %-d, %Y" is used.
 
 {%- comment -%}
 Init to have the indice of the day in the week (num_day) and the indice of the month in the year (num_mont)
-Init the lang parameter depending if it's set in the include call, in the page or in the site settings
+Init the language parameter depending if it's set in the include call, in the page or in the site settings
 {%- endcomment -%}
 
 {%- assign num_day = include.date | date: "%w" | plus: 0 -%}
 {%- assign num_month = include.date | date: "%-m" | plus: -1 -%}
-{%- assign lang = include.lang | default: page.lang | default: site.lang -%}
+{%- assign lang = include.language | default: page.language | default: site.language -%}
 
 {%- comment -%}
 Use translated abbreviated weekday if "%a" is used in the format and the translation is available in _data/locales/date.yml
 {%- endcomment -%}
 
-{%- if locales.abbr_weekday[lang][num_day] -%}
+{%- if locales.abbr_weekday[language][num_day] -%}
   {%- assign date_format_to_be_translated = date_format_to_be_translated | replace: "%a",  locales.abbr_weekday[lang][num_day] -%}
 {%- endif -%}
 

@@ -53,8 +53,8 @@ Les étapes sont relativement simples. Maintenant, notre principale tâche consi
 ## En savoir plus
 
 - [Visitez le site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
-- [Lire comment nous identifions les principales tâches pour Canada.ca]( {{ "/2017/12/11/100-taches-du-gc.html" | prepend: site.urlalt[ page.lang ] }} )
-- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation.html" | prepend: site.urlalt[ page.lang ] }} )
+- [Lire comment nous identifions les principales tâches pour Canada.ca]( {{ "/2017/12/11/100-taches-du-gc.html" | prepend: site.urlalt[ page.language ] }} )
+- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca]( {{ "/2017/12/12/apercu-d-optimisation.html" | prepend: site.urlalt[ page.language ] }} )
 
 <hr>
 

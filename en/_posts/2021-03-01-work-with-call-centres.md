@@ -101,7 +101,7 @@ When we ask people to follow a link to read more information, we place an extra 
 
 When users have **already made the decision to contact you directly**, consider putting **answers** to top questions **on a Contact us page**.
 
-[Avoiding FAQs, with one exception (blog post)]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
+[Avoiding FAQs, with one exception (blog post)]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.language ] }} )
 
 ## Enacting change
 
@@ -119,9 +119,9 @@ The more closely you collaborate with your frontline call centre staff, the more
 
 ## Learn more
 
-* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.lang ] }} )
-* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.lang ] }} )
+* [Using data to make better content]( {{ "/2021/02/04/data-to-action" | prepend: site.urlalt[ page.language ] }} )
+* [Avoiding FAQs, with one exception]( {{ "/2020/05/25/avoiding-faqs" | prepend: site.urlalt[ page.language ] }} )
 * [Canada.ca alerts and service disruptions](https://design.canada.ca/crisis/alerts.html)
 * [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} )
 

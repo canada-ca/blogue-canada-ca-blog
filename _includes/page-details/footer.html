@@ -30,7 +30,7 @@
 			{% assign i18nText = site.data.locales.date %}
 			{% if page.layout == "post" %}
 			<dl id="wb-dtmd" class="dl-horizontal">
-				<dt>{{ i18nText.dateIssued[ page.lang ] }}</dt>
+				<dt>{{ i18nText.dateIssued[ page.language ] }}</dt>
 				<dd><time property="dateIssued">{{ page.date | date: "%F" }}</time></dd>
 			{%- else -%}
 			<dl id="wb-dtmd">

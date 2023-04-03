@@ -1,3 +1,6 @@
+---
+layout: void
+---
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="fr" dir="ltr"><!--<![endif]-->
@@ -9,8 +12,8 @@
 		<!-- Meta data -->
 		<!-- Meta data-->
 		<!-- Load closure template scripts -->
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-fr.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-fr.js"></script>
 		<link rel="stylesheet" href="../css/blog-dto-btn.css">
 
 
@@ -28,7 +31,7 @@
 			var defTop = document.getElementById("def-top");
 			defTop.outerHTML = wet.builder.top({
 				lngLinks: [{
-					lang: "en",
+					language: "en",
 					href: "https://canada-ca.github.io/blog-dto/research-summaries/taxfiling-research-summary.html",
 					text: "English"
 				}],
@@ -247,8 +250,8 @@ Description détaillée
 <ul>
 
 <!--	<li><a href="#">Voir la nouvelle page XXXX</a> inspirée des nouveaux modèles de ce projet</li> -->
-	<li><a href=" {{ '/2018/08/16/collab-impots.html' | prepend: site.urlalt[ page.lang ] }} ">L’ARC et le SCT collaborent pour optimiser le contenu des pages Web de la TPS/TVH et des retenues sur la paie</a>, une publication des partenaires de l’optimisation de l’<abbr title="Agence du revenu du Canada">ARC</abbr></li>
-<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.lang ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+	<li><a href=" {{ '/2018/08/16/collab-impots.html' | prepend: site.urlalt[ page.language ] }} ">L’ARC et le SCT collaborent pour optimiser le contenu des pages Web de la TPS/TVH et des retenues sur la paie</a>, une publication des partenaires de l’optimisation de l’<abbr title="Agence du revenu du Canada">ARC</abbr></li>
+<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 
 </ul>
 
@@ -273,21 +276,3 @@ Description détaillée
 			});
 		</script>
 				</main>
-				<div id="def-footer">
-
-				</div>
-				<!-- Write closure template -->
-				<script type="text/javascript">
-					var defFooter = document.getElementById("def-footer");
-					defFooter.outerHTML = wet.builder.footer({
-						showFooter: true,
-						showFeatures: true
-					});
-				</script>
-				<!-- Write closure template -->
-				<script type="text/javascript">
-					document.write(wet.builder.refFooter({
-					}));
-				</script>
-			</body>
-		</html>

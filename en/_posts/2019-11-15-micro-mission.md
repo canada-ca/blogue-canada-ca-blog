@@ -51,5 +51,5 @@ If ever the opportunity presents itself to you… seize it!
 
 ## Learn more
 
-* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} )
 * [Digitial Transformation Office](https://www.canada.ca/en/government/about/about-digital-transformation-office.html)

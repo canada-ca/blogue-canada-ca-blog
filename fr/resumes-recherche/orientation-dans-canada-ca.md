@@ -10,7 +10,7 @@ css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2022-12-21
 description: "Le projet Orientation dans Canada.ca a étudié la façon dont les gens naviguent sur Canada.ca. Les résultats ont mené à plusieurs changements de conception pour améliorer la navigation sur les sites Web du gouvernement du Canada."
-lang: fr
+language: fr
 layout: default
 share: true
 section-title: "Résumé de recherche"

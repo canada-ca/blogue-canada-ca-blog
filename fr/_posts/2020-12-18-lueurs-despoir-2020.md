@@ -85,5 +85,5 @@ Nous continuerons à renforcer notre communauté #GCNumérique et à lui permett
 
 ## Pour en savoir davantage
 
-* [Les dix leçons tirées en 2019 par l'équipe de conception du contenu du site Canada.ca]( {{ "/2019/12/20/les-dix-lecons" | prepend: site.urlalt[ page.lang ] }} )
+* [Les dix leçons tirées en 2019 par l'équipe de conception du contenu du site Canada.ca]( {{ "/2019/12/20/les-dix-lecons" | prepend: site.urlalt[ page.language ] }} )
 

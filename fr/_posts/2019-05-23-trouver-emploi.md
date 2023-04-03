@@ -50,7 +50,7 @@ Faites-nous savoir ce que vous pensez de ce projet. Écrivez-nous par courriel �
 
 ## Pour en savoir plus
 
-* [Résumé de recherche&nbsp;: Trouver un emploi ]( {{ "/resumes-recherche/trouver-emploi-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de recherche&nbsp;: Trouver un emploi ]( {{ "/resumes-recherche/trouver-emploi-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 
 ## À propos de l’auteure
 

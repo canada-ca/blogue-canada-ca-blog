@@ -10,35 +10,35 @@ layout: default
 		</div>
 	</article>
 	<aside>
-		<h2 id="{{ locales.connect[ page.lang ] | downcase | replace: ' ', '-' }}">{{ locales.connect[ page.lang ] }}</h2>
+		<h2 id="{{ locales.connect[ page.language ] | downcase | replace: ' ', '-' }}">{{ locales.connect[ page.language ] }}</h2>
 		<ul>
-			<li>{{ locales.email[ page.lang ] }}: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
-			<li>{{ locales.twitter[ page.lang ] }}: {{ locales.twitterhandle[ page.lang ] }}</li>
-			<li>{{ locales.slack[ page.lang ] }}: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
+			<li>{{ locales.email[ page.language ] }}: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+			<li>{{ locales.twitter[ page.language ] }}: {{ locales.twitterhandle[ page.language ] }}</li>
+			<li>{{ locales.slack[ page.language ] }}: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
 		</ul>
-		<h2 id="{{ locales.signup[ page.lang ] | downcase | replace: ' ', '-' }}">{{ locales.signup[ page.lang ] }}</h2>
+		<h2 id="{{ locales.signup[ page.language ] | downcase | replace: ' ', '-' }}">{{ locales.signup[ page.language ] }}</h2>
 		<div class="row">
 			<form action="https://github.us12.list-manage.com/subscribe/post?u=5700d338d6ab413ebca1099f4&amp;id=c6bb0b9f64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="col-sm-8 validate paddingc" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll" class="well well-sm">
 					<fieldset class="gc-chckbxrdio">
-						<legend>{{ locales.emailtype[ page.lang ] }}</legend>
+						<legend>{{ locales.emailtype[ page.language ] }}</legend>
 						<ul class="list-unstyled lst-spcd-2">
 							<li class="radio">
 								<input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0">
-								<label for="mce-EMAILTYPE-0">{{ locales.emailtype1[ page.lang ] }}</label>
+								<label for="mce-EMAILTYPE-0">{{ locales.emailtype1[ page.language ] }}</label>
 							</li>
 							<li class="radio">
 								<input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1">
-								<label for="mce-EMAILTYPE-1">{{ locales.emailtype2[ page.lang ] }} <small>{{ locales.emailtype-cmmt[ page.lang ] }}</small></label>
+								<label for="mce-EMAILTYPE-1">{{ locales.emailtype2[ page.language ] }} <small>{{ locales.emailtype-cmmt[ page.language ] }}</small></label>
 							</li>
 						</ul>
 					</fieldset>
 					<div class="mc-field-group">
 						<div class="input-group">
-							<label class="wb-inv" for="mce-EMAIL">{{ locales.mce-email[ page.lang ] }}</label>
-							<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="{{ locales.mce-email[ page.lang ] }}">
+							<label class="wb-inv" for="mce-EMAIL">{{ locales.mce-email[ page.language ] }}</label>
+							<input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" placeholder="{{ locales.mce-email[ page.language ] }}">
 							<span class="input-group-btn">
-								<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">{{ locales.subscribe[ page.lang ] }}</button>
+								<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success nowrap">{{ locales.subscribe[ page.language ] }}</button>
 							</span>
 						</div>
 					</div>
@@ -74,29 +74,29 @@ layout: default
 		</script>
 		<!--End mc_embed_signup-->
 		<div class="mce-privacy" style="padding-top: 9px;">
-			<a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">{{ locales.privacy-notice[ page.lang ] }}</a>
+			<a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">{{ locales.privacy-notice[ page.language ] }}</a>
 		</div>
 		<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
 			<header class="modal-header">
-				<h2 class="modal-title">{{ locales.privacy-notice[ page.lang ] }}</h2>
+				<h2 class="modal-title">{{ locales.privacy-notice[ page.language ] }}</h2>
 			</header>
 			<div class="modal-body">
-				<p>{{ locales.privacy-notice1[ page.lang ] }}</p>
-				<p>{{ locales.privacy-notice2[ page.lang ] }}</p>
-				<p>{{ locales.privacy-notice3[ page.lang ] }}</p>
-				<p>{{ locales.privacy-notice4[ page.lang ] }}</p>
+				<p>{{ locales.privacy-notice1[ page.language ] }}</p>
+				<p>{{ locales.privacy-notice2[ page.language ] }}</p>
+				<p>{{ locales.privacy-notice3[ page.language ] }}</p>
+				<p>{{ locales.privacy-notice4[ page.language ] }}</p>
 			</div>
 		</section>
 	</aside>
 </div>
 <nav class="mrgn-tp-xl">
-	<h2 class="wb-inv">{{ locales.navigation[ page.lang ] }}</h2>
+	<h2 class="wb-inv">{{ locales.navigation[ page.language ] }}</h2>
 	<ul class="pager">
 		{% for post in site.posts %}
-			{%- if post.lang == page.lang -%}
+			{%- if post.language== page.language -%}
 				{%- if prev -%}
 		<li class="next">
-			<a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">{{ locales.next[ page.lang ] }}&nbsp;&raquo;</a>
+			<a href="{{ post.url | remove_first: '/' | remove_first: page.language }}">{{ locales.next[ page.language ] }}&nbsp;&raquo;</a>
 		</li>
 				{%- endif -%}
 				{%- assign prev = false -%}
@@ -106,10 +106,10 @@ layout: default
 			{%- endif -%}
 		{% endfor %}
 		{% for post in site.posts reversed %}
-			{%- if post.lang == page.lang -%}
+			{%- if post.language== page.language -%}
 				{%- if next -%}
 		<li class="previous">
-			<a href="{{ post.url | remove_first: '/' | remove_first: page.lang }}">&laquo;&nbsp;{{ locales.previous[ page.lang ] }}</a>
+			<a href="{{ post.url | remove_first: '/' | remove_first: page.language }}">&laquo;&nbsp;{{ locales.previous[ page.language ] }}</a>
 		</li>
 					{%- break -%}
 				{%- endif -%}
