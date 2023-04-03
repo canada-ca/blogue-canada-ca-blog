@@ -93,6 +93,6 @@ What would make online top task reporting easier for you to complete?
 
 ## Learn more
 
-* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.lang ] }} )
-* [How we identify top tasks for Canada.ca]( {{ "/2017/12/11/top-100-for-gc" | prepend: site.urlalt[ page.lang ] }} )
-* [How measuring task success is key for optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Improve digital services by measuring outcomes]( {{ "/2018/02/23/Improve-digital-services-measuring-outcomes" | prepend: site.urlalt[ page.language ] }} )
+* [How we identify top tasks for Canada.ca]( {{ "/2017/12/11/top-100-for-gc" | prepend: site.urlalt[ page.language ] }} )
+* [How measuring task success is key for optimizing Canada.ca top tasks]( {{ "/2017/12/12/optimization-overview" | prepend: site.urlalt[ page.language ] }} )

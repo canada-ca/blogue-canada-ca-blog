@@ -6,7 +6,7 @@ title:  "Labelling study: which words work best"
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks.
 
-[Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.lang ] }} )
+[Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.language ] }} )
 
 This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks. The public depends on us to choose the right words for the category and link labels to ensure that they can find answers quickly and easily on Canada.ca. That has become even more evident during this pandemic.
 
@@ -93,9 +93,9 @@ Audiences behave and interact differently in the digital space compared to how t
 
 ## Learn more
 
-* [Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.lang ] }} )
-* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.lang ] }} )
-* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Improving Canada.ca by focusing on COVID-19 top tasks]( {{ "/2020/09/24/COVID-top-tasks" | prepend: site.urlalt[ page.language ] }} )
+* [A case for descriptive link text]( {{ "/2020/05/26/descriptive-link-text" | prepend: site.urlalt[ page.language ] }} )
+* [Content improvement projects]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} )
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Canada.ca Design System](https://www.canada.ca/en/government/about/design-system.html)
 

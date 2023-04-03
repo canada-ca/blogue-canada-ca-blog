@@ -1,3 +1,6 @@
+---
+layout: void
+---
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
 <!--[if gt IE 8]><!-->
@@ -11,8 +14,8 @@
 	<!-- Meta data -->
 	<!-- Meta data-->
 	<!-- Load closure template scripts -->
-	<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js"></script>
-	<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-fr.js"></script>
+	<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+	<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-fr.js"></script>
 	<link rel="stylesheet" href="../css/blog-dto-btn.css">
 	<!-- Write closure template -->
 	<script type="text/javascript">
@@ -27,7 +30,7 @@
 		var defTop = document.getElementById("def-top");
 		defTop.outerHTML = wet.builder.top({
 			lngLinks: [{
-				lang: "fr",
+				language: "fr",
 				href: "https://blog.canada.ca/research-summaries/recalls-safety-alerts-research-summary.html",
 				text: "English"
 			}],
@@ -159,7 +162,7 @@
 		<h2>Pour en savoir plus</h2>
 		<ul>
 			<li><a href="http://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html">Résumé de projet&nbsp;: Rappels et avis de sécurité </a> (première série)</li>
-			<li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.lang ] }} ">projets avec nos partenaires</a></li>
+			<li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos partenaires</a></li>
 		</ul>
 		<div id="def-preFooter"></div>
 		<!-- Write closure template -->
@@ -173,19 +176,3 @@
 			});
 		</script>
 	</main>
-	<div id="def-footer"></div>
-	<!-- Write closure template -->
-	<script type="text/javascript">
-		var defFooter = document.getElementById("def-footer");
-		defFooter.outerHTML = wet.builder.footer({
-			showFooter: true,
-			showFeatures: true
-		});
-	</script>
-	<!-- Write closure template -->
-	<script type="text/javascript">
-		document.write(wet.builder.refFooter({
-		}));
-	</script>
-</body>
-</html>

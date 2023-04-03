@@ -82,7 +82,7 @@ La création d’un ensemble de questions interactives réussi est très différ
 
 Pour commencer, parlez à votre centre d’appels pour voir où cette approche de conception pourrait s’imposer. Il y a de fortes chances que si les gens téléphonent fréquemment au sujet de services complexes, cela signifie que le texte sur le Web ne les aide pas suffisamment.
 
-[L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.lang ] }} )
+[L’importance de collaborer avec les centres d’appels]( {{ "/2021/03/01/collaborer-avec-centres-appels" | prepend: site.urlalt[ page.language ] }} )
 
 Premièrement, établissez le cheminement des décisions que les gens doivent prendre. Vous pouvez commencer par dessiner sur un tableau blanc. Ensuite, passez à un schéma dans Visio, un Jamboard ou même une feuille de calcul.
 
@@ -104,8 +104,8 @@ Toutefois, elles n’aident pas seulement les personnes qui visitent le site Web
 * permettre aux Canadiens d’utiliser un service en toute confiance et leur faire savoir que le gouvernement les appuie.
 
 ## Pour en savoir davantage
-* [Optimiser votre contenu pour la recherche vocale]( {{ "/2020/01/28/optimisation-recherche-vocale" | prepend: site.urlalt[ page.lang ] }} )
-* [Résumé de la recherche&nbsp;: Communiquer avec l’ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Optimiser votre contenu pour la recherche vocale]( {{ "/2020/01/28/optimisation-recherche-vocale" | prepend: site.urlalt[ page.language ] }} )
+* [Résumé de la recherche&nbsp;: Communiquer avec l’ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 * [Stratégie de service du gouvernement du Canada](https://ouvert.canada.ca/fr/contenu/la-strategie-de-service-du-gouvernement-du-canada)
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 * [Google Conversation design learning material](https://developers.google.com/actions/design/) (en anglais seulement)

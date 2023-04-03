@@ -5,7 +5,7 @@ description: "Nos apprentissages sur l’amélioration des services vocaux pour 
 title:  Optimiser votre contenu pour la recherche vocale
 ---
 
-Chaque jour, des millions de personnes consultent le site Canada.ca pour obtenir des réponses du gouvernement. L’interaction vocale est un nouveau canal dont nous pouvons tirer parti pour fournir ces réponses. Pour entamer la nouvelle année, le [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) (BTN) prépare une courte série de billets sur la technologie vocale. Nous diffuserons ce que nous avons appris sur les agents de dialogue et la recherche vocale dans le cadre de [notre projet d’optimisation «&nbsp;Communiquer avec nous&nbsp;»]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} ) pour l’Agence du revenu du Canada (ARC).
+Chaque jour, des millions de personnes consultent le site Canada.ca pour obtenir des réponses du gouvernement. L’interaction vocale est un nouveau canal dont nous pouvons tirer parti pour fournir ces réponses. Pour entamer la nouvelle année, le [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) (BTN) prépare une courte série de billets sur la technologie vocale. Nous diffuserons ce que nous avons appris sur les agents de dialogue et la recherche vocale dans le cadre de [notre projet d’optimisation «&nbsp;Communiquer avec nous&nbsp;»]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} ) pour l’Agence du revenu du Canada (ARC).
 
 Naturellement, nous souhaitons tous offrir aux Canadiens des services modernes, efficaces et fiables. Ainsi, l’idée de créer un agent de dialogue (dialogueur) pour aider les utilisateurs à effectuer leurs tâches constitue une occasion d’innover avec efficacité.
 
@@ -109,11 +109,11 @@ Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles a
 * Est-ce **utilisable**? Est-ce facile à utiliser? Les taux de réussite sur Canada.ca s’amélioreront-ils?
 * Est-ce **durable**? Est-ce que les équipes de contenu peuvent maintenir cela facilement?
 
-Lors d’un prochain billet, nous aborderons la création des assistants. Abonnez-vous à la [liste d’envoi du BTN]( {{ "/pages/inscrire.html" | prepend: site.urlalt[ page.lang ] }} ) pour recevoir le billet dans votre boîte de réception.
+Lors d’un prochain billet, nous aborderons la création des assistants. Abonnez-vous à la [liste d’envoi du BTN]( {{ "/pages/inscrire.html" | prepend: site.urlalt[ page.language ] }} ) pour recevoir le billet dans votre boîte de réception.
 
 ## Pour en savoir davantage
 
-* [Résumé de la recherche&nbsp;: Communiquer avec l’ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Résumé de la recherche&nbsp;: Communiquer avec l’ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 * [Stratégie de service du gouvernement du Canada](https://ouvert.canada.ca/fr/contenu/la-strategie-de-service-du-gouvernement-du-canada)
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 * [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)(en anglais seulement)

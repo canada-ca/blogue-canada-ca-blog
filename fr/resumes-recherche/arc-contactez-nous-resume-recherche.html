@@ -1,3 +1,6 @@
+---
+layout: void
+---
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
@@ -9,8 +12,8 @@
 		<!-- Meta data -->
 		<!-- Meta data-->
 		<!-- Load closure template scripts -->
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-fr.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-fr.js"></script>
 		<link rel="stylesheet" href="../css/blog-dto-btn.css">
 
 
@@ -28,7 +31,7 @@
 			var defTop = document.getElementById("def-top");
 			defTop.outerHTML = wet.builder.top({
 				lngLinks: [{
-					lang: "fr",
+					language: "fr",
 					href: "https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html",
 					text: "English"
 				}],
@@ -228,8 +231,8 @@ h2 {
 <h2>Pour en savoir plus</h2>
 
 <ul>
-<li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href=" {{ '/2019/11/01/conseils-voyageurs-contact.html' | prepend: site.urlalt[ page.lang ] }} ">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»</a></li>
-<li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.lang ] }} ">projets avec nos partenaires</a> </li>
+<li>Lisez notre billet de blogue&nbsp;:&nbsp;<a href=" {{ '/2019/11/01/conseils-voyageurs-contact.html' | prepend: site.urlalt[ page.language ] }} ">Conseils de conception de contenu tirés de nos projets d’optimisation du contenu «&nbsp;Conseils aux voyageurs et avertissements&nbsp;» et «&nbsp;Communiquer avec l’ARC&nbsp;»</a></li>
+<li>Consultez les aperçus de nos autres <a href=" {{ '/pages/apercu-projet.html#projets' | prepend: site.urlalt[ page.language ] }} ">projets avec nos partenaires</a> </li>
 </ul>
 
 
@@ -246,21 +249,3 @@ h2 {
 	});
 </script>
 		</main>
-		<div id="def-footer">
-
-		</div>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			var defFooter = document.getElementById("def-footer");
-			defFooter.outerHTML = wet.builder.footer({
-				showFooter: true,
-				showFeatures: true
-			});
-		</script>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			document.write(wet.builder.refFooter({
-			}));
-		</script>
-	</body>
-</html>

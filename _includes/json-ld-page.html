@@ -7,7 +7,7 @@
         {% if page.author or site.author %}"author":
         {
             "@type": "{% if page.author %}Person{% else %}Organization{% endif %}",
-            "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author[ page.lang ] }}{% endif %}"
+            "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author[ page.language ] }}{% endif %}"
         },
         {%- endif %}
         {% if page.date %}"dateCreated": "{{ page.date }}",{% endif %}
@@ -37,6 +37,6 @@
             }{% unless forloop.last %},{%- endunless -%}
             {% endfor %}]
         },{% endunless %}
-        "url": "{{ page.url | remove_first: '/' | remove_first: page.lang | prepend: site.urlalt[ page.lang ] }}"
+        "url": "{{ page.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}"
     }
 </script>

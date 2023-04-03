@@ -82,4 +82,4 @@ Let us know what you think about task management. Email us at [dto.btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: Recalls and safety alerts]( {{ "/research-summaries/recalls-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+* [Project summary: Recalls and safety alerts]( {{ "/research-summaries/recalls-research-summary" | prepend: site.urlalt[ page.language ] }} )

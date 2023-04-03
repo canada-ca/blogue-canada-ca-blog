@@ -10,7 +10,7 @@ css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2021-06-30
 description: "Nous avons élaboré un assistant de recherche de numéros de téléphone ainsi qu’un agent expérimental qui fonctionnait à la fois comme robot conversationnel (*chatbot*) sur un écran et comme agent vocal, afin de pouvoir comparer les processus de conception et les résultats de chacun."
-lang: fr
+language: fr
 layout: default
 section-title: "Résumé de recherche"
 title: "Fournir des services gouvernementaux grâce au design conversationnel"

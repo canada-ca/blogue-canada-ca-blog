@@ -64,7 +64,7 @@ L'analyse minutieuse de la façon de subdiviser les choses en éléments interac
 
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
 * [Derniers changements apportés au système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/derniers-changements.html)
-* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.lang ] }} )
-* [Résumé de recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.lang ] }} )
+* [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
+* [Résumé de recherche&nbsp;: Communiquer avec l'ARC]( {{ "/resumes-recherche/arc-contactez-nous-resume-recherche.html" | prepend: site.urlalt[ page.language ] }} )
 * [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html)
 

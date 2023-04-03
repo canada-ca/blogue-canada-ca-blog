@@ -1,3 +1,6 @@
+---
+layout: void
+---
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 	<head>
@@ -5,8 +8,8 @@
 		<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 		<title>Résumé de recherche&nbsp;: Trouver un emploi - Canada.ca</title>
 		<meta content="width=device-width,initial-scale=1" name="viewport">
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/soyutils.js"></script>
-		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_30/cdts/compiled/wet-fr.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/soyutils.js"></script>
+		<script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_47/cdts/compiled/wet-fr.js"></script>
 		<link rel="stylesheet" href="../css/blog-dto-btn.css">
 		<!-- Write closure template -->
 		<script type="text/javascript">
@@ -22,7 +25,7 @@
 			var defTop = document.getElementById("def-top");
 			defTop.outerHTML = wet.builder.top({
 				lngLinks: [{
-					lang: "fr",
+					language: "fr",
 					href: "https://blog.canada.ca/research-summaries/find-job-research-summary.html",
 					text: "English"
 				}],
@@ -181,8 +184,8 @@
 
 					<h2>Explorer davantage</h2>
 					<ul>
-						<li><a href=" {{ '/2019/05/23/trouver-emploi.html' | prepend: site.urlalt[ page.lang ] }} ">Trouver un emploi au gouvernement… ça devrait être si facile…</a>, un billet de blogue écrit par la <abbr title="Commission de la fonction publique">CFP</abbr>, notre partenaire d’optimisation</li>
-						<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.lang ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
+						<li><a href=" {{ '/2019/05/23/trouver-emploi.html' | prepend: site.urlalt[ page.language ] }} ">Trouver un emploi au gouvernement… ça devrait être si facile…</a>, un billet de blogue écrit par la <abbr title="Commission de la fonction publique">CFP</abbr>, notre partenaire d’optimisation</li>
+						<li><a href=" {{ '/pages/apercu-projet.html' | prepend: site.urlalt[ page.language ] }} ">Consultez les aperçus de nos autres projets</a> avec nos partenaires</li>
 					</ul>
 					<div id="def-preFooter"></div>
 					<!-- Write closure template -->
@@ -198,19 +201,3 @@
 				</div>
 			</div>
 		</main>
-		<div id="def-footer"></div>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			var defFooter = document.getElementById("def-footer");
-			defFooter.outerHTML = wet.builder.footer({
-				showFooter: true,
-				showFeatures: true
-			});
-		</script>
-		<!-- Write closure template -->
-		<script type="text/javascript">
-			document.write(wet.builder.refFooter({
-			}));
-		</script>
-	</body>
-</html>

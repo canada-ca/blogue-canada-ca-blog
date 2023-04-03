@@ -22,7 +22,7 @@ In November 2019, the DTO modified Canada.ca guidance to allow the use of the ex
 
 The expand/collapse pattern was successfully tested during 2 optimization projects with the Canada Revenue Agency (CRA). In both projects, we used the pattern to simplify page layouts and reduce cognitive load. The pattern helps people find and focus on the content that’s relevant to their situation.
 
-[Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.lang ] }} )
+[Research summary: Contact the CRA]( {{ "/research-summaries/cra-contact-us-research-summary" | prepend: site.urlalt[ page.language ] }} )
 
 Based on the positive results of our optimization projects, we’ve used the expand/collapse pattern on more pages to help Canadians find the answers they need regarding the COVID-19 pandemic.
 
@@ -72,5 +72,5 @@ For more information on how to use this and other design patterns, check out the
 
 * [Accordions on mobile](https://www.nngroup.com/articles/mobile-accordions/)
 * [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
-* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.lang ] }} )
+* [Improving content on Canada.ca]( {{ "/pages/project-overview" | prepend: site.urlalt[ page.language ] }} )
 
