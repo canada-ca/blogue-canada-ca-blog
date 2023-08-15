@@ -103,7 +103,7 @@ title: "Étude sur la confiance"
 <h2 id="prochaines-étapes">Prochaines étapes</h2>
 <p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PCIM. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
 <div class="row">
-  <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
+  <div class="mrgn-tp-md mrgn-bttm-lg col-md-8">
     <div class="wb-fnote" role="note">
       <dl>
         <dt>Note de bas de page 1</dt>
