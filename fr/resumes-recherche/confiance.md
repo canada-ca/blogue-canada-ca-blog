@@ -1,5 +1,5 @@
 ---
-altLangPage: "/research-summaries/trust.html"
+altLangPage: "/research-summaries/trust"
 breadcrumbs:
   - title: "À propos de Canada.ca"
     link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
