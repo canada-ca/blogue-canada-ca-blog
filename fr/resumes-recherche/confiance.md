@@ -47,7 +47,7 @@ title: "Étude sur la confiance"
 <p>L’étude démontre que le symbole du drapeau rouge du PCIM, suivi de la signature du gouvernement du Canada, est essentiel à la confiance envers la marque Canada.ca. La grande majorité des personnes interrogées lui font davantage confiance que le mot-symbole <span class="nowrap">« Canada »</span> ou toute autre version de la signature du GC.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran du symbole PCIM du gouvernement du Canada" src="https://test.canada.ca/experimental/chelsey/research/images/fip-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du symbole PCIM du gouvernement du Canada" src="../images/fip-fr.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Description de l'image : symbole PCIM du gouvernement du Canada</summary>
@@ -78,7 +78,7 @@ title: "Étude sur la confiance"
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'enquête sur le symbole PCIM du gouvernement du Canada" src="https://test.canada.ca/experimental/chelsey/research/images/pnj-fr.png" class="img-responsive" />
       <figcaption>
-        <details close="">
+        <details>
           <summary>Description de l'image : test du symbole PCIM du gouvernement du Canada</summary>
           <p class="mrgn-tp-lg">À gauche, une page liée aux emplois pour les jeunes affiche la version couleur du symbole du drapeau du PCIM. À droite, la même page affiche le symbole en noir et blanc.</p>
         </details>
@@ -102,7 +102,7 @@ title: "Étude sur la confiance"
 <p><a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">Outil de rétroaction sur la page</a> : cet outil permet aux utilisateurs de fournir des commentaires sur la page sur laquelle ils se trouvent. Il peut ainsi aider les ministères à cerner des problèmes courants dans leur contenu.</p>
 <h2 id="prochaines-étapes">Prochaines étapes</h2>
 <p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PCIM. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
-<aside class="wb-fnote" role="note">
+<div class="wb-fnote" role="note">
   <dl>
     <dt>Note de bas de page 1</dt>
     <dd id="fn1">
@@ -110,4 +110,4 @@ title: "Étude sur la confiance"
       <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
     </dd>
   </dl>
-</aside>
+</div>
