@@ -102,8 +102,6 @@ title: "Étude sur la confiance"
 <p><a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">Outil de rétroaction sur la page</a> : cet outil permet aux utilisateurs de fournir des commentaires sur la page sur laquelle ils se trouvent. Il peut ainsi aider les ministères à cerner des problèmes courants dans leur contenu.</p>
 <h2 id="prochaines-étapes">Prochaines étapes</h2>
 <p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PCIM. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
-<h2 id="communiquez-avec-le-bureau-de-la-transformation-numérique-du-secrétariat-du-conseil-du-trésor-du-canada">Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor du Canada</h2>
-<p>Contactez-nous si vous avez des questions ou si vous souhaitez voir les résultats de recherche détaillés de ce projet ou de l’étude sur la confiance.</p>
 <aside class="wb-fnote" role="note">
   <dl>
     <dt>Note de bas de page 1</dt>
