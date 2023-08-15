@@ -31,7 +31,7 @@ title: "Étude sur la confiance"
 <p>Pour chaque question, les personnes voyaient s’afficher deux images d’éléments de la marque présentant de légères variations. Chaque fois, elles devaient désigner l’image qui leur semblait la plus digne de confiance. Si leur niveau de confiance était le même pour les deux images, elles avaient la possibilité de l’indiquer.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Capture d’écran d’un exercice interactif sur la confiance" src=".../images/confiance-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"> <img alt="Capture d’écran d’un exercice interactif sur la confiance" src="../images/confiance-fr.png" class="img-responsive" />
       <figcaption>
         <details close="">
           <summary>Description de l'image : exercice interactif sur la confiance</summary>
