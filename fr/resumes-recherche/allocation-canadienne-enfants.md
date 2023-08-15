@@ -152,7 +152,7 @@ title: "Allocation canadienne pour enfants"
 <p>Dans le modèle de navigation de style métro, le texte des liens peut être plus long. La page d'index comporte un espace pour afficher une description sous chaque lien.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du modèle de navigation de style métro de l'allocation canadienne pour enfants" src="../images/ccb_nav_metro_fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du modèle de navigation de style métro de l'allocation canadienne pour enfants" src="../images/metro_fr.png" class="img-responsive" />
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: modèle de navigation de style métro de l'allocation canadienne pour enfants</summary>
