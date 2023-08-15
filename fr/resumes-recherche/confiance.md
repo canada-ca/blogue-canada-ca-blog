@@ -8,7 +8,7 @@ breadcrumbs:
 css:
 - ../css/blogue.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-date: 2023-15-23
+date: 2023-08-23
 description: "Cette étude menée sur la confiance aide à déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada"
 language: fr
 layout: default
