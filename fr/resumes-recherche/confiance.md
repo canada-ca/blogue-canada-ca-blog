@@ -1,5 +1,5 @@
 ---
-altLangPage: "/research-summaries/wayfinding-on-canada-ca"
+altLangPage: "/research-summaries/trust.html"
 breadcrumbs:
   - title: "À propos de Canada.ca"
     link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
@@ -102,12 +102,16 @@ title: "Étude sur la confiance"
 <p><a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">Outil de rétroaction sur la page</a> : cet outil permet aux utilisateurs de fournir des commentaires sur la page sur laquelle ils se trouvent. Il peut ainsi aider les ministères à cerner des problèmes courants dans leur contenu.</p>
 <h2 id="prochaines-étapes">Prochaines étapes</h2>
 <p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PCIM. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
-<div class="wb-fnote col-md-8" role="note">
-  <dl>
-    <dt>Note de bas de page 1</dt>
-    <dd id="fn1">
-      <p><a href="https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/mois-prevention-fraude-2023-pertes-liees-a-fraude-atteignent-nouveau-record">Mois de la prévention de la fraude 2023 : Les pertes liées à la fraude atteignent un nouveau record historique au Canada | Gendarmerie royale du Canada (rcmp-grc.gc.ca)</a></p>
-      <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
-    </dd>
-  </dl>
+<div class="row">
+  <div class="mrgn-tp-lg mrgn-bttm-lg col-md-8">
+    <div class="wb-fnote" role="note">
+      <dl>
+        <dt>Note de bas de page 1</dt>
+        <dd id="fn1">
+          <p><a href="https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/mois-prevention-fraude-2023-pertes-liees-a-fraude-atteignent-nouveau-record">Mois de la prévention de la fraude 2023 : Les pertes liées à la fraude atteignent un nouveau record historique au Canada | Gendarmerie royale du Canada (rcmp-grc.gc.ca)</a></p>
+          <p class="fn-rtn"><a href="#fn1"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a></p>
+        </dd>
+      </dl>
+    </div>
+  </div>
 </div>
