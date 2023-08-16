@@ -34,64 +34,51 @@ title: "Allocation canadienne pour enfants"
 </ul>
 <p>L'équipe a sélectionné une série de ces scénarios pour définir une mesure de référence. Vingt parents canadiens utilisant des téléphones cellulaires ont mis à l'essai ces scénarios dans le cadre d'une étude de rendement liée aux tests d'utilisabilité avec modérateur. Le taux de réussite global était de 28&nbsp;% pour l'ensemble des sept scénarios de tâches. Cinq scénarios supplémentaires ont fait l'objet d'une mise à l'essai, mais moins de seize participants les ont réussi&nbsp;; ces scénarios n'ont donc pas été pris en considération dans le taux de réussite global.</p>
 <div class="row">
-  <div class="mrgn-tp-lg mrgn-bttm-md col-md-12">
-    <figure class="gc-complex-img" role="group">
-      <figcaption>
-        <details>
-          <summary>Scénarios de tâches de la base de référence</summary>
-          <p class="mrgn-tp-lg">
-          <div class="row mrgn-tp-lg">
-            <div class="col-md-12">
-              <div class="table-responsive">
-                <table class="table">
-                  <caption class="wb-inv">
-                  Scénarios de tâches de la base de référence
-                  </caption>
-                  <thead>
-                    <tr>
-                      <th class="col-md-4">Tâche</th>
-                      <th class="col-md-8">Scénario</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>Versements suspendus</td>
-                      <td><p>Vous n'avez pas reçu votre versement habituel pour l'ACE en mai ni en juillet. Lesquelles des raisons ci-dessous pourraient faire en sorte que les versements soient suspendus?</p></td>
-                    </tr>
-                    <tr>
-                      <td>Calculer le montant de l'allocation</td>
-                      <td><p>Le deuxième enfant de Mart vient de naître. Quel sera le montant du versement de l'allocation canadienne pour enfants que Mart recevra chaque mois? – Mart habite au Québec, elle est célibataire et a la garde exclusive de ses enfants. Le premier enfant a 2 ans.  Son revenu de l'an dernier était de 60&nbsp;000&nbsp;$.  Elle sera en congé pour les 12 prochains mois, donc elle gagnera seulement 30&nbsp;000&nbsp;$.</p></td>
-                    </tr>
-                    <tr>
-                      <td>Date du versement</td>
-                      <td><p>Référence&nbsp;: Quel jour de juillet, précisément, votre versement de l'allocation canadienne pour enfants sera-t-il effectué?</p>
-                        <p>Optimisation&nbsp;: Quel jour de décembre, précisément, votre versement de l'allocation canadienne pour enfants sera-t-il effectué?</p></td>
-                    </tr>
-                    <tr>
-                      <td>Pourcentage de garde partagée</td>
-                      <td><p>Les enfants de Peter vivent avec son ex-conjointe. Ils vont commencer à venir habiter chez Peter deux fins de semaine par mois. Doit-il demander l'allocation canadienne pour enfants? </p></td>
-                    </tr>
-                    <tr>
-                      <td>Pourcentage de garde partagée</td>
-                      <td><p>Si vous êtes séparés et que vous partagez la garde de vos enfants, pourriez-vous décider ensemble du pourcentage de l'allocation canadienne pour enfants que chacun de vous recevra? </p></td>
-                    </tr>
-                    <tr>
-                      <td>Versement moins élevé en juillet</td>
-                      <td><p>Le versement de juillet de l'allocation canadienne pour enfants de Petra a été effectué et il est beaucoup moins élevé que celui qu'elle a reçu en juin. Quelle est la raison la plus probable de ce changement?</p></td>
-                    </tr>
-                    <tr>
-                      <td>Changement à votre compte pour le dépôt direct en cours de mois</td>
-                      <td>Est-il prudent de fermer votre ancien compte bancaire avant d'avoir reçu votre versement de l'allocation canadienne pour enfants du 20 juin? Vous avez changé de numéro de compte bancaire pour le dépôt direct le 5 juin.</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-          </p>
-        </details>
-      </figcaption>
-    </figure>
+  <div class="mrgn-tp-md mrgn-bttm-md col-md-8">
+    <div class="panel panel-default">
+      <table class="table table-responsive table-striped">
+        <caption class="text-left">
+        Scénarios de tâches de la base de référence
+        </caption>
+        <thead>
+          <tr>
+            <th class="col-md-4">Tâche</th>
+            <th class="col-md-8">Scénario</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Versements suspendus</td>
+            <td><p>Vous n'avez pas reçu votre versement habituel pour l'ACE en mai ni en juillet. Lesquelles des raisons ci-dessous pourraient faire en sorte que les versements soient suspendus?</p></td>
+          </tr>
+          <tr>
+            <td>Calculer le montant de l'allocation</td>
+            <td><p>Le deuxième enfant de Mart vient de naître. Quel sera le montant du versement de l'allocation canadienne pour enfants que Mart recevra chaque mois? – Mart habite au Québec, elle est célibataire et a la garde exclusive de ses enfants. Le premier enfant a 2 ans.  Son revenu de l'an dernier était de 60&nbsp;000&nbsp;$.  Elle sera en congé pour les 12 prochains mois, donc elle gagnera seulement 30&nbsp;000&nbsp;$.</p></td>
+          </tr>
+          <tr>
+            <td>Date du versement</td>
+            <td><p>Référence&nbsp;: Quel jour de juillet, précisément, votre versement de l'allocation canadienne pour enfants sera-t-il effectué?</p>
+              <p>Optimisation&nbsp;: Quel jour de décembre, précisément, votre versement de l'allocation canadienne pour enfants sera-t-il effectué?</p></td>
+          </tr>
+          <tr>
+            <td>Pourcentage de garde partagée</td>
+            <td><p>Les enfants de Peter vivent avec son ex-conjointe. Ils vont commencer à venir habiter chez Peter deux fins de semaine par mois. Doit-il demander l'allocation canadienne pour enfants? </p></td>
+          </tr>
+          <tr>
+            <td>Pourcentage de garde partagée</td>
+            <td><p>Si vous êtes séparés et que vous partagez la garde de vos enfants, pourriez-vous décider ensemble du pourcentage de l'allocation canadienne pour enfants que chacun de vous recevra? </p></td>
+          </tr>
+          <tr>
+            <td>Versement moins élevé en juillet</td>
+            <td><p>Le versement de juillet de l'allocation canadienne pour enfants de Petra a été effectué et il est beaucoup moins élevé que celui qu'elle a reçu en juin. Quelle est la raison la plus probable de ce changement?</p></td>
+          </tr>
+          <tr>
+            <td>Changement à votre compte pour le dépôt direct en cours de mois</td>
+            <td>Est-il prudent de fermer votre ancien compte bancaire avant d'avoir reçu votre versement de l'allocation canadienne pour enfants du 20 juin? Vous avez changé de numéro de compte bancaire pour le dépôt direct le 5 juin.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>
 <p>Les problèmes les plus fréquemment rencontrés par les participants étaient les suivants&nbsp;: ne pas trouver la page sur laquelle se trouvait la réponse à leur question (32&nbsp;% des participants ont rencontré ce problème) ou ne pas être en mesure de déterminer la bonne réponse à l'aide des renseignements qui se trouvaient sur la page (p. ex., confondre l'admissibilité à l'allocation et le droit à celle-ci).</p>
@@ -198,7 +185,7 @@ title: "Allocation canadienne pour enfants"
       <figcaption>
         <details>
           <summary>Description de l'image&nbsp;: retrait de l'avis de non-responsabilité de l'allocation canadienne pour enfants </summary>
-          <p class="mrgn-tp-lg"> Sur la première capture d'écran, l'ancienne conception affiche d'abord l'avis de non-responsabilité, qui occupe l'ensemble de l'écran sur les téléphones mobiles et cache l'outil de calcul. Sur la deuxième capture d'écran, la nouvelle conception utilise un bouton vert de super tâche pour attirer l'attention sur l'outil de calcul. L'avis de non-responsabilité ne se trouvant pas sur cette page, elle ne gêne pas la navigation.</p>
+          <p class="mrgn-tp-lg">Sur la première capture d'écran, l'ancienne conception affiche d'abord l'avis de non-responsabilité, qui occupe l'ensemble de l'écran sur les téléphones mobiles et cache l'outil de calcul. Sur la deuxième capture d'écran, la nouvelle conception utilise un bouton vert de super tâche pour attirer l'attention sur l'outil de calcul. L'avis de non-responsabilité ne se trouvant pas sur cette page, elle ne gêne pas la navigation.</p>
         </details>
       </figcaption>
     </figure>
@@ -209,7 +196,7 @@ title: "Allocation canadienne pour enfants"
 <h2 id="mesure-des-résultats">Mesure des résultats</h2>
 <p>Le taux de réussite global des tâches est passé de 28&nbsp;% à 83&nbsp;% lorsque le BTN a à nouveau mise à l'essai les scénarios de tâches du prototype. Cela a poussé l'ARC à modifier rapidement les pages en ligne pour refléter la nouvelle conception.</p>
 <p><strong>Les volumes d'appels ont diminué</strong>&nbsp;: les pages remaniées ont été mises en ligne en décembre 2019. Au cours du premier trimestre de 2020, le nombre d'appels reçus par l'ACE pour demander &laquo;&nbsp;Quel sera le montant de mes versements&nbsp;&raquo; a diminué de plus de 50&nbsp;%. À l'inverse, les appels visant à poser la même question pour le crédit lié à la TPS, dont les pages n'avaient pas été remaniées, n'ont pas diminué au cours de cette même période.</p>
-<p><strong>Augmentation de l'utilisation du calculateur</strong>&nbsp;: l'utilisation du calculateur de prestations a doublé après que la page fut renommée &laquo;&nbsp;Combien vous pourriez recevoir&nbsp;&raquo; et que le lien vers le calculateur a été mis en évidence à l'aide d'un bouton vert. Entre avril et juin 2020, le nombre de visites sur la page en anglais du calculateur de prestations a presque doublé par rapport à ce qu'il était en 2019, totalisant 609 703 visites en 2020 par rapport à 341 492 visites en 2019. Les visites sur la page en français sont aussi passées de 76 124 en 2019 à 118 956 en 2020.</p>
+<p><strong>Augmentation de l'utilisation du calculateur</strong>&nbsp;: l'utilisation du calculateur de prestations a doublé après que la page fut renommée &laquo;&nbsp;Combien vous pourriez recevoir&nbsp;&raquo; et que le lien vers le calculateur a été mis en évidence à l'aide d'un bouton vert. Entre avril et juin 2020, le nombre de visites sur la page en anglais du calculateur de prestations a presque doublé par rapport à ce qu'il était en 2019, totalisant 609&nbsp;703 visites en 2020 par rapport à 341 492 visites en 2019. Les visites sur la page en français sont aussi passées de 76&nbsp;124 en 2019 à 118 956 en 2020.</p>
 <h2 id="ce-que-nous-avons-appris">Ce que nous avons appris</h2>
 <p><strong>Faire participer le centre d'appels aux projets d'optimisation.</strong> La collaboration avec l'équipe du centre d'appels s'est avérée une étape cruciale pour atteindre l'objectif de réduire le nombre d'appels. Assurez-vous de connaître les principaux facteurs d'appel et d'organiser le contenu de manière à répondre à ces questions plutôt que de simplement fournir l'ensemble des renseignements et de laisser les personnes chercher elles-mêmes les réponses.</p>
 <p><strong>Adaptez votre conception pour les utilisateurs d'appareils mobiles.</strong> Pour les services où l'utilisation d'appareils mobiles est élevée, le modèle de navigation de style métro constitue une amélioration importante par rapport à la navigation par onglets dans plusieurs pages. Il permet de diviser des étapes uniques sur plusieurs pages qui illustrent clairement les étapes et le cheminement sur un téléphone.</p>
