@@ -37,7 +37,7 @@ title: "Canada Child Benefit"
 <div class="row">
   <div class="mrgn-tp-md mrgn-bttm-md col-md-8">
     <div class="panel panel-default">
-      <table class="table table-responsive">
+      <table class="table table-responsive table-striped">
         <caption class="wb-inv">
         Task scenarios in baseline
         </caption>
