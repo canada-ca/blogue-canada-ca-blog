@@ -178,7 +178,7 @@ title: "Allocation canadienne pour enfants"
 <h4 id="réduire-la-complexité-à-laide-du-choix">Réduire la complexité à l'aide du choix</h4>
 <p>Les pages originales contenaient peu d'en-têtes qui étaient enfouis dans de longs blocs de texte expliquant chaque situation. Les gens avaient de la difficulté à trouver les réponses à partir de leur téléphone.</p>
 <p>Dans l'étude comparative, l'équipe a utilisé <a href="https://conception.canada.ca/configurations-conception-communes/contenu-reductible.html">le modèle afficher/masquer</a> pour masquer les réponses s'adressant à des groupes de personnes particuliers. Cette approche a été très concluante pour réduire la longueur des pages et pour aider les gens à choisir la réponse appropriée à leur situation.</p>
-<h4 id="retrait-de-lavise-de-non-responsabilité-bloquant-laccès">Retrait de l'avise de non-responsabilité bloquant l'accès</h4>
+<h4 id="retrait-de-lavise-de-non-responsabilité-bloquant-laccès">Retrait de l'avis de non-responsabilité bloquant l'accès</h4>
 <p>Sur le site Web en ligne, un long avis de non-responsabilité bloquait l'accès à un important outil de calcul des prestations, et il fallait cliquer sur le bouton &laquo;&nbsp;J'accepte&nbsp;&raquo; qui se trouvait sous la mise en garde pour être en mesure de le lancer. Les participants ne faisaient pas défiler l'avis de non-responsabilité pour atteindre le bouton, et certaines personnes qui trouvaient ce bouton hésitaient à cliquer sur &laquo;&nbsp;J'accepte&nbsp;&raquo;.  L'équipe a déplacé l'avis de non-responsabilité à la phase de réponse de l'outil, où il était pertinent de l'afficher, et a retiré l'étape &laquo;&nbsp;J'accepte&nbsp;&raquo;.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
