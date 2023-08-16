@@ -33,11 +33,12 @@ title: "Allocation canadienne pour enfants"
   <li>Dette et somme due (4,3&nbsp;%)</li>
 </ul>
 <p>L'équipe a sélectionné une série de ces scénarios pour définir une mesure de référence. Vingt parents canadiens utilisant des téléphones cellulaires ont mis à l'essai ces scénarios dans le cadre d'une étude de rendement liée aux tests d'utilisabilité avec modérateur. Le taux de réussite global était de 28&nbsp;% pour l'ensemble des sept scénarios de tâches. Cinq scénarios supplémentaires ont fait l'objet d'une mise à l'essai, mais moins de seize participants les ont réussi&nbsp;; ces scénarios n'ont donc pas été pris en considération dans le taux de réussite global.</p>
+<h3>Scénarios de tâches de la base de référence</h3>
 <div class="row">
   <div class="mrgn-tp-md mrgn-bttm-md col-md-8">
     <div class="panel panel-default">
       <table class="table table-responsive table-striped">
-        <caption class="bg-info">
+        <caption class="wb-inv">
         Scénarios de tâches de la base de référence
         </caption>
         <thead>
