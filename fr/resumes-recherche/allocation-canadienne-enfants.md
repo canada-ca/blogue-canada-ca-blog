@@ -37,7 +37,7 @@ title: "Allocation canadienne pour enfants"
   <div class="mrgn-tp-md mrgn-bttm-md col-md-8">
     <div class="panel panel-default">
       <table class="table table-responsive table-striped">
-        <caption class="text-left">
+        <caption class="bg-info">
         Scénarios de tâches de la base de référence
         </caption>
         <thead>
