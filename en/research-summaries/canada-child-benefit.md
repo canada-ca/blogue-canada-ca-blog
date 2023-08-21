@@ -33,7 +33,7 @@ title: "Canada Child Benefit"
   <li>Debt/amount owing (4.3%)</li>
 </ul>
 <p>The team selected a set of these scenarios to establish a baseline measurement. 20 Canadian parents on phones attempted the scenarios in a moderated usability performance study. The overall success rate was 28% across 7 task scenarios. An additional 5 scenarios were tested but fewer than 16 participants completed them so they weren’t included in the overall success score.</p>
-<h3>Task Scenarios in baseline</h3>
+<h3>Task scenarios in baseline</h3>
 <div class="row">
   <div class="mrgn-tp-md mrgn-bttm-md col-md-8">
     <div class="panel panel-default">
@@ -54,7 +54,7 @@ title: "Canada Child Benefit"
           </tr>
           <tr>
             <td>Calculate payment</td>
-            <td><p>Mart's second child was just born. How much Canada Child Benefit will Mart get every month? - Mart lives in Quebec, single with sole custody. 1st child is 2 years old - Made 60,000 last year - Will be on leave for next 12 months so will only make $30,000</p></td>
+            <td><p>Mart's second child was just born. How much Canada Child Benefit will Mart get every month? - Mart lives in Quebec, single with sole custody. 1st child is 2 years old - Made $60,000 last year - Will be on leave for next 12 months so will only make $30,000</p></td>
           </tr>
           <tr>
             <td>Payment date</td>
@@ -84,9 +84,9 @@ title: "Canada Child Benefit"
 </div>
 <p>The most common problems were not finding the page that held the answer (32% of participants had that problem) or not being able to determine the correct answer from the information on the page (for example mixing eligibility with entitlement).</p>
 <h2 id="design-solutions">Design solutions</h2>
-<p>The team focused on prototyping a design that would solve the problems seen in the baseline test. The existing pages used the service initiation template with the ordered multi-page navigation pattern.  Parents on phones couldn’t use the multi-page navigation effectively.</p>
+<p>The team focused on prototyping a design that would solve the problems observed in the baseline test. The existing pages used the service initiation template with the ordered multi-page navigation pattern.  Parents on phones couldn’t use the multi-page navigation effectively.</p>
 <p>It took up too much of the screen, and didn’t convey the grouped nature of the pages.  Some parents thought the page sets were “On this page” options. They also tended to avoid the Overview page.</p>
-<p>The team replaced the multi page navigation pattern with the new subway navigation pattern. The subway pattern differentiates sections in a tighter space and conveys the connections.</p>
+<p>The team replaced the multi-page navigation pattern with the new subway navigation pattern. The subway pattern differentiates sections in a tighter space and conveys the connections.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation" src="../images/ccb_overview_en.png" class="img-responsive" />
@@ -110,7 +110,7 @@ title: "Canada Child Benefit"
 <h4 id="new-index-page">New index page</h4>
 <p>In the subway navigation pattern, an index page replaces the Overview page. It has a title, brief description, and a step graphic that matches the subway steps menu. It provides an easy-to-scan landing page for the service that outlines each step. Landing pages help with both search engine optimization and support the information architecture. Users can navigate back to the index page through the breadcrumb.</p>
 <h4 id="step-pages">Step pages</h4>
-<p>In the original Service initiation template with the multi-page navigation pattern, people had problems navigating between pages, often selecting the button for the page they were already on.  The Subway pattern makes the steps clearer without repeating the title and positions the On this page pattern after the subway links. On desktop, the subway links appear on the right of the screen.</p>
+<p>In the original Service initiation template with the multi-page navigation pattern, people had problems navigating between pages, often selecting the button for the page they were already on.  The Subway pattern makes the steps clearer without repeating the title. It also positions the On this page pattern after the subway links. On desktop, the subway links appear on the right of the screen.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation and new subway navigation" src="../images/ccb_subway_en.png" class="img-responsive" />
@@ -192,8 +192,6 @@ title: "Canada Child Benefit"
     </figure>
   </div>
 </div>
-<h4 id="other-improvements">Other improvements</h4>
-<p>Since the optimization project, CRA has developed sub-steps that will help users to focus on specific parts of their journey. See the recent blog post on the subway pattern to understand new developments on the pattern.</p>
 <h2 id="measuring-outcomes">Measuring outcomes</h2>
 <p>The overall task success went up from 28% to 83% when DTO retested the task scenarios on the prototype. This prompted CRA to move quickly to change the live pages to reflect the new design.</p>
 <p><strong>Call volumes dropped</strong>: the redesigned pages went live in December 2019. In Q1 of 2020, calls for CCB asking “how much will my payment be” dropped by more than 50%. In contrast, calls for the same question for the GST credit - without redesigned pages - didn’t drop during the same period.</p>
