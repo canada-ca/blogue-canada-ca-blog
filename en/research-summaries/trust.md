@@ -35,7 +35,7 @@ title: "Trust study"
       <figcaption>
         <details>
           <summary>Image description: Interactive trust exercise</summary>
-          <p class="mrgn-tp-lg">A sample of the survey experience for respondents using a desktop computer. Two similar Canada.ca webpages are displayed side-by-side. The survey tells the user to click the image that they trust the most as the official Government of Canada website. If they trust them equally, the user is instructed to click 'same'.</p>
+          <p class="mrgn-tp-lg">A sample of the survey experience for respondents using a desktop computer. Two similar Canada.ca webpages are displayed side-by-side. The survey tells the user to click the image that they trust the most as the official Government of Canada website. If they trust them equally, the user is instructed to click "same".</p>
         </details>
       </figcaption>
     </figure>
@@ -68,7 +68,7 @@ title: "Trust study"
 <ul>
   <li><em>74% trust the coloured flag more</em></li>
   <li><em>5% trust the black and white flag</em></li>
-  <li><em>21% chose 'same'</em></li>
+  <li><em>21% chose "same"</em></li>
 </ul>  
 <p>These results were consistent across age and type of device.</p>
 <p>The study found that specifically, the background of the image should be white, ideally even in dark mode, to make the flag stand out. The black and white version seemed to hit a nerve with respondents, as it was often mentioned in the closing comments. We received comments such as:</p>
