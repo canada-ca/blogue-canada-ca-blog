@@ -66,9 +66,9 @@ title: "Trust study"
 <h3 id="red-trusted-more-than-black-and-white">Red trusted more than black and white</h3>
 <p>When presented with the official FIP flag symbol in red and in black and white, participants trusted the coloured version of the flag more. According to the study:</p>
 <ul>
-  <li><em>74% trust the coloured flag more</em></li>
-  <li><em>5% trust the black and white flag</em></li>
-  <li><em>21% chose "same"</em></li>
+  <li>74% trust the coloured flag more</li>
+  <li>5% trust the black and white flag</li>
+  <li>21% chose "same"</li>
 </ul>  
 <p>These results were consistent across age and type of device.</p>
 <p>The study found that specifically, the background of the image should be white, ideally even in dark mode, to make the flag stand out. The black and white version seemed to hit a nerve with respondents, as it was often mentioned in the closing comments. We received comments such as:</p>
