@@ -64,16 +64,19 @@ title: "Étude sur la confiance"
   <li>&laquo;&nbsp;Le drapeau a plus de sens, l’autre ne fait pas officiel&nbsp;&raquo;</li>
 </ul>
 <h3 id="le-rouge-inspire-plus-de-confiance-que-le-noir-et-blanc">Le rouge inspire plus de confiance que le noir et blanc</h3>
-<p>Lorsqu’on leur montre le symbole officiel du drapeau du PCIM en rouge ainsi qu’en noir et blanc, <span class="nowrap">74%</span> des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Les résultats obtenus sont cohérents, quels que soient l’âge des personnes interrogées et le type d’appareil utilisé pour répondre à l’étude.</p>
+<p>Lorsqu’on leur montre le symbole officiel du drapeau du PCIM en rouge ainsi qu’en noir et blanc, des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Selon <span class="nowrap">l'étdue :</span></p> 
+<ul>
+  <li><span class="nowrap">74 %</span> des personnes font plus confiance au drapeau coloré.</li>
+  <li><span class="nowrap">5 %</span> des personnes font confiance au drapeau noir et blanc.</li>
+  <li><span class="nowrap">21 %</span> d’entre elles ont indiqué que les deux drapeaux leur inspiraient le même niveau de confiance.</li>
+</ul>  
+<p>Les résultats obtenus sont cohérents, quels que soient l’âge des personnes interrogées et le type d’appareil utilisé pour répondre à l’étude.</p>
 <p>Plus spécifiquement, les personnes interrogées privilégient un arrière-plan blanc qui fait ressortir le drapeau, même en mode sombre. Les commentaires reçus sur la version noir et blanc sont sans équivoque. En voici <span class="nowrap">quelques-uns :</span></p>
 <ul>
   <li>&laquo;&nbsp;Le drapeau en haut à gauche devrait être en couleur&nbsp;&raquo;</li>
   <li>&laquo;&nbsp;Le drapeau à la feuille d’érable est celui qui m’inspire le plus confiance&nbsp;&raquo;</li>
   <li>&laquo;&nbsp;Le drapeau doit être rouge et blanc, pas noir et blanc&nbsp;&raquo;</li>
 </ul>
-<p><span class="nowrap">74 %</span> des personnes font plus confiance au drapeau coloré.</p>
-<p><span class="nowrap">5 %</span> des personnes font confiance au drapeau noir et blanc.</p>
-<p><span class="nowrap">21 %</span> d’entre elles ont indiqué que les deux drapeaux leur inspiraient le même niveau de confiance.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de l'enquête sur le symbole PCIM du gouvernement du Canada" src="../images/pnj-fr.png" class="img-responsive" />
