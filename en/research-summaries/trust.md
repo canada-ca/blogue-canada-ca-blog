@@ -64,16 +64,20 @@ title: "Trust study"
   <li><em>"The flag makes more sense, the other doesn't feel official"</em></li>
 </ul>
 <h3 id="red-trusted-more-than-black-and-white">Red trusted more than black and white</h3>
-<p>When presented with the official FIP flag symbol in red and in black and white, 74% of the participants trusted the coloured version of the flag more. These results were consistent across age and type of device.</p>
+<p>When presented with the official FIP flag symbol in red and in black and white, participants trusted the coloured version of the flag more. According to the study:</p>
+<ul>
+  <li><em>74% trust the coloured flag more</em></li>
+  <li><em>5% trust the black and white flag</em></li>
+  <li><em>21% chose 'same'</em></li>
+</ul>  
+<p>These results were consistent across age and type of device.</p>
 <p>The study found that specifically, the background of the image should be white, ideally even in dark mode, to make the flag stand out. The black and white version seemed to hit a nerve with respondents, as it was often mentioned in the closing comments. We received comments such as:</p>
 <ul>
   <li><em>"The flag in upper left should be in colour"</em></li>
   <li><em>"The red leaf flag is most trusted"</em></li>
   <li><em>"The flag should have red and white, never black and white"</em></li>
 </ul>
-<p>74% trust the coloured flag more</p>
-<p>5% trust the black and white flag</p>
-<p>21% chose 'same'</p>
+
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada FIP symbol test" src="../images/ydg-en.png" class="img-responsive" />
@@ -92,7 +96,7 @@ title: "Trust study"
   <li><em>"The URL not only includes but starts with canada.ca, anything other worries me that the site is not official or being spoofed"</em></li>
 </ul>
 <h3 id="menu-button-isnt-essential-to-the-brand">Menu button isn't essential to the brand</h3>
-<p>We found that the menu button was not essential to user trust. When shown designs with and without the menu button, 41% of respondents chose 'same'. This demonstrated that they didn't notice the difference, or were equally trusting, in both designs. This was the only question in the study where more people chose "same" more often than one of the images.</p>
+<p>We found that the menu button was not essential to user trust. When shown designs with and without the menu button, 41% of respondents chose "same". This demonstrated that they didn't notice the difference, or were equally trusting, in both designs. This was the only question in the study where more people chose "same" more often than one of the images.</p>
 <h3 id="sign-in-needs-consistent-design-across-accounts">Sign in needs consistent design across accounts</h3>
 <p>Signing in to an account is sometimes associated with phishing and spoofing so we wanted to determine what sign in design is more trusted. We included a study question which displayed images of an account sign in page. One version had a familiar Canada.ca green "supertask" button. The other version had unique blue and red buttons. 43% of the respondents trusted the page with the green buttons. 37% trusted the page with unique buttons.</p>
 <p>Respondents mentioned the importance of consistency and familiarity for sign in pages. They expect a consistent design for the Canada.ca brand to help them avoid fraud.</p>
