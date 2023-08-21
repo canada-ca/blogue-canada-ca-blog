@@ -110,7 +110,7 @@ title: "Allocation canadienne pour enfants"
 <h4 id="nouvelle-page-dindex">Nouvelle page d'index</h4>
 <p>Dans le modèle de navigation de style métro, une page d'index remplace la page &laquo;&nbsp;Aperçu&nbsp;&raquo;. Elle comporte un titre, une brève description et un graphique des étapes qui correspond au menu des étapes (les stations de métro). Elle constitue une page d'accueil facile à survoler décrivant chacune des étapes du service. Non seulement les pages d'accueil favorisent le référencement naturel, mais elles soutiennent également l'architecture de l'information. Les utilisateurs peuvent revenir à la page d'index à l'aide du fil d'Ariane.</p>
 <h4 id="pages-des-étapes">Pages des étapes</h4>
-<p>Dans le modèle original de page de lancement d'un service avec la configuration relative à la navigation dans plusieurs pages, les gens éprouvaient des problèmes à naviguer d'une page à l'autre et cliquaient souvent sur le bouton de la page sur laquelle ils se trouvaient déjà.  La configuration de navigation de style métro rend les étapes plus claires sans répéter le titre et place la configuration &laquo;&nbsp;Sur cette page&nbsp;&raquo; après les liens de navigation de style métro. Sur un ordinateur de bureau, les liens de navigation de style métro apparaissent du côté droit de l'écran.</p>
+<p>Dans le modèle original de page de lancement d'un service avec la configuration relative à la navigation dans plusieurs pages, les gens éprouvaient des problèmes à naviguer d'une page à l'autre et cliquaient souvent sur le bouton de la page sur laquelle ils se trouvaient déjà.  La configuration de navigation de style métro rend les étapes plus claires sans répéter le titre. Elle positionne la configuration &laquo;&nbsp;Sur cette page&nbsp;&raquo; après les liens de navigation de style métro. Sur un ordinateur de bureau, les liens de navigation de style métro apparaissent du côté droit de l'écran.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Capture d'écran de l'ancien modèle de navigation dans plusieurs pages ordonnées et du nouveau modèle de navigation de style métro de l'allocation canadienne pour enfants" src="../images/ccb_nav_metro_fr.png" class="img-responsive" />
@@ -192,8 +192,6 @@ title: "Allocation canadienne pour enfants"
     </figure>
   </div>
 </div>
-<h4 id="autres-améliorations">Autres améliorations</h4>
-<p>Depuis la fin du projet d'optimisation, l'ARC a élaboré des sous-étapes qui aideront les utilisateurs à se concentrer sur des parties précises de leur parcours. Consultez le récent billet de blogue sur le modèle de navigation de style métro pour comprendre les nouveaux changements apportés au modèle.</p>
 <h2 id="mesure-des-résultats">Mesure des résultats</h2>
 <p>Le taux de réussite global des tâches est passé de 28&nbsp;% à 83&nbsp;% lorsque le BTN a à nouveau mise à l'essai les scénarios de tâches du prototype. Cela a poussé l'ARC à modifier rapidement les pages en ligne pour refléter la nouvelle conception.</p>
 <p><strong>Les volumes d'appels ont diminué</strong>&nbsp;: les pages remaniées ont été mises en ligne en décembre 2019. Au cours du premier trimestre de 2020, le nombre d'appels reçus par l'ACE pour demander &laquo;&nbsp;Quel sera le montant de mes versements&nbsp;&raquo; a diminué de plus de 50&nbsp;%. À l'inverse, les appels visant à poser la même question pour le crédit lié à la TPS, dont les pages n'avaient pas été remaniées, n'ont pas diminué au cours de cette même période.</p>
