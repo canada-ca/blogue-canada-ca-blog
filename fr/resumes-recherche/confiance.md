@@ -64,7 +64,7 @@ title: "Étude sur la confiance"
   <li>&laquo;&nbsp;Le drapeau a plus de sens, l’autre ne fait pas officiel&nbsp;&raquo;</li>
 </ul>
 <h3 id="le-rouge-inspire-plus-de-confiance-que-le-noir-et-blanc">Le rouge inspire plus de confiance que le noir et blanc</h3>
-<p>Lorsqu’on leur montre le symbole officiel du drapeau du PCIM en rouge ainsi qu’en noir et blanc, des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Selon <span class="nowrap">l'étdue :</span></p> 
+<p>Lorsqu’on leur montre le symbole officiel du drapeau du PCIM en rouge ainsi qu’en noir et blanc, des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Selon <span class="nowrap">l'étude :</span></p> 
 <ul>
   <li><span class="nowrap">74 %</span> des personnes font plus confiance au drapeau coloré.</li>
   <li><span class="nowrap">5 %</span> des personnes font confiance au drapeau noir et blanc.</li>
@@ -92,7 +92,7 @@ title: "Étude sur la confiance"
 <h3 id="le-domaine-canadaca-plus-digne-de-confiance-que-le-domaine-gcca">Le domaine Canada.ca plus digne de confiance que le domaine .gc.ca</h3>
 <p>Dans le cadre de l’étude, les personnes interrogées ont été invitées à faire leur choix entre des URL utilisant le domaine Canada.ca et le domaine gc.ca. En fin de compte, <span class="nowrap">60 %</span> d’entre elles ont déclaré que l’URL Canada.ca leur inspirait plus de confiance qu’une URL .gc.ca similaire. L’URL Canada.ca est particulièrement importante pour les nombreuses personnes qui ont appris qu’elles devraient davantage se fier aux URL qu’à la conception des pages.</p>
 <ul>
-  <li>&laquo;&nbsp;L’URL inclut le domaine canada.ca. et commence même par lui. Si ce n’était pas le cas, j’aurais peur qu’il s’agisse d’un site non officiel ou falsifié&nbsp;&raquo;</li>
+  <li>&laquo;&nbsp;L’URL inclut le domaine canada.ca. et commence même par lui. Si ce n’était pas le cas, j’aurais peur qu’il s’agisse d’un site non officiel ou falsifié&nbsp;&raquo;.</li>
 </ul>
 <h3 id="le-bouton-de-menu-nest-pas-essentiel-à-la-marque">Le bouton de menu n’est pas essentiel à la marque</h3>
 <p>D’après les résultats de l’étude, le bouton de menu n’est pas essentiel à la confiance des utilisateurs. Dans les questions portant sur des conceptions avec et sans bouton de menu, <span class="nowrap">41 %</span> des personnes interrogées ont estimé qu’il n’y avait pas de différence. Ce résultat peut indiquer qu’ils n’avaient pas remarqué la différence ou que les deux conceptions leur inspiraient le même niveau de confiance. Il s’agit par ailleurs de la seule question de l’étude pour laquelle le nombre de personnes qui ont déclaré ne pas voir de différence a été plus important que sur les autres réponses possibles.</p>
