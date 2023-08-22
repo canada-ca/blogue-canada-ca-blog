@@ -105,7 +105,7 @@ title: "Trust study"
 <p><a href="https://design.canada.ca/survey/index.html">GC Task Success Survey</a>: The GC Task Success Survey is a continuously running web intercept survey that asks questions related to three key elements: task success, ease, and satisfaction.</p>
 <p><a href="https://design.canada.ca/continuous-improvement/monitoring/feedback.html">Page feedback tool</a>: This tool allows users to provide feedback for the page they are on. It can help departments uncover common issues in their content.</p>
 <h2 id="next-steps">Next steps</h2>
-<p>As a result of this research, we updated the global header guidance in the Canada.ca design system to reflect the importance of the red FIP flag symbol. We also continue to work with departments and agencies to ensure full adoption of the Canada.ca design, including the Canada.ca domain. In addition, we're collaborating with departments and agencies to develop a consistent sign in pattern.</p>
+<p>As a result of this research, we updated the global header guidance in the Canada.ca design system to reflect the importance of the red FIP flag symbol and to provide a consistent spot for the Sign in button. We also continue to work with departments and agencies to ensure full adoption of the Canada.ca design, including the Canada.ca domain. In addition, we're collaborating with departments and agencies to develop a consistent sign in pattern.</p>
 <div class="row">
   <div class="mrgn-tp-md mrgn-bttm-lg col-md-8">
     <div class="wb-fnote" role="note">
