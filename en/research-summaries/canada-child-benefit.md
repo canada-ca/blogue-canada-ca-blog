@@ -110,7 +110,7 @@ title: "Canada Child Benefit"
 <h4 id="new-index-page">New index page</h4>
 <p>In the subway navigation pattern, an index page replaces the Overview page. It has a title, brief description, and a step graphic that matches the subway steps menu. It provides an easy-to-scan landing page for the service that outlines each step. Landing pages help with both search engine optimization and support the information architecture. Users can navigate back to the index page through the breadcrumb.</p>
 <h4 id="step-pages">Step pages</h4>
-<p>In the original Service initiation template with the multi-page navigation pattern, people had problems navigating between pages, often selecting the button for the page they were already on.  The Subway pattern makes the steps clearer without repeating the title. It also positions the On this page pattern after the subway links. On desktop, the subway links appear on the right of the screen.</p>
+<p>In the original Service initiation template with the multi-page navigation pattern, people had problems navigating between pages, often selecting the button for the page they were already on.  The Subway pattern makes the steps clearer without repeating the title. It also positions the "On this page" pattern after the subway links. On desktop, the subway links appear on the right of the screen.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Canada Child Benefit previous multi-page navigation and new subway navigation" src="../images/ccb_subway_en.png" class="img-responsive" />
