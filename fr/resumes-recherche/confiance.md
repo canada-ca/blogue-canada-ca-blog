@@ -16,16 +16,16 @@ share: true
 section-title: "Résumé de recherche"
 title: "Étude sur la confiance"
 ---
-<p>Le Canada connaît un nombre sans précédent de cas de fraude ces dernières années<sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup>. Dans la plupart de ces cas, on a recours à la technologie pour cibler ses victimes. Il est donc plus important que jamais de veiller à ce que les utilisateurs soient en mesure de reconnaître les sites Web officiels du gouvernement du Canada (GC).</p>
-<p>Préserver une cohérence sur le plan de la conception est crucial pour obtenir la confiance des utilisateurs. De plus, des recherches antérieures effectuées dans le cadre du projet Orientation semblent montrer que l’usage d’éléments de communication graphiques cohérents sur les sites du gouvernement du Canada contribue à renforcer la confiance.</p>
-<p>Le Bureau de la transformation numérique (BTN) a mené une étude sur la confiance afin de déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque du gouvernement du Canada. Au cours de l’étude, les sondeurs ont mesuré et comparé le niveau de confiance des personnes interrogées concernant les éléments <span class="nowrap">suivants :</span></p>
+<p>Le Canada connaît un nombre sans précédent de cas de fraude ces dernières années<sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup>. Dans la plupart de ces cas, on cible les victimes à travers des sites internet qui tentent de ressemble à des sites officiels. Il est donc plus important que jamais de veiller à ce que les utilisateurs soient en mesure de reconnaître les sites Web officiels du gouvernement du Canada (GC).</p>
+<p>Préserver une cohérence sur le plan de la conception est crucial pour obtenir la confiance des utilisateurs. Notre projet de recherche Orientation suggère que l'usage d'éléments de communication graphiques cohérents d'une page à l'autre contribue à renforcer la confiance des utilisateurs dans le fait qu'ils se trouvent sur des sites officiels du gouvernement du Canada.</p>
+<p>Le Bureau de la transformation numérique (BTN) a mené une étude sur la confiance afin de déterminer lesquels des éléments de communication graphiques inspirent le plus de confiance aux utilisateurs par rapport à la marque Canada.ca. Au cours de l’étude, les sondeurs ont mesuré et comparé le niveau de confiance des personnes interrogées concernant les éléments <span class="nowrap">suivants :</span></p>
 <ul>
-  <li>Symbole du drapeau du Programme de coordination de l’image de marque (PCIM)</li>
+  <li>Signatures avec le symbole du drapeau du Programme fédéral de l'image de marque (PFIM)</li>
   <li>Domaine Canada.ca</li>
   <li>Bouton de menu thématique</li>
   <li>Bouton de connexion</li>
 </ul>
-<p>Les résultats montrent que le PCIM est essentiel à la marque et doit être en couleur (rouge). Le domaine Canada.ca et un modèle de connexion cohérent ont également été déterminés comme étant des éléments importants pour ce qui est de la confiance des utilisateurs. En revanche, le bouton de menu thématique ne constitue pas un élément essentiel pour gagner leur confiance.</p>
+<p>Les résultats montrent que la signature du gouvernement du Canada avec le symbole du drapeau est essentielle à la marque et que l'usage du drapeau rouge procure le plus haut niveau de confiance. Le domaine Canada.ca et un modèle de connexion cohérent ont également été déterminés comme étant des éléments importants pour ce qui est de la confiance des utilisateurs. En revanche, le bouton de menu thématique ne constitue pas un élément essentiel pour gagner leur confiance.</p>
 <h2 id="méthode">Méthode</h2>
 <p>Du 9 au 22 juin 2022, nous avons réalisé une étude interactive sur la confiance auprès de <span class="nowrap">2 726</span> personnes recrutées directement au moyen d’une invitation lancée sur les sites Canada.ca. Au total, quatre versions de l’étude ont été créées, dans les deux langues officielles et dans les formats pour téléphone cellulaire et ordinateur. <span class="nowrap">48 %</span> des participants à l’étude ont répondu depuis le Canada. <span class="nowrap">78 %</span> d’entre eux ont utilisé le questionnaire en anglais et <span class="nowrap">73 %</span> ont répondu à toutes les questions.</p>
 <p>Pour chaque question, les personnes voyaient s’afficher deux images d’éléments de la marque présentant de légères variations. Chaque fois, elles devaient désigner l’image qui leur semblait la plus digne de confiance. Si leur niveau de confiance était le même pour les deux images, elles avaient la possibilité de l’indiquer.</p>
@@ -42,16 +42,16 @@ title: "Étude sur la confiance"
   </div>
 </div>
 <p>Avant de lancer officiellement l’étude, nous avons réalisé une étude pilote auprès de 35 personnes, auxquelles nous avons demandé d’expliciter leurs réponses lors de sessions d’enregistrement d’écran. Cette phase qualitative a permis à la fois d’affiner la conception de l’étude et de comprendre dans le détail les logiques et moteurs qui motivent les décisions des personnes. Nous avons également voulu tester la capacité des gens à faire la différence entre confiance et préférence.</p>
-<p>Ces premières réponses ont montré que, même si les notions de confiance et de préférence peuvent se recouper un peu, la plupart des personnes font la distinction. Lorsqu’elles désignent un élément comme étant digne de confiance, elles utilisent fréquemment des termes tels que &laquo;&nbsp;sûr&nbsp;&raquo;, &laquo;&nbsp;officiel&nbsp;&raquo;, &laquo;&nbsp;professionnel&nbsp;&raquo;. Dans la section des commentaires de clôture, elles ont souvent mentionné le symbole du drapeau, dans le coin supérieur gauche.</p>
+<p>Ces premières réponses ont montré que, même si les notions de confiance et de préférence peuvent se recouper un peu, la plupart des personnes font la distinction. Lorsqu’elles désignent un élément comme étant digne de confiance, elles utilisent fréquemment des termes tels que &laquo;&nbsp;sûr&nbsp;&raquo;, &laquo;&nbsp;officiel&nbsp;&raquo;, &laquo;&nbsp;professionnel&nbsp;&raquo;. Dans la section des commentaires de clôture, elles ont souvent mentionné le symbole du drapeau rouge, dans le coin supérieur gauche.</p>
 <h2 id="les-enseignements-de-létude">Les enseignements de l’étude</h2>
-<p>L’étude démontre que le symbole du drapeau rouge du PCIM, suivi de la signature du gouvernement du Canada, est essentiel à la confiance envers la marque Canada.ca. La grande majorité des personnes interrogées lui font davantage confiance que le mot-symbole &laquo;&nbsp;Canada&nbsp;&raquo; ou toute autre version de la signature du GC.</p>
+<p>L’étude démontre que la signature du gouvernement du Canada avec le symbole du drapeau rouge et des caractères noirs sur fond blanc a le plus haut niveau de confiance envers la marque Canada.ca. La grande majorité des personnes interrogées font davantage confiance à cette version qu'à toute autre version de la signature du GC.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran du symbole PCIM du gouvernement du Canada" src="../images/fip-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs" src="../images/fip-fr.png" class="img-responsive" />
       <figcaption>
         <details close="">
-          <summary>Description de l'image : symbole PCIM du gouvernement du Canada</summary>
-          <p class="mrgn-tp-lg">L'étude a montré que cette version du PCIM est l'élément auquel les participants accordent le plus de confiance.</p>
+          <summary>Description de l'image : signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs</summary>
+          <p class="mrgn-tp-lg">L'étude a montré que cette version de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs est l'élément auquel les participants accordent le plus de confiance.</p>
         </details>
       </figcaption>
     </figure>
@@ -64,7 +64,7 @@ title: "Étude sur la confiance"
   <li>&laquo;&nbsp;Le drapeau a plus de sens, l’autre ne fait pas officiel&nbsp;&raquo;</li>
 </ul>
 <h3 id="le-rouge-inspire-plus-de-confiance-que-le-noir-et-blanc">Le rouge inspire plus de confiance que le noir et blanc</h3>
-<p>Lorsqu’on leur montre le symbole officiel du drapeau du PCIM en rouge ainsi qu’en noir et blanc, des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Selon <span class="nowrap">l'étude :</span></p> 
+<p>Lorsqu’on leur montre le symbole officiel du drapeau du PFIM en rouge ainsi qu’en noir et blanc, des participants indiquent avoir davantage confiance dans la version couleur du drapeau. Selon <span class="nowrap">l'étude :</span></p> 
 <ul>
   <li><span class="nowrap">74 %</span> des personnes font plus confiance au drapeau coloré.</li>
   <li><span class="nowrap">5 %</span> des personnes font confiance au drapeau noir et blanc.</li>
@@ -79,11 +79,11 @@ title: "Étude sur la confiance"
 </ul>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de l'enquête sur le symbole PCIM du gouvernement du Canada" src="../images/pnj-fr.png" class="img-responsive" />
+    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de l'enquête sur le symbole PFIM du gouvernement du Canada" src="../images/pnj-fr.png" class="img-responsive" />
       <figcaption>
         <details>
-          <summary>Description de l'image : test du symbole PCIM du gouvernement du Canada</summary>
-          <p class="mrgn-tp-lg">À gauche, une page liée aux emplois pour les jeunes affiche la version couleur du symbole du drapeau du PCIM. À droite, la même page affiche le symbole en noir et blanc.</p>
+          <summary>Description de l'image : test du symbole PFIM du gouvernement du Canada</summary>
+          <p class="mrgn-tp-lg">À gauche, une page liée aux emplois pour les jeunes affiche la version couleur du symbole du drapeau du PFIM. À droite, la même page affiche le symbole en noir et blanc.</p>
         </details>
       </figcaption>
     </figure>
@@ -100,11 +100,11 @@ title: "Étude sur la confiance"
 <p>La connexion à un compte est parfois associée à des tentatives d’hameçonnage et d’usurpation d’identité. Nous avons donc voulu désigner le modèle de connexion qui inspirait le plus confiance aux personnes interrogées. Une des questions de l’étude portait sur différentes conceptions de page de connexion à un compte. Sur l’une d’entre elles était affiché un bouton vert de &laquo;&nbsp;super-tâche&nbsp;&raquo;, courant sur les sites Canada.ca. L’autre version comportait des boutons bleus et rouges uniques. <span class="nowrap">43 %</span> des personnes interrogées ont indiqué avoir plus confiance dans la page affichant des boutons verts. <span class="nowrap">37 %</span> d’entre elles ont désigné la page affichant des boutons uniques.</p>
 <p>Toutes ont souligné l’importance de la cohérence et du caractère familier des pages de connexion. Elles attendent de la marque Canada.ca une conception cohérente qui leur permette d’échapper aux tentatives de fraude.</p>
 <h2 id="autres-résultats">Autres résultats</h2>
-<p>Les derniers commentaires ouverts des personnes interrogées laissent entrevoir le souhait d’une meilleure expérience utilisateur. Les utilisateurs souhaitent que Canada.ca soit plus simple et plus fonctionnel. Nous encourageons les ministères à optimiser continuellement leur présence sur le Web, en s’appuyant sur les recherches et les données probantes obtenues. Des outils tels que le Sondage sur la réussite des tâches du GC et l’outil de rétroaction sur la page peuvent vous aider à recueillir ces données pour décider des améliorations à apporter.</p>
+<p>Les derniers commentaires ouverts des personnes interrogées laissent entrevoir le souhait d’une meilleure expérience utilisateur. Les utilisateurs souhaitent que Canada.ca soit plus simple et plus fonctionnel. Nous encourageons les ministères à améliorer continuellement leur présence sur le Web, en s’appuyant sur les recherches et les données probantes obtenues. Des outils tels que le Sondage sur la réussite des tâches du GC et l’outil de rétroaction sur la page peuvent vous aider à recueillir ces données pour décider des améliorations à apporter.</p>
 <p><a href="https://conception.canada.ca/sondage/index.html">Sondage sur la réussite des tâches</a> : ce sondage en ligne qui se déroule en continu comprend des questions sur trois sujets principaux, à savoir la réussite des tâches, ainsi que la facilité et la satisfaction de l’utilisation.</p>
 <p><a href="https://conception.canada.ca/amelioration-continue/mesure/retroaction.html">Outil de rétroaction sur la page</a> : cet outil permet aux utilisateurs de fournir des commentaires sur la page sur laquelle ils se trouvent. Il peut ainsi aider les ministères à cerner des problèmes courants dans leur contenu.</p>
 <h2 id="prochaines-étapes">Prochaines étapes</h2>
-<p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PCIM et de fournir un endroit cohérent pour le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
+<p>À la suite de cette recherche, nous avons mis à jour les directives relatives à l’en-tête général dans le système de conception de Canada.ca pour tenir compte de l’importance que les personnes accordent au symbole du drapeau rouge du PFIM et de fournir un endroit cohérent pour le bouton &laquo;&nbsp;Se connecter&nbsp;&raquo;. Nous continuons de travailler avec les ministères et organismes pour non seulement assurer l’adoption complète de la conception Canada.ca, y compris le domaine Canada.ca, mais aussi élaborer un modèle de connexion cohérent.</p>
 <div class="row">
   <div class="mrgn-tp-md mrgn-bttm-lg col-md-8">
     <div class="wb-fnote" role="note">
