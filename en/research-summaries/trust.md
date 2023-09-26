@@ -48,7 +48,6 @@ title: "Trust study"
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type." src="../images/fip-en.png" class="img-responsive" />
-      <figcaption>Image description: Government of Canada signature in the standard colours of a red flag symbol and black type.</figcaption>
     </figure>
   </div>
 </div>
