@@ -45,7 +45,6 @@ title: "Trust study"
 <p>These early answers showed that while there is some overlap between trust and preference, most understood the difference. Respondents described their trust choices most often with terms like "safe", "official", "professional". In the closing comments section, they often mentioned the red flag symbol in the upper left corner.</p>
 <h2 id="what-we-learned">What we learned</h2>
 <p>The study showed that the Government of Canada signature with a red flag symbol and black type, on a white background, has the highest level of trust of the Canada.ca brand. The vast majority of respondents trust this version more than any other version of the GC signature.</p>
-<p><img src="../images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive"></p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
   <img src="../images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive">
