@@ -48,12 +48,7 @@ title: "Trust study"
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type." src="../images/fip-en.png" class="img-responsive" />
-      <figcaption>
-        <details>
-          <summary>Image description: Government of Canada signature in the standard colours of a red flag symbol and black type</summary>
-          <p class="mrgn-tp-lg">The study found that the version of the Government of Canada signature in the standard colours of a red flag symbol and black type was the most trusted element.</p>
-        </details>
-      </figcaption>
+      <figcaption>Image description: Government of Canada signature in the standard colours of a red flag symbol and black type.</figcaption>
     </figure>
   </div>
 </div>
