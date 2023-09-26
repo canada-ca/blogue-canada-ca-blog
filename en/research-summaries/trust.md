@@ -48,8 +48,7 @@ title: "Trust study"
 <p><img src="../images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive"></p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"> <img alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type." src="../images/fip-en.png" class="img-responsive" />
-    </figure>
+  <img src="../images/fip-en.png" alt="Screenshot of Government of Canada signature in the standard colours of a red flag symbol and black type" class="responsive">
   </div>
 </div>
 <p>Only 8% of respondents chose the page without the flag as trustworthy. The flag was often mentioned, with comments such as:</p>
