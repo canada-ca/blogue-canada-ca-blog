@@ -47,8 +47,7 @@ title: "Étude sur la confiance"
 <p>L’étude démontre que la signature du gouvernement du Canada avec le symbole du drapeau rouge et des caractères noirs sur fond blanc a le plus haut niveau de confiance envers la marque Canada.ca. La grande majorité des personnes interrogées font davantage confiance à cette version qu'à toute autre version de la signature du GC.</p>
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
-    <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs" src="../images/fip-fr.png" class="img-responsive" />
-    </figure>
+<img src="../images/fip-fr.png" alt="Capture d'écran de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs" class="img-responsive" />
   </div>
 </div>
 <p>Seules <span class="nowrap">8 %</span> des personnes interrogées ont considéré la page sans drapeau comme digne de confiance. Le drapeau a souvent été mentionné, avec des commentaires tels que les suivants<span class="nowrap"> : </span></p>
