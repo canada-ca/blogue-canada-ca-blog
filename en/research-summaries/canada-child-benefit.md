@@ -54,7 +54,7 @@ title: "Canada Child Benefit"
           </tr>
           <tr>
             <td>Calculate payment</td>
-            <td><p>Mart's second child was just born. How much Canada Child Benefit will Mart get every month? - Mart lives in Quebec, single with sole custody. 1st child is 2 years old - Made $60,000 last year - Will be on leave for next 12 months so will only make $30,000</p></td>
+            <td><p>Mart's second child was just born. How much Canada Child Benefit will Mart get every month? - Mart lives in Quebec, single with sole custody. 1st child is 2 years old - Made $60,000 last year - Will be on leave for next 12 months so will only make $30,000.</p></td>
           </tr>
           <tr>
             <td>Payment date</td>
