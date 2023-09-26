@@ -48,12 +48,6 @@ title: "Étude sur la confiance"
 <div class="row">
   <div class="mrgn-tp-lg mrgn-bttm-md col-md-8">
     <figure class="gc-complex-img" role="group"><img alt="Capture d'écran de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs" src="../images/fip-fr.png" class="img-responsive" />
-      <figcaption>
-        <details close="">
-          <summary>Description de l'image : signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs</summary>
-          <p class="mrgn-tp-lg">L'étude a montré que cette version de la signature du gouvernement du Canada dans les couleurs standards du symbole du drapeau rouge et des caractères noirs est l'élément auquel les participants accordent le plus de confiance.</p>
-        </details>
-      </figcaption>
     </figure>
   </div>
 </div>
