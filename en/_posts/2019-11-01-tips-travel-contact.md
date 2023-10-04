@@ -83,17 +83,17 @@ Improving user success is an ongoing and iterative process. It’s a bit like pe
   <div class="col-md-4">
     <h3>Original content</h3>
     <p class="text-success">18% success</p>
-    <img class="img-responsive center-block" alt="CRA mailing address original content." src="/en/images/tips-travel-contact/mailing-success-1.png"/>
+    <img class="img-responsive center-block" alt="CRA mailing address original content." src="/images/tips-travel-contact/mailing-success-1.png"/>
   </div>
   <div class="col-md-4">
     <h3>1st design: wizard</h3>
     <p class="text-success">61% success</p>
-    <img class="img-responsive center-block" alt="CRA mailing address wizard success." src="/en/images/tips-travel-contact/mailing-success-2.png"/>
+    <img class="img-responsive center-block" alt="CRA mailing address wizard success." src="/images/tips-travel-contact/mailing-success-2.png"/>
   </div>
   <div class="col-md-4">
     <h3>2nd design: lookup</h3>
     <p class="text-success">94% success</p>
-    <img class="img-responsive center-block" alt="CRA postal code lookup success." src="/en/images/tips-travel-contact/mailing-success-3.png"/>
+    <img class="img-responsive center-block" alt="CRA postal code lookup success." src="/images/tips-travel-contact/mailing-success-3.png"/>
   </div>
   <figcaption class="col-md-12 mrgn-tp-md mrgn-bttm-md">
     <details>
