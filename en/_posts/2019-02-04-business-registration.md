@@ -71,7 +71,7 @@ I find it ultimately always comes back to: how can we ensure we are meeting the 
 Working with TBS and the other teams in <abbr title="Canada Revenue Agency">CRA</abbr> was an invaluable experience. As a program officer, I learned about the complexities of the web and how every little thing <abbr title="Canada Revenue Agency">CRA</abbr> does is connected to a larger piece. I learned that small changes make a big difference. Everything we put on the web, how we write it, where we put it, what words we use, what tabs we use, how we link from page to page, all of it, affects the service we provide to Canadians. I know that <abbr title="Canada Revenue Agency">CRA</abbr> is committed to ensuring the best taxpayer experience, and the joint content optimization project helped us do just that.
 
 ## We want to hear from you
-Let us know what you think about task management. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about task management. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 

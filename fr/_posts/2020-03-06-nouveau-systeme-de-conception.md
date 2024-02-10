@@ -78,7 +78,7 @@ Participez à la conversation et partagez vos idées et vos commentaires&nbsp;:
 * Comment pourriez-vous participer à le bâtir?
 
 Si vous souhaitez tester le nouveau style de documentation ou contribuer au système de conception, n’hésitez pas à nous contacter&nbsp;:
-* [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * [Joignez-vous à la conversation sur Slack](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 
 Nous publierons d’autres mises à jour sur le système de conception du gouvernement du Canada dans de futurs billets de blogue. Abonnez-vous à la [liste d’envoi du Bureau de la transformation numérique]( {{ "/pages/signup.html" | prepend: site.urlalt[ page.language ] }} ) pour recevoir les billets de blogue dans votre boîte de réception.

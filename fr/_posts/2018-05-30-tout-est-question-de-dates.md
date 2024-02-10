@@ -102,7 +102,7 @@ Il est très important de ne pas mettre à jour la composante «&nbsp;Date de mo
 
 ## Nous voulons connaître votre opinion
 
-Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
+Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
 
 ## À propos de Patrick Lajeunesse
 

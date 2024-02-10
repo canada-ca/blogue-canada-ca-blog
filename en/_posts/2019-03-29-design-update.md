@@ -66,4 +66,4 @@ In the coming months, we plan to:
 * ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html">content improvement projects</a>
 
 ## We want to hear from you
-Let us know what you think about the Canada.ca design update. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about the Canada.ca design update. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag #Canadadotca.

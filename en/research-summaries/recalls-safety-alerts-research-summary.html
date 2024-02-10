@@ -89,9 +89,9 @@ main p, main li, main blockquote {
 <h2>Defining specialized search</h2>
 
 <p>Specialized search is different from web search. It focuses on queries of a specific structured database, or a collection of related content, which may include both structured and unstructured content sources.</p>
-	
+
 <p>Unlike web search, all components of the search system should be within the control — or at least the influence — of the product manager. To help institutions deliver and maintain an effective user experience, we wanted to define these various components and the skills and activities required to support them.</p>
-	
+
 <h2>Components of specialized search</h2>
 
 	<p>A full search solution combines multiple components, each of which involves design decisions.</p>
@@ -128,9 +128,9 @@ main p, main li, main blockquote {
 <p>At the end of the project, we gave Health Canada recommendations for the new RSAMS search implementation.</p>
 
 <p>Our experience with the RSAMS project reinforced our understanding of the complexity of delivering effective specialized search. The key recommendations, summarized here, apply to any specialized search implementation.</p>
-	
+
 	<h3>Understand search use cases</h3>
-	
+
 	<p>It is important to look at the evidence of how people are using specialized search and design the solution to support this.</p>
 
 	<p> For example, earlier research had shown that RSAMS search behaviour follows distinct patterns: </p>
@@ -141,11 +141,11 @@ main p, main li, main blockquote {
 	</ul>
 
 	<p> A shared understanding of these patterns can help determine how to structure your content. For example, the RSAMS data did not capture brand names or product codes as a separate field. That undermined precision in search results.</p>
-	
+
 	<h3>Fix the data at source, with the right people involved</h3>
-	
+
 	<p>For RSAMS, a significant area of challenge has been that the content is sourced from multiple groups and institutions. Each has its own processes, templates and formats for publishing recalls and other notices related to the specific products it is responsible for monitoring.</p>
-	
+
 	<p>For this project, we had a static dataset. That meant we could make manual additions and deletions to prepare a single, search-specific data source for indexing. Changes made to the data included:
 <ul>
 	<li>separating multi-product notices into one-product-per-notice</li>
@@ -153,18 +153,18 @@ main p, main li, main blockquote {
 	<li>making improvements to the RSAMS taxonomy, and applying updated values</li>
 	<li>excluding outdated and redundant records from the index</li>
 	</ul>
-	
+
 	<p>This “post-processing” of search data prior to indexing was labour-intensive. It was also difficult because of inconsistencies and issues with data quality.</p>
 
 <p>Ideally, these types of issues should be fixed at the source, rather than patched afterwards. Getting this right requires bringing together the people most knowledgeable about the data or content.</p>
-	
+
 	<h3>Dedicate resources to performance monitoring and data curation</h3>
 <p>Is your search effective? To answer this question, you need to define metrics for search performance and perform routine analytics.</p>
 
 <p>You need to continually monitor these metrics. They should drive improvements to the relevant search solution component.</p>
-	
+
 	<p>If your search solution aggregates data and content from multiple sources, data curation is essential. The publishing infrastructure (content management system) should enforce structural consistency, and impose constraints (as in the use of controlled vocabularies for tagging content). Content needs to be monitored for quality. This monitoring should, in turn, inform improvements to structure, guidance and shared assets (such as those controlled vocabularies).</p>
-	
+
 <h2>Search is never done</h2>
 
 <p>An effective search solution requires dedicated resources. It needs to involve multiple skill sets in its design and maintenance. This should include subject matter experts, information architects, content designers, developers, data and network specialists, search analysts, and user researchers.</p>
@@ -174,7 +174,7 @@ main p, main li, main blockquote {
 <div class="clearfix"></div>
 <h2>Request the research</h2>
 
-<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a>.
+<p>If you’d like to see the detailed research findings from this project, email us at <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a>.
 </a></p>
 
 <h2>Let us know what you think</h2>

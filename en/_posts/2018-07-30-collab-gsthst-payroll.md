@@ -123,7 +123,7 @@ We will continue to work closely with the program areas, namely Information Prog
 Stay tuned for the new content to go live on Canada.ca very soon!
 
 ## We want to hear from you
-Let us know what you think about task management. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about task management. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 

@@ -578,7 +578,7 @@ Nous savons que le clavardage et la voix sont les interfaces utilisateur du futu
 
 ## Demander les résultats de la recherche
 
-Si vous souhaitez consulter les conclusions détaillées de la recherche sur ce projet, envoyez-nous un courriel à dto.btn@tbs-sct.gc.ca.
+Si vous souhaitez consulter les conclusions détaillées de la recherche sur ce projet, envoyez-nous un courriel à {{ site.emails.dto }}.
 
 ## Dites-nous ce que vous en pensez
 
