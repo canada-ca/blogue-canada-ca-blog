@@ -37,7 +37,7 @@ title: "Le projet Orientation dans Canada.ca améliore notre approche en matièr
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
     <div class="well small">
-      <p><a href="https://blogue.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de la recherche dans l’orientation sur Canada.ca</a><br />
+      <p><a href="https://conception.canada.ca/resumes-recherche/orientation-dans-canada-ca.html">Résumé de la recherche dans l’orientation sur Canada.ca</a><br />
         Résumé de la recherche sur l’orientation menée par le Bureau de la transformation numérique pour examiner comment les gens naviguent dans les différentes parties de la présence Web du gouvernement du Canada</p>
     </div>
   </div>
