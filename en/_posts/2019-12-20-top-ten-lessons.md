@@ -110,5 +110,5 @@ The Digital Transformation Office would like to wish you rest and relaxation ove
 ## Inspired by what you learned? Share this post with your team.
 
  Connect with the Digital Transformation Office at TBS:
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * Twitter: #Canadadotca

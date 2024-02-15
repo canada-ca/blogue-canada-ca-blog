@@ -72,7 +72,7 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 %}
 
 ## Nous voulons connaître votre opinion
-Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
+Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou sur Twitter en utilisant le mot-clic #Canadadotca.
 
 ## Pour en savoir plus
 

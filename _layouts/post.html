@@ -12,7 +12,7 @@ layout: default
 	<aside>
 		<h2 id="{{ locales.connect[ page.language ] | downcase | replace: ' ', '-' }}">{{ locales.connect[ page.language ] }}</h2>
 		<ul>
-			<li>{{ locales.email[ page.language ] }}: <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a></li>
+			<li>{{ locales.email[ page.language ] }}: <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a></li>
 			<li>{{ locales.twitter[ page.language ] }}: {{ locales.twitterhandle[ page.language ] }}</li>
 			<li>{{ locales.slack[ page.language ] }}: <a href="https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM">http://design-GC-conception.slack.com</a></li>
 		</ul>

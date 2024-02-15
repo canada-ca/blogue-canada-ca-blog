@@ -73,7 +73,7 @@ Je sais que l’<abbr title="Agence du revenu du Canada">ARC</abbr> s’est enga
 
 ## Nous voulons connaître votre opinion
 
-Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadapointca.
+Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou sur Twitter en utilisant le mot-clic #Canadapointca.
 
 ## Pour en savoir plus
 

@@ -78,7 +78,7 @@ Now that we know how to present recalls and safety alerts so that Canadians can 
 Health Canada, Transport Canada and Canadian Food Inspection Agency are working together to define our technical and operational needs, and build a system that will be reliable for Canadians for years to come. The goal is to release incremental improvements quickly based on what we learned, with a final recalls and safety alerts system rolled out by summer of 2019.
 
 ## We want to hear from you
-Let us know what you think about task management. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about task management. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 
