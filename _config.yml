@@ -66,8 +66,8 @@ defaults:
     values:
       contextualFooter:
         title: Digital Transformation Office (DTO)
-        links:
-          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
+        links: 
+          - url: "/pages/contact-us/"
             text: Contact us
       css: "//blog.canada.ca/css/blog.css"
       language: "en"
@@ -77,8 +77,8 @@ defaults:
     values:
       contextualFooter:
         title: Bureau de la transformation numérique (BTN)
-        links:
-          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
+        links: 
+          - url: "/pages/contactez-nous/"
             text: Contactez-nous
       css: "//blogue.canada.ca/css/blogue.css"
       language: "fr"
