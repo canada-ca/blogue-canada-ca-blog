@@ -1,5 +1,5 @@
 ---
-altLangPage: /2023/03/22/les-taches-principales
+altLangPage: /2024/03/13/conception-de-page-de-navigation-flexible-pour-les-urgences.html
 css:
 - ../../../css/blog.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
