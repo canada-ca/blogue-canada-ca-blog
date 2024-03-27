@@ -6,7 +6,7 @@ css:
 - https://design.canada.ca/css/custom.css
 date: 2024-03-27
 dateModified: 2024-03-27
-description: "Des pages de navigation flexibles pour les situations d’urgence"
+description: "Des pages de navigation flexibles pour les situations d’urgence."
 title: "Des pages de navigation flexibles pour les situations d’urgence"
 ---
 <p>L’éclosion de la pandémie de COVID-19 au début de l’année 2020 a amené son lot de bouleversements pour le travail quotidien et les priorités des fonctionnaires. La situation étant incertaine et rapidement changeante, les Canadiens et Canadiennes avaient besoin d’informations à jour sur une grande variété de sujets.</p>
