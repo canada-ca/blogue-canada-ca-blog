@@ -4,8 +4,8 @@ css:
 - ../../../css/blog.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 - https://design.canada.ca/css/custom.css
-date: 2024-03-28
-dateModified: 2024-03-28
+date: 2024-03-27
+dateModified: 2024-03-27
 description: "Des pages de navigation flexibles pour les situations d’urgence"
 title: "Des pages de navigation flexibles pour les situations d’urgence"
 ---
