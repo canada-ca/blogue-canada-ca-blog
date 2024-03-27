@@ -6,7 +6,7 @@ css:
 - https://design.canada.ca/css/custom.css
 date: 2024-03-27
 dateModified: 2024-03-27
-description: "Flexible navigation page design for emergencies"
+description: "Flexible navigation page design for emergencies."
 title: "Flexible navigation page design for emergencies"
 ---
 <p>The outbreak of the COVID-19 pandemic in early 2020 meant dramatic changes to the day-to-day work and priorities of public servants. The uncertain and rapidly evolving situation meant that Canadians needed up-to-date information on a wide array of topics.</p>
