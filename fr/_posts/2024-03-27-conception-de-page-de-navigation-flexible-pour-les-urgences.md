@@ -55,7 +55,7 @@ title: "Des pages de navigation flexibles pour les situations d’urgence"
 <p>Après avoir déterminé les difficultés liées aux tuiles existantes, le Bureau de la transformation numérique (BTN) a mis au point une nouvelle conception de page de destination à bandes. Il a également formulé des recommandations à Santé Canada le 22 mars 2020. </p>
 <div class="row mrgn-tp-lg">
     <div class="col-md-8">
-        <figure><img alt="Versions bureau et mobile de la page consacrée à la COVID-19 le 1 avril 2020" class="img-responsive" id="flex-nav-03" src="/images/flex-nav-03.png-fr" />
+        <figure><img alt="Versions bureau et mobile de la page consacrée à la COVID-19 le 1 avril 2020" class="img-responsive" id="flex-nav-03" src="/images/flex-nav-03-fr.png" />
             <figcaption class="well">
                 <p><strong>Versions bureau et mobile de la page consacrée à la COVID-19 le 1<sup>er</sup> avril 2020</strong></p>
                 <p>TLa nouvelle page de destination utilise une conception de page découpée en 4 bandes contenant respectivement des liens sur les sujets suivants : situation actuelle, santé publique, vaccins et renseignements ciblés. Sur bureau, les bandes s’étendent horizontalement sur la largeur de l’écran et sur mobile, les bandes sont redimensionnées et s’ajustent à l’écran étroit. </p>
