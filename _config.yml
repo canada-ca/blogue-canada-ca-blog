@@ -69,7 +69,6 @@ defaults:
         links:
           - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
             text: Contact us
-      css: "//blog.canada.ca/css/blog.css"
       language: "en"
   -
     scope:
@@ -80,7 +79,6 @@ defaults:
         links:
           - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
             text: Contactez-nous
-      css: "//blogue.canada.ca/css/blogue.css"
       language: "fr"
   -
     scope:
