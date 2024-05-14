@@ -1,5 +1,5 @@
 ---
-altLangPage: 2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences.html
+altLangPage: /2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences.html
 css:
 -  ../../../css/blog.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
