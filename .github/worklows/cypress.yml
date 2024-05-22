@@ -1,0 +1,30 @@
+name: Cypress Tests
+
+on: [push, pull_request]
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Start Jekyll server
+        run: |
+          gem install bundler jekyll
+          bundle install
+          nohup bundle exec jekyll serve --host 0.0.0.0 &
+
+      - name: Wait for Jekyll to start
+        run: npx wait-on http://localhost:4000
+
+      - name: Run Cypress tests
+        run: npx cypress run

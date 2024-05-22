@@ -3,9 +3,20 @@
 <script src="{{ setting-resourcesBasePathTheme }}/js/theme{{ setting-minifiedSuffix }}.js"></script>
 {%- if page.script.first -%}
 	{%- for js in page.script -%}
-		<script src="{{ js }}"></script>
+<script src="{{ js }}"></script>
 	{%- endfor -%}
 {%- elsif page.script -%}
-	<script src="{{ page.script }}"></script>
+<script src="{{ page.script }}"></script>
 {%- endif -%}
 {% if site.analytics.adobe %}{% include /providers/adobefooter.html %}{% endif %}
+<script>
+	if (window.netlifyIdentity) {
+	  window.netlifyIdentity.on("init", (user) => {
+		if (!user) {
+		  window.netlifyIdentity.on("login", () => {
+			document.location.href = "/admin/";
+		  });
+		}
+	  });
+	}
+  </script>

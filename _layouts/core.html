@@ -8,16 +8,16 @@
 {%- endcapture -%}
 <!DOCTYPE html>
 <html class="no-js" lang="{{ page.language | default: 'en' }}" dir="{{ i18nText-langDir | default: 'ltr' }}">
-<head>
-<meta charset="utf-8">
+	<head>
+		<meta charset="utf-8">
 {% include license.html %}
-<title>{{ page-title }} | {{ site.title[ page.language ] }}</title>
-<meta content="width=device-width, initial-scale=1" name="viewport">
+		<title>{{ page-title }} | {{ site.title[ page.language ] }}</title>
+		<meta content="width=device-width, initial-scale=1" name="viewport">
 {% include metadata.html %}
 {% include resources-inc/head.html %}
 {% include analytics.html %}
-</head>
-<body {% if page.pageclass %}class="{{ page.pageclass }}" {% endif %}vocab="http://schema.org/" typeof="WebPage">
+	</head>
+	<body {% if page.pageclass %}class="{{ page.pageclass }}" {% endif %}vocab="http://schema.org/" typeof="WebPage">
 {%- if page.archived -%}
 	{% include headers-includes/archive.html %}
 {%- endif -%}
@@ -26,5 +26,5 @@
 {{ content }}
 {% include footers/footer.html %}
 {% include resources-inc/footer.html %}
-</body>
+	</body>
 </html>
