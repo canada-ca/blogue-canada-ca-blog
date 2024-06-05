@@ -17,13 +17,14 @@ title: "A path toward a unified design system for the Government of Canada"
 <p>Read more:</p>
 <div class="col-md-6">
 <div>
-        <img src="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/" alt=""/>
-        <h3><a class="stretched-link" href="#">A path toward a unified design system for the Government of Canada</a></h3>
+        <img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt=""/>
+        <h3><a class="stretched-link" href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></h3>
 </div>
 </div>
 
 
 <div class="clearfix">
+
 <h2>A shared focus: Working together to improve online services</h2>
 
 <p>Some of you may already know that we, the Digital Transformation Office (DTO) have merged with the Canadian Digital Service (CDS). The merger was a result of the government creating a new Minister of Citizens’ Services.</p>
