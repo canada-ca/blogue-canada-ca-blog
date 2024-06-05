@@ -19,7 +19,7 @@ title: "A path toward a unified design system for the Government of Canada"
 <div class="col-md-6">
 <a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">
 <figure>
-<img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"> </div>
+<img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm">
 <figcaption>A path toward a unified design system for the Government of Canada</figcaption>
 </figure>
 </a>
