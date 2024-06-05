@@ -16,12 +16,21 @@ title: "A path toward a unified design system for the Government of Canada"
 
 <p>Read more:</p>
 
-<div class="hidden-xs hidden-sm col-md-6">
+<div class="col-md-6">
+<a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">
+<figure>
+<img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt="" class="img-responsive thumbnail mrgn-bttm-sm"> </div>
+<figcaption>A path toward a unified design system for the Government of Canada</figcaption>
+</figure>
+</a>
+</div>
+
+<!-- <div class="hidden-xs hidden-sm col-md-6">
 <img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt=""  class="img-responsive mrgn-bttm-md thumbnail" />
 </div>
 <br>
 <ul> 
-<li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></li></ul>
+<li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></li></ul> -->
 
 <div class="clearfix">
 <h2>A shared focus: Working together to improve online services</h2>
