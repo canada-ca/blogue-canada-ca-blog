@@ -5,8 +5,8 @@ css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2024-06-05
 dateModified: 2024-06-05
-description: "DTO and CDS working together and delivering results"
-title: "Developing a website design system for the Government of Canada and organization change in government departments."
+description: "Developing a website design system for the Government of Canada and organization change in government departments."
+title: "DTO and CDS working together and delivering results"
 ---
 
 <p>Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications.</p>
