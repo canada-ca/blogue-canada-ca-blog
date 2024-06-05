@@ -11,7 +11,7 @@ title: "A path toward a unified design system for the Government of Canada"
 
 <p>Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications.</p>
 
-<h2>need a title<h2>
+<h2>need a title</h2>
 <p>One way to contribute to consistency in service delivery is through the use of a cohesive design system. In the Government of Canada, we’re working to develop an updated design system to meet evolving needs of service delivery teams and the public, in a digital age.</p>
 
 <p>Read more:</p>
