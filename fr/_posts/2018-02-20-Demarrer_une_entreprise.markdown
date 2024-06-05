@@ -89,7 +89,7 @@ Comme le montre le diagramme, le flux est comme un entonnoir menant vers les ré
 
 ## Nous voulons connaître votre avis
 
-Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou un gazouillis en utilisant le mot-clic #Canadadotca.
+Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou un gazouillis en utilisant le mot-clic #Canadadotca.
 
 ## En savoir plus sur le projet
 

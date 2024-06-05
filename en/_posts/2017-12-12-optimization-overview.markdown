@@ -64,7 +64,7 @@ Optimization projects are not only about driving tangible improvements to specif
 
 ## We want to hear from you
 
-Let us know what you think about optimization for Canada.ca. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag [#Canadadotca](https://twitter.com/search?q=%23Canadadotca).
+Let us know what you think about optimization for Canada.ca. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag [#Canadadotca](https://twitter.com/search?q=%23Canadadotca).
 
 ## Learn more about optimization techniques
 

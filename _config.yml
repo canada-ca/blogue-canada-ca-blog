@@ -7,6 +7,8 @@ author:
   en: Digital Transformation Office
   fr: Bureau de la transformation numérique
 baseurl: ""
+emails:
+  dto: cds.dto-btn.snc@servicecanada.gc.ca
 description:
   en: Evidence and insights from the Canada.ca team.
   fr: Validations et perspectives de l'équipe Canada.ca.
@@ -64,10 +66,9 @@ defaults:
     values:
       contextualFooter:
         title: Digital Transformation Office (DTO)
-        links: 
-          - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        links:
+          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
             text: Contact us
-      css: "//blog.canada.ca/css/blog.css"
       language: "en"
   -
     scope:
@@ -75,10 +76,9 @@ defaults:
     values:
       contextualFooter:
         title: Bureau de la transformation numérique (BTN)
-        links: 
-          - url: "mailto:dto.btn@tbs-sct.gc.ca"
+        links:
+          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
             text: Contactez-nous
-      css: "//blogue.canada.ca/css/blogue.css"
       language: "fr"
   -
     scope:

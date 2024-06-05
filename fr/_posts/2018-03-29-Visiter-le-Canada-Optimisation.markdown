@@ -114,7 +114,7 @@ Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont a
 Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35&nbsp;% avant à 62&nbsp;% après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
 
 ## Qu’en pensez-vous?
-Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou un gazouillis au moyen du mot-clic #Canadapointca.
+Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou un gazouillis au moyen du mot-clic #Canadapointca.
 
 ## Pour en savoir plus long sur ce projet
 

@@ -46,7 +46,7 @@ Des essais de suivi ont démontré que tous ces changements ont contribué à am
 
 ## Nous voulons avoir votre opinion
 
-Faites-nous savoir ce que vous pensez de ce projet. Écrivez-nous par courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou publiez un gazouillis sur Twitter en utilisant le mot-clic #Canadapointca.
+Faites-nous savoir ce que vous pensez de ce projet. Écrivez-nous par courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou publiez un gazouillis sur Twitter en utilisant le mot-clic #Canadapointca.
 
 ## Pour en savoir plus
 

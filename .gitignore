@@ -38,3 +38,5 @@ Temporary Items
 .jekyll-cache
 _site
 vendor
+Gemifile
+Gemfile.lock

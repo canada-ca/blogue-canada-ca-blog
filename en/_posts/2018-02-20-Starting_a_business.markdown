@@ -86,7 +86,7 @@ As the chart shows, the flow is like a funnel leading to the successful outcome 
 
 ## What do you think?
 
-Let us know what you think about this project. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about this project. Email us at [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) or tweet using the hashtag #Canadadotca.
 
 ## Learn more about this project
 

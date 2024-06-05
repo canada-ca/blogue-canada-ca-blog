@@ -87,7 +87,7 @@ What would make online top task reporting easier for you to complete?
 ## Inspired by what you learned? Share this post with your team.
 
  Connect with the Digital Transformation Office at TBS:
-* Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
+* Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
 

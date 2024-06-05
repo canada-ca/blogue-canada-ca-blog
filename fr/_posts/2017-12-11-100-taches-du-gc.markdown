@@ -102,7 +102,7 @@ Toutefois, dans certains cas, soutenir les tâches en ligne est beaucoup plus co
 
 ## Nous voulons connaître votre opinion
 
-Dites-nous ce que vous pensez de la gestion des tâches principales, par courriel à l’adresse [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) ou par Twitter en utilisant le mot-clic [#CanadaPointCA](https://twitter.com/search?q=%23CanadaPointCA).
+Dites-nous ce que vous pensez de la gestion des tâches principales, par courriel à l’adresse [{{ site.emails.dto }}](mailto:{{ site.emails.dto }}) ou par Twitter en utilisant le mot-clic [#CanadaPointCA](https://twitter.com/search?q=%23CanadaPointCA).
 
 ## Apprenez-en davantage sur les tâches principales
 

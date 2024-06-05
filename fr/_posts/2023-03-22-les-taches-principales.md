@@ -84,10 +84,10 @@ title: "Nous changeons la façon dont nous déterminons les tâches principales 
 </ul>
 <p>Or, il n’est souvent pas suffisant de suivre les pratiques exemplaires. Une fois que votre contenu est en ligne, vous devez surveiller la façon dont les gens l’utilisent et s’ils y parviennent. En déterminant les tâches principales à accomplir dans votre contenu Web et en vérifiant si les utilisateurs sont en mesure de les réaliser, vous serez mieux à même de cerner les aspects qui méritent peut-être plus d’attention. Il s’agit d’une approche efficace pour renforcer votre capacité à répondre aux besoins de votre public.</p>
 <h2>Nous voulons connaître votre avis</h2>
-<p>Dites-nous ce que vous pensez de la gestion des tâches principales. Envoyez-nous un courriel à l’adresse <a href="mailto:dto.btn@tbs-sct.gc.ca">dto.btn@tbs-sct.gc.ca</a> ou un gazouillis en utilisant le mot-clic #Canadapointca.</p>
+<p>Dites-nous ce que vous pensez de la gestion des tâches principales. Envoyez-nous un courriel à l’adresse <a href="mailto:{{ site.emails.dto }}">{{ site.emails.dto }}</a> ou un gazouillis en utilisant le mot-clic #Canadapointca.</p>
 <h2>Pour en apprendre davantage sur les tâches principales</h2>
 <ul>
-  <li><a href="https://conception.canada.ca/amelioration-continue/mesure/SRTGC.html">Sondage sur la réussite des tâches du GC (SRT)</a></li>
+  <li><a href="https://conception.canada.ca/sondage/">Sondage sur la réussite des tâches du GC (SRT)</a></li>
   <li><a href="https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html">Liste des 50 tâches principales du gouvernement du Canada</a></li>
   <li><a href="https://alistapart.com/article/what-really-matters-focusing-on-top-tasks">What Really Matters: Focusing on Top Tasks</a> (en anglais seulement), par Gerry McGovern, décrit l’utilité des tâches principales ainsi que la méthode de vote par sondage qui permet de les valider</li>
   <li><a href="https://measuringu.com/top-tasks/">How to conduct a top task analysis</a> (en anglais seulement), par Jeff Sauro, entre dans les détails statistiques de l’analyse des données sur les tâches principales à partir de sondages</li>
