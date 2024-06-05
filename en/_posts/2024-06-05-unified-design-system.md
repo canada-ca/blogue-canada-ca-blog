@@ -31,7 +31,7 @@ title: "A path toward a unified design system for the Government of Canada"
 
 <p>Read more:</p>
 
-<div class="col-md-12 mrgn-bttm-xl">
+<div class="col-md-12">
 <div class="col-md-6">
         <img class="img-responsive thumbnail" src="/images/DTO_CDS_DesignSystem_Blog_Post_.jpg" alt=""/>
         <h3><a class="stretched-link" href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A shared focus: Working together to improve online services</a></h3>
