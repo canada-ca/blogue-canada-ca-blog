@@ -19,7 +19,7 @@ title: "A path toward a unified design system for the Government of Canada"
 <div class="hidden-xs hidden-sm col-md-6">
 <img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt=""  class="img-responsive mrgn-bttm-md thumbnail" />
 </div>
-<div class="clearfix">
+<br>
 <ul> 
 <li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></li></ul>
 
@@ -28,10 +28,12 @@ title: "A path toward a unified design system for the Government of Canada"
 
 <p>Some of you may already know that we, the Digital Transformation Office (DTO) have merged with the Canadian Digital Service (CDS). The merger was a result of the government creating a new Minister of Citizens’ Services.</p>
 
+<p>Read more:</p>
+
 <div class="hidden-xs hidden-sm col-md-6">
 <img src="/images/DTO_CDS_DesignSystem_Blog_Post_.jpg"  alt="" class="img-responsive mrgn-bttm-md thumbnail" />
 </div>
-<div class="clearfix">
+<br>
 <ul>
 <li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A shared focus: Working together to improve online services</a></li>
 </ul>
