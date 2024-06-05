@@ -1,10 +1,10 @@
 ---
-altLangPage: /2024/06/06/systeme-design-unifie.html
+altLangPage: /2024/06/05/systeme-design-unifie.html
 css:
 -  ../../../css/blog.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-date: 2024-06-06
-dateModified: 2024-06-06
+date: 2024-06-05
+dateModified: 2024-06-05
 description: "Developing a website design system for the Government of Canada and organization change in government departments."
 title: "A path toward a unified design system for the Government of Canada"
 ---
