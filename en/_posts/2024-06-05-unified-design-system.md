@@ -34,6 +34,6 @@ title: "DTO and CDS working together and delivering results"
 <div class="col-md-12">
 <div class="col-md-6">
         <img class="img-responsive thumbnail" src="/images/DTO_CDS_DesignSystem_Blog_Post_.jpg" alt=""/>
-        <h3><a class="stretched-link" href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A shared focus: Working together to improve online services</a></h3>
+        <h3><a class="stretched-link" href="https://digital.canada.ca/2024/05/15/a-shared-focus-working-together-to-improve-online-services/">A shared focus: Working together to improve online services</a></h3>
 </div>
 </div>
