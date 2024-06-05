@@ -20,7 +20,6 @@ title: "A path toward a unified design system for the Government of Canada"
             <img src="/images/DTO_CDS_DesignSystem_Blog_Post_EN.jpg" alt="" max-width="600" class="img-responsive mrgn-bttm-md thumbnail" />
 </div>
         <h3> <li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></li></h3>
-</div>
 
 <h2>A shared focus: Working together to improve online services</h2>
 
@@ -30,7 +29,6 @@ title: "A path toward a unified design system for the Government of Canada"
             <img src="/images/DTO_CDS_DesignSystem_Blog_Post_.jpg"  alt="" max-width="600" class="img-responsive mrgn-bttm-md thumbnail" />
 </div>
         <h3> <li><a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A shared focus: Working together to improve online services</a></li></h3>
-</div>
 
 
 
