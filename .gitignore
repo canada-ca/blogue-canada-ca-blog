@@ -34,6 +34,7 @@ Temporary Items
 #IDE
 .vscode/
 node_modules/
+*.py
 
 # Jekyll
 .jekyll-cache
