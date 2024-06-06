@@ -2,7 +2,6 @@
 altLangPage: /2024/06/05/unified-design-system.html
 css:
 -  ../../../css/blogue.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2024-06-05
 dateModified: 2024-06-05
 description: "Découvrez comment nous créons une source unifiée alliant code, conception et documentation afin d’aider les équipes à créer des sites Web et des applications."
@@ -19,9 +18,6 @@ title: "Système de design unifié et mise à jour sur la fusion du BTN et du SN
         <h3><a class="stretched-link" href="https://numerique.canada.ca/2024/05/27/vers-un-syst%C3%A8me-de-design-unifi%C3%A9-pour-le-gouvernement-du-canada/">Vers un système de design unifié pour le gouvernement du Canada</a></h3>
 </div>
 </div>
-
-
-<div class="clearfix">
 
 <h2>Un objectif commun : améliorer ensemble les services en ligne</h2>
 

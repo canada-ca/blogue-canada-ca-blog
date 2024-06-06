@@ -2,7 +2,6 @@
 altLangPage: /2024/06/05/systeme-design-unifie.html
 css:
 -  ../../../css/blog.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2024-06-05
 dateModified: 2024-06-05
 description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
@@ -19,9 +18,6 @@ title: "Unified design system and update of DTO’s merger with CDS"
         <h3><a class="stretched-link" href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/">A path toward a unified design system for the Government of Canada</a></h3>
 </div>
 </div>
-
-
-<div class="clearfix">
 
 <h2>A shared focus: Working together to improve online services</h2>
 
