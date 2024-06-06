@@ -5,11 +5,9 @@ css:
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2024-06-05
 dateModified: 2024-06-05
-description: "Developing a website design system for the Government of Canada and organization change in government departments."
+description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
 title: "DTO and CDS working together and delivering results"
 ---
-
-<p>Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications.</p>
 
 <h2>A path toward a unified design system for the Government of Canada</h2>
 <p>One way to contribute to consistency in service delivery is through the use of a cohesive design system. In the Government of Canada, we’re working to develop an updated design system to meet evolving needs of service delivery teams and the public, in a digital age.</p>
