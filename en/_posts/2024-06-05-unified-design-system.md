@@ -6,7 +6,7 @@ css:
 date: 2024-06-05
 dateModified: 2024-06-05
 description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
-title: "DTO and CDS working together and delivering results"
+title: "Unified design system and update of DTO’s merger with CDS"
 ---
 
 <h2>A path toward a unified design system for the Government of Canada</h2>
