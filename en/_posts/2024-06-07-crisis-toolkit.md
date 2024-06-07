@@ -1,5 +1,5 @@
 ---
-altLangPage: /2024/06/07/systeme-design-unifie.html
+altLangPage: /2024/06/07/boite-outils-durgence.html
 css:
 -  ../../../css/blog.css
 date: 2024-06-07
@@ -21,7 +21,7 @@ title: "Design toolkit for emergencies"
 
 <ul>
 <li><a href="https://design.canada.ca/crisis/content.html">Crisis communications content design checklist</a></li>
-<li><a href="https://blog.canada.ca/2020/10/21/using-graphics.html"></a>Using graphics to bridge language gaps</li>
+<li><a href="https://blog.canada.ca/2020/10/21/using-graphics.html">Using graphics to bridge language gaps</a></li>
 <li><a href="https://blog.canada.ca/2020/06/05/designing-for-accessibility.html">Designing for accessibility during COVID-19</a></li>
 <li><a href="https://blog.canada.ca/2020/07/15/alert-fatigue">Alert fatigue during COVID-19</a></li>
 </ul>
@@ -39,7 +39,7 @@ title: "Design toolkit for emergencies"
 <p>To learn more about how to use answers instead of information, read:</p>
 <ul>
 <li><a href="https://design.canada.ca/research-summaries/travel-restrictions-study.html">Using a wizard to help people get answers during COVID-19</a></li>
-<li><a href="https://blog.canada.ca/2020/11/12/interactive-checklists.html">sing interactive checklists to simplify eligibility criteria</a></li>
+<li><a href="https://blog.canada.ca/2020/11/12/interactive-checklists.html">Using interactive checklists to simplify eligibility criteria</a></li>
 <li><a href="https://blog.canada.ca/2021/04/08/using-interactive-questions.html">The magic of using interactive questions</a></li>
 </ul>
 
@@ -83,8 +83,8 @@ title: "Design toolkit for emergencies"
 
 <p>To learn more about efficient workflows and effective prioritisation, read:</p>
 <ul>
-<li>Co-design with approvers at the table</li>
-<li>Improving Canada.ca by focusing on COVID-19 top tasks</li>
+<li><a href="https://blog.canada.ca/2021/05/10/codesign-with-deciders">Co-design with approvers at the table</a></li>
+<li><a href="https://blog.canada.ca/2020/09/24/COVID-top-tasks.html">Improving Canada.ca by focusing on COVID-19 top tasks</a></li>
 </ul>
 
 <h2>Things to remember</h2>
