@@ -1,7 +1,7 @@
 ---
 altLangPage: /2024/06/10/crisis-toolkit
 css:
--  ../../../css/blog.css
+-  ../../../css/blogue.css
 date: 2024-06-10
 dateModified: 2024-06-10
 description: "Répondre aux besoins des utilisateurs et utilisatrices de Canada.ca en temps de crise."
