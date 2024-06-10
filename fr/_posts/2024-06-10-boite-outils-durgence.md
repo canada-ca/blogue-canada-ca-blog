@@ -8,6 +8,7 @@ description: "Répondre aux besoins des utilisateurs et utilisatrices de Canada.
 title: "Boîte à outils de conception pour les situations d’urgence"
 ---
 
+
 <p>Au plus fort de la pandémie de COVID-19, nous avons découvert quelques approches et observations qui se sont révélées efficaces pour les utilisateurs et utilisatrices de Canada.ca. Nous avons compilé certaines de ces leçons et invitons les équipes Web à se pencher sur leur possible application lors d’une future situation de crise.</p>
 
 <h2>Une communication de crise efficace</h2>
