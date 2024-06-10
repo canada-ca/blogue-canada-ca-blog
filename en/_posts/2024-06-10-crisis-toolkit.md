@@ -4,7 +4,7 @@ css:
 -  ../../../css/blog.css
 date: 2024-06-10
 dateModified: 2024-06-10
-description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
+description: "Meeting user needs on Canada.ca during a crisis."
 title: "Design toolkit for emergencies"
 ---
 
