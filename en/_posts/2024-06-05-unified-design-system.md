@@ -1,5 +1,5 @@
 ---
-altLangPage: /2024/06/05/systeme-design-unifie.html
+altLangPage: /2024/06/05/systeme-design-unifie
 css:
 -  ../../../css/blog.css
 date: 2024-06-05

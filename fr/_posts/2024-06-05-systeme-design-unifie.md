@@ -1,5 +1,5 @@
 ---
-altLangPage: /2024/06/05/unified-design-system.html
+altLangPage: /2024/06/05/unified-design-system
 css:
 -  ../../../css/blogue.css
 date: 2024-06-05
