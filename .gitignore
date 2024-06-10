@@ -33,8 +33,12 @@ Temporary Items
 
 #IDE
 .vscode/
+node_modules/
+*.py
 
 # Jekyll
 .jekyll-cache
 _site
 vendor
+Gemifile
+Gemfile.lock

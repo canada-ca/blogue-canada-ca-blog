@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en": "Digital Transformation Office",
+    "fr": "Bureau de la transformation numérique"
+  },
+  "email": "cds.dto-btn.snc@servicecanada.gc.ca",
+  "phoneForTel": "555-123-4567",
+  "phoneFormatted": "(555) 123-4567",
+  "address": {
+      "lineOne": "First Address Line",
+      "lineTwo": "Second Address Line",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80206",
+      "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+  },
+  "social": {
+      "facebook": "https://www.facebook.com/",
+      "twitter": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/",
+      "youtube": "https://www.youtube.com/"
+  },
+  "domain": {
+    "en": "https://blog.canada.ca",
+    "fr": "https://blogue.canada.ca"
+  }
+}

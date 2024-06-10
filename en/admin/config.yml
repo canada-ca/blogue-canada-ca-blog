@@ -1,0 +1,123 @@
+backend:
+  name: git-gateway
+  branch: content # Branch to update (optional; defaults to master)
+# This line should *not* be indented
+media_folder: "en/images/thumbs" # Media files will be stored in the repo under images/uploads
+public_folder: "/en/images/thumbs"
+
+collections:
+  # SETTINGS CONFIG
+  - label: Settings
+    name: settings
+    delete: false
+    editor:
+      preview: false
+    files:
+    - label: Website Settings
+      name: website_settings
+      file: _data/client.json
+      description: Allows a client to update their own contact information, through the default client.json file
+      fields:
+      - label: Business Name
+        name: name
+        widget: string
+        summary: Used in browser tab and sharing links
+        - label: English
+          name: en
+          widget: string
+        - label: French
+          name: fr
+          widget: string
+
+      - label: Email
+        name: email
+        widget: string
+        summary: Main email for customers to contact you
+
+      - label: Unformatted Telephone
+        name: phoneForTel
+        widget: string
+        summary: Used for clickable links to phone. Enter in format xxx-xxx-xxxx
+
+      - label: Formatted Telephone
+        name: phoneFormatted
+        widget: string
+        summary: Used for display on website. Enter in your preferred format
+
+      - label: Address
+        name: address
+        widget: object
+        collapsed: true
+        fields:
+        - label: Address Line One
+          name: lineOne
+          widget: string
+
+        - label: Address Line Two
+          name: lineTwo
+          widget: string
+
+        - label: City
+          name: city
+          widget: string
+
+        - label: State
+          name: state
+          widget: string
+
+        - label: Zip Code
+          name: zip
+          widget: string
+
+        - label: Google Maps Link
+          name: mapLink
+          widget: string
+          summary: Provide a Google Maps share link to guide visitors to your physical locations
+
+      - label: Social Media
+        name: social
+        widget: object
+        collapsed: true
+        fields:
+        - label: Facebook
+          name: facebook
+          widget: string
+
+        - label: Twitter
+          name: twitter
+          widget: string
+
+        - label: Instagram
+          name: instagram
+          widget: string
+
+        - label: Youtube
+          name: youtube
+          widget: string
+  # BLOG CONFIG
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "en/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}/{{month}}/{{day}}/{{slug}}" # Filename template, e.g., YYYY/MM/DD/title.md
+    identifier_field: slug
+    fields: # The fields for each document, usually in front matter
+      - { label: "Alternate language page url", name: "altLangPage", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description",  widget: "string" }
+      - { label: "Thumbnail image", name: "thumbnail", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # PAGE CONFIG
+  - name: "pages"
+    label: "Pages"
+    folder: "en/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+logo_url: https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-en.svg
+publish_mode: editorial_workflow
+site_url: https://blog.canada.ca
