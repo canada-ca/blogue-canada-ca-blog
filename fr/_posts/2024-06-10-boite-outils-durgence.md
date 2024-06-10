@@ -1,5 +1,5 @@
 ---
-altLangPage: /2024/06/10/crisis-toolkit.html
+altLangPage: /2024/06/10/crisis-toolkit
 css:
 -  ../../../css/blog.css
 date: 2024-06-10
@@ -52,7 +52,7 @@ title: "Boîte à outils de conception pour les situations d’urgence"
 
 <p>Pour plus de renseignements sur la création d’une structure permettant aux gens de trouver du contenu, consultez les pages suivantes&nbsp;:</p>
 <ul>
-<li>Des pages de navigation flexibles pour les situations d’urgence <a href="https://docs.google.com/document/d/1YF6qGdgjzFrKVdnXBD_wRp_29tUyF4TNOE3w50opTKE/edit#heading=h.gjdgxs">(brouillon)</a></li>
+<li><a href="https://blogue.canada.ca/2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences">Des pages de navigation flexibles pour les situations d’urgence</a></li>
 <li><a href="https://blogue.canada.ca/2022/07/28/communiques.html">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a></li>	
 <li><a href="https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html">Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux</a></li>
 </ul>
