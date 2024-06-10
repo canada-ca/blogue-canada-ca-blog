@@ -1,9 +1,9 @@
 ---
-altLangPage: /2024/06/07/crisis-toolkit.html
+altLangPage: /2024/06/10/crisis-toolkit.html
 css:
 -  ../../../css/blog.css
-date: 2024-06-07
-dateModified: 2024-06-07
+date: 2024-06-10
+dateModified: 2024-06-10
 description: "Répondre aux besoins des utilisateurs et utilisatrices de Canada.ca en temps de crise."
 title: "Boîte à outils de conception pour les situations d’urgence"
 ---

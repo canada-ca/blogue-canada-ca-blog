@@ -1,9 +1,9 @@
 ---
-altLangPage: /2024/06/07/boite-outils-durgence.html
+altLangPage: /2024/06/10/boite-outils-durgence.html
 css:
 -  ../../../css/blog.css
-date: 2024-06-07
-dateModified: 2024-06-07
+date: 2024-06-10
+dateModified: 2024-06-10
 description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
 title: "Design toolkit for emergencies"
 ---
