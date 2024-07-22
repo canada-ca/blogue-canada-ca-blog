@@ -265,6 +265,11 @@ main {
 	padding: 0px !important;
 }
 
+#wb-dtmd.dl-horizontal dd {
+	display: block;
+	max-width: 11ch;
+}
+
 @media only screen and (min-width: 992px) {
 	.blog-list {
 		margin-top: 1.8em;

@@ -40,3 +40,6 @@ _site
 vendor
 Gemifile
 Gemfile.lock
+
+node_modules/
+*.py
