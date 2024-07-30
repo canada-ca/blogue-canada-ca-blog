@@ -38,3 +38,8 @@ Temporary Items
 .jekyll-cache
 _site
 vendor
+Gemifile
+Gemfile.lock
+
+node_modules/
+*.py
