@@ -1,9 +1,6 @@
 ---
 altLangPage: /2024/06/05/systeme-design-unifie.html
-css:
--  ../../../css/blog.css
 date: 2024-06-05
-dateModified: 2024-06-05
 description: "Learn about how we're creating a unified source for code, design and documentation to help teams build websites and applications."
 title: "Unified design system and update of DTO’s merger with CDS"
 ---

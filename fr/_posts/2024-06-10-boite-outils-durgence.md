@@ -1,9 +1,6 @@
 ---
 altLangPage: /2024/06/10/crisis-toolkit
-css:
--  ../../../css/blogue.css
 date: 2024-06-10
-dateModified: 2024-06-10
 description: "Répondre aux besoins des utilisateurs et utilisatrices de Canada.ca en temps de crise."
 title: "Boîte à outils de conception pour les situations d’urgence"
 ---
@@ -53,7 +50,7 @@ title: "Boîte à outils de conception pour les situations d’urgence"
 <p>Pour plus de renseignements sur la création d’une structure permettant aux gens de trouver du contenu, consultez les pages suivantes&nbsp;:</p>
 <ul>
 <li><a href="https://blogue.canada.ca/2024/05/13/conception-de-page-de-navigation-flexible-pour-les-urgences">Des pages de navigation flexibles pour les situations d’urgence</a></li>
-<li><a href="https://blogue.canada.ca/2022/07/28/communiques.html">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a></li>	
+<li><a href="https://blogue.canada.ca/2022/07/28/communiques.html">Utilisation d’alertes pour maintenir la synchronisation des communiqués de presse et du contenu Web</a></li>
 <li><a href="https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html">Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux</a></li>
 </ul>
 
@@ -92,7 +89,7 @@ title: "Boîte à outils de conception pour les situations d’urgence"
 <li>Pour la plupart des gens, le Web est un espace consacré à l’action. L’accent doit être mis sur les tâches.</li>
 <li>Les gens ne lisent pas, ils survolent le contenu. Il faut utiliser des titres de section courts et parlants.</li>
 <li>Les gens cherchent des instructions ou étapes faciles à suivre. S’ils n’en trouvent pas, ils abandonnent ou passent à une prise de contact par téléphone ou courriel.
-Les petits écrans doivent avoir moins de contenu, le trafic sur mobile est souvent supérieur à 50&nbsp;%. 
+Les petits écrans doivent avoir moins de contenu, le trafic sur mobile est souvent supérieur à 50&nbsp;%.
 </li>
 <li>Les petits écrans doivent avoir moins de contenu, le trafic sur mobile est souvent supérieur à 50&nbsp;%.</li>
 <li>Le contenu en double est à proscrire. Les éléments de l’espace Web du gouvernement du Canada (GC) sont interconnectés et il est donc préférable collaborer ou d’inclure des liens vers du contenu existant.</li>

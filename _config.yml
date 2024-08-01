@@ -58,9 +58,13 @@ defaults:
       path: ""
       type: "posts"
     values:
-      css: "css/blog-dto-btn.css"
+      css: "/css/custom.css"
       image: true
       layout: "post"
+  - scope:
+      path: "assets/css"
+    values:
+      output: true
   -
     scope:
       path: "en/"
