@@ -1,8 +1,7 @@
 ---
-css:
--  ../../../css/blogue.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/21/wayfinding-research-project
+css:
+- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2022-12-21
 dateModified: 2022-12-21
 description: "Le projet Orientation dans Canada.ca améliore notre approche en matière de la navigation."

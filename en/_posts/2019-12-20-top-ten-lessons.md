@@ -5,16 +5,6 @@ description: "Top 10 content design lessons the Canada.ca design team learned in
 title:  "Top 10 content design lessons the Canada.ca design team learned in 2019"
 ---
 
-<style>
-figcaption {
-  font-size: 17px !important;
-  line-height: 1.5;
-  max-width: 80ch;
-  padding-bottom: 10px;
-  padding-top: 5px;
-}
-</style>
-
 In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://www.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
 
 ## 1. Watch people use your content

@@ -6,6 +6,8 @@ figcaption {
 	font-size: 17px !important;
 	line-height: 1.5;
 	max-width: 80ch;
+	padding-bottom: 10px;
+	padding-top: 5px;
 }
 
 abbr {
@@ -262,6 +264,84 @@ main {
 
 .pattern-demo.no-pddng {
 	padding: 0px !important;
+}
+
+.cnt-wdth-lmtd main .panel,
+.cnt-wdth-lmtd main details,
+.cnt-wdth-lmtd main figure {
+	max-width: 65ch;
+}
+
+figure.gc-complex-img {
+	background-color: #fff;
+	border: 1px solid transparent;
+	border-color: #8e8e8e;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+	box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+	margin-bottom: 23px;
+	padding: 15px;
+	position: relative;
+}
+
+.gc-complex-img img {
+	display: block;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+}
+
+.gc-complex-img figcaption {
+	margin-top: 15px;
+}
+
+.gc-complex-img figcaption details {
+	margin-bottom: 0;
+}
+
+.gc-complex-img figcaption summary::after {
+	background-color: rgba(0, 0, 0, 0);
+	bottom: 0;
+	content: "";
+	left: 0;
+	pointer-events: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 1;
+}
+
+#wb-dtmd.dl-horizontal dd {
+	display: block;
+	max-width: 11ch;
+}
+
+/* Stacked H1 */
+h1 {
+	border-bottom: none;
+}
+
+h1 span.stacked {
+	display: flex;
+	flex-direction: column-reverse;
+	margin-left: -9999px;
+}
+
+h1 span.stacked span:nth-child(1) {
+	margin-top: -1.1em;
+}
+
+h1 span.stacked span:nth-child(1),
+h1 span.stacked span:nth-child(2) {
+	margin-left: 9999px;
+}
+
+h1 span.stacked span:nth-child(2) {
+	font-size: 26px;
+	color: #555;
+	font-weight: 500;
+	margin-bottom: 0.17em;
 }
 
 @media only screen and (min-width: 992px) {

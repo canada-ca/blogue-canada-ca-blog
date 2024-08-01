@@ -2,8 +2,6 @@
 altLangPage: "/2018/10/18/recalls-safety-alerts"
 date: 2018-10-18
 description: Parmi les 100 principales tâches sur Canada.ca, le nombre de rappels et d’alertes de sécurité apparaît en huitième place. Le site reçoit près de 7 millions de visites annuelles, dont 71&nbsp;% par téléphone mobile. Pour ce qui est des alertes concernant les aliments, le pourcentage grimpe à 84&nbsp;%.
-layout: post
-pageclass: "cnt-wdth-lmtd"
 title: "Rappels et avis de sécurité&nbsp;: Un projet d’optimisation pour mieux protéger les Canadiens"
 ---
 

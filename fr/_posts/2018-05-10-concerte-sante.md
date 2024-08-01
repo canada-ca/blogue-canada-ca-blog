@@ -2,8 +2,6 @@
 altLangPage: "/2018/05/10/collab-health-optimize"
 date:   2018-05-10
 description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
-pageclass: "cnt-wdth-lmtd"
-layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 ---
 
