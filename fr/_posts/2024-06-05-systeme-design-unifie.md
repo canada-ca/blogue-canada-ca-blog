@@ -1,9 +1,6 @@
 ---
 altLangPage: /2024/06/05/unified-design-system.html
-css:
--  ../../../css/blogue.css
 date: 2024-06-05
-dateModified: 2024-06-05
 description: "Découvrez comment nous créons une source unifiée alliant code, conception et documentation afin d’aider les équipes à créer des sites Web et des applications."
 title: "Système de design unifié et mise à jour sur la fusion du BTN et du SNC"
 ---

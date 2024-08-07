@@ -1,10 +1,8 @@
 ---
-css:
-- ../../../css/blog.css
-- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 altLangPage: /2022/12/21/le-projet-orientation
+css:
+- https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2022-12-21
-dateModified: 2022-12-21
 description: "The wayfinding study investigated issues with Canada.ca navigation and informed changes to improve navigation and simplify the adoption of the Canada.ca design."
 title: "Wayfinding research project improves our approach to navigation on Canada.ca"
 ---
@@ -98,7 +96,7 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 <p>The sub-footer band is mandatory on all pages. It contains the Canada wordmark and corporate links for “Social media,” “Mobile applications,” “About Canada.ca,” “Terms and conditions,” and “Privacy”. Institutions can contextualize both the Terms and conditions link and the Privacy link. The other links are optional on transactional and campaign pages where you want to reduce distractions as much as possible. </p>
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg mrgn-bttm-lg">
-    <div class="well small"> 
+    <div class="well small">
       <!--<p><strong>An introduction to the global site footer (Coming soon)</strong><br>
  A blog that introduces updates to the global footer.</p>-->
       <p><a href="https://design.canada.ca/common-design-patterns/site-footer.html">Global footer</a><br />

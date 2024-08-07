@@ -1,10 +1,8 @@
 ---
 altLangPage: /2024/05/13/flexible-navigation-page-design-for-emergencies.html
 css:
--  ../../../css/blogue.css
 - https://use.fontawesome.com/releases/v5.15.4/css/all.css
 date: 2024-05-13
-dateModified: 2024-05-13
 description: "Les modèles Web actuels ne sont pas toujours les plus adaptés pour transmettre des informations complexes et rapidement changeantes en temps de crise. Les équipes gouvernementales devraient prototyper une page d’accueil flexible, prête à utiliser dès qu’il le faut."
 title: "Des pages de navigation flexibles pour les situations d’urgence"
 ---

@@ -1,9 +1,6 @@
 ---
 altLangPage: /2024/06/10/boite-outils-durgence
-css:
--  ../../../css/blog.css
 date: 2024-06-10
-dateModified: 2024-06-10
 description: "Meeting user needs on Canada.ca during a crisis."
 title: "Design toolkit for emergencies"
 ---
@@ -53,7 +50,7 @@ title: "Design toolkit for emergencies"
 <p>For more information about creating structure to help people find content, read:</p>
 <ul>
 <li><a href="https://blog.canada.ca/2024/05/13/flexible-navigation-page-design-for-emergencies.html">Flexible navigation page</a></li>
-<li><a href="https://blog.canada.ca/2022/07/28/news-releases">Using alerts to keep news releases and web content in sync</a></li>	
+<li><a href="https://blog.canada.ca/2022/07/28/news-releases">Using alerts to keep news releases and web content in sync</a></li>
 <li><a href="https://blog.canada.ca/2020/10/02/labelling-study.html">Labelling study: which words work best</a></li>
 </ul>
 
