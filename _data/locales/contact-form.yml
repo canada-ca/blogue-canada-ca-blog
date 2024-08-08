@@ -1,0 +1,39 @@
+feedback:
+  en: Do you want us to contact you about your feedback?
+  fr: Voulez-vous que nous vous contactions à propos de votre rétroaction?
+no:
+  en: No
+  fr: Non
+yes:
+  en: Yes, I’m comfortable providing my email address for contact purposes only.
+  fr: Oui, je suis à l’aise de fournir mon adresse courriel à des fins de contact seulement.
+fullname:
+  en: Name
+  fr: Nom
+email:
+  en: Email
+  fr: Courriel
+email-statement:
+  en: Your email address will only be used to contact you.  It will not be shared.
+  fr: Votre adresse courriel sera utilisée uniquement pour vous contacter. Elle ne sera pas partagée.
+subject:
+  en: Subject (255 character limit)
+  fr: Sujet (limite de 255 caractères)
+message:
+  en: Message
+  fr: Message
+required:
+  en: Required
+  fr: Obligatoire
+reset:
+  en: Cancel
+  fr: Annuler
+submit:
+  en: Send
+  fr: Envoyer
+thankYouPage:
+  en: acknowledgement.html
+  fr: accuse-de-reception.html
+contactUsPage:
+  en: contact-us.html
+  fr: contactez-nous.html
