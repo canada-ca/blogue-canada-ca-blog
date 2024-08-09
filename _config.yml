@@ -45,6 +45,9 @@ exclude:
 - README.md
 - vendor/*
 
+include:
+- _page
+
 # Jekyll settings
 defaults:
   -
@@ -72,7 +75,7 @@ defaults:
       contextualFooter:
         title: Digital Transformation Office (DTO)
         links:
-          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
+          - url: "/contact-us.html"
             text: Contact us
       language: "en"
   -
@@ -82,7 +85,7 @@ defaults:
       contextualFooter:
         title: Bureau de la transformation numérique (BTN)
         links:
-          - url: "mailto:cds.dto-btn.snc@servicecanada.gc.ca"
+          - url: "/contactez-nous.html"
             text: Contactez-nous
       language: "fr"
   -
