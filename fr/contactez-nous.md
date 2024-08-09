@@ -6,7 +6,7 @@ description: "Contactez le Bureau de la transformation numérique au sujet du sy
 nomenu: true
 nositesearch: true
 noReportProblem: true
-script: /gc-referrer.js
+script: /js/gc-referrer.js
 share: false
 showFeedback: false
 title: "Contactez le Bureau de la transformation numérique"
@@ -36,4 +36,4 @@ title: "Contactez le Bureau de la transformation numérique"
     </details>
   </div>
 </div>
-{% include contact-form.html action="/accuse-de-reception.html" netlify=true %}
+{% include components/contact-form.html action="/accuse-de-reception.html" name="contact-dto" netlify=true %}

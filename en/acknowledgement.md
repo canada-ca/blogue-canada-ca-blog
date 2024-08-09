@@ -6,7 +6,7 @@ description: "Contact the Digital Transformation Office about the Canada.ca desi
 nomenu: true
 noReportProblem: true
 nositesearch: true
-script: /gc-referrer.js
+script: /js/gc-referrer.js
 share: false
 showFeedback: false
 title: "Contact the Digital Transformation Office"
@@ -15,6 +15,6 @@ We’ve received your message. If you provided an email, a team member will get 
 
 We appreciate your feedback and questions.
 
-Return to the [ page you were previously viewing ]( / ){: #backToReferrer}
+Return to the [ page you were previously viewing ]( / ){: .gc-referrer}
 
 [Sign up to the Digital Transformation Office mailing list](/signup.html)

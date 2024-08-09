@@ -6,7 +6,7 @@ description: "Contact the Digital Transformation Office about the Canada.ca desi
 nomenu: true
 noReportProblem: true
 nositesearch: true
-script: /gc-referrer.js
+script: /js/gc-referrer.js
 share: false
 title: "Contact the Digital Transformation Office"
 ---
@@ -35,4 +35,4 @@ title: "Contact the Digital Transformation Office"
     </details>
   </div>
 </div>
-{% include contact-form.html action="/acknowledgement.html" netlify=true %}
+{% include components/contact-form.html action="/acknowledgement.html" name="contact-dto" netlify=true %}

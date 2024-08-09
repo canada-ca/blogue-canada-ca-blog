@@ -1,12 +1,6 @@
 feedback:
   en: Do you want us to contact you about your feedback?
   fr: Voulez-vous que nous vous contactions à propos de votre rétroaction?
-no:
-  en: No
-  fr: Non
-yes:
-  en: Yes, I’m comfortable providing my email address for contact purposes only.
-  fr: Oui, je suis à l’aise de fournir mon adresse courriel à des fins de contact seulement.
 fullname:
   en: Name
   fr: Nom
@@ -37,3 +31,9 @@ thankYouPage:
 contactUsPage:
   en: contact-us.html
   fr: contactez-nous.html
+negative:
+  en: Do not contact me
+  fr: Ne me contactez pas
+affirmative:
+  en: Yes, I’m comfortable providing my email address for contact purposes only.
+  fr: Oui, je suis à l’aise de fournir mon adresse courriel à des fins de contact seulement.
