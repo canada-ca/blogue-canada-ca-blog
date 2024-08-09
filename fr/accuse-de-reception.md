@@ -6,7 +6,7 @@ description: "Contactez le Bureau de la transformation numérique au sujet du sy
 nomenu: true
 noReportProblem: true
 nositesearch: true
-script: /gc-referrer.js
+script: /js/gc-referrer.js
 share: false
 showFeedback: false
 title: "Contactez le Bureau de la transformation numérique"
@@ -15,6 +15,6 @@ Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, u
 
 Nous vous remercions de nous avoir transmis vos commentaires et vos questions.
 
-Retourner à la [ page que vous visionniez précédemment ]( / ){: #backToReferrer}
+Retourner à la [ page que vous visionniez précédemment ]( / ){: .gc-referrer}
 
 [Inscrivez-vous à la liste d'envoi du Bureau de la transformation numérique](/inscrire.html)
