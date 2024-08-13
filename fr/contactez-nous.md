@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blog.canada.ca/contact-us.html"
+altLangPage: "/contact-us"
 breadcrumbs: false
 date: 2024-08-12
 description: "Contactez le Bureau de la transformation numérique au sujet du système de conception de Canada.ca."
