@@ -1,0 +1,46 @@
+{%- assign locales = site.data.locales.contact-form -%}
+{%- assign lang = page.language -%}
+<div class="wb-frmvld row">
+	<form action="{{ include.action }}" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="{{ include.name }}" {% if include.netlify %}netlify{% endif %}>
+		<input type="hidden" value="" name="referrer" id="referrer">
+		<div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "renderas":"radio", "gcChckbxrdio":true}'>
+			<p><span class="wb-fieldflow-label">{{ locales.feedback[ lang ] }}</span></p>
+			<ul>
+			<li data-wb-fieldflow='{"action": "query", "name": "feedback_type", "value": "feedback_type1"}'>{{ locales.negative[ lang ] }}</li>
+			<li data-wb-fieldflow='[
+				{"action": "toggle", "toggle": "#email_request_other", "live":true },
+				{"action": "query", "name": "feedback_type", "value": "feedback_type3" }
+				]'>{{ locales.affirmative[ lang ] }}</li>
+			</ul>
+		</div>
+		<div id="email_request_other" class="hidden">
+			<div class="form-group">
+				<label for="email"><span class="field-name">{{ locales.email[ lang ] }}</span></label>
+				<p>{{ locales.email-statement[ lang ] }}</p>
+				<div class="row">
+					<div class="col-md-8">
+						<input class="form-control input-lg full-width" id="email" name="email" type="email" autocomplete="email" />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="subject"><span class="field-name">{{ locales.subject[ lang ] }}</span></label>
+			<input class="form-control full-width" id="subject" name="subject" type="text" data-rule-minlength="2">
+		</div>
+		<div class="form-group">
+			<label for="message" class="required"><span class="field-name">{{ locales.message[ lang ] }}</span> <strong class="required" aria-hidden="true">({{ locales.required[ lang ] }})</strong></label>
+			<div>
+				<textarea class="form-control full-width required" rows="6" id="message" name="message"></textarea>
+			</div>
+		</div>
+		<ul class="list-unstyled list-inline mrgn-tp-lg">
+			<li>
+				<button type="submit" class="btn btn-lg btn-primary">{{ locales.submit[ lang ] }}</button>
+			</li>
+			<li>
+				<button type="reset" class="btn btn-lg btn-link">{{ locales.reset[ lang ] }}</button>
+			</li>
+		</ul>
+	</form>
+</div>
