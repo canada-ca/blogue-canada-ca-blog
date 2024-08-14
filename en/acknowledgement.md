@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blogue.canada.ca/accuse-de-reception.html"
+altLangPage: "/accuse-de-reception"
 breadcrumbs: false
 date: 2024-08-12
 description: "Contact the Digital Transformation Office about the Canada.ca design system."

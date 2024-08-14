@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blog.canada.ca/acknowledgement.html"
+altLangPage: "/acknowledgement"
 breadcrumbs: false
 date: 2024-08-12
 description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."

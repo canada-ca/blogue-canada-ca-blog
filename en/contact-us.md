@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://blogue.canada.ca/contactez-nous.html"
+altLangPage: "/contactez-nous"
 breadcrumbs: false
 date: 2024-08-12
 description: "Contact the Digital Transformation Office about the Canada.ca design system."
