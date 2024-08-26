@@ -58,6 +58,7 @@ defaults:
     scope:
       path: ""
     values:
+      script: "/js/url-swap.js"
       layout: default
       pageclass: "cnt-wdth-lmtd"
   -
