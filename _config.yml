@@ -66,6 +66,7 @@ defaults:
       type: "posts"
     values:
       css: "/css/custom.css"
+      script: "/js/url-swap.js"
       image: true
       layout: "post"
   - scope:
