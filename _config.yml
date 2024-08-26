@@ -24,6 +24,10 @@ urlalt:
 webmaster_verifications:
   google: Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM
 
+# Custom JavaScript settings
+custom_js:
+  - "/assets/js/url-swap.js"
+
 # Files excluded from Jekyll builds
 exclude:
 - .editorconfig
@@ -62,7 +66,6 @@ defaults:
       type: "posts"
     values:
       css: "/css/custom.css"
-      script: "/js/url-swap.js"
       image: true
       layout: "post"
   - scope:
