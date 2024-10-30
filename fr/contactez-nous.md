@@ -11,7 +11,11 @@ share: false
 showFeedback: false
 title: "Contactez le Bureau de la transformation numérique"
 ---
-<p>Communiquez avec nous pour poser des questions sur la conception du site Canada.ca ou pour nous faire part de vos suggestions à ce sujet.</p>
+<p>Le Bureau de la transformation numérique (BTN) fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
+<p>Notez que nous ne pouvons répondre qu’aux questions portant sur la conception ou les problèmes en lien avec Canada.ca. Pour obtenir les coordonnées d’autres ministères ou programmes, consultez&nbsp;:</p>
+<ul>
+  <li><a href="https://www.canada.ca/fr/contact.html">Coordonnées du gouvernement du Canada</a></li>
+</ul>
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
