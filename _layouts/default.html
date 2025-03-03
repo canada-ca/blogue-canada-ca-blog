@@ -15,8 +15,8 @@ layout: core
 		{%- if page.section-title or site.title and page.title != site.title[ page.language ] -%}
 		<h1 property="name" id="wb-cont" dir="ltr">
 			<span class="stacked">
-				<span>{{ page-title }}</span>: <span>{%- if page.section-title -%}{{ page.section-title }}{%- else -%}{{ site.title[ page.language ] }}{%- endif -%}</span>
-			</span>
+				<span>{{ page-title }}</span><span style="color:white;">:</span> <span>{%- if page.section-title -%}{{ page.section-title }}{%- else -%}{{ site.title[ page.language ] }}{%- endif -%}</span>
+			</span> 
 		</h1>
 		{%- else -%}
 		<h1 property="name" id="wb-cont" dir="ltr">{{ page-title }}</h1>
