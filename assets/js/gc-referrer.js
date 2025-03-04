@@ -9,8 +9,11 @@
     // Initialization function for the plugin
     function init( event ) {
         var elm = wb.init( event, componentName, selector ),
-            $elm = $( elm );
-
+            $elm = $( elm );		
+		
+  		// Commented to remove referrer on the emails
+		// Afonso, Mar. 4, 2025  
+		/*
         if ( elm ) {
             // Set referrer value on initialization
             $elm.find( "#referrer" ).val( document.referrer );
@@ -19,7 +22,8 @@
 
             // Identify that initialization has completed
             wb.ready( $elm, componentName );
-        }
+        } */
+		
     }
 
     // Event listener for form submission
