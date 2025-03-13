@@ -24,7 +24,7 @@ Interactive questions present people with a series of simple questions. These le
 
 People get confused by content that is irrelevant to their task. When there are different rules for different situations, it’s especially hard for people to parse through it all and find what’s relevant for them.
 
-As one user put it, “you are telling me everything you know, not what I need to know.”
+As one user put it, “you are telling me everything you know, not what I need to know”.
 
 When people can’t understand what rules or information applies to their situation, they’ll call or go into a local Service Canada centre. This causes long wait times for call centres, and unnecessary visits to in-person service centres.
 
