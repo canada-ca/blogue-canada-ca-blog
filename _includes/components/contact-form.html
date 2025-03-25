@@ -2,7 +2,6 @@
 {%- assign lang = page.language -%}
 <div class="wb-frmvld row">
 	<form action="{{ include.action }}" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="{{ include.name }}" {% if include.netlify %}netlify{% endif %}>
-		<input type="hidden" value="" name="referrer" id="referrer">
 		<div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "renderas":"radio", "gcChckbxrdio":true}'>
 			<p><span class="wb-fieldflow-label">{{ locales.feedback[ lang ] }}</span></p>
 			<ul>
