@@ -16,8 +16,6 @@ I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa
 	 alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018"
 	 file="gerry-week/2018_02_18-4058.jpg"
 	 caption="Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018."
-	 summary=""
-	 content=""
 %}
 
 There are challenges. They are mainly organizational. People are rightly frustrated that the current government organizational model is not fit for purpose in the digital age. Everything has changed in our world except how large organizations organize themselves. The silos have become lumbering dinosaurs, holding back and inhibiting quality service.
