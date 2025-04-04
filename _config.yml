@@ -1,6 +1,6 @@
 # Site settings
 analytics:
-  provider: google-gtag
+  provider: adobe
   google:
     tracking_id: GTM-KMVB8C2
 author:
