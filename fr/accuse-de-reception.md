@@ -16,5 +16,3 @@ Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, u
 Nous vous remercions de nous avoir transmis vos commentaires et vos questions.
 
 Retourner à la [ page que vous visionniez précédemment ]( / ){: .gc-referrer}
-
-[Inscrivez-vous à la liste d'envoi du Bureau de la transformation numérique](/inscrire.html)
