@@ -106,7 +106,7 @@ As we keep moving forward and experimenting with new approaches, we must always 
 * **usable**—is it easy to use? Will success rates on Canada.ca improve?
 * **sustainable**—can content teams easily maintain it?
 
-Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list]( {{ "/pages/signup" | prepend: site.urlalt[ page.language ] }} ) to get the post delivered to your inbox.
+Next in the series, we’ll talk about building wizards.
 
 ## Inspired by what you learned? Share this post with your team.
 
