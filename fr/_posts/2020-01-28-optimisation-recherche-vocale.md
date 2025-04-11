@@ -109,7 +109,7 @@ Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles a
 * Est-ce **utilisable**? Est-ce facile à utiliser? Les taux de réussite sur Canada.ca s’amélioreront-ils?
 * Est-ce **durable**? Est-ce que les équipes de contenu peuvent maintenir cela facilement?
 
-Lors d’un prochain billet, nous aborderons la création des assistants. Abonnez-vous à la [liste d’envoi du BTN]( {{ "/pages/inscrire.html" | prepend: site.urlalt[ page.language ] }} ) pour recevoir le billet dans votre boîte de réception.
+Lors d’un prochain billet, nous aborderons la création des assistants.
 
 ## Pour en savoir davantage
 
