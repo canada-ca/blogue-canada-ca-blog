@@ -14,10 +14,18 @@
 <meta name="dcterms.description" content="{{ site.description[ page.language ] }}" />
 {%- endif %}
 {%- if page.author %}
-<meta name="dcterms.creator" content="{{ page.author }}"/>
+	{%- if page.language == "en" %}
+<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
+	{% else %}
+<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
+	{%- endif %}
 <meta name="author" content="{{ page.author }}"/>
 {% elsif site.author %}
-<meta name="dcterms.creator" content="{{ site.author[ page.language ] }}"/>
+	{%- if page.language == "en" %}
+<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
+	{% else %}
+<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
+	{%- endif %}
 <meta name="author" content="{{ site.author[ page.language ] }}" />
 {%- endif %}
 <meta name="dcterms.language" title="ISO639-2/T" content="{{ site.language[ page.language ] | downcase | truncate: 3, '' }}"/>
