@@ -9,14 +9,7 @@ title: Blogue de Canada.ca
 
 {%- assign locales = site.data.locales.index -%}
 <p>{{ locales.intro[ page.language ] }}</p>
-<section class="followus">
-	<h2>{{ locales.followus[ page.language ] }}</h2>
-	<ul>
-		<li><a href="{{ site.baseurl }}/{{ locales.feedurl[ page.language ] }}" class="rss" rel="external"><span class="wb-inv">{{ locales.feed[ page.language ] }}</span></a></li>
-		<li><a href="{{ site.baseurl }}/pages/{{ locales.signupurl[ page.language ] }}" class="email" rel="external"><span class="wb-inv">{{ locales.signup[ page.language ] }}</span></a></li>
-		<li><a href="https://twitter.com/{{ locales.twitterhandle[ page.language ] }}" class="twitter" rel="external"><span class="wb-inv">Twitter</span></a></li>
-	</ul>
-</section>
+
 <h2 class="wb-inv">{{ locales.newest[ page.language ] }}</h2>
 <div class="row wb-eqht-grd main-card mrgn-tp-lg">
 {%- assign posts = site.posts | where: "language", page.language -%}
