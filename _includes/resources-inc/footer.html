@@ -8,5 +8,6 @@
 {%- elsif page.script -%}
 	<script src="{{ page.script }}"></script>
 {%- endif -%}
-{% if site.analytics.adobe %}{% include /providers/adobefooter.html %}{% endif %}
-<script type="text/javascript">_satellite.pageBottom();</script>
+
+{% if site.analytics.provider.adobe %}{% include /providers/adobefooter.html %}{% endif %}
+

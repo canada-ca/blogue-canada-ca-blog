@@ -1,11 +1,15 @@
 # Site settings
 analytics:
-  provider: adobe
-  google:
-    tracking_id: GTM-KMVB8C2
+  provider:
+    adobe:
+      tracking_id: "be5dfd287373/0127575cd23a/launch-f7c3e6060667"
+      service: "ESDC-EDSC"
+      gcaaterms: "ESDC-EDSC_Canada-Blog"
+    google:
+      tracking_id: "GTM-KMVB8C2"
 author:
-  en: Digital Transformation Office
-  fr: Bureau de la transformation numérique
+  en: Employment and Social Development Canada
+  fr: Emploi et Développement social Canada
 baseurl: ""
 emails:
   dto: cds.dto-btn.snc@servicecanada.gc.ca
