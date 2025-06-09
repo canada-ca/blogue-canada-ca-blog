@@ -14,22 +14,14 @@
 <meta name="dcterms.description" content="{{ site.description[ page.language ] }}" />
 {%- endif %}
 {%- if page.author %}
-	{%- if page.language == "en" %}
-<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
-	{% else %}
-<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
-	{%- endif %}
+<meta name="dcterms.creator" content="{{ page.author }}"/>
 <meta name="author" content="{{ page.author }}"/>
 {% elsif site.author %}
-	{%- if page.language == "en" %}
-<meta name="dcterms.creator" content="Employment and Social Development Canada"/>
-	{% else %}
-<meta name="dcterms.creator" content="Emploi et Développement social Canada"/>
-	{%- endif %}
+<meta name="dcterms.creator" content="{{ site.author[ page.language ] }}"/>
 <meta name="author" content="{{ site.author[ page.language ] }}" />
 {%- endif %}
 <meta name="dcterms.accessRights" content="2"/>
-<meta name="gcaaterms.sitename" content="ESDC-EDSC_Canada-Blog"/>
+<meta name="gcaaterms.sitename" content="{{ site.analytics.provider.adobe.gcaaterms }}"/>
 <meta name="dcterms.language" title="ISO639-2/T" content="{{ site.language[ page.language ] | downcase | truncate: 3, '' }}"/>
 {%- if page.subject %}
 <meta name="dcterms.subject" title="gccore" content="{{ page.subject }}"/>
@@ -41,7 +33,7 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif %}
-<meta property="og:locale" content='{{ page.language | append: '_CA' }}' />
+<meta property="og:locale" content="{{ page.language | append: '_CA' }}" />
 <meta property="og:url" content="{{ site.urlalt[ page.language ] }}{{ page.url | remove_first: '/' | remove_first: page.language }}" />
 {%- if page.image %}
 	{%- capture ogimage -%}{{ page.language | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}

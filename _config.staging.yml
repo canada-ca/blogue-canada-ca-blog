@@ -1,0 +1,5 @@
+analytics:
+  provider:
+    adobe:
+      tracking_id: "be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging"
+      service: "ESDC_TEST-TEST_EDSC"
