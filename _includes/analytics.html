@@ -1,12 +1,36 @@
-	{% case site.analytics.provider %}
-	{% when "google" %}
-	  {% include /providers/google.html %}
-	{% when "google-universal" %}
-	  {% include /providers/google-universal.html %}
-	{% when "google-gtag" %}
-	  {% include /providers/google-gtag.html %}
-	{% when "adobe" %}
-	  {% include /providers/adobehead.html %}
-	{% when "custom" %}
-	  {% include /providers/custom.html %}
-	{% endcase %}
+{% comment %}
+   This file loads the appropriate analytics provider script.
+   The configuration structure in _config.yml is:
+   analytics:
+     provider:
+       adobe: {...}
+       google: {...}
+
+   We check for both possible structures:
+   1. The original structure with provider as a string
+   2. The current structure with provider as an object with provider names as keys
+{% endcomment %}
+
+{% if site.analytics.provider == "adobe" %}
+  <!-- Using provider string configuration -->
+  {% include /providers/adobehead.html %}
+{% elsif site.analytics.provider == "google" %}
+  {% include /providers/google.html %}
+{% elsif site.analytics.provider == "google-universal" %}
+  {% include /providers/google-universal.html %}
+{% elsif site.analytics.provider == "google-gtag" %}
+  {% include /providers/google-gtag.html %}
+{% elsif site.analytics.provider == "custom" %}
+  {% include /providers/custom.html %}
+{% elsif site.analytics.provider.adobe %}
+  <!-- Using nested provider configuration -->
+  {% include /providers/adobehead.html %}
+{% elsif site.analytics.provider.google %}
+  {% include /providers/google.html %}
+{% elsif site.analytics.provider.google-universal %}
+  {% include /providers/google-universal.html %}
+{% elsif site.analytics.provider.google-gtag %}
+  {% include /providers/google-gtag.html %}
+{% elsif site.analytics.provider.custom %}
+  {% include /providers/custom.html %}
+{% endif %}

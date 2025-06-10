@@ -15,8 +15,9 @@
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		{% include metadata.html %}
 		{% include resources-inc/head.html %}
+
 		{% include analytics.html %}
-		</head>
+	</head>
 	<body {% if page.pageclass %}class="{{ page.pageclass }}" {% endif %}vocab="http://schema.org/" typeof="WebPage">
 		{%- if page.archived -%}
 			{% include headers-includes/archive.html %}
