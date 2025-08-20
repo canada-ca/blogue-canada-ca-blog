@@ -1,0 +1,65 @@
+# Error pages localization data
+404:
+  error:
+    en: "404 error"
+    fr: "Erreur 404"
+  intro:
+    en: "The page you're looking for may have been moved or deleted. Check that the address (URL) is correct. Do not include special characters."
+    fr: "La page que vous recherchez a peut-être été déplacée ou supprimée. Vérifiez que l'adresse (URL) est correcte. N'incluez pas de caractères spéciaux."
+
+403:
+  error:
+    en: "403 error"
+    fr: "Erreur 403"
+  intro:
+    en: "You don't have permission to access this page. This could be because:"
+    fr: "Vous n'avez pas la permission d'accéder à cette page. Cela pourrait être parce que :"
+  reasons:
+    en:
+      - "The page is restricted to authorized users only"
+      - "Your session may have expired"
+      - "You may need to sign in with proper credentials"
+      - "The content requires specific access permissions"
+    fr:
+      - "La page est réservée aux utilisateurs autorisés seulement"
+      - "Votre session a peut-être expiré"
+      - "Vous devrez peut-être vous connecter avec les bonnes informations d'identification"
+      - "Le contenu nécessite des permissions d'accès spécifiques"
+
+# Shared content for all error pages
+alternative:
+  en: "You may be looking for:"
+  fr: "Vous pouvez rechercher&nbsp;:"
+
+# Shared links for all error pages
+links:
+  en:
+    - text: "Design for the Government of Canada services"
+      url: "https://design.canada.ca/"
+    - text: "Canada.ca home page"
+      url: "https://www.canada.ca/en/"
+    - text: "Contact the Government of Canada"
+      url: "https://www.canada.ca/en/"
+    - text: "Sign in to an account"
+      url: "https://www.canada.ca/en/"
+    - text: "Benefits"
+      url: "https://www.canada.ca/en/"
+    - text: "Taxes"
+      url: "https://www.canada.ca/en/"
+    - text: "Visit or immigrate to Canada"
+      url: "https://www.canada.ca/en/"
+  fr:
+    - text: "Conception des services du gouvernement du Canada"
+      url: "https://design.canada.ca/"
+    - text: "Page d'accueil de Canada.ca"
+      url: "https://www.canada.ca/fr/"
+    - text: "Contacter le gouvernement du Canada"
+      url: "https://www.canada.ca/fr/"
+    - text: "Se connecter à un dossier ou un compte en ligne"
+      url: "https://www.canada.ca/fr/"
+    - text: "Avantages"
+      url: "https://www.canada.ca/fr/"
+    - text: "Impôts"
+      url: "https://www.canada.ca/fr/"
+    - text: "Visiter ou immigrer au Canada"
+      url: "https://www.canada.ca/fr/"
