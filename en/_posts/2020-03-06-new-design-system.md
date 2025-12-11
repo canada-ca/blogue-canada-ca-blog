@@ -5,7 +5,7 @@ description: "Making it easier and faster to design effective content within a c
 title:  "A Government of Canada design system: building better online content faster"
 ---
 
-In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
+In September 2019, the Canada.ca Experience Office (CEO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
 
 Talented people from across the Government of Canada, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service, Digital Academy, the Web Experience Toolkit, Innovation, Science and Economic Development Canada, Canada Revenue Agency, Immigration, Refugees and Citizenship Canada, and National Defence  participated in the day.
 

@@ -7,7 +7,7 @@ title:  "Helping Canadians start a business"
 
 Tens of thousands of new businesses are started every year in Canada. Starting a business is a top task for Canadians, and it’s not an easy one. There are different legal requirements at the provincial and federal levels. Requirements vary depending on the size and type of business. There’s a lot to get through and understand to do something that should be as easy as possible.
 
-In 2017, the Digital Transformation Office worked with Innovation, Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA) to improve the experience of starting a business on Canada.ca. Here’s how this optimization project turned out.
+In 2017, the Canada.ca Experience Office worked with Innovation, Science and Economic Development Canada (ISED) and the Canada Revenue Agency (CRA) to improve the experience of starting a business on Canada.ca. Here’s how this optimization project turned out.
 
 ## Understanding the problem
 

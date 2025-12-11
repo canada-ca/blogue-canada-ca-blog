@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2019/03/29/mise-a-jour-conception"
 date:   2019-03-29
-description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
+description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Canada.ca Experience Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
 title:  "About the Canada.ca design update"
 ---
 
@@ -9,7 +9,7 @@ We recently launched an updated design for Canada.ca. We wanted to tell you a bi
 
 Canada.ca launched in December 2013 as the flagship website of the Government of Canada. It serves as a single window into services and information from across the federal landscape. It represents the trusted digital government brand for Canadians and others worldwide.
 
-Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people.
+Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Canada.ca Experience Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people.
 
 {% include components/gc-complex-img.html
    alt="Before and after image of the Canada.ca homepage"
@@ -28,7 +28,7 @@ The design update focused on the standard Canada.ca template for public-facing w
 
 ## Designing based on evidence
 
-The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions.
+The <abbr title="Canada.ca Experience Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions.
 
 DTO staff led the research and testing, while the core design team included talented designers from:
 

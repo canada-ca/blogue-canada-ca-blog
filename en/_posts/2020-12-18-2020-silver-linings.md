@@ -27,7 +27,7 @@ We’ve collaborated more widely and more deeply these past many months than eve
 
 I am inspired by the dedication, resilience, and commitment to serving Canadians that I have witnessed in my colleagues from across government, and I am grateful to have been a part of your journey, as you have all been a part of mine.”
 
-*- **Laura Piper, Digital Transformation Office***
+*- **Laura Piper, Canada.ca Experience Office***
 
 *3.* “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”
 
@@ -37,7 +37,7 @@ I am inspired by the dedication, resilience, and commitment to serving Canadians
 
 During the course of the year, we piloted a new way of gathering direct feedback from people who use our web content. Real-time insights on what makes people fail at completing their task is humbling.  A constant reminder that we need to continue improving content for Canadians.”
 
-*- **David Pepin, Digital Transformation Office***
+*- **David Pepin, Canada.ca Experience Office***
 
 *5.* “Joining the web comms working group felt like being the little bee girl in the Blind Melon music video for ‘No Rain.’ It felt like stumbling into a meadow full of people who were thinking in ways I was thinking, and asking the important questions I was asking, and even more importantly, finding some answers to those questions about how to improve the Government of Canada’s web content for everyone in Canada and outside Canada accessing our services. It felt supportive and friendly, and I don’t think the projects I was working on (the COVID-19 Individual Benefits Finder and COVID Alert) would have been as successful without this space to collaborate.”
 
@@ -47,7 +47,7 @@ During the course of the year, we piloted a new way of gathering direct feedback
 
 On a personal level, I’m thankful to my DTO colleagues and our partners who helped me learn more about usability testing and communicating results… quickly! I also feel like my family finally understands what I do for a job.  A true usability silver lining."
 
-*- **Lana Stewart, Digital Transformation Office***
+*- **Lana Stewart, Canada.ca Experience Office***
 
 *7.* “It has been a case study on remote work that has convinced senior management that employees can work effectively from home more often. We're all doing it and if anything our productivity has gone up.
 
@@ -75,7 +75,7 @@ Another bright spot for me is seeing the public service, and more specifically t
 
 From the bottom of my heart, I thank you for everything you have done and will continue to do to help Canadians find what they need on Canada.ca. There is no way this country could have made it this far into the pandemic as well as it has without your dedication and hard work. Please take some time this holiday season to pause and celebrate your contribution. Canadians are so lucky to have you all in their corner.”
 
-*- **Michèle-Renée (M-R) Charbonneau, Digital Transformation Office***
+*- **Michèle-Renée (M-R) Charbonneau, Canada.ca Experience Office***
 
 ## Final word
 

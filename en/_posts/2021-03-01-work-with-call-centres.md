@@ -22,7 +22,7 @@ At the end of March 2020, there were a lot of calls and emails coming into all c
 
 The fact that call centres were swamped was making the news, as worried Canadians waited for hours to get help with their cases.  This called for swift action.
 
-Service Canada asked for help from the Digital Transformation Office (DTO) to improve their phone and email contact pages. The objective was to encourage more self-serve behaviour from people visiting the web site. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA), in the hopes of reducing call volumes.
+Service Canada asked for help from the Canada.ca Experience Office (CEO) to improve their phone and email contact pages. The objective was to encourage more self-serve behaviour from people visiting the web site. They wanted to build on success we had had working on contact pages with the Canada Revenue Agency (CRA), in the hopes of reducing call volumes.
 
 ## Swamped call centres don’t make anyone happy
 

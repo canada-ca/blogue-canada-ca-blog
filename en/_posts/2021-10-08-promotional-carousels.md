@@ -19,7 +19,7 @@ Carousels may meet organizational needs of having content front and center, but 
 
 Believing that your content will be noticed **because** it is in a carousel is incorrect. The opposite is true.
 
-In 2016, the Digital Transformation Office conducted an eye tracking study. Participants barely looked at more than the bottom corner of the carousel, and they didn’t scan more than the first few words of the caption. The red in the heatmap of the image shows that they consistently read the page title and description before looking further down the page. Based in part on this study, we stopped using carousels on the home page of Canada.ca and other top-level navigation pages.
+In 2016, the Canada.ca Experience Office conducted an eye tracking study. Participants barely looked at more than the bottom corner of the carousel, and they didn’t scan more than the first few words of the caption. The red in the heatmap of the image shows that they consistently read the page title and description before looking further down the page. Based in part on this study, we stopped using carousels on the home page of Canada.ca and other top-level navigation pages.
 
 {% include components/gc-complex-img.html
    alt="A long description can be found after the image."

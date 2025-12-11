@@ -2,11 +2,11 @@
 altLangPage: "/2018/03/29/Visit-Canada-Optimization.html"
 author: Eric Cooper
 date:   2018-03-29
-description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+description: Le Bureau de l’expérience Canada.ca (BEC) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 title:  "Visiter le Canada&nbsp;: optimisation"
 ---
 
-**Par Eric Cooper, Bureau de la transformation numérique**
+**Par Eric Cooper, Bureau de l’expérience Canada.ca**
 
 Le Canada est un grand et beau pays dans lequel il y a beaucoup à voir et de nombreuses expériences à vivre. En 2017, année du 150e anniversaire de la Confédération du Canada, nous avons accueilli environ 20,8 millions de visiteurs. Nous avons ainsi battu notre précédent record.
 
@@ -16,7 +16,7 @@ Il n’est pas toujours facile de savoir quel document vous devez demander pour 
 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927) (Les nouvelles exigences en matière de voyage empêchent un homme d’entrer au Canada pour Noël (chaîne anglaise de Radio-Canada)
 
-En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de la transformation numérique (BTN) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de l’expérience Canada.ca (BEC) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 
 ## Comprendre le problème
 
@@ -134,7 +134,7 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 	</div>
 	<div class="col-md-9 col-xs-12">
 		<figcaption>
-			<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
+			<p>Eric est un coordonnateur de projet pour le Bureau de l’expérience Canada.ca. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
 		</figcaption>
 	</div>
 </figure>

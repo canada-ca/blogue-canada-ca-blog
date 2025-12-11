@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2019/08/26/conseils-conception-contentu"
 date:   2019-08-26
-description: "In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
+description: "In the fall of 2018, the Canada.ca Experience Office (CEO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits."
 title:  "Six content design tips from our Student loans and Parental benefits optimization projects"
 ---
 
@@ -15,7 +15,7 @@ title:  "Six content design tips from our Student loans and Parental benefits op
   }
 </style>
 
-In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
+In the fall of 2018, the Canada.ca Experience Office (CEO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
 
 ## 1. Remove layers, help people get answers faster
 

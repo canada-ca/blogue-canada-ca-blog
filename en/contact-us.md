@@ -2,16 +2,16 @@
 altLangPage: "/contactez-nous"
 breadcrumbs: false
 date: 2024-08-12
-description: "Contact the Digital Transformation Office about the Canada.ca design system."
+description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: /js/gc-referrer.js
 share: false
-title: "Contact the Digital Transformation Office"
+title: "Contact the Canada.ca Experience Office"
 section-title: ""
 ---
-<p>The Digital Transformation Office is part of the Canadian Digital Service at Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
+<p>The Canada.ca Experience Office is part of the Canadian Digital Service at Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
 <p>Please note that we can only respond to questions specifically about the design of, or issues related to, Canada.ca. For contact information for other departments or programs, please visit:</p>
 <ul>
   <li><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></li>

@@ -18,7 +18,7 @@ title: "Unified design system and update of DTO’s merger with CDS"
 
 <h2>A shared focus: Working together to improve online services</h2>
 
-<p>Some of you may already know that we, the Digital Transformation Office (DTO) have merged with the Canadian Digital Service (CDS). The merger was a result of the government creating a new Minister of Citizens’ Services.</p>
+<p>Some of you may already know that we, the Canada.ca Experience Office (CEO) have merged with the Canadian Digital Service (CDS). The merger was a result of the government creating a new Minister of Citizens’ Services.</p>
 
 <p><b>Read more:</b></p>
 

@@ -24,7 +24,7 @@ The content is currently managed and populated by three partner departments:
 
 The unfortunate reality is that the existing system for recalls and safety alerts is old and unreliable. The database and technical infrastructure is a patchwork of servers that often fails and needs constant maintenance. This is a serious problem for Canadians who rely on it for timely and accurate safety information.
 
-In June of 2018, the web team at Health Canada, along with representatives from Transport Canada and Canadian Food Inspection Agency, began working with the Digital Transformation Office from the Treasury Board Secretariat to optimize recalls and safety alerts.
+In June of 2018, the web team at Health Canada, along with representatives from Transport Canada and Canadian Food Inspection Agency, began working with the Canada.ca Experience Office from the Treasury Board Secretariat to optimize recalls and safety alerts.
 
 On top of the infrastructure challenges, discovery research and usability testing found that Canadians face several problems when using the system:
 
@@ -32,7 +32,7 @@ On top of the infrastructure challenges, discovery research and usability testin
 * search issues and lack of filters caused many task failures
 * overall sense of uncertainty – people weren’t getting clear answers for what to do
 
-With those issues in mind, the Digital Transformation Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
+With those issues in mind, the Canada.ca Experience Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
 
 ## New prototypes
 

@@ -1,12 +1,12 @@
 ---
 altLangPage: "/2020/11/12/interactive-checklists"
 date:   2020-11-12
-description: "Au cours des dernières années, le Bureau de la transformation numérique (BTN) a étudié l'utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d'admissibilité."
+description: "Au cours des dernières années, le Bureau de l’expérience Canada.ca (BEC) a étudié l'utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d'admissibilité."
 title:  "Utilisation de listes de vérification interactives pour simplifier les critères d'admissibilité"
 ---
 De par leur nature, les sites gouvernementaux ont tendance à être complexes. Ils doivent couvrir une multitude de priorités et s'adresser à une multitude de publics. Il est donc très difficile pour les gens d'obtenir facilement les réponses dont ils ont besoin de la part de leur gouvernement.
 
-Les critères d'admissibilité aux programmes gouvernementaux constituent bien souvent l'un des domaines que les gens ont de la difficulté à comprendre. Au cours des dernières années, le Bureau de la transformation numérique (BTN) a étudié l'utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d'admissibilité.
+Les critères d'admissibilité aux programmes gouvernementaux constituent bien souvent l'un des domaines que les gens ont de la difficulté à comprendre. Au cours des dernières années, le Bureau de l’expérience Canada.ca (BEC) a étudié l'utilisation de listes de vérification interactives pour simplifier la façon dont nous présentons les critères d'admissibilité.
 
 Le principe comportemental qui sous-tend l'utilisation d'éléments interactifs tient au fait que les gens ralentissent et sont plus attentifs lorsqu'ils peuvent interagir avec votre page. Ils deviennent des participants actifs à votre contenu au lieu d'être des observateurs passifs. Cela les aide à mieux comprendre et à retenir l'information.
 

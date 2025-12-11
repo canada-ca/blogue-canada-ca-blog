@@ -5,7 +5,7 @@ description: "Les dix leçons tirées en 2019 par l’équipe de conception du c
 title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca"
 ---
 
-En janvier 2019, [l’équipe du Bureau de la transformation numérique (BTN)](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) a amorcé la refonte du système de conception du site [Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html) pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
+En janvier 2019, [l’équipe du Bureau de l’expérience Canada.ca (BEC)](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html) a amorcé la refonte du système de conception du site [Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html) pour moderniser et simplifier la marque numérique de confiance du gouvernement du Canada. Au cours de l’année, l’équipe a continué de collaborer avec les ministères afin d’améliorer l’expérience utilisateur pour l’ensemble des renseignements et des services gouvernementaux. Avant le décompte de l’an 2020, nous souhaitons faire connaître les 10 principales leçons que nous avons apprises cette année en matière de conception de contenu.
 
 ## 1. Observer les gens qui consultent votre contenu
 
@@ -90,9 +90,9 @@ Nous espérons que vous vous inspirerez de ces leçons pour améliorer votre con
 
 ## À l’approche de 2020
 
-Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous souhaitons une période des Fêtes agréable et reposante. Nous avons d’ambitieux projets pour 2020 et avons hâte de collaborer avec nos nombreux collègues à l’échelle du gouvernement à l’amélioration de canada.ca et du système de conception du GC.
+Au nom de toute l’équipe du Bureau de l’expérience Canada.ca, nous vous souhaitons une période des Fêtes agréable et reposante. Nous avons d’ambitieux projets pour 2020 et avons hâte de collaborer avec nos nombreux collègues à l’échelle du gouvernement à l’amélioration de canada.ca et du système de conception du GC.
 
 {% include components/gc-simple-img.html
-   alt="Une photo de l'équipe du Bureau de la transformation numérique."
+   alt="Une photo de l'équipe du Bureau de l’expérience Canada.ca."
    file="equipe-BTN-2019.jpg"
 %}

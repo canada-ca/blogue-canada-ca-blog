@@ -17,7 +17,7 @@ Pour que les gens aient accès au contenu de ces nouvelles tâches principales, 
 
 ## L'étude sur les étiquettes
 
-En juin 2020, le Bureau de la transformation numérique (BTN) et Santé Canada ont lancé une étude de suivi sur les étiquettes en anglais et en français. Sur Canada.ca, nous avons invité au hasard des gens à participer à l'étude du 8 au 10 juin 2020.
+En juin 2020, le Bureau de l’expérience Canada.ca (BEC) et Santé Canada ont lancé une étude de suivi sur les étiquettes en anglais et en français. Sur Canada.ca, nous avons invité au hasard des gens à participer à l'étude du 8 au 10 juin 2020.
 
 ### Statistiques
 

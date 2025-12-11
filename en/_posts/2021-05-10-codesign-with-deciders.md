@@ -22,7 +22,7 @@ Departments represented in the working group included:
 - Immigration, Refugees and Citizenship Canada 
 - Privy Council Office
 - Public Health Agency of Canada  
-- Treasury Board’s Digital Transformation Office 
+- Treasury Board’s Canada.ca Experience Office 
 
 With so many departments involved, finding a way to make approvals more efficient was essential. The team established a routine of regular co-design sessions with partner departments. There was a standing invitation for approvers to participate. 
 

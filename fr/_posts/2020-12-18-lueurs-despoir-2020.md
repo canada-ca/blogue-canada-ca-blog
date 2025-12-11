@@ -12,7 +12,7 @@ Alors que 2021 pointe à l'horizon, la communauté #GCnumérique souhaiterait me
 
 Au cours de la dernière année, nous avons appris à travailler ensemble, tout en restant éloignés. La collaboration interministérielle avec une vaste gamme de groupes de travail a été mémorable et instructive.
 
-L'un de nos souvenirs les plus marquants a été notre collaboration avec le Bureau de la transformation numérique (BTN) au moment du lancement du Plan d'intervention économique. Leurs conseils quant à l'interface et à l'expérience utilisateurs a été capitale pour nous aider à fournir de l'information à la population au sujet du soutien financier durant la pandémie.
+L'un de nos souvenirs les plus marquants a été notre collaboration avec le Bureau de l’expérience Canada.ca (BEC) au moment du lancement du Plan d'intervention économique. Leurs conseils quant à l'interface et à l'expérience utilisateurs a été capitale pour nous aider à fournir de l'information à la population au sujet du soutien financier durant la pandémie.
 
 Nous continuons à renforcer nos liens et à apprendre les uns des autres. Nous avons l'espoir que nous surmonterons les défis liés à la pandémie mondiale et que ces défis feront de nous de meilleures personnes et de meilleures équipes.&nbsp;»
 
@@ -26,7 +26,7 @@ Notre collaboration au cours des derniers mois a été beaucoup plus large et be
 
 Je suis honorée d'avoir pu jouer un rôle dans votre parcours et vous avez tous eu un rôle à jouer, lors du mien.&nbsp;»
 
-*- **Laura Piper, Bureau de la transformation numérique***
+*- **Laura Piper, Bureau de l’expérience Canada.ca***
 
 *3.* «&nbsp;La collaboration a été le plus grand atout au sein du gouvernement du Canada, durant des circonstances défavorables et une transition majeure vers le travail à distance. La collaboration a permis d'avoir des solutions communes, de répondre aux changements à l'aide de preuves et de mettre en place de véritables avancées qui ont permis à l'ensemble du gouvernement de communiquer plus adéquatement avec la population, durant cette crise. Nous avons innové et nous avons fourni des renseignements fiables, sécuritaires et opportuns à la population, lorsque le besoin se faisait sentir.&nbsp;»
 
@@ -36,7 +36,7 @@ Je suis honorée d'avoir pu jouer un rôle dans votre parcours et vous avez tous
 
 Cette année, nous avons mis en place une nouvelle façon de recueillir des rétroactions directes de la part des utilisateurs de nos contenus Web. Obtenir de l'information en temps réel au sujet des facteurs poussant les gens à ne pas accomplir leurs tâches remet les choses en perspective, en plus d'être un rappel constant que nous nous devons de continuer à améliorer le contenu fourni à la population.&nbsp;»
 
-*- **David Pepin, Bureau de la transformation numérique***
+*- **David Pepin, Bureau de l’expérience Canada.ca***
 
 *5.* «&nbsp;Lorsque j'ai joint les rangs du groupe de travail sur les communications Web, je me suis senti comme la petite fille portant un costume d'abeille dans le vidéoclip de la chanson No Rain de Blind Melon. C'était comme si je plongeais dans un pré rempli de gens qui pensaient la même chose que moi, qui posaient les mêmes questions primordiales que moi et qui – et c'est là l'élément central – trouvaient quelques réponses à ces questions portant sur les façons d'améliorer le contenu Web du gouvernement pour la population se trouvant au pays ou à l'extérieur et accédant à nos services. Il y a un soutien et une camaraderie et je crois que les projets sur lesquels j'ai travaillé (le Chercheur de prestations individuelles liées à la COVID-19 et l'Alerte COVID) ont eu du succès grâce à cet espace de collaborations.&nbsp;»
 
@@ -46,7 +46,7 @@ Cette année, nous avons mis en place une nouvelle façon de recueillir des rét
 
 Sur une note plus personnelle, je tiens à remercier mes collègues du BTN et nos partenaires. Ils m'ont permis d'en apprendre davantage au sujet des tests de convivialité et du partage des résultats… rapidement! Je crois également que ma famille comprend finalement mon métier. Un aspect positif… et convivial!&nbsp;»
 
-*- **Lana Stewart, Bureau de la transformation numérique***
+*- **Lana Stewart, Bureau de l’expérience Canada.ca***
 
 *7.* «&nbsp;Je crois que la haute direction a été séduite par une étude sur le travail à distance. Cette étude a démontré que les employés pouvaient travailler efficacement s'ils travaillaient plus souvent à partir de la maison. Maintenant, nous travaillons tous à distance. Notre productivité? Elle a augmenté.
 
@@ -73,7 +73,7 @@ Un autre fait saillant a été de voir à quel point la fonction publique – et
 
 Je tiens à vous remercier du fond du cœur pour tout ce que vous avez fait et tout ce que vous continuerez à faire pour permettre aux Canadiens de trouver les réponses à leurs questions sur Canada.ca. Votre dévouement et votre travail acharné ont permis au Canada de se trouver là où il se trouve, à ce stade-ci de la pandémie. En cette période des Fêtes, veuillez prendre le temps de vous arrêter et de souligner votre apport. La population ne peut pas avoir de meilleurs alliés que vous.&nbsp;»
 
-*- **Michèle-Renée (M-R) Charbonneau, Bureau de la transformation numérique***
+*- **Michèle-Renée (M-R) Charbonneau, Bureau de l’expérience Canada.ca***
 
 ## Mot de la fin
 

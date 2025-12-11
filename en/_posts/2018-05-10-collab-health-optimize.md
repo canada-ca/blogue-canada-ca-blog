@@ -1,13 +1,13 @@
 ---
 altLangPage: "/2018/05/10/concerte-sante"
 date: 2018-05-10
-description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme.
+description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Canada.ca Experience Office on optimizing top tasks for the diseases and immunization topics of the health theme.
 title:  "Collaborative work to optimize diseases and immunization content"
 ---
 
 **By Roger Pankhurst, optimization partner from Health Canada**
 
-Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing top tasks for the diseases and immunization topics of the Health Theme.
+Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Canada.ca Experience Office (CEO) from the Treasury Board of Canada Secretariat (TBS) on optimizing top tasks for the diseases and immunization topics of the Health Theme.
 
 Specifically, we’ve been optimizing our digital content for:
 
@@ -64,7 +64,7 @@ We’ve just completed another round of usability testing with Canadians to vali
 {% include components/gc-complex-img.html
    alt="Photo of 11 people standing in front of a screen showing success improvement data."
    file="collab-health/hc-phac-dto-team-835x423.jpg"
-   caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office."
+   caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Canada.ca Experience Office."
 %}
 
 ## We want to hear from you

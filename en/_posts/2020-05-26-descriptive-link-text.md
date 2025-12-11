@@ -8,7 +8,7 @@ Clear link text can help thousands more people get to the Canada.ca content they
 
 ## Comparing click-through rates
 
-In April 2020, during the COVID-19 crisis, the Digital Transformation Office and Health Canada looked at how different link text worked for people seeking mental health and substance use support on the Canada.ca/coronavirus page.
+In April 2020, during the COVID-19 crisis, the Canada.ca Experience Office and Health Canada looked at how different link text worked for people seeking mental health and substance use support on the Canada.ca/coronavirus page.
 
 The initial link text for these resources was “Wellness Together Canada”. This was the name of the site that the link pointed to. It’s generally considered best practice for link text to match the title of the page it’s pointing to. However, we had concerns that this didn’t provide enough ‘scent of information’ for users.
 

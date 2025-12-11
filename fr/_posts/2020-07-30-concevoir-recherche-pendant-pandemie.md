@@ -1,11 +1,11 @@
 ---
 altLangPage: "/2020/07/30/design-research-during-pandemic"
 date:   2020-07-30
-description: "Lorsque la pandémie a été confirmée à la mi‑mars, le Bureau de la transformation numérique avons dû repenser et modifier notre approche afin d'aider les ministères à réagir rapidement et efficacement à l'évolution rapide de la situation."
+description: "Lorsque la pandémie a été confirmée à la mi‑mars, le Bureau de l’expérience Canada.ca avons dû repenser et modifier notre approche afin d'aider les ministères à réagir rapidement et efficacement à l'évolution rapide de la situation."
 title:  "Recherche en conception pendant une pandémie"
 ---
 
-Le Bureau de la transformation numérique (BTN) mène habituellement de «&nbsp;courts&nbsp;» projets d'optimisation de trois mois. Lorsque la pandémie a été confirmée à la mi‑mars, nous avons dû repenser et modifier notre approche afin d'aider les ministères à réagir rapidement et efficacement à l'évolution rapide de la situation. Nous avons commencé à faire de la recherche en conception de façon rapide sur le contenu lié à la COVID‑19 et les aspects de l'architecture de l'information de Canada.ca. Nous avons maintenu notre priorité de fournir du contenu clair et utilisable pour les appareils mobiles d'abord sur Canada.ca. La situation de crise nous a simplement obligés à agir plus rapidement. Beaucoup plus rapidement!
+Le Bureau de l’expérience Canada.ca (BEC) mène habituellement de «&nbsp;courts&nbsp;» projets d'optimisation de trois mois. Lorsque la pandémie a été confirmée à la mi‑mars, nous avons dû repenser et modifier notre approche afin d'aider les ministères à réagir rapidement et efficacement à l'évolution rapide de la situation. Nous avons commencé à faire de la recherche en conception de façon rapide sur le contenu lié à la COVID‑19 et les aspects de l'architecture de l'information de Canada.ca. Nous avons maintenu notre priorité de fournir du contenu clair et utilisable pour les appareils mobiles d'abord sur Canada.ca. La situation de crise nous a simplement obligés à agir plus rapidement. Beaucoup plus rapidement!
 
 Voici comment nous avons abordé la recherche en conception dans le cadre de la réponse numérique à la COVID‑19.
 

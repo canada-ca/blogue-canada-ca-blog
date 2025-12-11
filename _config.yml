@@ -81,7 +81,7 @@ defaults:
       path: "en/"
     values:
       contextualFooter:
-        title: Digital Transformation Office (DTO)
+        title: Canada.ca Experience Office (CEO)
         links:
           - url: "/contact-us.html"
             text: Contact us
@@ -91,7 +91,7 @@ defaults:
       path: "fr/"
     values:
       contextualFooter:
-        title: Bureau de la transformation numérique (BTN)
+        title: Bureau de l’expérience Canada.ca (BEC)
         links:
           - url: "/contactez-nous.html"
             text: Contactez-nous

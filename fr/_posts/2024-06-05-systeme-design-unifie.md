@@ -18,7 +18,7 @@ title: "Système de design unifié et mise à jour sur la fusion du BTN et du SN
 
 <h2>Un objectif commun : améliorer ensemble les services en ligne</h2>
 
-<p>Certaines personnes parmi vous le savent déjà, mais le Bureau de la transformation numérique (BTN) a été intégré au Service numérique canadien (SNC). La transition découle de la création d’un nouveau poste de ministre des Services aux citoyens par le gouvernement.</p>
+<p>Certaines personnes parmi vous le savent déjà, mais le Bureau de l’expérience Canada.ca (BEC) a été intégré au Service numérique canadien (SNC). La transition découle de la création d’un nouveau poste de ministre des Services aux citoyens par le gouvernement.</p>
 
 <p><b>En savoir plus&nbsp;:</b></p>
 

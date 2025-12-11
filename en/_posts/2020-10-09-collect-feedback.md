@@ -12,7 +12,7 @@ But what if we could know sooner when people aren’t finding their answers onli
 
 ## Pilot study
 
-In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages. The Digital Transformation Office (DTO) worked with:
+In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages. The Canada.ca Experience Office (CEO) worked with:
 * Health Canada/Public Health Agency of Canada (PHAC)
 * Principal Publisher
 * Privy Council Office

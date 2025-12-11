@@ -19,11 +19,11 @@ Dans mon poste à Montréal, je fais partie de l’équipe Web, en communication
 
 ## Le BTN
 
-C’est ainsi que je me suis retrouvée à joindre une équipe du Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor. J’y étais à temps partiel pendant trois mois, à partir de mon bureau habituel à Montréal, lors d’un projet d’amélioration de contenu Web en collaboration avec l’Agence du revenu du Canada.
+C’est ainsi que je me suis retrouvée à joindre une équipe du Bureau de l’expérience Canada.ca (BEC) du Secrétariat du Conseil du Trésor. J’y étais à temps partiel pendant trois mois, à partir de mon bureau habituel à Montréal, lors d’un projet d’amélioration de contenu Web en collaboration avec l’Agence du revenu du Canada.
 
 Mes objectifs&nbsp;:
 
-* apprendre la démarche empruntée par le <abbr title="Bureau de la transformation numérique">BTN</abbr> pour améliorer le contenu sur Canada.ca
+* apprendre la démarche empruntée par le <abbr title="Bureau de l’expérience Canada.ca">BTN</abbr> pour améliorer le contenu sur Canada.ca
 * mieux comprendre le rôle d’une équipe qui élabore des directives auxquelles nous devons nous conformer
 * contribuer au projet au mieux de mes capacités
 
@@ -54,4 +54,4 @@ Si jamais l’occasion se présente à vous… saisissez-la!
 ## Pour en apprendre davantage
 
 * [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
-* [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html)
+* [Bureau de l’expérience Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html)

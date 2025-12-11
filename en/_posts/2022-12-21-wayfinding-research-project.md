@@ -9,7 +9,7 @@ title: "Wayfinding research project improves our approach to navigation on Canad
 <div class="row">
   <div class="col-md-8"><img src="/images/thumbs/2022-12-21.png" class="img-responsive" alt="" /></div>
 </div>
-<p class="mrgn-tp-lg">The Digital Transformation Office carried out a wayfinding research project to better understand how people navigate different parts of the Government of Canada’s web presence.  We worked with Immigration, Refugees and Citizenship, Agriculture and Agri-Food Canada, Veterans Affairs Canada and Statistics Canada to investigate how people use the global theme and topic menu on Canada.ca. We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.  In some cases, this prevented a few institutions from adopting the Canada.ca design.</p>
+<p class="mrgn-tp-lg">The Canada.ca Experience Office carried out a wayfinding research project to better understand how people navigate different parts of the Government of Canada’s web presence.  We worked with Immigration, Refugees and Citizenship, Agriculture and Agri-Food Canada, Veterans Affairs Canada and Statistics Canada to investigate how people use the global theme and topic menu on Canada.ca. We knew that some institutions were finding that the menu wasn’t meeting their more complex navigation needs.  In some cases, this prevented a few institutions from adopting the Canada.ca design.</p>
 <p>To find a solution we needed to look beyond the menu and toward navigation habits as a whole to see how institutions could meet user needs effectively.</p>
 <div class="row">
   <div class="col-md-8 mrgn-tp-lg">

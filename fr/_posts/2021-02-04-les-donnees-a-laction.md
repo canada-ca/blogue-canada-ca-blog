@@ -16,7 +16,7 @@ Les données peuvent vous aider dans les domaines suivants&nbsp;:
 
 Même si la tâche vous semble fastidieuse, il est important de passer en revue vos données. Concentrez-vous sur les données qui vous permettent de comprendre la façon dont les tâches sont accomplies. Examinez-les régulièrement pour déceler des tendances et des problèmes. L'étude des données peut aider même les plus petites équipes à accorder la priorité aux améliorations importantes en matière de prestation de services.
 
-L'un des principaux objectifs du Bureau de la transformation numérique (BTN) est de rendre l'information et les services en ligne plus faciles à trouver et à comprendre pour les utilisateurs. Nous voulions vous faire part de notre expérience récente en matière d'utilisation des données pour améliorer vos contenus importants.
+L'un des principaux objectifs du Bureau de l’expérience Canada.ca (BEC) est de rendre l'information et les services en ligne plus faciles à trouver et à comprendre pour les utilisateurs. Nous voulions vous faire part de notre expérience récente en matière d'utilisation des données pour améliorer vos contenus importants.
 
 ## Les données peuvent révéler que vous avez besoin d'une conception destinée aux appareils mobiles
 

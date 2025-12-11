@@ -15,7 +15,7 @@ figcaption {
 }
 </style>
 
-In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://www.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
+In January 2019, the [Canada.ca Experience Office (CEO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://www.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
 
 ## 1. Watch people use your content
 
@@ -100,15 +100,15 @@ We hope you find these lessons helpful too when improving your content.
 
 ## Looking forward to 2020
 
-The Digital Transformation Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
+The Canada.ca Experience Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
 
 {% include components/gc-simple-img.html
-   alt="A photo of the Digital Transformation Office team."
+   alt="A photo of the Canada.ca Experience Office team."
    file="DTO_team_2019.jpg"
 %}
 
 ## Inspired by what you learned? Share this post with your team.
 
- Connect with the Digital Transformation Office at TBS:
+ Connect with the Canada.ca Experience Office at TBS:
 * Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * Twitter: #Canadadotca

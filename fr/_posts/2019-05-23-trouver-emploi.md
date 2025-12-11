@@ -1,13 +1,13 @@
 ---
 altLangPage: "/2019/05/23/find-job"
 date:   2019-05-23
-description: "La Commission de la fonction publique a travaillé avec le Bureau de la transformation numérique (BTN) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca."
+description: "La Commission de la fonction publique a travaillé avec le Bureau de l’expérience Canada.ca (BEC) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca."
 title:  "Trouver un emploi au gouvernement… ça devrait être si facile…"
 ---
 
 **Par Karen Nimblett, Commission de la fonction publique**
 
-La Commission de la fonction publique a travaillé avec le Bureau de la transformation numérique (BTN) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca.
+La Commission de la fonction publique a travaillé avec le Bureau de l’expérience Canada.ca (BEC) et d’autres partenaires au cours de l’été pour optimiser la tâche de trouver un emploi au gouvernement sur le site Web Canada.ca.
 
 Des essais antérieurs sur l’expérience utilisateur ont démontré que les options proposées dans le menu Emplois pouvaient porter à confusion. «&nbsp;Guichet emplois, Trouver un emploi… Quelle est la différence? Lequel dois-je choisir?&nbsp;»
 

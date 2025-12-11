@@ -16,7 +16,7 @@ To get people to content for these emerging top tasks, we had to create some new
 
 ## The labelling study
 
-In June 2020, the Digital Transformation Office (DTO) and Health Canada launched a follow-up labelling study in both English and French. On Canada.ca, we randomly invited people to participate in the study from June 8 to 10, 2020.
+In June 2020, the Canada.ca Experience Office (CEO) and Health Canada launched a follow-up labelling study in both English and French. On Canada.ca, we randomly invited people to participate in the study from June 8 to 10, 2020.
 
 ### Stats
 * 3,053 people participated
