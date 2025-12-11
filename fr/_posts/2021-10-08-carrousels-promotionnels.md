@@ -19,7 +19,7 @@ Les carrousels peuvent répondre aux besoins organisationnels en plaçant le con
 
 Il est faux de croire que votre contenu sera remarqué **parce qu'il** se trouve dans un carrousel. C'est plutôt le contraire qui est vrai.
 
-En 2016, le Bureau de la transformation numérique a mené une étude de suivi oculaire. Les participants ont à peine regardé plus que le coin inférieur du carrousel, et ils n'ont pas parcouru plus que les premiers mots de la sous-titre. Le rouge dans la carte thermique de l'image montre qu'ils ont habituellement lu le titre et la description de la page avant de regarder plus bas sur la page. En nous appuyant en partie sur cette étude, nous avons cessé d'utiliser les carrousels sur la page d'accueil de Canada.ca et sur d'autres pages de navigation principales.
+En 2016, le Bureau de l’expérience Canada.ca a mené une étude de suivi oculaire. Les participants ont à peine regardé plus que le coin inférieur du carrousel, et ils n'ont pas parcouru plus que les premiers mots de la sous-titre. Le rouge dans la carte thermique de l'image montre qu'ils ont habituellement lu le titre et la description de la page avant de regarder plus bas sur la page. En nous appuyant en partie sur cette étude, nous avons cessé d'utiliser les carrousels sur la page d'accueil de Canada.ca et sur d'autres pages de navigation principales.
 
 {% include components/gc-complex-img.html
    alt="Une longue description peut être trouvée après l'image."

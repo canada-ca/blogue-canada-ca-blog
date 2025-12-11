@@ -5,7 +5,7 @@ date:   2018-05-30
 description: Dans une étude de convivialité récente, nous avons vu des gens qui n’ont pas tenu compte des résultats de recherche de Canada.ca qui semblaient trop vieux. Découvrez comment vous pouvez valider votre contenu et montrer qu'il est toujours à jour.
 title: "Tout est question de dates&nbsp;: la confiance envers le contenu ancien sur Canada.ca"
 ---
-**Par Patrick Lajeunesse, Bureau de la transformation numérique**
+**Par Patrick Lajeunesse, Bureau de l’expérience Canada.ca**
 
 Dans une étude récente sur la convivialité, nous avons vu que des gens ignoraient les résultats de recherche de Canada.ca qui semblaient trop vieux. Ils supposaient que, parce que la page n’avait pas été «&nbsp;modifiée&nbsp;» depuis un certain temps, l’information sur cette page n’était pas fiable. Cependant, le contenu était parfaitement valide et venait d’être revu.
 

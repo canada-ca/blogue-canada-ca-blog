@@ -9,7 +9,7 @@ Des liens clairs peuvent aider des milliers de personnes à accéder rapidement 
 
 ## Comparaison des taux de clics
 
-En avril 2020, pendant la crise de la COVID 19, le Bureau de la transformation numérique et Santé Canada ont examiné l’efficacité de différents textes de liens pour les personnes à la recherche de soutien en santé mentale et en toxicomanie sur la page Canada.ca/coronavirus.
+En avril 2020, pendant la crise de la COVID 19, le Bureau de l’expérience Canada.ca et Santé Canada ont examiné l’efficacité de différents textes de liens pour les personnes à la recherche de soutien en santé mentale et en toxicomanie sur la page Canada.ca/coronavirus.
 
 Le texte initial pour ces ressources était «&nbsp;Espace Mieux-être Canada&nbsp;». Il s’agissait du nom du site vers lequel le lien pointait. Il est généralement considéré comme une pratique exemplaire que le texte du lien corresponde au titre de la page vers laquelle il pointe. Cependant, nous craignions que les «&nbsp;pistes d’information&nbsp;» ainsi fournies soient insuffisantes pour les utilisateurs.
 

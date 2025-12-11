@@ -2,14 +2,14 @@
 altLangPage: "/acknowledgement"
 breadcrumbs: false
 date: 2024-08-12
-description: "Contactez le Bureau de la transformation numérique au sujet du système de conception Canada.ca."
+description: "Contactez le Bureau de l’expérience Canada.ca au sujet du système de conception Canada.ca."
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: /js/gc-referrer.js
 share: false
 showFeedback: false
-title: "Contactez le Bureau de la transformation numérique"
+title: "Contactez le Bureau de l’expérience Canada.ca"
 ---
 Nous avons bien reçu votre message. Si vous avez fourni une adresse courriel, un membre de notre équipe vous répondra dans les 5 jours ouvrables.
 

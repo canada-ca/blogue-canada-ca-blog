@@ -5,7 +5,7 @@ description: "Ce que nous avons appris sur les sondages de fin de visite, les te
 title:  "Trouver la bonne méthode pour mesurer la réussite des tâches en ligne"
 ---
 
-En 2019, le Bureau de la transformation numérique a piloté  3 méthodes pour mesurer la réussite des tâches en ligne&nbsp;:
+En 2019, le Bureau de l’expérience Canada.ca a piloté  3 méthodes pour mesurer la réussite des tâches en ligne&nbsp;:
 
 * le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
@@ -42,11 +42,11 @@ Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont
 
 ### Sondage en ligne
 
-La méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année. En fait, le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser pour colliger des données sur la réussite des tâches. Le sondage demande aux visiteurs ce qu’ils sont venus faire sur le site, et s’ils ont complété leur tâche avec succès.
+La méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année. En fait, le Bureau de l’expérience Canada.ca a élaboré un sondage que n’importe quelle institution pourrait utiliser pour colliger des données sur la réussite des tâches. Le sondage demande aux visiteurs ce qu’ils sont venus faire sur le site, et s’ils ont complété leur tâche avec succès.
 
 Les résultats des sondages peuvent être compilés automatiquement dans des tableaux de bord. Cela réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
 
-Le sondage du Bureau de la transformation numérique incite les visiteurs de&nbsp;:
+Le sondage du Bureau de l’expérience Canada.ca incite les visiteurs de&nbsp;:
 
 * choisir la tâche qu’ils sont venus accomplir dans une liste d'options (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
