@@ -1,8 +1,8 @@
 ---
 altLangPage: /2025/12/17/reponses-ia 
 date: 2025-12-17
-description: "AI Answers: Enterprise-scale trial for Canada.ca"
-title: "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services."
+description: "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services."
+title: "AI Answers: Enterprise-scale trial for Canada.ca"
 ---
 <p>Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services. Many cannot call or visit government offices during business hours, making effective online self-service critical.</p>
 
