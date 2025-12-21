@@ -114,7 +114,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li>We're also exploring integrating custom departmental tools and evaluating potential applications for call-centre agents and social media teams.</li>
 </ul>
 
-<h2>Want to learn more?</h2>
+<h2>Learn more</h2>
 
 <p>In the near future, our team will publish a few blog posts about the design, safety, and operations of AI Answers to give you deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.</p>
 

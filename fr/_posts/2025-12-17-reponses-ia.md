@@ -93,6 +93,6 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
     </li>
     <li>Nous étudions également la possibilité d'intégrer des outils ministériels personnalisés et évaluons les applications possibles pour les agents des centres d'appel et les équipes des médias sociaux.</li>
 </ul>
-<h2>Vous voulez en savoir plus?</h2>
+<h2>En savoir plus</h2>
 <p>Notre équipe publiera bientôt quelques billets de blogue sur la conception, la sécurité et les opérations de Réponses IA afin de vous permettre de mieux comprendre ce service expérimental. Nous espérons que notre travail aidera les équipes de développement de l'IA dans tout le secteur public à déployer des applications sûres et efficaces.</p>
 <p>Vous pouvez également <a href="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener">visiter le site de la mise à l'essai de Réponses IA</a>.</p>
