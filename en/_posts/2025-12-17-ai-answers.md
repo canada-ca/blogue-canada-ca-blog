@@ -118,4 +118,4 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p>In the near future, our team will publish a few blog posts about the design, safety, and operations of AI Answers to give you deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.</p>
 
-<p>You can also <a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener">visit the AI Answers trial site</a> or explore how we're building user-centered digital services at <a href="http://digital.canada.ca" target="_blank" rel="noreferrer noopener">digital.canada.ca</a>.</p>
+<p>You can also <a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener">visit the AI Answers trial site</a>.</p>
