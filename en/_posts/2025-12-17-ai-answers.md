@@ -21,9 +21,14 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li>The concept was straightforward: let users ask questions in their own words and receive accurate, government-sourced answers instantly.</li>
 </ul>
 
-<img loading="lazy" decoding="async" width="1009" height="698" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In.jpg" alt="Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service." srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In.jpg 1009w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In-300x208.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In-768x531.jpg 768w" sizes="auto, (max-width: 1009px) 100vw, 1009px">
+<div class="col-md-8">
+        <figure><img alt="" class="img-responsive" src="./images/ai-answers/Sign-In.png">
+            <figcaption class="well">
+                <p><strong>Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</strong></p>
+            </figcaption>
+        </figure>
+</div>
 
-<p style="font-size:13px">Alt-text: Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>
 
 <details>
     <summary>The technical approach</summary>
@@ -47,13 +52,20 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li>Even less-commonly used government services generated multiple questions per topic across many departments, suggesting broad user interest in AI-assisted government interactions.</li>
 </ul>
 
-<img loading="lazy" decoding="async" width="679" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-679x1024.png" alt="" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-679x1024.png 679w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-199x300.png 199w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-768x1159.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers.png 824w" sizes="auto, (max-width: 679px) 100vw, 679px">
+<div class="col-md-8">
+        <figure><img alt="" class="img-responsive" src="./images/ai-answers/AI-Answers-679x1024.png">
+            <figcaption class="well">
+                <p><strong>Screenshot of the AI Answers service page.</strong></p>
+                <p>The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
+            </figcaption>
+        </figure>
+</div>
 
-<p class="small">Alt-text: Screenshot of the AI Answers service page. The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
+
 
 <h2>4 key findings:</h2>
 
-<ol>
+<ol class="lst-spcd-2">
     <li><strong>Accuracy that meets enterprise standards:</strong> We achieved a 95% accuracy rate on English questions and 94% on French. This was verified through an expert evaluation of 800 trial questions, completed with GC departments and agency partners. This consistency across both official languages is rare in AI applications, where French typically shows 20% higher error rates.</li>
     <li><strong>Users found genuine value:</strong> 88% of user feedback was positive. Importantly, 22% of feedback respondents said they no longer needed to call government offices or visit in person, while 52% reported saving time on searching and reading.</li>
     <li><strong>Unexpected breadth of use:</strong> Despite launching from a <a href="https://www.canada.ca/en/government/sign-in-online-account.html" target="_blank" rel="noreferrer noopener">sign-in page</a>, 50% of questions were related to the top 20 government services identified in the <a href="https://design.canada.ca/survey/" target="_blank" rel="noreferrer noopener">GC Task Success Survey</a>. Users asked about everything from work permits, to Contributions to the Canada Pension Plan (CPP) benefits, to tax account access. This revealed a strong demand for AI help across the full spectrum of government services.</li>
