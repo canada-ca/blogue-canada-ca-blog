@@ -12,7 +12,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <ul class="lst-spcd-2">
     <li>Sur la <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html" target="_blank" rel="noreferrer noopener">page d'ouverture de session de Canada.ca</a>, nous avons effectué une mise à l'essai de 19 jours dans le cadre de laquelle nous avons invité les utilisateurs à essayer le nouveau service de Réponses IA (du 18 au 26 juin et du 15 au 25 juillet 2025).
         <ul>
-            <li><strong>Le contenu des réponses provient exclusivement de Canada.ca, de sites Web se terminant par « gc.ca » et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contiennent des renseignements personnels permettant d'identifier la personne sont bloquées afin de protéger la vie privée de l'utilisateur.</strong></li>
+            <li>Le contenu des réponses provient exclusivement de Canada.ca, de sites Web se terminant par « gc.ca » et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contiennent des renseignements personnels permettant d'identifier la personne sont bloquées afin de protéger la vie privée de l'utilisateur.</li>
         </ul>
     </li>
     <li>Le concept était simple : permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</li>
@@ -67,12 +67,12 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 </ul>
 <h2>Pourquoi est-ce important?</h2>
 <ul class="lst-spcd-2">
-    <li><strong>Cet essai a démontré qu'il est possible d'offrir de l'aide fondée sur l'IA efficace à l'échelle de l'organisation pour l'ensemble des services du GC, tout en respectant les normes d'exactitude et de sécurité.</strong>
+    <li>Cet essai a démontré qu'il est possible d'offrir de l'aide fondée sur l'IA efficace à l'échelle de l'organisation pour l'ensemble des services du GC, tout en respectant les normes d'exactitude et de sécurité.
         <ul>
             <li>Grâce à une conception flexible et fondée sur un agent conversationnel, le produit est évolutif et prêt à répondre aux besoins futurs en matière d'IA.</li>
         </ul>
     </li>
-    <li><strong>Plus important encore, il a montré que nous pouvons répondre aux besoins des utilisateurs là où ils se trouvent en leur fournissant une aide immédiate et précise directement sur <a href="https://www.canada.ca/">Canada.ca</a>.</strong>
+    <li>Plus important encore, il a montré que nous pouvons répondre aux besoins des utilisateurs là où ils se trouvent en leur fournissant une aide immédiate et précise directement sur <a href="https://www.canada.ca/">Canada.ca</a>.
         <ul>
             <li>Ce service fait gagner du temps et réduit le nombre d'appels téléphoniques et de visites aux bureaux, ce qui permet à ces modes de prestation de se concentrer sur les besoins plus complexes des personnes en matière de services.</li>
             <li>Pour un gouvernement numérique, il ne s'agit pas seulement d'une mise à niveau technique, mais d'une amélioration considérable des services du gouvernement pour les personnes qui y ont recours tous les jours.</li>

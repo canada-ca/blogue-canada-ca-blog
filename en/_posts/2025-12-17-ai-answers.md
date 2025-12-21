@@ -15,7 +15,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <ul class="lst-spcd-2">
     <li>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html" target="_blank" rel="noreferrer noopener">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).
         <ul>
-            <li><strong>Answers are sourced exclusively from Canada.ca, gc.ca, and authorized federal government URLs. Any questions that contain personal identifying information are blocked to protect the user's privacy.</strong></li>
+            <li>Answers are sourced exclusively from Canada.ca, gc.ca, and authorized federal government URLs. Any questions that contain personal identifying information are blocked to protect the user's privacy.</li>
         </ul>
     </li>
     <li>The concept was straightforward: let users ask questions in their own words and receive accurate, government-sourced answers instantly.</li>
@@ -85,12 +85,12 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <h2>Why this matters:</h2>
 
 <ul class="lst-spcd-2">
-    <li><strong>This trial demonstrates that enterprise-scale AI assistance can work across the full breadth of GC services, while maintaining accuracy and safety standards.</strong>
+    <li>This trial demonstrates that enterprise-scale AI assistance can work across the full breadth of GC services, while maintaining accuracy and safety standards.
         <ul>
             <li>The product's flexible, chat agent-based design makes it scalable and ready for future AI needs.</li>
         </ul>
     </li>
-    <li><strong>More importantly, it shows we can meet users where they are by providing immediate, accurate assistance right on <a href="http://canada.ca">Canada.ca</a>.</strong>
+    <li>More importantly, it shows we can meet users where they are by providing immediate, accurate assistance right on <a href="http://canada.ca">Canada.ca</a>.
         <ul>
             <li>This saves time and reduces the need for phone calls and office visits, allowing those service channels to focus on people's more complex service needs.</li>
             <li>For a digital government, that's not just a technical upgrade, but a meaningful service improvement for people using government services every day.</li>
