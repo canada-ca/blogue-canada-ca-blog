@@ -9,7 +9,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>L' <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html" target="_blank" rel="noreferrer noopener">outil Rétroaction GC</a> est utilisé par de nombreuses équipes pour améliorer le contenu et les services qu'elles offrent sur <a href="https://www.canada.ca/fr.html" target="_blank" rel="noreferrer noopener">Canada.ca</a>. L'outil recueille quotidiennement plus de 3000 questions et réponses de personnes qui parcourent des pages relatives aux demandes d'immigration, aux prestations d'emploi, à la gestion de comptes d'impôt, etc. Bien que les équipes du GC continuent d'améliorer <a href="https://www.canada.ca/fr.html">Canada.ca</a>, ces améliorations ne peuvent à elles seules relever entièrement le défi que représente le fait d'aider les gens à s'y retrouver dans la vaste gamme de contenus et de services Web du GC.</p>
 <p>Cet été, le SNC a mis à l'essai une nouvelle approche : <a href="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener">Réponses IA</a>. Ce service fondé sur l'IA offre aux utilisateurs des réponses courtes dans un langage clair (dont le contenu provient exclusivement de sites Web du GC, avec des liens fiables qui guident les utilisateurs vers les étapes suivantes). Ce billet de blogue présente les résultats de la mise à l'essai de <a href="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener">Réponses IA</a>, y compris les principales constatations et ce que nous avons appris.</p>
 <h2>Ce que nous avons mis à l'essai</h2>
-<ul class="lst-spcd-2">
+<ul>
     <li>Sur la <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html" target="_blank" rel="noreferrer noopener">page d'ouverture de session de Canada.ca</a>, nous avons effectué une mise à l'essai de 19 jours dans le cadre de laquelle nous avons invité les utilisateurs à essayer le nouveau service de Réponses IA (du 18 au 26 juin et du 15 au 25 juillet 2025).
         <ul>
             <li>Le contenu des réponses provient exclusivement de Canada.ca, de sites Web se terminant par « gc.ca » et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contiennent des renseignements personnels permettant d'identifier la personne sont bloquées afin de protéger la vie privée de l'utilisateur.</li>
@@ -66,7 +66,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
     <li><strong>Les mesures de sécurité fonctionnent :</strong> Malgré les inquiétudes concernant les risques liés à l'IA, les experts ont constaté qu'aucune réponse préjudiciable n'a été donnée et que toutes les tentatives de manipulation du système ont été infructueuses au cours de la mise à l'essai.</li>
 </ul>
 <h2>Pourquoi est-ce important?</h2>
-<ul class="lst-spcd-2">
+<ul>
     <li>Cet essai a démontré qu'il est possible d'offrir de l'aide fondée sur l'IA efficace à l'échelle de l'organisation pour l'ensemble des services du GC, tout en respectant les normes d'exactitude et de sécurité.
         <ul>
             <li>Grâce à une conception flexible et fondée sur un agent conversationnel, le produit est évolutif et prêt à répondre aux besoins futurs en matière d'IA.</li>
@@ -80,7 +80,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
     </li>
 </ul>
 <h2>Prochaines étapes</h2>
-<ul class="lst-spcd-2">
+<ul>
     <li>Nous avons amélioré la traduction et les requêtes de recherche conçues par l'IA, et avons étendu les essais à d'autres pages de Canada.ca. L'objectif est que les utilisateurs reçoivent les renseignements les plus récents et les plus précis possibles, quelle que soit la langue qu'ils utilisent.
         <ul>
             <li><strong>Voici des exemples d'amélioration :</strong>

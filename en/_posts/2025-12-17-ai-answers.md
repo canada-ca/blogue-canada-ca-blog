@@ -12,7 +12,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>What we tested:</h2>
 
-<ul class="lst-spcd-2">
+<ul>
     <li>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html" target="_blank" rel="noreferrer noopener">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).
         <ul>
             <li>Answers are sourced exclusively from Canada.ca, gc.ca, and authorized federal government URLs. Any questions that contain personal identifying information are blocked to protect the user's privacy.</li>
@@ -84,7 +84,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>Why this matters:</h2>
 
-<ul class="lst-spcd-2">
+<ul>
     <li>This trial demonstrates that enterprise-scale AI assistance can work across the full breadth of GC services, while maintaining accuracy and safety standards.
         <ul>
             <li>The product's flexible, chat agent-based design makes it scalable and ready for future AI needs.</li>
@@ -100,7 +100,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>Next steps</h2>
 
-<ul class="lst-spcd-2">
+<ul>
     <li>We have made improvements to AI-crafted search queries and translation, while expanding testing across additional Canada.ca pages. The goal is to make sure that people receive the latest, most accurate information possible, no matter which language they use.
         <ul>
             <li><strong>Improvement examples:</strong>
