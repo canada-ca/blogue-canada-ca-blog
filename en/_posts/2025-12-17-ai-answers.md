@@ -21,8 +21,8 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li>The concept was straightforward: let users ask questions in their own words and receive accurate, government-sourced answers instantly.</li>
 </ul>
 
-<div class="col-md-8">
-        <figure><img alt="" class="img-responsive" src="/images/ai-answers/Sign-In.png">
+<div class="col-md-8 mrgn-tp-lg">
+        <figure><img alt="" class="img-responsive" src="/images/ai-answers/Sign-In.jpg">
             <figcaption class="well">
                 <p><strong>Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</strong></p>
             </figcaption>
@@ -52,7 +52,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li>Even less-commonly used government services generated multiple questions per topic across many departments, suggesting broad user interest in AI-assisted government interactions.</li>
 </ul>
 
-<div class="col-md-8">
+<div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="" class="img-responsive" src="/images/ai-answers/AI-Answers-679x1024.png">
             <figcaption class="well">
                 <p><strong>Screenshot of the AI Answers service page.</strong></p>
