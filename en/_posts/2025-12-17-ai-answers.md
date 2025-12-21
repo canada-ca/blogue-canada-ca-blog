@@ -23,7 +23,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="" class="img-responsive" src="/images/ai-answers/Sign-In.jpg">
-            <figcaption class="well">
+            <figcaption class="well mrgn-tp-lg">
                 <p><strong>Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</strong></p>
             </figcaption>
         </figure>
@@ -54,7 +54,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="" class="img-responsive" src="/images/ai-answers/AI-Answers-679x1024.png">
-            <figcaption class="well">
+            <figcaption class="well mrgn-tp-lg">
                 <p><strong>Screenshot of the AI Answers service page.</strong></p>
                 <p>The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
             </figcaption>
