@@ -12,7 +12,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>What we tested:</h2>
 
-<ul>
+<ul class="lst-spcd-2">
     <li>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html" target="_blank" rel="noreferrer noopener">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).
         <ul>
             <li><strong>Answers are sourced exclusively from Canada.ca, gc.ca, and authorized federal government URLs. Any questions that contain personal identifying information are blocked to protect the user's privacy.</strong></li>
@@ -74,7 +74,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>What we learned</h2>
 
-<ul>
+<ul class="lst-spcd-2">
     <li><strong>Short queries need different handling:</strong> In June, 12% of questions were just 1-2 words, requiring clarification. We addressed this in July by blocking very short queries, providing instruction on effective use and offering a search alternative.</li>
     <li><strong>Length limits matter:</strong> We reduced the maximum question length from 400 to 260 characters after finding longer questions were often confusing or included attempts to manipulate the system.</li>
     <li><strong>Content gaps become visible:</strong> GC partners are now addressing online content gaps and errors that user questions had revealed, turning AI interactions into a diagnostic tool for service improvement.</li>
@@ -83,7 +83,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>Why this matters:</h2>
 
-<ul>
+<ul class="lst-spcd-2">
     <li><strong>This trial demonstrates that enterprise-scale AI assistance can work across the full breadth of GC services, while maintaining accuracy and safety standards.</strong>
         <ul>
             <li>The product's flexible, chat agent-based design makes it scalable and ready for future AI needs.</li>
@@ -99,7 +99,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>Next steps</h2>
 
-<ul>
+<ul class="lst-spcd-2">
     <li>We have made improvements to AI-crafted search queries and translation, while expanding testing across additional Canada.ca pages. The goal is to make sure that people receive the latest, most accurate information possible, no matter which language they use.
         <ul>
             <li><strong>Improvement examples:</strong>
