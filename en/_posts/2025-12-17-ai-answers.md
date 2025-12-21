@@ -22,7 +22,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 </ul>
 
 <div class="col-md-8">
-        <figure><img alt="" class="img-responsive" src="./images/ai-answers/Sign-In.png">
+        <figure><img alt="" class="img-responsive" src="/images/ai-answers/Sign-In.png">
             <figcaption class="well">
                 <p><strong>Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</strong></p>
             </figcaption>
@@ -53,7 +53,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 </ul>
 
 <div class="col-md-8">
-        <figure><img alt="" class="img-responsive" src="./images/ai-answers/AI-Answers-679x1024.png">
+        <figure><img alt="" class="img-responsive" src="/images/ai-answers/AI-Answers-679x1024.png">
             <figcaption class="well">
                 <p><strong>Screenshot of the AI Answers service page.</strong></p>
                 <p>The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
@@ -97,7 +97,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     </li>
 </ul>
 
-<h2>Next steps!</h2>
+<h2>Next steps</h2>
 
 <ul>
     <li>We have made improvements to AI-crafted search queries and translation, while expanding testing across additional Canada.ca pages. The goal is to make sure that people receive the latest, most accurate information possible, no matter which language they use.
