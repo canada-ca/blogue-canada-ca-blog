@@ -40,10 +40,10 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <h2>Trial participation:</h2>
 
 <ul>
-    <li><strong>Trial participation exceeded our expectations: 1,227 user sessions, spanning 32 departments, with questions covering 120+ government tasks. <a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task" target="_blank" rel="noreferrer noopener">Tasks are what people come to the content to do</a>: That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.</strong></li>
+    <li>Trial participation exceeded our expectations: 1,227 user sessions, spanning 32 departments, with questions covering 120+ government tasks. <a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task" target="_blank" rel="noreferrer noopener">Tasks are what people come to the content to do</a>: That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.</li>
 </ul>
 
-<p><strong>The question distribution revealed user priorities:</strong></p>
+<p>The question distribution revealed user priorities:</p>
 
 <ul>
     <li><strong>42% (635 questions) on IRCC services:</strong> immigration, work permits, and visas.</li>
