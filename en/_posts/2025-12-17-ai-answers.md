@@ -38,7 +38,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <h2>Trial participation</h2>
 
-<p>Trial participation exceeded our expectations: 1,227 user sessions, spanning 32 departments, with questions covering 120+ government tasks. Tasks are what people come to the content to do</a>: That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.</p>
+<p>Trial participation exceeded our expectations: 1,227 user sessions, spanning 32 departments, with questions covering 120+ government tasks. Tasks are what people come to the content to do: That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.</p>
 
 <ul>
     <li><a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task">Choosing and writing tasks: What is a task</a></li>
