@@ -28,7 +28,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <div class="clearfix"></div>
 <details>
     <summary>L'approche technique</summary>
-    <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions : RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
+    <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
     <p>Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d'extraire à l'avance du contenu Web. Ce système d'IA repose sur les renseignements fournis sur les sites Web du GC (<a href="https://reponses-ia.alpha.canada.ca/fr/about">À propos de Réponses IA</a>).</p>
     <p>L'équipe de produit de Réponses IA a mis au point un système d'IA agentive (les utilisateurs interagissent avec un agent spécialisé) avec une invite détaillée pour faire en sorte que les réponses soient claires, concises et utiles. Nous avons intégré des systèmes d'évaluation par des experts humains et des systèmes de notation par l'IA, et avons fait en sorte de bloquer les renseignements personnels permettant d'identifier l'utilisateur afin de protéger sa vie privée.</p>
 </details>
@@ -42,7 +42,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <ul>
     <li><strong>42 % (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
     <li><strong>25 % (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
-    <li><strong>22 % (332 questions) concernaient les services de l'ARC :</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
+    <li><strong>22 % (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="col-md-8 mrgn-tp-lg">
