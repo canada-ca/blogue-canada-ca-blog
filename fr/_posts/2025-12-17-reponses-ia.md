@@ -1,6 +1,7 @@
 ---
 altLangPage: /2025/12/17/ai-answers
 date: 2025-12-17
+dateModified: 2025-12-22
 description: "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels."
 title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Canada.ca"
 ---

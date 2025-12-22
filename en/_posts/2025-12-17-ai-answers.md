@@ -1,6 +1,7 @@
 ---
 altLangPage: /2025/12/17/reponses-ia 
 date: 2025-12-17
+dateModified: 2025-12-22
 description: "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services."
 title: "AI Answers: Enterprise-scale trial for Canada.ca"
 ---
