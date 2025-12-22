@@ -86,10 +86,10 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <p>The product's <strong>flexible, chat agent-based design</strong> makes it scalable and ready for future AI needs.</p>
    
 <p>More importantly, it shows we can meet users where they are by providing immediate, accurate assistance right on Canada.ca.</p>
-    <ul>
-        <li>This saves time and reduces the need for phone calls and office visits, allowing those service channels to focus on people's more complex service needs.</li>
-        <li>For a digital government, that's not just a technical upgrade, but a meaningful service improvement for people using government services every day.</li>
-    </ul>
+<ul>
+    <li>This saves time and reduces the need for phone calls and office visits, allowing those service channels to focus on people's more complex service needs.</li>
+    <li>For a digital government, that's not just a technical upgrade, but a meaningful service improvement for people using government services every day.</li>
+</ul>
 
 <h2>Next steps</h2>
 
