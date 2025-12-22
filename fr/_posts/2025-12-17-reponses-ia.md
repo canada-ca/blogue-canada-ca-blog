@@ -19,7 +19,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/FR-SE-CONN.jpg">
-            <figcaption class="well mrgn-tp-lg mrgn-bttm-lg">
+            <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada ».</strong></p>
                 <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
             </figcaption>
@@ -47,7 +47,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page du service Réponses IA." class="img-responsive" src="/images/reponses-ia/Reponses-IA.png">
-            <figcaption class="well mrgn-tp-lg mrgn-bttm-lg">
+            <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page du service Réponses IA.</strong></p>
                 <p>La page explique que l'outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
             </figcaption>
