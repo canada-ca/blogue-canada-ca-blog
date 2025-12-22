@@ -68,19 +68,19 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Cet essai a démontré qu'il est possible d'offrir de l'aide fondée sur l'IA efficace à l'échelle de l'organisation pour l'ensemble des services du GC, tout en respectant les normes d'exactitude et de sécurité.</p>
 <p>Grâce à une <strong>conception flexible et fondée sur un agent conversationnel</strong>, le produit est évolutif et prêt à répondre aux besoins futurs en matière d'IA.</p>
 <p>Plus important encore, il a montré que nous pouvons répondre aux besoins des utilisateurs là où ils se trouvent en leur fournissant une aide immédiate et précise directement sur Canada.ca.</p>
-        <ul>
-            <li>Ce service fait gagner du temps et réduit le nombre d'appels téléphoniques et de visites aux bureaux, ce qui permet à ces modes de prestation de se concentrer sur les besoins plus complexes des personnes en matière de services.</li>
-            <li>Pour un gouvernement numérique, il ne s'agit pas seulement d'une mise à niveau technique, mais d'une amélioration considérable des services du gouvernement pour les personnes qui y ont recours tous les jours.</li>
-        </ul>
+<ul>
+    <li>Ce service fait gagner du temps et réduit le nombre d'appels téléphoniques et de visites aux bureaux, ce qui permet à ces modes de prestation de se concentrer sur les besoins plus complexes des personnes en matière de services.</li>
+    <li>Pour un gouvernement numérique, il ne s'agit pas seulement d'une mise à niveau technique, mais d'une amélioration considérable des services du gouvernement pour les personnes qui y ont recours tous les jours.</li>
+</ul>
 
 <h2>Prochaines étapes</h2>
 
 <p>Nous améliorons la traduction et les requêtes de recherche conçues par l'IA, et élargissons les essais à d'autres pages de Canada.ca. L'objectif est que les utilisateurs reçoivent les renseignements les plus récents et les plus précis possibles, quelle que soit la langue qu'ils utilisent.</p>
 <p>Voici des exemples d'amélioration&nbsp;:</p>
-                <ul>
-                    <li>Les questions qui ne sont pas rédigées en anglais ou en français sont traduites en anglais avant que la recherche ne soit effectuée (l'IA utilise les résultats de la recherche pour aider à trouver des renseignements à jour).</li>
-                    <li>Les questions des utilisateurs sont transformées en requêtes de recherche plus courtes au besoin.</li>
-                </ul>
+<ul>
+    <li>Les questions qui ne sont pas rédigées en anglais ou en français sont traduites en anglais avant que la recherche ne soit effectuée (l'IA utilise les résultats de la recherche pour aider à trouver des renseignements à jour).</li>
+    <li>Les questions des utilisateurs sont transformées en requêtes de recherche plus courtes au besoin.</li>
+</ul>
 <p>Nous étudions également la possibilité d'intégrer des outils ministériels personnalisés et évaluons les applications possibles pour les agents des centres d'appel et les équipes des médias sociaux.</p>
 
 <h2>En savoir plus</h2>
