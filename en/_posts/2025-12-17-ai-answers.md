@@ -95,10 +95,10 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p>We are making improvements to AI-crafted search queries and translation, and expanding testing across additional Canada.ca pages. The goal is to make sure that people receive the latest, most accurate information possible, no matter which language they use.</p>
 <p>Improvement examples:</p>
-    <ul>
-        <li>Translating questions that are not in English or French into English before searching (the AI uses the search results to help it find up-to-date information).</li>
-        <li>Transforming user questions into shorter search queries when needed.</li>
-    </ul>
+<ul>
+    <li>Translating questions that are not in English or French into English before searching (the AI uses the search results to help it find up-to-date information).</li>
+    <li>Transforming user questions into shorter search queries when needed.</li>
+</ul>
 <p>We're also exploring integrating custom departmental tools and evaluating potential applications for call-centre agents and social media teams.</p>
 
 <h2>Learn more</h2>
