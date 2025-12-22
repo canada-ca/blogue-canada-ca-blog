@@ -8,13 +8,13 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <p>Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services. Many cannot call or visit government offices during business hours, making effective online self-service critical.</p>
 
 <h2>How existing tools support users</h2>
-<p>The <a href="https://design.canada.ca/common-design-patterns/page-feedback.html" target="_blank" rel="noreferrer noopener">GC Feedback tool</a> is being used by many GC teams to improve their Canada.ca content and services. The tool captures over 3,000 daily questions and answers from people navigating immigration applications, employment benefits, tax account management, and more. While teams continue to improve Canada.ca, these improvements alone cannot fully address the challenge of helping people navigate the vast array of GC web content and services.</p>
+<p>The <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">GC Feedback tool</a> is being used by many GC teams to improve their Canada.ca content and services. The tool captures over 3,000 daily questions and answers from people navigating immigration applications, employment benefits, tax account management, and more. While teams continue to improve Canada.ca, these improvements alone cannot fully address the challenge of helping people navigate the vast array of GC web content and services.</p>
 
 <h2>How AI Answers works</h2>
 <p>This summer, CDS tested a new approach: AI Answers. It's an AI-based service that provides people with short, plain-language responses (sourced exclusively from GC websites, with authoritative links to guide users to their next steps). This blog highlights the AI Answers trial results, including key findings and what we learned.</p>
 
 <h2>What we tested</h2>
-<p>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html" target="_blank" rel="noreferrer noopener">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).</p>
+<p>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).</p>
 
 <p>Answers were sourced exclusively from Canada.ca, gc.ca, and authorized federal government URLs. Any questions that contained personal identifying information were blocked to protect the user's privacy.</p>
 
@@ -70,7 +70,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p><strong>Accuracy that meets enterprise standards:</strong> We achieved a 95% accuracy rate on English questions and 94% on French. This was verified through an expert evaluation of 800 trial questions, completed with GC departments and agency partners. This consistency across both official languages is rare in AI applications, where French typically shows 20% higher error rates.</p>
 <p><strong>Users found genuine value:</strong> 88% of user feedback was positive. Importantly, 22% of feedback respondents said they no longer needed to call government offices or visit in person, while 52% reported saving time on searching and reading.</p>
-<p><strong>Unexpected breadth of use:</strong> Despite launching from a sign-in page, 50% of questions were related to the top 20 government services identified in the <a href="https://design.canada.ca/survey/" target="_blank" rel="noreferrer noopener">GC Task Success Survey</a>. Users asked about a wide range of subjects, from work permits, to contributions to the Canada Pension Plan (CPP) benefits, to tax account access. This revealed a strong demand for AI help across the full spectrum of government services.</p>
+<p><strong>Unexpected breadth of use:</strong> Despite launching from a sign-in page, 50% of questions were related to the top 20 government services identified in the <a href="https://design.canada.ca/survey/">GC Task Success Survey</a>. Users asked about a wide range of subjects, from work permits, to contributions to the Canada Pension Plan (CPP) benefits, to tax account access. This revealed a strong demand for AI help across the full spectrum of government services.</p>
 <p><strong>Multilingual capability:</strong> Beyond English and French, the system handled questions in 19 other languages, representing 8.4% of all queries. While accuracy was lower for these languages, we've since implemented translation and search improvements.</p>
 
 <h2>What we learned</h2>
@@ -106,4 +106,4 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p>In the near future, the AI Answers team will publish blog posts about the design, safety, and operations of AI Answers to give deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.</p>
 
-<p><a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener">Visit the AI Answers trial site</a>.</p>
+<p><a href="https://ai-answers.alpha.canada.ca/en">Visit the AI Answers trial site</a>.</p>
