@@ -45,7 +45,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
     <li><a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task">Choosing and writing tasks: What is a task</a></li>
 </ul>
 
-<p>The question distribution revealed user priorities</p>
+<p>The question distribution revealed user priorities:</p>
 
 <ul>
     <li><strong>42% (635 questions) on IRCC services:</strong> immigration, work permits, and visas</li>
