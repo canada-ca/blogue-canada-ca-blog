@@ -20,7 +20,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/FR-SE-CONN.jpg">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-                <p><strong>Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada ».</strong></p>
+                <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
                 <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
             </figcaption>
         </figure>
