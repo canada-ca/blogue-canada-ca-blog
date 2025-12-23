@@ -18,12 +18,14 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par &laquo;&nbsp;gc.ca&nbsp;&raquo; et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
 <div class="col-md-8 mrgn-tp-lg">
+<div class="row">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/se-connecter.jpg">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
                 <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
             </figcaption>
         </figure>
+</div>
 </div>
 <details>
     <summary>L'approche technique</summary>
@@ -45,12 +47,14 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="col-md-8 mrgn-tp-lg">
+<div class="row">
         <figure><img alt="Capture d'écran de la page du service Réponses IA." class="img-responsive" src="/images/reponses-ia/reponses-IA.png">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page du service Réponses IA.</strong></p>
                 <p>La page explique que l'outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
             </figcaption>
         </figure>
+</div>
 </div>
 <h2>Quatre principales constatations</h2>
 <p><strong>Une exactitude qui répond aux normes organisationnelles&nbsp;:</strong> Nous avons obtenu un taux d'exactitude de 95&nbsp;% pour les questions en anglais et de 94&nbsp;% pour les questions en français. L'exactitude des réponses a été vérifiée au moyen d'une évaluation par des experts de 800 questions d'essai, réalisée en collaboration avec les ministères et les organismes partenaires du GC. Cette cohérence entre les deux langues officielles est rare dans les applications d'IA, car le français présente généralement un taux d'erreur plus élevé de 20&nbsp;%.</p>
