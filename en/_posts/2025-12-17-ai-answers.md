@@ -30,7 +30,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
         </figure>
 </div>
 </div>
-
+<div class="clearfix"></div>
 <details>
     <summary>The technical approach</summary>
     <p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.</p>
