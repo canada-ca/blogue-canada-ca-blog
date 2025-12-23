@@ -27,7 +27,7 @@ Le contenu est actuellement géré et enrichi par trois ministères partenaires&
 
 Malheureusement, l’actuel système de rappels et d’alertes de sécurité est désuet et peu fiable. La base de données et l’infrastructure technique sont un ensemble hétéroclite de serveurs qui font souvent défaut et nécessitent une constante maintenance. Il s’agit d’un sérieux problème pour les Canadiens qui comptent sur ce système pour obtenir en temps opportun des renseignements précis sur la sécurité.
 
-En juin 2018, l’équipe Web de Santé Canada s’est concertée avec des représentants de Transports Canada et de l’Agence canadienne d’inspection des aliments pour collaborer avec le Bureau de l’expérience Canada.ca du Secrétariat du Conseil du Trésor à l’optimisation des rappels et des alertes de sécurité.
+En juin 2018, l’équipe Web de Santé Canada s’est concertée avec des représentants de Transports Canada et de l’Agence canadienne d’inspection des aliments pour collaborer avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor à l’optimisation des rappels et des alertes de sécurité.
 
 En plus des défis liés à l’infrastructure, la recherche axée sur les découvertes et les essais de convivialité ont révélé que les Canadiens font face à plusieurs problèmes lorsqu’ils utilisent le système&nbsp;:
 
