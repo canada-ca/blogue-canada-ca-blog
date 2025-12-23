@@ -36,7 +36,7 @@ Je suis honorée d'avoir pu jouer un rôle dans votre parcours et vous avez tous
 
 Cette année, nous avons mis en place une nouvelle façon de recueillir des rétroactions directes de la part des utilisateurs de nos contenus Web. Obtenir de l'information en temps réel au sujet des facteurs poussant les gens à ne pas accomplir leurs tâches remet les choses en perspective, en plus d'être un rappel constant que nous nous devons de continuer à améliorer le contenu fourni à la population.&nbsp;»
 
-*- **David Pepin, Bureau de l’expérience Canada.ca***
+*- **David Pepin, Bureau de la transformation numérique***
 
 *5.* «&nbsp;Lorsque j'ai joint les rangs du groupe de travail sur les communications Web, je me suis senti comme la petite fille portant un costume d'abeille dans le vidéoclip de la chanson No Rain de Blind Melon. C'était comme si je plongeais dans un pré rempli de gens qui pensaient la même chose que moi, qui posaient les mêmes questions primordiales que moi et qui – et c'est là l'élément central – trouvaient quelques réponses à ces questions portant sur les façons d'améliorer le contenu Web du gouvernement pour la population se trouvant au pays ou à l'extérieur et accédant à nos services. Il y a un soutien et une camaraderie et je crois que les projets sur lesquels j'ai travaillé (le Chercheur de prestations individuelles liées à la COVID-19 et l'Alerte COVID) ont eu du succès grâce à cet espace de collaborations.&nbsp;»
 
