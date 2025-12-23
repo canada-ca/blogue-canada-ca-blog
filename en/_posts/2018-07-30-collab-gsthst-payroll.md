@@ -8,7 +8,7 @@ title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content
 
 **Guest post by our optimization partners from the Canada Revenue Agency**
 
-The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Canada.ca Experience Office (CEO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
+The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
 
 We’ve been working on web content for the following core tasks that Canadians must accomplish when setting up a new business:
 
