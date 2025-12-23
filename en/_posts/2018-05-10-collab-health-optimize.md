@@ -64,7 +64,7 @@ We’ve just completed another round of usability testing with Canadians to vali
 {% include components/gc-complex-img.html
    alt="Photo of 11 people standing in front of a screen showing success improvement data."
    file="collab-health/hc-phac-dto-team-835x423.jpg"
-   caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Canada.ca Experience Office."
+   caption="Some of the project team from Health Canada and Public Health Agency of Canada with the Digital Transformation Office."
 %}
 
 ## We want to hear from you
