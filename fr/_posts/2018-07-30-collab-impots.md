@@ -7,7 +7,7 @@ title: "L’ARC et le SCT collaborent afin d’optimiser le contenu de la page W
 
 **Billet de blogue de nos partenaires d’optimisation de l’Agence du revenu du Canada**
 
-Les équipes Web, de communications et de programmes de l’Agence du revenu du Canada (ARC) travaillent en étroite collaboration avec le Bureau de l’expérience Canada.ca (BEC) du Secrétariat du Conseil du Trésor du Canada (SCT) afin de faciliter l’accès, la compréhension et l’utilisation par les propriétaires de petites entreprises des renseignements fiscaux disponibles sur Canada.ca.
+Les équipes Web, de communications et de programmes de l’Agence du revenu du Canada (ARC) travaillent en étroite collaboration avec le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor du Canada (SCT) afin de faciliter l’accès, la compréhension et l’utilisation par les propriétaires de petites entreprises des renseignements fiscaux disponibles sur Canada.ca.
 
 Nous travaillons sur le contenu du site Web relatif aux tâches fondamentales suivantes que les Canadiens doivent accomplir lors de la création d’une nouvelle entreprise&nbsp;:
 
