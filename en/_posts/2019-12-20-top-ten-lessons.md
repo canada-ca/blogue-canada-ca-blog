@@ -103,7 +103,7 @@ We hope you find these lessons helpful too when improving your content.
 The Canada.ca Experience Office would like to wish you rest and relaxation over the holiday season. We have big, BIG plans for 2020. We look forward to collaborating with our many colleagues across government as we continue to work as a community to improve both Canada.ca and the GC design system.
 
 {% include components/gc-simple-img.html
-   alt="A photo of the Canada.ca Experience Office team."
+   alt="A photo of the Digital Transformation Office team."
    file="DTO_team_2019.jpg"
 %}
 
