@@ -109,6 +109,6 @@ The Canada.ca Experience Office would like to wish you rest and relaxation over 
 
 ## Inspired by what you learned? Share this post with your team.
 
- Connect with the Canada.ca Experience Office at TBS:
+ Connect with the Canada.ca Experience Office at ESDC:
 * Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * Twitter: #Canadadotca
