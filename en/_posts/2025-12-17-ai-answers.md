@@ -11,7 +11,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <p>The <a href="https://design.canada.ca/common-design-patterns/page-feedback.html">GC Feedback tool</a> is being used by many GC teams to improve their Canada.ca content and services. The tool captures over 3,000 daily questions and answers from people navigating immigration applications, employment benefits, tax account management, and more. While teams continue to improve Canada.ca, these improvements alone cannot fully address the challenge of helping people navigate the vast array of GC web content and services.</p>
 
 <h2>How AI Answers works</h2>
-<p>This summer, CDS tested a new approach: AI Answers. It's an AI-based service that provides people with short, plain-language responses (sourced exclusively from GC websites, with authoritative links to guide users to their next steps). This blog highlights the AI Answers trial results, including key findings and what we learned.</p>
+<p>This summer, Canadian Digital Services (CDS) tested a new approach: AI Answers. It's an AI-based service that provides people with short, plain-language responses (sourced exclusively from GC websites, with authoritative links to guide users to their next steps). This blog highlights the AI Answers trial results, including key findings and what we learned.</p>
 
 <h2>What we tested</h2>
 <p>On the <a href="https://www.canada.ca/en/government/sign-in-online-account.html">Canada.ca Sign in page</a>, we ran a 19-day trial inviting users to try the new AI Answers service (from June 18 to 26 and July 15 to 25, 2025).</p>
