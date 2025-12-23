@@ -15,17 +15,16 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 
 <h2>Ce que nous avons mis à l'essai</h2>
 <p>Sur la <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html"> page d'ouverture de session de Canada.ca</a>, nous avons effectué une mise à l'essai de 19 jours dans le cadre de laquelle nous avons invité les utilisateurs à essayer le nouveau service de Réponses IA (du 18 au 26 juin et du 15 au 25 juillet 2025).</p>
-<p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par « gc.ca » et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
+<p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par &laquo;&nbsp;gc.ca&nbsp;&raquo; et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/se-connecter.jpg">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-                <p><strong>Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada ».</strong></p>
+                <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
                 <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
             </figcaption>
         </figure>
 </div>
-<div class="clearfix"></div>
 <details>
     <summary>L'approche technique</summary>
     <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
@@ -40,9 +39,9 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 </ul>
 <p>La répartition des questions témoigne des priorités des utilisateurs&nbsp;:</p>
 <ul>
-    <li><strong>42 % (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
-    <li><strong>25 % (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
-    <li><strong>22 % (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
+    <li><strong>42&nbsp;% (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
+    <li><strong>25&nbsp;% (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
+    <li><strong>22&nbsp;% (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="col-md-8 mrgn-tp-lg">
@@ -54,13 +53,13 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
         </figure>
 </div>
 <h2>Quatre principales constatations</h2>
-<p><strong>Une exactitude qui répond aux normes organisationnelles&nbsp;:</strong> Nous avons obtenu un taux d'exactitude de 95 % pour les questions en anglais et de 94 % pour les questions en français. L'exactitude des réponses a été vérifiée au moyen d'une évaluation par des experts de 800 questions d'essai, réalisée en collaboration avec les ministères et les organismes partenaires du GC. Cette cohérence entre les deux langues officielles est rare dans les applications d'IA, car le français présente généralement un taux d'erreur plus élevé de 20 %.</p>
+<p><strong>Une exactitude qui répond aux normes organisationnelles&nbsp;:</strong> Nous avons obtenu un taux d'exactitude de 95&nbsp;% pour les questions en anglais et de 94&nbsp;% pour les questions en français. L'exactitude des réponses a été vérifiée au moyen d'une évaluation par des experts de 800 questions d'essai, réalisée en collaboration avec les ministères et les organismes partenaires du GC. Cette cohérence entre les deux langues officielles est rare dans les applications d'IA, car le français présente généralement un taux d'erreur plus élevé de 20&nbsp;%.</p>
 <p><strong>Une véritable valeur ajoutée, selon les utilisateurs&nbsp;:</strong> 88 % des commentaires des utilisateurs étaient positifs. Il est important de noter que 22 % des répondants ont déclaré qu'ils n'avaient plus besoin d'appeler les bureaux gouvernementaux ou de s'y rendre en personne, tandis que 52 % ont indiqué qu'ils avaient passé moins de temps à effectuer des recherches et à lire.</p>
-<p><strong>Une portée de l'utilisation inattendue&nbsp;:</strong> Même si le service était offert sur une page d'ouverture de session, 50 % des questions étaient liées aux 20 principaux services gouvernementaux nommés dans le <a href="https://conception.canada.ca/sondage/index.html">Sondage sur la réussite des tâches du GC</a>. Les utilisateurs ont posé des questions sur un large éventail de sujets, des permis de travail aux cotisations au Régime de pensions du Canada, en passant par l'accès à leur compte d'impôt. Cette mise à l'essai a révélé une forte demande pour de l'aide offerte par l'IA dans l'ensemble des services gouvernementaux.</p>
-<p><strong>Une capacité multilingue&nbsp;:</strong> Outre l'anglais et le français, le système a traité des questions dans 19 autres langues. Ces questions représentaient 8,4 % de toutes les requêtes. Le taux d'exactitude était plus faible pour ces langues, mais nous avons depuis apporté des améliorations à la traduction et à la recherche.</p>
+<p><strong>Une portée de l'utilisation inattendue&nbsp;:</strong> Même si le service était offert sur une page d'ouverture de session, 50&nbsp;% des questions étaient liées aux 20 principaux services gouvernementaux nommés dans le <a href="https://conception.canada.ca/sondage/index.html">Sondage sur la réussite des tâches du GC</a>. Les utilisateurs ont posé des questions sur un large éventail de sujets, des permis de travail aux cotisations au Régime de pensions du Canada, en passant par l'accès à leur compte d'impôt. Cette mise à l'essai a révélé une forte demande pour de l'aide offerte par l'IA dans l'ensemble des services gouvernementaux.</p>
+<p><strong>Une capacité multilingue&nbsp;:</strong> Outre l'anglais et le français, le système a traité des questions dans 19 autres langues. Ces questions représentaient 8,4&nbsp;% de toutes les requêtes. Le taux d'exactitude était plus faible pour ces langues, mais nous avons depuis apporté des améliorations à la traduction et à la recherche.</p>
 
 <h2>Ce que nous avons appris</h2>
-<p><strong>Les requêtes courtes doivent être traitées différemment&nbsp;:</strong> En juin, 12 % des questions comptaient seulement un mot ou deux et nécessitaient une clarification. Nous avons remédié à ce problème en juillet en bloquant les requêtes très courtes, en fournissant des instructions sur l'utilisation efficace de l'outil et en proposant une autre option de recherche.</p>
+<p><strong>Les requêtes courtes doivent être traitées différemment&nbsp;:</strong> En juin, 12&nbsp;% des questions comptaient seulement un mot ou deux et nécessitaient une clarification. Nous avons remédié à ce problème en juillet en bloquant les requêtes très courtes, en fournissant des instructions sur l'utilisation efficace de l'outil et en proposant une autre option de recherche.</p>
 <p><strong>Les limites de longueur sont importantes&nbsp;:</strong> Nous avons réduit la longueur maximale des questions de 400 à 260 caractères après avoir constaté que les questions plus longues prêtaient souvent à confusion ou comportaient des tentatives de manipulation du système.</p>
 <p><strong>Les lacunes dans le contenu deviennent visibles&nbsp;:</strong> Les partenaires du GC s'affairent maintenant à combler les lacunes et à corriger les erreurs dans le contenu en ligne que les questions des utilisateurs ont mises en lumière. Les interactions avec l'IA sont donc devenues un outil de diagnostic pour l'amélioration des services.</p>
 <p><strong>Les mesures de sécurité fonctionnent&nbsp;:</strong> Malgré les inquiétudes concernant les risques liés à l'IA, les experts ont constaté qu'aucune réponse préjudiciable n'a été donnée et que toutes les tentatives de manipulation du système ont été infructueuses au cours de la mise à l'essai.</p>
