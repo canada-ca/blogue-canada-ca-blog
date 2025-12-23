@@ -90,7 +90,7 @@ Nous espérons que vous vous inspirerez de ces leçons pour améliorer votre con
 
 ## À l’approche de 2020
 
-Au nom de toute l’équipe du Bureau de l’expérience Canada.ca, nous vous souhaitons une période des Fêtes agréable et reposante. Nous avons d’ambitieux projets pour 2020 et avons hâte de collaborer avec nos nombreux collègues à l’échelle du gouvernement à l’amélioration de canada.ca et du système de conception du GC.
+Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous souhaitons une période des Fêtes agréable et reposante. Nous avons d’ambitieux projets pour 2020 et avons hâte de collaborer avec nos nombreux collègues à l’échelle du gouvernement à l’amélioration de canada.ca et du système de conception du GC.
 
 {% include components/gc-simple-img.html
    alt="Une photo de l'équipe du Bureau de la transformation numérique."
