@@ -11,7 +11,7 @@ share: false
 title: "Contact the Canada.ca Experience Office"
 section-title: ""
 ---
-<p>The Canada.ca Experience Office is part of the Canadian Digital Service at Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
+<p>The Canada.ca Experience Office is part of Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
 <p>Please note that we can only respond to questions specifically about the design of, or issues related to, Canada.ca. For contact information for other departments or programs, please visit:</p>
 <ul>
   <li><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></li>
