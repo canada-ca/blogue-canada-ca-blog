@@ -7,7 +7,7 @@ title: "Aider les Canadiens à lancer une entreprise"
 
 Des dizaines de milliers d’entreprises sont lancées chaque année au Canada «&nbsp;Lancer une entreprise&nbsp;» est une tâche prioritaire pour les Canadiens et en est une qui n’est pas facile. Il y a diverses exigences juridiques d’ordre provincial et fédéral. Les exigences varient selon la taille et le type d’entreprise. Il y a beaucoup de points à réaliser et à comprendre pour faire quelque chose qui devrait aussi facile que possible.
 
-En 2017, le Bureau de la transformation numérique a travaillé avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC) afin d’améliorer l’expérience de lancement d’une entreprise par l’intermédiaire de Canada.ca. Voici comment le projet d’optimisation s’est déroulé.
+En 2017, le Bureau de l’expérience Canada.ca a travaillé avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC) afin d’améliorer l’expérience de lancement d’une entreprise par l’intermédiaire de Canada.ca. Voici comment le projet d’optimisation s’est déroulé.
 
 ## Comprendre le problème
 

@@ -5,7 +5,7 @@ description: "What we learned about exit surveys, usability testing and analytic
 title:  "Finding the right method to measure online task success"
 ---
 
-In 2019, the Digital Transformation Office piloted three different methods to measure online task success:
+In 2019, the Canada.ca Experience Office piloted three different methods to measure online task success:
 
 * usability testing
 * task funnel analysis
@@ -43,11 +43,11 @@ This method can be challenging if analytics platforms aren't robust enough or yo
 ### Online survey
 
 The survey method is the easiest to implement and rerun year after year. In fact,
-the Digital Transformation Office developed a survey that any institution could use to collect task success data. It works by asking visitors what they came to the site to do, and whether they were successful.
+the Canada.ca Experience Office developed a survey that any institution could use to collect task success data. It works by asking visitors what they came to the site to do, and whether they were successful.
 
 Results from these surveys can be automatically transformed into dashboards. This further reduces an institution’s workload for compiling and analyzing the data.
 
-The Digital Transformation Office survey prompts visitors to:
+The Canada.ca Experience Office survey prompts visitors to:
 
 * select the task that they came to do from a set of options (including a write-in option in case their task wasn’t listed)
 * confirm if they were able to complete their task
@@ -86,7 +86,7 @@ What would make online top task reporting easier for you to complete?
 
 ## Inspired by what you learned? Share this post with your team.
 
- Connect with the Digital Transformation Office at TBS:
+ Connect with the Canada.ca Experience Office at ESDC:
 * Email: [{{ site.emails.dto }}](mailto:{{ site.emails.dto }})
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)

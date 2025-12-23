@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2019/03/29/design-update"
 date: 2019-03-29
-description: "Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes."
+description: "Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de l’expérience Canada.ca a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes."
 title:  "Au sujet de la mise à jour de la conception de Canada.ca"
 ---
 
@@ -9,7 +9,7 @@ Nous avons récemment lancé une mise à jour du site Canada.ca. Nous souhaitons
 
 Canada.ca a été lancé en décembre 2013 en tant que site Web phare du gouvernement du Canada. Il sert de guichet unique pour les services et l’information provenant de l’ensemble de l’environnement fédéral. Il s’agit de la marque numérique de confiance du gouvernement pour les Canadiens et d’autres personnes à travers le monde.
 
-Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de la transformation numérique a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes.
+Canada.ca n’avait pas fait l’objet d’une mise à jour importante depuis plus de cinq ans. En 2019, le Bureau de l’expérience Canada.ca a mené un exercice de modernisation et de simplification de la marque numérique de confiance, fondé sur des données probantes et des tests auprès de plus de 4 000 personnes.
 
 {% include components/gc-complex-img.html
    alt="Image avant et après de la page d'accueil de Canada.ca"
@@ -28,7 +28,7 @@ La mise à jour de la conception était axée sur le modèle standard de Canada.
 
 ## Une conception fondée sur des données
 
-Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements.
+Le <abbr title="Bureau de l’expérience Canada.ca">BEC</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements.
 
 Le personnel du BTN a dirigé la recherche et les tests, pendant que l’équipe de conception principale comprenait des concepteurs talentueux de&nbsp;:
 

@@ -6,7 +6,7 @@ title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 ---
 Canada.ca's site structure is designed to reflect the top tasks Canadians are trying to complete on the site. Using data to understand their changing needs is key to ensuring the right content is always up front and centre.
 
-Over the years, the Digital Transformation Office (DTO) has worked with Gerry McGovern as he developed and refined his top task methodology. Gerry is a renowned expert in information design. Organizing a website based on top tasks not only helps people find and use the most common information and services as quickly as possible, but it also helps prioritize efforts, especially when resources are limited. His methods of identifying and prioritizing the tasks that matter most to people on a site continue to influence Canada.ca optimization.
+Over the years, the Canada.ca Experience Office (CEO) has worked with Gerry McGovern as he developed and refined his top task methodology. Gerry is a renowned expert in information design. Organizing a website based on top tasks not only helps people find and use the most common information and services as quickly as possible, but it also helps prioritize efforts, especially when resources are limited. His methods of identifying and prioritizing the tasks that matter most to people on a site continue to influence Canada.ca optimization.
 
 In May 2020, the DTO collaborated with Gerry, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca.
 

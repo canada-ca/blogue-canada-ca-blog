@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2018/05/10/collab-health-optimize"
 date:   2018-05-10
-description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de la transformation numérique pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
+description: Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada a travaillé avec le Bureau de l’expérience Canada.ca pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
 pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
@@ -9,7 +9,7 @@ title:  "Travail concerté pour optimiser le contenu sur les maladies et la vacc
 
 **Par Roger Pankhurst, partenaire d’optimisation de Santé Canada.**
 
-Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de la transformation numérique (BTN) du Secrétariat du Conseil du Trésor (SCT) pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
+Au cours des derniers mois, l’équipe Web de Santé Canada (SC) et de l’Agence de santé publique Canada (ASPC) a travaillé avec le Bureau de l’expérience Canada.ca (BEC) du Secrétariat du Conseil du Trésor (SCT) pour optimiser les tâches principales relatives aux maladies et à la vaccination du thème de la santé.
 
 Plus précisément, nous avons optimisé notre contenu numérique portant sur&nbsp;:
 

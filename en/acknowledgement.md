@@ -2,14 +2,14 @@
 altLangPage: "/accuse-de-reception"
 breadcrumbs: false
 date: 2024-08-12
-description: "Contact the Digital Transformation Office about the Canada.ca design system."
+description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
 nositesearch: true
 script: /js/gc-referrer.js
 share: false
 showFeedback: false
-title: "Contact the Digital Transformation Office"
+title: "Contact the Canada.ca Experience Office"
 ---
 We’ve received your message. If you provided an email, a team member will get back to you within 5 business days.
 

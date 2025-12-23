@@ -49,7 +49,7 @@ title: "Flexible navigation page design for emergencies"
 </ul>
 <p>These pages would contain information that was more detailed and specific to a healthcare audience, and so needed to be distinguished from similar pages meant for the general public.</p>
 <h2>Developing a flexible solution with anticipatory design</h2>
-<p>After identifying the challenges with the existing tile design, the Digital Transformation Office (DTO) worked with Health Canada (HC) to develop a new banded landing page design in March 2020.</p>
+<p>After identifying the challenges with the existing tile design, the Canada.ca Experience Office (CEO) worked with Health Canada (HC) to develop a new banded landing page design in March 2020.</p>
 <div class="row mrgn-tp-lg">
     <div class="col-md-8">
         <figure><img alt="Desktop and mobile versions of the proposed COVID-19 landing page" class="img-responsive" id="flex-nav-03" src="/images/flex-nav-03.png" />

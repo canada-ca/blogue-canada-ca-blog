@@ -5,7 +5,7 @@ description: "En novembre 2019, le BTN a modifié les directives de Canada.ca po
 title:  "Utiliser le modèle afficher/masquer pour faire des choix"
 ---
 
-Depuis mars 2020, le Bureau de la transformation numérique (BTN) a mené plus de 45 tests d'utilisabilité et études de recherche auprès des utilisateurs afin d'offrir des directives fondées sur des données probantes qui ont contribué à la publication de ressources Web liées à la pandémie. Nous comptons également sur les projets d'optimisation précédents pour offrir une expérience en ligne plus utilisable, uniforme et fiable sur Canada.ca.
+Depuis mars 2020, le Bureau de l’expérience Canada.ca (BEC) a mené plus de 45 tests d'utilisabilité et études de recherche auprès des utilisateurs afin d'offrir des directives fondées sur des données probantes qui ont contribué à la publication de ressources Web liées à la pandémie. Nous comptons également sur les projets d'optimisation précédents pour offrir une expérience en ligne plus utilisable, uniforme et fiable sur Canada.ca.
 
 Le modèle afficher/masquer n'est qu'un des nombreux modèles de la bibliothèque du système de conception de Canada.ca qui peuvent vous aider à améliorer la façon dont les utilisateurs interagissent avec votre contenu Web. Il faut toutefois l'utiliser avec soin!
 

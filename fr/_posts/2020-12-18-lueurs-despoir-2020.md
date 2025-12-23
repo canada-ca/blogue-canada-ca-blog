@@ -12,7 +12,7 @@ Alors que 2021 pointe à l'horizon, la communauté #GCnumérique souhaiterait me
 
 Au cours de la dernière année, nous avons appris à travailler ensemble, tout en restant éloignés. La collaboration interministérielle avec une vaste gamme de groupes de travail a été mémorable et instructive.
 
-L'un de nos souvenirs les plus marquants a été notre collaboration avec le Bureau de la transformation numérique (BTN) au moment du lancement du Plan d'intervention économique. Leurs conseils quant à l'interface et à l'expérience utilisateurs a été capitale pour nous aider à fournir de l'information à la population au sujet du soutien financier durant la pandémie.
+L'un de nos souvenirs les plus marquants a été notre collaboration avec le Bureau de l’expérience Canada.ca (BEC) au moment du lancement du Plan d'intervention économique. Leurs conseils quant à l'interface et à l'expérience utilisateurs a été capitale pour nous aider à fournir de l'information à la population au sujet du soutien financier durant la pandémie.
 
 Nous continuons à renforcer nos liens et à apprendre les uns des autres. Nous avons l'espoir que nous surmonterons les défis liés à la pandémie mondiale et que ces défis feront de nous de meilleures personnes et de meilleures équipes.&nbsp;»
 

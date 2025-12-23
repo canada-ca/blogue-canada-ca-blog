@@ -53,7 +53,7 @@ Lorsqu’il s’agit de rédiger du contenu pour le gouvernement numérique, de 
 
 Le gouvernement numérique offre de nombreuses possibilités de produire de meilleurs résultats pour les Canadiens. Nous étudions des approches numériques dans l’élaboration de nos politiques et l’amélioration de nos services. Dans certains secteurs, des changements importants peuvent être nécessaires. Mais de petits changements bien réfléchis, peuvent aussi faire une grande différence pour tous ceux et celles qui utilisent nos services.
 
-## Pour en savoir plus sur le Bureau de la transformation numérique
+## Pour en savoir plus sur le Bureau de l’expérience Canada.ca
 
 - [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
 

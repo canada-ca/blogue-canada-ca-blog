@@ -11,7 +11,7 @@ Across government, it was clear that we need to work together so that everyone w
 
 ## Usability testing with assistive technology users
 
-To support this work, the Digital Transformation Office (DTO) conducted dozens of usability tests. Usability testing can help find problems that might affect many people. They are a key part of our toolkit in improving digital services.
+To support this work, the Canada.ca Experience Office (CEO) conducted dozens of usability tests. Usability testing can help find problems that might affect many people. They are a key part of our toolkit in improving digital services.
 
 One of the studies the DTO ran assessed the accessibility of some new Canada.ca designs that are being used for certain key COVID-19 pages and programs. The study focused on people who use screen readers or magnifiers to navigate the web.  We wanted to make sure people could use these technologies to get to and understand specific content. In this study, we focused on the following pages, as they used the design patterns we wanted to test:
 

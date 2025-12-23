@@ -35,7 +35,7 @@ En plus des défis liés à l’infrastructure, la recherche axée sur les déco
 * les problèmes de recherche et l’absence de filtres ont causé de nombreuses défaillances
 * les gens n’obtenaient pas de réponses claires sur ce qu’il fallait faire et ressentaient un sentiment général d’incertitude
 
-C’est dans cette optique que le Bureau de la transformation numérique et l’équipe de projet ont conçu de nouveaux prototypes pour une solution de recherche et des pages de contenu. L’objectif était d’augmenter de 20&nbsp;% chacun les taux de repérabilité et d’achèvement des tâches.
+C’est dans cette optique que le Bureau de l’expérience Canada.ca et l’équipe de projet ont conçu de nouveaux prototypes pour une solution de recherche et des pages de contenu. L’objectif était d’augmenter de 20&nbsp;% chacun les taux de repérabilité et d’achèvement des tâches.
 
 
 ## Nouveaux prototypes

@@ -1,12 +1,12 @@
 ---
 altLangPage: "/2020/10/28/modele-de-transparence"
 date:   2020-10-28
-description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency."
+description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Canada.ca Experience Office (CEO) on design concepts to increase transparency."
 title:  "Increasing transparency on Canada.ca"
 ---
 Improving service delivery on Canada.ca is a collaborative and continuous team effort. Public servants across the GC are working together to create a digital experience that follows the principles of accessibility, accountability, and transparency.
 
-Not long ago, the Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency. With annual report season coming soon, we thought we’d share the results of their work.
+Not long ago, the Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Canada.ca Experience Office (CEO) on design concepts to increase transparency. With annual report season coming soon, we thought we’d share the results of their work.
 
 Together they launched a new transparency template in the GC Design System earlier this year.
 

@@ -23,7 +23,7 @@ C’est ainsi que je me suis retrouvée à joindre une équipe du Bureau de la t
 
 Mes objectifs&nbsp;:
 
-* apprendre la démarche empruntée par le <abbr title="Bureau de la transformation numérique">BTN</abbr> pour améliorer le contenu sur Canada.ca
+* apprendre la démarche empruntée par le <abbr title="Bureau de l’expérience Canada.ca">BEC</abbr> pour améliorer le contenu sur Canada.ca
 * mieux comprendre le rôle d’une équipe qui élabore des directives auxquelles nous devons nous conformer
 * contribuer au projet au mieux de mes capacités
 
@@ -54,4 +54,4 @@ Si jamais l’occasion se présente à vous… saisissez-la!
 ## Pour en apprendre davantage
 
 * [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
-* [Bureau de la transformation numérique](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html)
+* [Bureau de l’expérience Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/a-propos-bureau-transformation-numerique.html)

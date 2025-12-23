@@ -16,7 +16,7 @@ Data can help with:
 
 While at times the data can feel overwhelming to sort through, you shouldn’t ignore it. Focus on data that helps you understand task completion. Monitor it on a regular basis to look for trends and issues. This can help even the smallest teams prioritize significant improvements to service delivery.
 
-A key focus of the Digital Transformation Office (DTO) is to make online information and services easier to find and understand for the people using them. We wanted to share some of our most recent experiences with using data to make important content work better.
+A key focus of the Canada.ca Experience Office (CEO) is to make online information and services easier to find and understand for the people using them. We wanted to share some of our most recent experiences with using data to make important content work better.
 
 ## Analytics can signal that you need a mobile-first design
 

@@ -32,7 +32,7 @@ On top of the infrastructure challenges, discovery research and usability testin
 * search issues and lack of filters caused many task failures
 * overall sense of uncertainty – people weren’t getting clear answers for what to do
 
-With those issues in mind, the Digital Transformation Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
+With those issues in mind, the Canada.ca Experience Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
 
 ## New prototypes
 

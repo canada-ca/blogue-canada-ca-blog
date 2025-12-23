@@ -3,7 +3,7 @@ altLangPage: "/2018/03/29/Visiter-le-Canada-Optimisation"
 author: Eric Cooper
 date:   2018-03-29
 pageclass: "cnt-wdth-lmtd"
-description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
+description: The Canada.ca Experience Office (CEO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 title:  "Visit Canada: Optimization"
 ---
 **By Eric Cooper, Digital Transformation Office**
@@ -16,7 +16,7 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
-In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
+In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Canada.ca Experience Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 
 ## Understanding the problem
 

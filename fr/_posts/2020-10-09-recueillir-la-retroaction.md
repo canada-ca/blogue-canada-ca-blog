@@ -13,7 +13,7 @@ Et si nous pouvions être informés plus tôt lorsque les gens ne trouvent pas l
 
 ## Étude pilote
 
-En mai 2020, quelques équipes ont collaboré au lancement de l'étude pilote d'un widget pour obtenir la rétroaction des gens sur les pages Canada.ca. Le Bureau de la transformation numérique (BTN) a travaillé avec les acteurs suivants&nbsp;:
+En mai 2020, quelques équipes ont collaboré au lancement de l'étude pilote d'un widget pour obtenir la rétroaction des gens sur les pages Canada.ca. Le Bureau de l’expérience Canada.ca (BEC) a travaillé avec les acteurs suivants&nbsp;:
 * Santé Canada/Agence de la santé publique du Canada (ASPC);
 * Éditeur principal;
 * Bureau du Conseil privé.

@@ -1,7 +1,7 @@
 ---
 altLangPage: "/2018/05/10/concerte-sante"
 date: 2018-05-10
-description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme.
+description: Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Canada.ca Experience Office on optimizing top tasks for the diseases and immunization topics of the health theme.
 title:  "Collaborative work to optimize diseases and immunization content"
 ---
 

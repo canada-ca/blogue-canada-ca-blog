@@ -1,13 +1,13 @@
 ---
 altLangPage: "/2020/10/28/transparency-template"
 date:   2020-10-28
-description: "Les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique (BTN) à l'élaboration de concepts visant à accroître la transparence."
+description: "Les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de l’expérience Canada.ca (BEC) à l'élaboration de concepts visant à accroître la transparence."
 title:  "Accroître la transparence sur Canada.ca"
 ---
 
 L'amélioration de la prestation des services sur Canada.ca est un travail d'équipe continu et axé sur la collaboration. Les employés de la fonction publique de l'ensemble du gouvernement du Canada travaillent ensemble pour créer une expérience numérique qui respecte les principes d'accessibilité, de responsabilisation et de transparence.
 
-Il n'y a pas si longtemps, les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de la transformation numérique (BTN) à l'élaboration de concepts visant à accroître la transparence. Comme la période des rapports annuels approche à grands pas, nous avons pensé publier les résultats de leurs travaux.
+Il n'y a pas si longtemps, les Services consultatifs numériques (SCN) du Secrétariat du Conseil du Trésor du Canada ont collaboré avec le Bureau de l’expérience Canada.ca (BEC) à l'élaboration de concepts visant à accroître la transparence. Comme la période des rapports annuels approche à grands pas, nous avons pensé publier les résultats de leurs travaux.
 
 Ensemble, ils ont lancé un nouveau modèle de transparence dans le système de conception de Canada.ca plus tôt cette année.
 
@@ -47,7 +47,7 @@ Tout comme notre modèle de transparence, la conception de Canada.ca est collabo
 
 Nous voulons encourager d'autres personnes à contribuer à l'amélioration de la prestation de services sur Canada.ca. Ensemble, nous pouvons être un gouvernement numérique ouvert, collaboratif et accessible. Chacun d'entre nous a un rôle à jouer pour que ce soit le cas.
 
-Si vous souhaitez contribuer à cet effort, communiquez avec nous au Bureau de la transformation numérique (voir les canaux ci-dessous).
+Si vous souhaitez contribuer à cet effort, communiquez avec nous au Bureau de l’expérience Canada.ca (voir les canaux ci-dessous).
 
 ## Pour en savoir davantage
 

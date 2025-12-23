@@ -5,7 +5,7 @@ description: "Why FAQs are an ineffective content design choice most of the time
 title:  "Avoiding FAQs, with one exception"
 ---
 
-Yes, you read that right. One of the most frequently asked questions we get at the Digital Transformation Office is whether FAQs are an acceptable way of presenting web content.
+Yes, you read that right. One of the most frequently asked questions we get at the Canada.ca Experience Office is whether FAQs are an acceptable way of presenting web content.
 
 Our answer, almost always, is no, FAQs are not effective so please don’t make them!
 

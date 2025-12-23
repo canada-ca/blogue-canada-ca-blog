@@ -1,12 +1,12 @@
 ---
 altLangPage: "/2020/11/12/listes-de-verification-interactives"
 date: 2020-11-12
-description: "In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
+description: "In the last couple of years, the Canada.ca Experience Office (CEO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
 title:  "Using interactive checklists to simplify eligibility criteria"
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.
 
-One area where people often struggle is understanding eligibility criteria for government programs. In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria.
+One area where people often struggle is understanding eligibility criteria for government programs. In the last couple of years, the Canada.ca Experience Office (CEO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria.
 
 The behavioural principle behind using interactive elements is that people slow down and pay more attention when they can interact with your page. They become active participants in your content instead of passive observers. This helps them better understand and retain the information.
 

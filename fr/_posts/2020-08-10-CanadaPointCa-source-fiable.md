@@ -9,7 +9,7 @@ Tout au long de la pandémie de la COVID-19, le premier ministre et ses ministre
 
 ## Bâtir la confiance grâce à la conception
 
-En janvier 2020, le Bureau de la transformation numérique (BTN) a entrepris un projet d'orientation pour examiner la façon dont les gens naviguent dans la présence Web du gouvernement du Canada (GC). Dans le cadre du projet, nous avons envisagé de remplacer «&nbsp;Accueil&nbsp;» par «&nbsp;Canada.ca&nbsp;» dans la piste de navigation (le fil d'Ariane) au haut de chaque page.
+En janvier 2020, le Bureau de l’expérience Canada.ca (BEC) a entrepris un projet d'orientation pour examiner la façon dont les gens naviguent dans la présence Web du gouvernement du Canada (GC). Dans le cadre du projet, nous avons envisagé de remplacer «&nbsp;Accueil&nbsp;» par «&nbsp;Canada.ca&nbsp;» dans la piste de navigation (le fil d'Ariane) au haut de chaque page.
 
 Nous avons mené une étude en ligne auprès de plus de 600 utilisateurs de Canada.ca. Nous avons comparé les deux conceptions de piste de navigation. «&nbsp;Canada.ca&nbsp;» a obtenu un rendement aussi efficace que le lien «&nbsp;Accueil&nbsp;», tout en soutenant l'amélioration de l'identité de marque et de sa convivialité.
 

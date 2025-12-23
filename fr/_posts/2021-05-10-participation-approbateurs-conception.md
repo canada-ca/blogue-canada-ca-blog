@@ -19,6 +19,7 @@ Les ministères représentés au sein du groupe de travail comprenaient :
 - l’Agence de la santé publique; 
 - l’Agence des services frontaliers du Canada; 
 - le Bureau de la transformation numérique du Conseil du Trésor; 
+
 - le Bureau du Conseil privé; 
 - Immigration, Réfugiés et Citoyenneté Canada;
 - Santé Canada.

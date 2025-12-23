@@ -1,11 +1,11 @@
 ---
 altLangPage: "/2019/08/26/content-design-tips"
 date: 2019-08-26
-description: "En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
+description: "En automne 2018, le Bureau de l’expérience Canada.ca a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
 title: "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
 ---
 
-En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
+En automne 2018, le Bureau de l’expérience Canada.ca a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation&nbsp;: un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi. Les deux visent des tâches importantes que des millions de Canadiens et Canadiennes cherchent à effectuer régulièrement sur le site Canada.ca. Dans les deux cas, les constatations suggèrent l’usage de principes de conception de contenu simples pouvant grandement améliorer le taux de réussite des utilisateurs.
 
 ## 1. Retirer des couches pour aider les gens à obtenir des réponses plus rapidement
 

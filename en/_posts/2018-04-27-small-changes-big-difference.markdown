@@ -53,7 +53,7 @@ This work is showing us that when it comes to writing content for digital govern
 
 There are many opportunities for a digital government to deliver better results for Canadians.  We are looking at digital approaches to inform policy development and improve our services. In some areas, big changes may be required. But making small, smart changes goes a long way in helping Canadians use our services.
 
-## Learn more about the Digital Transformation Office
+## Learn more about the Canada.ca Experience Office
 
 - [Improving content on Canada.ca](https://blog.canada.ca/pages/projectoverview.html)
 

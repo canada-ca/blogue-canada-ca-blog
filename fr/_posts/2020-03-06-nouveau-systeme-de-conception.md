@@ -6,7 +6,7 @@ title:  "Un système de conception pour le gouvernement du Canada&nbsp;: produir
 
 ---
 
-En septembre 2019, le Bureau de la transformation numérique (BTN) et ses collaborateurs de partout au gouvernement du Canada se sont réunis pour concrétiser la vision d’un système de conception pour le gouvernement du Canada.
+En septembre 2019, le Bureau de l’expérience Canada.ca (BEC) et ses collaborateurs de partout au gouvernement du Canada se sont réunis pour concrétiser la vision d’un système de conception pour le gouvernement du Canada.
 
 Des personnes talentueuses dans l’ensemble du gouvernement du Canada, provenant notamment des Systèmes de conception Aurora et Clone (Nuage des talents), du Service numérique canadien, de l’Académie du numérique, de la Boîte à outils de l’expérience Web, d’Innovation, Sciences et Développement économique Canada, de l’Agence du revenu du Canada, d’Immigration, Réfugiés et Citoyenneté Canada  et du ministère de la Défense nationale  ont pris part à la journée.
 

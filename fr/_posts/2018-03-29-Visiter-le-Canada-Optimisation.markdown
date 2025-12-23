@@ -2,7 +2,7 @@
 altLangPage: "/2018/03/29/Visit-Canada-Optimization.html"
 author: Eric Cooper
 date:   2018-03-29
-description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+description: Le Bureau de l’expérience Canada.ca (BEC) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 title:  "Visiter le Canada&nbsp;: optimisation"
 ---
 
@@ -16,7 +16,7 @@ Il n’est pas toujours facile de savoir quel document vous devez demander pour 
 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927) (Les nouvelles exigences en matière de voyage empêchent un homme d’entrer au Canada pour Noël (chaîne anglaise de Radio-Canada)
 
-En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de la transformation numérique (BTN) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
+En janvier 2017, l’équipe Web d’IRCC s’est donné pour priorité de régler cette tâche. Les modifications des exigences relatives à l’AVE devaient bientôt entrer en vigueur et rendre la situation encore plus confuse. Le Bureau de l’expérience Canada.ca (BEC) a collaboré avec IRCC afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
 
 ## Comprendre le problème
 

@@ -11,7 +11,7 @@ Dans l’ensemble du gouvernement, il est apparu clairement qu’il faut travail
 
 ## Tests d’utilisabilité par des utilisateurs de technologie d’assistance
 
-Pour soutenir ces démarches, le Bureau de la transformation numérique (BTN) a effectué des dizaines de tests d’utilisabilité. Les tests d’utilisabilité contribuent à détecter les problèmes qui pourraient toucher de nombreuses personnes. Ces tests sont un élément clé de notre trousse d’outils servant à améliorer les services numériques.
+Pour soutenir ces démarches, le Bureau de l’expérience Canada.ca (BEC) a effectué des dizaines de tests d’utilisabilité. Les tests d’utilisabilité contribuent à détecter les problèmes qui pourraient toucher de nombreuses personnes. Ces tests sont un élément clé de notre trousse d’outils servant à améliorer les services numériques.
 
 L’une des études menées par le BTN portait sur l’accessibilité de certains nouveaux concepts de Canada.ca qui sont utilisés pour certaines pages et certains programmes clés de la COVID-19. L’étude visait les personnes qui utilisent des lecteurs d’écran ou des loupes pour naviguer sur le Web. Nous voulions nous assurer que les gens puissent utiliser ces technologies pour accéder à du contenu en particulier et pour en comprendre la teneur. Dans cette étude, nous nous sommes concentrés sur les pages suivantes, car elles utilisaient les modèles de conception que nous voulions tester&nbsp;:
 

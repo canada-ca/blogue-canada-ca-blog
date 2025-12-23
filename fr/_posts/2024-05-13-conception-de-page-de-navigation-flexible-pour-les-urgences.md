@@ -49,7 +49,7 @@ title: "Des pages de navigation flexibles pour les situations d’urgence"
 </ul>
 <p>Ces pages allaient contenir de l’information plus détaillée et spécifiquement destinée à des spécialistes de la santé. Il fallait donc qu’elles se distinguent des autres pages destinées au public.</p>
 <h2>Élaborer une solution flexible grâce à la conception anticipatoire</h2>
-<p>Après avoir déterminé les difficultés liées à la conception des tuiles existantes, le Bureau de la transformation numérique (BTN) a travaillé de concert avec Santé Canada en mars 2020 pour mettre au point une nouvelle conception de page de destination à bandes.</p>
+<p>Après avoir déterminé les difficultés liées à la conception des tuiles existantes, le Bureau de l’expérience Canada.ca (BEC) a travaillé de concert avec Santé Canada en mars 2020 pour mettre au point une nouvelle conception de page de destination à bandes.</p>
 <div class="row mrgn-tp-lg">
     <div class="col-md-8">
         <figure><img alt="Versions bureau et mobile de la page consacrée à la COVID-19 le 1 avril 2020" class="img-responsive" id="flex-nav-03" src="/images/flex-nav-03-fr.png" />
