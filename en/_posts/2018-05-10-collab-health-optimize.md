@@ -7,7 +7,7 @@ title:  "Collaborative work to optimize diseases and immunization content"
 
 **By Roger Pankhurst, optimization partner from Health Canada**
 
-Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Canada.ca Experience Office (CEO) from the Treasury Board of Canada Secretariat (TBS) on optimizing top tasks for the diseases and immunization topics of the Health Theme.
+Over the past few months the web team at Health Canada (HC) and the Public Health Agency of Canada (PHAC) have been working with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) on optimizing top tasks for the diseases and immunization topics of the Health Theme.
 
 Specifically, we’ve been optimizing our digital content for:
 
