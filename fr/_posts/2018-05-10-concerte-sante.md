@@ -68,7 +68,7 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 {% include components/gc-complex-img.html
    alt="Image présentant 11 personnes debout devant un écran montrant les données d’amélioration."
    file="collab-health/hc-phac-dto-team-835x423.jpg"
-   caption="Une partie de l’équipe de projet de Santé Canada et de l’Agence de santé publique Canada avec le Bureau de l’expérience Canada.ca."
+   caption="Une partie de l’équipe de projet de Santé Canada et de l’Agence de santé publique Canada avec le Bureau de la transformation numérique."
 %}
 
 ## Nous voulons connaître votre opinion
