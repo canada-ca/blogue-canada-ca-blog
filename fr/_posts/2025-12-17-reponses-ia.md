@@ -17,8 +17,9 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Sur la <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html"> page d'ouverture de session de Canada.ca</a>, nous avons effectué une mise à l'essai de 19 jours dans le cadre de laquelle nous avons invité les utilisateurs à essayer le nouveau service de Réponses IA (du 18 au 26 juin et du 15 au 25 juillet 2025).</p>
 <p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par &laquo;&nbsp;gc.ca&nbsp;&raquo; et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
-<div class="col-md-8 mrgn-tp-lg">
+
 <div class="row">
+<div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/se-connecter.jpg">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
@@ -27,7 +28,6 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
         </figure>
 </div>
 </div>
-<div class="clearfix"></div>
 <details>
     <summary>L'approche technique</summary>
     <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
@@ -47,8 +47,8 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
     <li><strong>22&nbsp;% (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
-<div class="col-md-8 mrgn-tp-lg">
 <div class="row">
+<div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page du service Réponses IA." class="img-responsive" src="/images/reponses-ia/reponses-IA.png">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Capture d'écran de la page du service Réponses IA.</strong></p>

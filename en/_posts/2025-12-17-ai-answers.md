@@ -20,8 +20,8 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p>The concept was straightforward: let users ask questions in their own words and receive accurate, government-sourced answers instantly.</p>
 
-<div class="col-md-8 mrgn-tp-lg">
 <div class="row">
+<div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Screenshot of the Government of Canada online account sign-in page." class="img-responsive" src="/images/ai-answers/sign-in.jpg">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Screenshot of the Government of Canada online account sign-in.</strong></p>
@@ -30,7 +30,6 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
         </figure>
 </div>
 </div>
-<div class="clearfix"></div>
 <details>
     <summary>The technical approach</summary>
     <p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.</p>
@@ -56,8 +55,8 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 
 <p>Even less-commonly used government services generated multiple questions per topic across many departments, suggesting broad user interest in AI-assisted government interactions.</p>
 
-<div class="col-md-8 mrgn-tp-lg">
 <div class="row">
+<div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Screenshot of the AI Answers service page." class="img-responsive" src="/images/ai-answers/AI-answers.png">
             <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
                 <p><strong>Screenshot of the AI Answers service page.</strong></p>
