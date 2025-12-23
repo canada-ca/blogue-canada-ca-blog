@@ -35,7 +35,7 @@ Félicitations et merci à tous les stratèges, développeurs ou éditeurs, conc
 
 Coordination centrale:
 *	Santé Canada et Agence de la santé publique du Canada
-*	Secrétariat du Conseil du Trésor du Canada (Bureau de l’expérience Canada.ca)
+*	Secrétariat du Conseil du Trésor du Canada (Bureau de la transformation numérique)
 *	Bureau du Conseil privé
 *	Éditeur principal/Service Canada
 
