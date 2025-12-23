@@ -39,9 +39,9 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 </ul>
 <p>La répartition des questions témoigne des priorités des utilisateurs&nbsp;:</p>
 <ul>
-    <li><strong>42 % (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
-    <li><strong>25 % (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
-    <li><strong>22 % (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
+    <li><strong>42&nbsp;% (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
+    <li><strong>25&nbsp;% (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
+    <li><strong>22&nbsp;% (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="col-md-8 mrgn-tp-lg">
