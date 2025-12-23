@@ -6,7 +6,7 @@ description: Le Bureau de l’expérience Canada.ca (BEC) a collaboré avec Immi
 title:  "Visiter le Canada&nbsp;: optimisation"
 ---
 
-**Par Eric Cooper, Bureau de l’expérience Canada.ca**
+**Par Eric Cooper, Bureau de la transformation numérique**
 
 Le Canada est un grand et beau pays dans lequel il y a beaucoup à voir et de nombreuses expériences à vivre. En 2017, année du 150e anniversaire de la Confédération du Canada, nous avons accueilli environ 20,8 millions de visiteurs. Nous avons ainsi battu notre précédent record.
 
