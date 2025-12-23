@@ -26,7 +26,7 @@ Notre collaboration au cours des derniers mois a été beaucoup plus large et be
 
 Je suis honorée d'avoir pu jouer un rôle dans votre parcours et vous avez tous eu un rôle à jouer, lors du mien.&nbsp;»
 
-*- **Laura Piper, Bureau de l’expérience Canada.ca***
+*- **Laura Piper, Bureau de la transformation numérique***
 
 *3.* «&nbsp;La collaboration a été le plus grand atout au sein du gouvernement du Canada, durant des circonstances défavorables et une transition majeure vers le travail à distance. La collaboration a permis d'avoir des solutions communes, de répondre aux changements à l'aide de preuves et de mettre en place de véritables avancées qui ont permis à l'ensemble du gouvernement de communiquer plus adéquatement avec la population, durant cette crise. Nous avons innové et nous avons fourni des renseignements fiables, sécuritaires et opportuns à la population, lorsque le besoin se faisait sentir.&nbsp;»
 
