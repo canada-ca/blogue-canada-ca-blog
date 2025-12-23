@@ -15,7 +15,7 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 
 <h2>Ce que nous avons mis à l'essai</h2>
 <p>Sur la <a href="https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html"> page d'ouverture de session de Canada.ca</a>, nous avons effectué une mise à l'essai de 19 jours dans le cadre de laquelle nous avons invité les utilisateurs à essayer le nouveau service de Réponses IA (du 18 au 26 juin et du 15 au 25 juillet 2025).</p>
-<p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par « gc.ca » et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
+<p>Le contenu des réponses provenait exclusivement de Canada.ca, de sites Web se terminant par &laquo;&nbsp;gc.ca&nbsp;&raquo; et de sites avec une adresse URL autorisée par le gouvernement fédéral. Toutes les questions qui contenaient des renseignements personnels permettant d'identifier la personne ont été bloquées afin de protéger la vie privée de l'utilisateur.</p>
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
 <div class="col-md-8 mrgn-tp-lg">
         <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/FR-SE-CONN.jpg">
