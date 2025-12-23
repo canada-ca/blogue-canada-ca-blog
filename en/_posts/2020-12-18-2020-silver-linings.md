@@ -75,7 +75,7 @@ Another bright spot for me is seeing the public service, and more specifically t
 
 From the bottom of my heart, I thank you for everything you have done and will continue to do to help Canadians find what they need on Canada.ca. There is no way this country could have made it this far into the pandemic as well as it has without your dedication and hard work. Please take some time this holiday season to pause and celebrate your contribution. Canadians are so lucky to have you all in their corner.”
 
-*- **Michèle-Renée (M-R) Charbonneau, Canada.ca Experience Office***
+*- **Michèle-Renée (M-R) Charbonneau, Digital Transformation Office***
 
 ## Final word
 
