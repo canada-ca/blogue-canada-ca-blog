@@ -73,7 +73,7 @@ Un autre fait saillant a été de voir à quel point la fonction publique – et
 
 Je tiens à vous remercier du fond du cœur pour tout ce que vous avez fait et tout ce que vous continuerez à faire pour permettre aux Canadiens de trouver les réponses à leurs questions sur Canada.ca. Votre dévouement et votre travail acharné ont permis au Canada de se trouver là où il se trouve, à ce stade-ci de la pandémie. En cette période des Fêtes, veuillez prendre le temps de vous arrêter et de souligner votre apport. La population ne peut pas avoir de meilleurs alliés que vous.&nbsp;»
 
-*- **Michèle-Renée (M-R) Charbonneau, Bureau de l’expérience Canada.ca***
+*- **Michèle-Renée (M-R) Charbonneau, Bureau de la transformation numérique***
 
 ## Mot de la fin
 
