@@ -46,7 +46,7 @@ Cette année, nous avons mis en place une nouvelle façon de recueillir des rét
 
 Sur une note plus personnelle, je tiens à remercier mes collègues du BTN et nos partenaires. Ils m'ont permis d'en apprendre davantage au sujet des tests de convivialité et du partage des résultats… rapidement! Je crois également que ma famille comprend finalement mon métier. Un aspect positif… et convivial!&nbsp;»
 
-*- **Lana Stewart, Bureau de l’expérience Canada.ca***
+*- **Lana Stewart, Bureau de la transformation numérique***
 
 *7.* «&nbsp;Je crois que la haute direction a été séduite par une étude sur le travail à distance. Cette étude a démontré que les employés pouvaient travailler efficacement s'ils travaillaient plus souvent à partir de la maison. Maintenant, nous travaillons tous à distance. Notre productivité? Elle a augmenté.
 
