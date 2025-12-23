@@ -134,7 +134,7 @@ Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à 
 	</div>
 	<div class="col-md-9 col-xs-12">
 		<figcaption>
-			<p>Eric est un coordonnateur de projet pour le Bureau de l’expérience Canada.ca. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
+			<p>Eric est un coordonnateur de projet pour le Bureau de la transformation numérique. Faire la révision d’une tâche prioritaire, du début à la fin demande beaucoup de travail, et Eric y contribue en communiquant avec les partenaires, gérant les horaires et en obtenant les outils lorsque nécessaire (numériques ou analogiques). Au cours des trois dernières années, il a contribué au développement et à la publication des Spécifications du contenu et de l’architecture de l’information pour Canada.ca et le Guide de rédaction du contenu du site Canada.ca.</p><p>Il détient un baccalauréat spécialisé en science intégrée avec des concentrations en mathématiques et psychologie et en 2017, il a obtenu sa certification de professionnel en gestion de projet PGP.</p>
 		</figcaption>
 	</div>
 </figure>
