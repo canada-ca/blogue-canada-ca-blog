@@ -6,7 +6,7 @@ pageclass: "cnt-wdth-lmtd"
 description: The Canada.ca Experience Office (CEO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 title:  "Visit Canada: Optimization"
 ---
-**By Eric Cooper, Canada.ca Experience Office**
+**By Eric Cooper, Digital Transformation Office**
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record.
 
