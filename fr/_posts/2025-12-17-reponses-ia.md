@@ -25,7 +25,6 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
             </figcaption>
         </figure>
 </div>
-<div class="clearfix"></div>
 <details>
     <summary>L'approche technique</summary>
     <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
