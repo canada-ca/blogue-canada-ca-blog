@@ -37,7 +37,7 @@ I am inspired by the dedication, resilience, and commitment to serving Canadians
 
 During the course of the year, we piloted a new way of gathering direct feedback from people who use our web content. Real-time insights on what makes people fail at completing their task is humbling.  A constant reminder that we need to continue improving content for Canadians.”
 
-*- **David Pepin, Canada.ca Experience Office***
+*- **David Pepin, Digital Transformation Office***
 
 *5.* “Joining the web comms working group felt like being the little bee girl in the Blind Melon music video for ‘No Rain.’ It felt like stumbling into a meadow full of people who were thinking in ways I was thinking, and asking the important questions I was asking, and even more importantly, finding some answers to those questions about how to improve the Government of Canada’s web content for everyone in Canada and outside Canada accessing our services. It felt supportive and friendly, and I don’t think the projects I was working on (the COVID-19 Individual Benefits Finder and COVID Alert) would have been as successful without this space to collaborate.”
 
