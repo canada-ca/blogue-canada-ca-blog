@@ -47,7 +47,7 @@ During the course of the year, we piloted a new way of gathering direct feedback
 
 On a personal level, I’m thankful to my DTO colleagues and our partners who helped me learn more about usability testing and communicating results… quickly! I also feel like my family finally understands what I do for a job.  A true usability silver lining."
 
-*- **Lana Stewart, Canada.ca Experience Office***
+*- **Lana Stewart, Digital Transformation Office***
 
 *7.* “It has been a case study on remote work that has convinced senior management that employees can work effectively from home more often. We're all doing it and if anything our productivity has gone up.
 
