@@ -19,7 +19,7 @@ In my position in Montreal, I’m part of the Web team, in Communications at Can
 
 ## The DTO
 
-This was how I ended up joining a team from the Treasury Board Secretariat’s Canada.ca Experience Office (CEO). I worked part-time for three months, from my regular office in Montreal, during a web content improvement project with the Canada Revenue Agency.
+This was how I ended up joining a team from the Treasury Board Secretariat’s Digital Transformation Office (DTO). I worked part-time for three months, from my regular office in Montreal, during a web content improvement project with the Canada Revenue Agency.
 
 My objectives:
 * to learn about the approach taken by the <abbr title="Canada.ca Experience Office">DTO</abbr> for improving content on Canada.ca
