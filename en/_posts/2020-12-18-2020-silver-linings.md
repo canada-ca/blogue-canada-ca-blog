@@ -27,7 +27,7 @@ We’ve collaborated more widely and more deeply these past many months than eve
 
 I am inspired by the dedication, resilience, and commitment to serving Canadians that I have witnessed in my colleagues from across government, and I am grateful to have been a part of your journey, as you have all been a part of mine.”
 
-*- **Laura Piper, Canada.ca Experience Office***
+*- **Laura Piper, Digital Transformation Office***
 
 *3.* “Through adverse circumstances and a complete shift to remote work, collaboration was the biggest asset within the GC that enabled common solutions, responsive changes based on evidence and true advancements enabling the government as a whole to better communicate with Canadians through a time of crisis.  Not only did we innovate, we also provided reliable, secure and timely information for the public when they most needed it.”
 
