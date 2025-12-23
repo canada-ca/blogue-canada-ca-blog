@@ -23,7 +23,7 @@ C’est ainsi que je me suis retrouvée à joindre une équipe du Bureau de l’
 
 Mes objectifs&nbsp;:
 
-* apprendre la démarche empruntée par le <abbr title="Bureau de l’expérience Canada.ca">BTN</abbr> pour améliorer le contenu sur Canada.ca
+* apprendre la démarche empruntée par le <abbr title="Bureau de l’expérience Canada.ca">BEC</abbr> pour améliorer le contenu sur Canada.ca
 * mieux comprendre le rôle d’une équipe qui élabore des directives auxquelles nous devons nous conformer
 * contribuer au projet au mieux de mes capacités
 
