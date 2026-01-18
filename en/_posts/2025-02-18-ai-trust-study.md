@@ -45,29 +45,13 @@ What does this tell us? Well, it doesn't tell us that the other 78% of participa
 
 Participants were shown the following two images in a multiple choice format and asked to check which one they trusted most or check the option "Same".
 
-<div class="row">
-<div class="col-md-8 mrgn-tp-lg">
-<figure>
-    <img alt="A mock section of a Canada.ca web page for direct deposits showing a stock image of a woman." class="img-responsive" src="/images/ai-answers/face-mo-en-1.png">
-    <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-        <p><strong>Image 1: Face/stock photo</strong></p>
-        <p>A mock section of a Canada.ca web page for direct deposits showing a stock image of a woman.</p>
-    </figcaption>
-</figure>
-</div>
-</div>
-<div class="row">
-<div class="col-md-8 mrgn-tp-lg">
-<figure>
-    <img alt="A screenshot of a mock Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI." class="img-responsive" src="/images/ai-answers/house-mo-en-1-1.png">
-    <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-        <p><strong>Image 2: Decorative topic page image</strong></p>
-        <p>A screenshot of a mock Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI.</p>
-    </figcaption>
-</figure>
-</div>
-</div>
-</details>
+Image 1: Face from a stock photo
+
+![A Canada.ca feature for direct deposits showing a stock image of a woman](/images/ai-answers/face-mo-en-1.png)
+
+Image 2: Decorative topic page image 
+
+![Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI](/images/ai-answers/house-mo-en-1-1.png)
 
 ### The use of AI citations in GC Comms
 
@@ -84,10 +68,10 @@ Participants were asked to check from a list which of the following options they
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading 'AI-generated OpenAI (2023)'." class="img-responsive" src="/images/ai-answers/house-1-mo-en-1.png">
+    <img alt="AI-generated OpenAI (2023) citation, long description follows." class="img-responsive" src="/images/ai-answers/house-1-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>1: AI-generated OpenAI (2023)</strong></p>
-        <p>A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading "AI-generated OpenAI (2023)".</p>
+        <p>A Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading "AI-generated OpenAI (2023)".</p>
     </figcaption>
 </figure>
 </div>
@@ -96,10 +80,10 @@ Participants were asked to check from a list which of the following options they
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading 'Source: DALL-E [AI] (2023)'." class="img-responsive" src="/images/ai-answers/house-2-mo-en-1.png">
+    <img alt="DALL-E [AI] citation, long description follows." class="img-responsive" src="/images/ai-answers/house-2-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>2: Source: DALL-E [AI] (2023)</strong></p>
-        <p>A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading "Source: DALL-E [AI] (2023)".</p>
+        <p>A Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading "Source: DALL-E [AI] (2023)".</p>
     </figcaption>
 </figure>
 </div>
@@ -108,10 +92,10 @@ Participants were asked to check from a list which of the following options they
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads with a box in the bottom right corner reading 'Created with AI'." class="img-responsive" src="/images/ai-answers/house-3-mo-en-1.png">
+    <img alt="Created with AI citation, long description follows" class="img-responsive" src="/images/ai-answers/house-3-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>3: Created with AI</strong></p>
-        <p>A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads with a box in the bottom right corner reading "Created with AI".</p>
+        <p>A Canada.ca page with an image of 3 people with buildings for heads with a box in the bottom right corner reading "Created with AI".</p>
     </figcaption>
 </figure>
 </div>
@@ -136,7 +120,7 @@ Participants were shown 3 identical pieces of text with 3 different citation sty
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="An example of a piece of text with a long citation format." class="img-responsive" src="/images/ai-answers/AI_Trust_Study_Citation_EN.png">
+    <img alt="Long citation format, long description follows." class="img-responsive" src="/images/ai-answers/AI-trust-study-citation.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Example of long citation style</strong></p>
         <p>An example of a piece of text that reads "The Minister of Public Safety and Emergency Preparedness may decide that a passport is not to be issued when there are reasonable grounds to believe that the decision is necessary to prevent the commission of a terrorism offence or for the national security of Canada or a foreign country or state." with a long citation format that reads "- This summary of the Canadian Passport Order was generated by artificial intelligence. It was reviewed and modified by experts to ensure accuracy. The prompt used was 'Generate a professional, plain language summary of this content', ChatGPT, OpenAI, May 15 2024."</p>
@@ -154,7 +138,7 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="A bar graph showing that 47% of participants selected a custom Canada.ca AI solution, 20% selected a Google AI solution, 10% selected a Bing Copilot solution and 23% selected they trusted all options the same amount." class="img-responsive" src="/images/ai-answers/AI_Solution_bargraph_EN.png">
+    <img alt="A bar graph showing participant selections, long description follows." class="img-responsive" src="/images/ai-answers/AI-solution-bargraph.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Trust in AI solutions</strong></p>
         <p>A bar graph showing that 47% of participants selected a custom Canada.ca AI solution, 20% selected a Google AI solution, 10% selected a Bing Copilot solution and 23% selected they trusted all options the same amount.</p>
@@ -169,10 +153,10 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Screenshot of Bing AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-bing-en-1.png">
+    <img alt="Bing AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-bing-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 1: Bing AI chat function</strong></p>
-        <p>Caption: Screenshot of Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?". It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
+        <p>Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?". It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
     </figcaption>
 </figure>
 </div>
@@ -181,10 +165,10 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Screenshot of Google AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-google-en-1.png">
+    <img alt="Google AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-google-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 2: Google AI chat</strong></p>
-        <p>Caption: Screenshot of the Google AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Google indicates where guidance is from and links to the source. It provides a short summary of processing timelines, then links to more relevant resources, such as how to check the status of your application.</p>
+        <p>Google AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Google indicates where guidance is from and links to the source. It provides a short summary of processing timelines, then links to more relevant resources, such as how to check the status of your application.</p>
     </figcaption>
 </figure>
 </div>
@@ -193,10 +177,10 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Screenshot of the mock up custom Canada.ca AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-canada-en-1.png">
+    <img alt="Canada.ca AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-canada-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-        <p><strong>Image 3: Mock up of Canada.ca custom AI chat function</strong></p>
-        <p>Caption: Screenshot of the mock up custom Canada.ca AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Canada.ca Ai chat asks when the individual applied, and they responded with "I applied on April 3". The custom AI solution provides a Canada.ca link so the individual can check their passport application status online.</p>
+        <p><strong>Image 3: Canada.ca AI chat function</strong></p>
+        <p>Canada.ca AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Canada.ca AI chat asks when the individual applied, and they responded with "I applied on April 3". The custom AI solution provides a Canada.ca link so the individual can check their passport application status online.</p>
     </figcaption>
 </figure>
 </div>
