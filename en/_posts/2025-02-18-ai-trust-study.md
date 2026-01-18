@@ -134,7 +134,7 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <figure>
     <img alt="A bar graph showing participant selections, long description follows" class="img-responsive" src="/images/ai-answers/AI-solution-bargraph.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-    <p><b>Image description: Trust in AI solutions</b></p>
+    <p><b>Trust in AI solutions</b></p>
     <p>A bar graph showing that 47% of participants selected a custom Canada.ca AI solution, 20% selected a Google AI solution, 10% selected a Bing Copilot solution and 23% selected they trusted all options the same amount.</p>
  </figcaption>
 </figure>

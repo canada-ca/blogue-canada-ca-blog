@@ -135,7 +135,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 <figure>
     <img alt="Un diagramme à barres montrant les sélections des participants, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-solution-diagramme-barres.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-    <p><b>Description de l'image&nbsp;: Confiance envers les solutions d'IA</b></p>
+    <p><b>Confiance envers les solutions d'IA</b></p>
     <p>Un diagramme à barres qui démontre que 47&nbsp;% des personnes qui ont participé ont sélectionné l'outil d'IA personnalisé Canada.ca, que 20&nbsp;% ont sélectionné la solution Google IA, que 10&nbsp;% ont sélectionné la solution Bing Copilot, et que 23&nbsp;% ont dit qu'ils et elles éprouvaient le même degré de confiance envers toutes ces solutions.</p>
  </figcaption>
 </figure>
