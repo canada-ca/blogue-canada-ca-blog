@@ -37,7 +37,7 @@ Les questions montraient toujours les images suivies des citations, de sorte que
 
 Une personne a répondu à cette question, «&nbsp;il n'y a aucun moyen de savoir si l'image a été créée par l'IA, alors je croirais que l'image (sans citation) serait plus à jour.&nbsp;»
 
-Qu'est-ce que cela indique? Cela ne nous indique pas que 78&nbsp;% des personnes ne veulent pas que l'IA soit utilisée du tout. En effet, cela nous indique que **les personnes étaient déjà sceptiques** de la présence ou non de l'IA dans les images. 
+Cela nous indique que les autres 78&nbsp;% des participants ne sont pas nécessairement opposés à l'utilisation de l'IA. Cela nous indique que **les personnes étaient déjà sceptiques** de la présence ou non de l'IA dans les images. 
 
 <details>
 <summary>Échantillons du sondage (confiance envers les images IA)</summary>
