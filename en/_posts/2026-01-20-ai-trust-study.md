@@ -41,7 +41,7 @@ The questions always showed the images first with the citations so they could ch
 
 Participants were shown the following two images in a multiple choice format and asked to check which one they trusted most or check the option "Same".
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A mock section of a Canada.ca web page for direct deposits showing a stock image of a woman." class="img-responsive" src="/images/ai-answers/face-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 1: Face/stock photo</strong></p>
@@ -49,7 +49,7 @@ Participants were shown the following two images in a multiple choice format and
     </figcaption>
 </figure>
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A screenshot of a mock Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI." class="img-responsive" src="/images/ai-answers/house-mo-en-1-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 2: Decorative topic page image</strong></p>
@@ -74,7 +74,7 @@ When given choices between different citation options for each image (Al-generat
 
 Participants were asked to check from a list which of the following options they trusted the most, with a fourth option where they could choose that they trusted them all the same amount. Below are the images the participants were shown.
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading 'AI-generated OpenAI (2023)'." class="img-responsive" src="/images/ai-answers/house-1-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>1: AI-generated OpenAI (2023)</strong></p>
@@ -82,7 +82,7 @@ Participants were asked to check from a list which of the following options they
     </figcaption>
 </figure>
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads. There's a citation on the image reading 'Source: DALL-E [AI] (2023)'." class="img-responsive" src="/images/ai-answers/house-2-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>2: Source: DALL-E [AI] (2023)</strong></p>
@@ -90,7 +90,7 @@ Participants were asked to check from a list which of the following options they
     </figcaption>
 </figure>
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A screenshot of a mock Canada.ca page with an image of 3 people with buildings for heads with a box in the bottom right corner reading 'Created with AI'." class="img-responsive" src="/images/ai-answers/house-3-mo-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>3: Created with AI</strong></p>
@@ -111,7 +111,7 @@ Interestingly, the outcome for AI citations with text was very different than fo
 
 Participants were shown 3 identical pieces of text with 3 different citation styles. Below is the example of a long citation style. 
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="An example of a piece of text with a long citation format." class="img-responsive" src="/images/ai-answers/AI_Trust_Study_Citation_EN.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Example of long citation style</strong></p>
@@ -133,7 +133,7 @@ So what does this tell us? It tells us that, unlike with images, people are **le
 
 It was found that a majority (47%) would trust a custom AI chat over ones powered by Google or Bing. Qualitative data collected during the study found that people believed a custom tool would have the most up-to-date information, and would feel easier to interact with.
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="A bar graph showing that 47% of participants selected a custom Canada.ca AI solution, 20% selected a Google AI solution, 10% selected a Bing Copilot solution and 23% selected they trusted all options the same amount." class="img-responsive" src="/images/ai-answers/AI_Solution_bargraph_EN.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Trust in AI solutions</strong></p>
@@ -144,8 +144,7 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
 <details>
 <summary>Survey samples (custom AI solutions)</summary>
 
-Here are the corrected three figures with the updated alt text and captions:
-html<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="Screenshot of Bing AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-bing-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 1: Bing AI chat function</strong></p>
@@ -153,7 +152,7 @@ html<figure>
     </figcaption>
 </figure>
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="Screenshot of Google AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-google-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 2: Google AI chat</strong></p>
@@ -161,7 +160,7 @@ html<figure>
     </figcaption>
 </figure>
 
-<figure>
+<figure class="col-md-8 mrgn-tp-lg">
     <img alt="Screenshot of the mock up custom Canada.ca AI chat results, long description follows." class="img-responsive" src="/images/ai-answers/AI-mo-canada-en-1.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
         <p><strong>Image 3: Mock up of Canada.ca custom AI chat function</strong></p>
