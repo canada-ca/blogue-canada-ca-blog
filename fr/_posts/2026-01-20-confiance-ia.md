@@ -47,14 +47,14 @@ Cela nous indique que les autres 78&nbsp;% des participants ne sont pas nécessa
 <p>Image 1&nbsp;: Visage provenant d'une banque d'images</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
-    <img alt="Une fonction Canada.ca pour les dépôts directs montrant une photo d'une femme provenant d'une banque d'images." class="img-responsive" src="/images/ai-answers/face-mo-fr-1.png">
+    <img alt="Une fonction Canada.ca pour les dépôts directs montrant une photo d'une femme provenant d'une banque d'images." class="img-responsive" src="/images/reponses-ia/face-mo-fr-1.png">
 </div>
 </div>
 
 <p>Image 2&nbsp;: Image d'une page de sujet décorative</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
-    <img alt="Une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/ai-answers/house-mo-fr-1-1.png">
+    <img alt="Une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-mo-fr-1-1.png">
 </div>
 </div>
 </details>
@@ -75,21 +75,21 @@ Les données qualitatives ont révélé que les personnes préféraient l'emploi
 <p>1&nbsp;: Générée par l'IA OpenAI (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
-    <img alt="Citation Générée par l'IA OpenAI (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/ai-answers/house-1-mo-fr-1.png">
+    <img alt="Citation Générée par l'IA OpenAI (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-1-mo-fr-1.png">
 </div>
 </div>
 
 <p>2&nbsp;: Source&nbsp;: DALL-E [IA] (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
-    <img alt="Citation DALL-E [IA] (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/ai-answers/house-2-mo-fr-1.png">
+    <img alt="Citation DALL-E [IA] (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-2-mo-fr-1.png">
 </div>
 </div>
 
 <p>3&nbsp;: Créée avec l'IA</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
-    <img alt="Citation Créée avec l'IA sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/ai-answers/house-3-mo-fr-1.png">
+    <img alt="Citation Créée avec l'IA sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-3-mo-fr-1.png">
   </div>
 </div>
 </details>
@@ -114,7 +114,7 @@ Alors, qu'est-ce que cela indique? Cela indique que les gens sont **moins à l'a
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Format de citation longue, description longue suit" class="img-responsive" src="/images/ai-answers/IA-etude-confiance-citation.png">
+    <img alt="Format de citation longue, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-etude-confiance-citation.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
     <details>
     <summary>Description de l'image&nbsp;: exemple de citation longue</summary>
@@ -133,7 +133,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Un diagramme à barres montrant les sélections des participants, description longue suit" class="img-responsive" src="/images/ai-answers/IA-solution-diagramme-barres.png">
+    <img alt="Un diagramme à barres montrant les sélections des participants, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-solution-diagramme-barres.png">
     <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
     <p><b>Description de l'image&nbsp;: Confiance envers les solutions d'IA</b></p>
     <p>Un diagramme à barres qui démontre que 47&nbsp;% des personnes qui ont participé ont sélectionné l'outil d'IA personnalisé Canada.ca, que 20&nbsp;% ont sélectionné la solution Google IA, que 10&nbsp;% ont sélectionné la solution Bing Copilot, et que 23&nbsp;% ont dit qu'ils et elles éprouvaient le même degré de confiance envers toutes ces solutions.</p>
@@ -148,7 +148,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Résultats du clavardage IA Bing, description longue suit" class="img-responsive" src="/images/ai-answers/IA-mo-bing-fr-1.png">
+    <img alt="Résultats du clavardage IA Bing, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-bing-fr-1.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
         <details>
     <summary>Description de l'image&nbsp;: Fonction de clavardage IA de Bing</summary>
@@ -162,7 +162,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Résultats du clavardage IA Google, description longue suit" class="img-responsive" src="/images/ai-answers/IA-mo-google-fr-1.png">
+    <img alt="Résultats du clavardage IA Google, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-google-fr-1.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
       <details>
     <summary>Description de l'image&nbsp;: Robot conversationnel IA Google</summary>
@@ -176,7 +176,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
-    <img alt="Résultats du clavardage IA Canada.ca, description longue suit" class="img-responsive" src="/images/ai-answers/IA-mo-canada-fr.png">
+    <img alt="Résultats du clavardage IA Canada.ca, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-canada-fr.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
             <details>
     <summary>Description de l'image&nbsp;: Fonction de clavardage IA Canada.ca</summary>
