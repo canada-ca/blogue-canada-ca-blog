@@ -37,7 +37,7 @@ Les questions montraient toujours les images suivies des citations, de sorte que
 
 Une personne a répondu à cette question, «&nbsp;il n'y a aucun moyen de savoir si l'image a été créée par l'IA, alors je croirais que l'image (sans citation) serait plus à jour.&nbsp;»
 
-Cela nous indique que les autres 78&nbsp;% des participants ne sont pas nécessairement opposés à l'utilisation de l'IA. Cela nous indique que **les personnes étaient déjà sceptiques** de la présence ou non de l'IA dans les images. 
+Qu'est-ce que cela indique? Les autres 78&nbsp;% des participants ne sont pas nécessairement opposés à l'utilisation de l'IA. Cela nous indique que **les personnes ne font pas confiance** quant à la présence ou non de l'IA dans les images.
 
 <details>
 <summary>Échantillons du sondage (confiance envers les images IA)</summary>
@@ -104,7 +104,7 @@ Cependant, alors que les données quantitatives ont fait preuve de confiance env
 
 De l'autre côté, un ou une autre a noté «&nbsp;Il n'est pas nécessaire de divulguer l'usage de l'IA dans la génération d'images. En quoi cela importe-t-il?… Si vous générez un texte avec l'IA, vous devriez absolument le divulguer. Il serait également préférable que le texte soit révisé par un humain. Des textes de l'IA non révisés pourraient engendrer des conséquences désastreuses.&nbsp;» Plusieurs ont apprécié l'usage du terme «&nbsp;expert&nbsp;» et l'accent sur le fait que le texte généré par l'IA avait été révisé par un expert humain. 
 
-Alors, qu'est-ce que cela indique? Cela indique que les gens sont **moins à l'aise avec des textes générés par l'IA**, ce qui va à l'encontre de ce que nous avons observés avec les images générées par l'IA. Ils et elles veulent connaître la source et l'outil utilisé pour générer le texte. Ils et elles veulent également qu'on leur dise que le texte a été révisé par un expert humain. 
+Alors, qu'est-ce que cela indique? Cela indique que les gens sont **moins à l'aise avec des textes générés par l'IA**, ce qui va à l'encontre de ce que nous avons observé avec les images générées par l'IA. Ils et elles veulent connaître la source et l'outil utilisé pour générer le texte. Ils et elles veulent également qu'on leur dise que le texte a été révisé par un expert humain. 
 
 <details>
 <summary>Échantillons de sondage (passages identiques assortis de citations de styles différents)</summary>
