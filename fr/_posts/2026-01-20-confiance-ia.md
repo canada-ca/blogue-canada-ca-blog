@@ -5,6 +5,18 @@ dateModified: 2026-01-20
 description: "En 2024, le BTN a mené une étude sur la confiance envers l’Intelligence Artificielle (IA) pour évaluer la confiance du public envers différentes approches de conception d’IA pour Canada.ca."
 title: "Résultats de l’étude sur la confiance envers l’IA sur Canada.ca"
 ---
+Le Bureau de la transformation numérique (BTN) du Service numérique canadien (SNC) constitue l'équipe de conception de Canada.ca. Cette petite équipe est composée de chercheur·euses, de designers, de développeur·euse·s et de spécialistes en communication qui possèdent une expertise en conception de contenu et d'interactions, en recherche d'utilisateur et en rédaction claire. 
+
+En 2024, le BTN a mené une étude sur la confiance envers l'Intelligence Artificielle (IA) pour évaluer la confiance du public envers différentes approches de conception d'IA pour Canada.ca. Des études comme celles-ci aident à concevoir l'orientation qui sera diffusée au sein du gouvernement pour aider les fonctionnaires à incorporer l'IA générative à leur travail à des fins d'amélioration de l'information et des services fournis par le Gouvernement du Canada (GC) sur Canada.ca. 
+
+## Les communications gouvernementales ont besoin d'orientation robuste en matière d'IA
+
+Comme l'IA continue d'être un moyen employé par plusieurs entreprises privées pour accomplir des tâches et communiquer et interagir avec le public et leurs clients, le BTN a estimé qu'il était important de mener une étude sur la confiance envers l'IA pour Canada.ca. En tant que représentant de l'image de marque de Canada.ca sur les sites Web du GC destinés au public, il nous incombe de maintenir la confiance que le public accorde à ce site. 
+
+Cette étude, issue d'une collaboration entre l'équipe de politiques de l'IA du Secrétariat du Conseil du Trésor du Canada (SCT) et le Bureau du Conseil privé (BCP), avait pour but de produire des résultats qui pouvaient orienter l'usage de l'IA sur Canada.ca. L'équipe a mené cette étude pour fournir de l'orientation robuste en matière de la mise en application de l'IA sur Canada.ca par les communications et les équipes Web de l'ensemble du gouvernement. Grâce à cette étude, le BTN espère **soutenir les fonctionnaires du GC dans leur prise de décision concernant l'IA** et sa place dans leur travail.
+
+L'utilisation et l'innovation soutenues de l'IA dans les entreprises incitent le gouvernement du Canada à continuer son exploration du potentiel de l'IA, à accroître la productivité de la fonction publique et à améliorer ses services. Les études comme celle-ci sont impératives pour orienter les décisions d'adoption futures.
+
 ## Comment nous avons mené l'étude sur Canada.ca
 
 Vous vous souviendrez sûrement de [l'étude sur la confiance menée sur Canada.ca](https://conception.canada.ca/resumes-recherche/confiance.html) en 2022. Nous avons employé une méthode de recherche semblable pour cette étude. 
