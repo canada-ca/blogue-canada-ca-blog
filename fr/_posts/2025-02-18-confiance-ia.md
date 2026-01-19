@@ -44,14 +44,14 @@ Qu'est-ce que cela indique? Les autres 78&nbsp;% des participants ne sont pas n�
 
 <p>Nous avons montré les deux images suivantes en format choix multiples et avons demandé aux participants et participantes de choisir l'image à laquelle ils et elles faisaient plus confiance, ou, s'ils et elles éprouvaient le même sentiment de confiance envers les deux images, alors de choisir l'option «&nbsp;égal&nbsp;».</p>
 
-<p>1&nbsp;: Visage provenant d'une banque d'images</p>
+<p>Image 1&nbsp;: Visage provenant d'une banque d'images</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Une fonction Canada.ca pour les dépôts directs montrant une photo d'une femme provenant d'une banque d'images." class="img-responsive" src="/images/reponses-ia/face-mo-fr-1.png">
 </div>
 </div>
 
-<p>2&nbsp;: Image d'une page de sujet décorative</p>
+<p>Image 2&nbsp;: Image d'une page de sujet décorative</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-mo-fr-1-1.png">
@@ -72,21 +72,21 @@ Les données qualitatives ont révélé que les personnes préféraient l'emploi
 
 <p>Les participants devaient sélectionner l'option à laquelle ils faisaient le plus confiance à partir d'éléments suivants, et pouvaient également choisir une quatrième option qui indique une confiance égale. Voici les images montrées aux participants et participantes.</p>
 
-<p>1&nbsp;: Générée par l'IA OpenAI (2023)</p>
+<p>Image 1&nbsp;: Générée par l'IA OpenAI (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Citation Générée par l'IA OpenAI (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-1-mo-fr-1.png">
 </div>
 </div>
 
-<p>2&nbsp;: Source&nbsp;: DALL-E [IA] (2023)</p>
+<p>Image 2&nbsp;: Source&nbsp;: DALL-E [IA] (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Citation DALL-E [IA] (2023) sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-2-mo-fr-1.png">
 </div>
 </div>
 
-<p>3&nbsp;: Créée avec l'IA</p>
+<p>Image 3&nbsp;: Créée avec l'IA</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Citation Créée avec l'IA sur une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-3-mo-fr-1.png">

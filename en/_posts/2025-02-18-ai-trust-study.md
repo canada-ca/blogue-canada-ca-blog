@@ -45,14 +45,14 @@ This tells us that the other 78% of participants aren't necessarily opposed to A
 
 <p>Participants were shown the following two images in a multiple choice format and asked to check which one they trusted most or check the option "Same".</p>
 
-<p>1: Face from a stock photo</p>
+<p>Image 1: Face from a stock photo</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="A Canada.ca feature for direct deposits showing a stock image of a woman." class="img-responsive" src="/images/ai-answers/face-mo-en-1.png">
 </div>
 </div>
 
-<p>2: Decorative topic page image</p>
+<p>Image 2: Decorative topic page image</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="A Canada.ca page with an image of 3 people with buildings for heads." class="img-responsive" src="/images/ai-answers/house-mo-en-1-1.png">
@@ -73,21 +73,21 @@ The qualitative data showed that people appreciated the use of the word "Source"
 
 <p>Participants were asked to check from a list which of the following options they trusted the most, with a fourth option where they could choose that they trusted them all the same amount. Below are the images the participants were shown.</p>
 
-<p>1: AI-generated OpenAI (2023)</p>
+<p>Image 1: AI-generated OpenAI (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="AI-generated OpenAI (2023) citation on a Canada.ca page with an image of 3 people with buildings for heads." class="img-responsive" src="/images/ai-answers/house-1-mo-en-1.png">
 </div>
 </div>
 
-<p>2: Source: DALL-E [AI] (2023)</p>
+<p>Image 2: Source: DALL-E [AI] (2023)</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="DALL-E [AI] (2023) citation on a Canada.ca page with an image of 3 people with buildings for heads." class="img-responsive" src="/images/ai-answers/house-2-mo-en-1.png">
 </div>
 </div>
 
-<p>3: Created with AI</p>
+<p>Image 3: Created with AI</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Created with AI citation on a Canada.ca page with an image of 3 people with buildings for heads." class="img-responsive" src="/images/ai-answers/house-3-mo-en-1.png">
