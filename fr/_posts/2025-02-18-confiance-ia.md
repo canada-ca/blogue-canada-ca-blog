@@ -44,14 +44,14 @@ Qu'est-ce que cela indique? Les autres 78&nbsp;% des participants ne sont pas n�
 
 <p>Nous avons montré les deux images suivantes en format choix multiples et avons demandé aux participants et participantes de choisir l'image à laquelle ils et elles faisaient plus confiance, ou, s'ils et elles éprouvaient le même sentiment de confiance envers les deux images, alors de choisir l'option «&nbsp;égal&nbsp;».</p>
 
-<p>Image 1&nbsp;: Visage provenant d'une banque d'images</p>
+<p>1&nbsp;: Visage provenant d'une banque d'images</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Une fonction Canada.ca pour les dépôts directs montrant une photo d'une femme provenant d'une banque d'images." class="img-responsive" src="/images/reponses-ia/face-mo-fr-1.png">
 </div>
 </div>
 
-<p>Image 2&nbsp;: Image d'une page de sujet décorative</p>
+<p>2&nbsp;: Image d'une page de sujet décorative</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="Une page Canada.ca avec une image de 3 personnes avec des immeubles en guise de têtes." class="img-responsive" src="/images/reponses-ia/house-mo-fr-1-1.png">

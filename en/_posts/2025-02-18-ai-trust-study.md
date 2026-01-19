@@ -45,14 +45,14 @@ This tells us that the other 78% of participants aren't necessarily opposed to A
 
 <p>Participants were shown the following two images in a multiple choice format and asked to check which one they trusted most or check the option "Same".</p>
 
-<p>Image 1: Face from a stock photo</p>
+<p>1: Face from a stock photo</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="A Canada.ca feature for direct deposits showing a stock image of a woman." class="img-responsive" src="/images/ai-answers/face-mo-en-1.png">
 </div>
 </div>
 
-<p>Image 2: Decorative topic page image</p>
+<p>2: Decorative topic page image</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
     <img alt="A Canada.ca page with an image of 3 people with buildings for heads." class="img-responsive" src="/images/ai-answers/house-mo-en-1-1.png">
