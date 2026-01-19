@@ -12,9 +12,9 @@ In 2024, DTO undertook an Artificial Intelligence (AI) trust study to gauge the 
 
 ## GC Comms needs robust AI guidance
 
-As AI continues to be an avenue that many private companies use to complete tasks and communicate/interact with the public and their clients, DTO believed it was important to conduct an AI Trust study as it related to Canada.ca. As stewards of the Canada.ca brand on the GC's public-facing websites, it's part of our job to maintain trust in that brand.
+As AI continues to be an avenue that many private companies use to complete tasks and communicate/interact with the public and their clients, the DTO believed it was important to conduct an AI Trust study as it related to Canada.ca. As stewards of the Canada.ca brand on the GC's public-facing websites, it's part of our job to maintain trust in that brand.
 
-In collaboration with the Treasury Board of Canada Secretariat (TBS)'s AI policy team and the Privy Council Office (PCO), the aim of this trust study was to use the findings to provide guidance on the use of AI on Canada.ca. By conducting this study, the team hoped to provide more robust guidance on how and when communications and web teams across the GC could or should use AI on Canada.ca. By doing this work, DTO hopes to **assist GC public servants in their decision making around AI** and its place in their work.
+In collaboration with the Treasury Board of Canada Secretariat (TBS)'s AI policy team and the Privy Council Office (PCO), the aim of this trust study was to use the findings to provide guidance on the use of AI on Canada.ca. By conducting this study, the team hoped to provide more robust guidance on how and when communications and web teams across the GC could or should use AI on Canada.ca. By doing this work, the DTO hopes to **assist GC public servants in their decision making around AI** and its place in their work.
 
 The GC continues to explore the potential of AI to boost public service productivity and provide better service. Studies like these are crucial to inform future adoption decisions.
 
@@ -66,7 +66,7 @@ This tells us that the other 78% of participants aren't necessarily opposed to A
 
 When given choices between different citation options for each image (Al-generated OpenAl (2023), Source: DALL-E [Al] (2023), Created with AI, or Same), there was very little preference, with the majority of participants (59% for image 1 and 60% for image 2) selecting that they trusted all options the same amount. 
 
-The qualitative data showed that people appreciated the use of the word "Source", with one respondent saying "it's good to have a source, especially on a government site."  However, many people also mentioned that simple might be better, with some getting confused by the names of tools and/or firms as they were unsure of what they were. Given how little preference the public had regarding citations, DTO decided that the recommendation would be to use "Source: Created with AI", and remove mentions of dates, tools, or firms to simplify things for the intended audience. 
+The qualitative data showed that people appreciated the use of the word "Source", with one respondent saying "it's good to have a source, especially on a government site."  However, many people also mentioned that simple might be better, with some getting confused by the names of tools and/or firms as they were unsure of what they were. Given how little preference the public had regarding citations, the DTO decided that the recommendation would be to use "Source: Created with AI", and remove mentions of dates, tools, or firms to simplify things for the intended audience. 
 
 <details>
 <summary>Survey samples (image citations)</summary>
