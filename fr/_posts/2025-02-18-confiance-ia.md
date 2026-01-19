@@ -151,7 +151,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
     <img alt="Résultats du clavardage IA Bing, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-bing-fr-1.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
         <details>
-    <summary>Description de l'image&nbsp;: Fonction de clavardage IA de Bing</summary>
+    <summary>Description de l'image&nbsp;: fonction de clavardage IA de Bing</summary>
         <p>Capture d'écran d'un résultat de clavardage IA Bing par suite de la requête «&nbsp;J'ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». Il s'agit d'une liste des directives générales pour les délais de demandes de passeport en fonction des modalités de la demande (en ligne ou en personne). Le lien source n'est pas affiché en haut, et selon certaines études, il y aurait moins de confiance envers l'exactitude du contenu IA Bing qu'envers le contenu du robot conversationnel IA de Google.</p>
         </details>
     </figcaption>
@@ -165,7 +165,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
     <img alt="Résultats du clavardage IA Google, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-google-fr-1.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
       <details>
-    <summary>Description de l'image&nbsp;: Robot conversationnel IA Google</summary>
+    <summary>Description de l'image&nbsp;: robot conversationnel IA Google</summary>
         <p>Capture d'écran d'un résultat de clavardage IA Google par suite de la requête «&nbsp;J'ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». Google indique d'où provient l'information et fournit le lien vers la source. Le robot conversationnel fournit un court résumé des délais de traitement et des liens menant vers des ressources pertinentes telles que celles qui indiquent comment vérifier l'état de sa demande.</p>
         </details>
     </figcaption>
@@ -179,7 +179,7 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
     <img alt="Résultats du clavardage IA Canada.ca, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-canada-fr.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
             <details>
-    <summary>Description de l'image&nbsp;: Fonction de clavardage IA Canada.ca</summary>
+    <summary>Description de l'image&nbsp;: fonction de clavardage IA Canada.ca</summary>
         <p>Capture d'écran d'un résultat de clavardage IA personnalisé Canada.ca par suite de la requête «&nbsp;J'ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». L'IA Canada.ca demande quand l'individu a fait sa demande et celui-ci répond «&nbsp;J'ai fait ma demande le 3 avril&nbsp;». La solution IA personnalisée fournit un lien vers Canada.ca afin que l'individu puisse vérifier l'état de sa demande de passeport en ligne.</p>
         </details>
     </figcaption>
