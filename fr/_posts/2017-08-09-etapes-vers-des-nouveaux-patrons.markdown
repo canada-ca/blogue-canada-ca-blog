@@ -9,7 +9,7 @@ Un des aspects clés de la conception du site Canada.ca est un modèle de page u
 
 ## Les pages de sujets comblent les lacunes entre les ministères
 
-Le site Canada.ca existe pour fournir de meilleurs services en ligne aux Canadiens pour leurs tâches principales, et les pages de sujets y jouent un rôle essentiel. Beaucoup de personnes ne connaissent pas le ministère qui offre un service particulier ou ne s’y intéressent pas. Les pages de sujets regroupent toutes les tâches de services dans une seule page, dans l’ensemble des ministères fédéraux. Elles jouent le rôle de «&nbsp;page d’accueil&nbsp;» pour cet ensemble de services, en offrant des liens pour aider les citoyens à trouver leurs tâches.
+Le site Canada.ca existe pour fournir de meilleurs services en ligne aux Canadiens pour leurs tâches principales, et les pages de sujets y jouent un rôle essentiel. Beaucoup de personnes ne connaissent pas le ministère qui offre un service particulier ou ne s’y intéressent pas. Les pages de sujets regroupent toutes les tâches de services dans une seule page, dans l’ensemble des ministères fédéraux. Elles jouent le rôle de &laquo;&nbsp;page d’accueil&nbsp;&raquo; pour cet ensemble de services, en offrant des liens pour aider les citoyens à trouver leurs tâches.
 
 Les pages de sujets ont une mise en page uniforme fondée sur un modèle de page décrit dans le [manuel de conception de Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/specifications-contenu-architecture-information-canada.html). Au fil du temps, certaines parties du modèle des pages de sujets ont été améliorées puisque les essais d’utilisabilité fondés sur les tâches auprès des Canadiens ont souligné des problèmes. Toutefois, dans l’ensemble, un seul modèle est disponible, avec des liens vers les tâches priorisées par demande ou volume de trafic Web.
 
@@ -34,11 +34,11 @@ De toute évidence, le lancement d’une entreprise est assez complexe. Pour tro
 ## Indiquer la séquence en toute simplicité
 
 La solution consistait d’effectuer des réductions et à décrire uniquement les tâches essentielles dans un processus étape par étape. Nous expliquons comment nous avons compris cela, dans un article distinct&nbsp;:
-[Aider les Canadiens a démarrer leurs entreprises](https://canada-ca.github.io/category/2017/08/15/Demarrer_une_entreprise.html).
+[Aider les Canadiens a démarrer leurs entreprises](https://blogue.canada.ca/2018/02/20/demarrer_une_entreprise).
 
 Une fois que nous avons trouvé un équilibre avec un ensemble d’étapes qui serait assez simple à suivre et assez vaste pour couvrir les choses essentielles que les nouvelles entreprises doivent juridiquement effectuer, nous étions prêts à aborder la conception. Nous avons élaboré un prototype fonctionnel du site avec la nouvelle conception du patron et l’avons amélioré au moyen de plusieurs itérations, en demandant à des personnes de l’explorer et en discutant avec nos équipes et nos experts.
 
-D’abord, nous avons ajouté des numéros et avons modifié l’en-tête pour indiquer «&nbsp;Étapes&nbsp;». Cela nous a aidés, mais nous avons remarqué que les nouveaux participants étaient toujours désorientés; alors nous avons retiré les liens «&nbsp;Ce que nous faisons&nbsp;» de la page, et nous avons mis les étapes dans une seule colonne verticale. Nous avons trouvé qu’une liste d’une seule colonne était plus facile à parcourir rapidement et indiquait mieux la séquence.
+D’abord, nous avons ajouté des numéros et avons modifié l’en-tête pour indiquer &laquo;&nbsp;Étapes&nbsp;&raquo;. Cela nous a aidés, mais nous avons remarqué que les nouveaux participants étaient toujours désorientés; alors nous avons retiré les liens &laquo;&nbsp;Ce que nous faisons&nbsp;&raquo; de la page, et nous avons mis les étapes dans une seule colonne verticale. Nous avons trouvé qu’une liste d’une seule colonne était plus facile à parcourir rapidement et indiquait mieux la séquence.
 
 La page Lancer une entreprise en ligne correspond beaucoup à notre prototype fonctionnel définitif - [Version en direct de la page de sujet Lancer une entreprise dans le site Canada.ca](https://www.canada.ca/fr/services/entreprises/lancer.html)
 

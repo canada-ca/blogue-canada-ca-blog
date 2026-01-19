@@ -50,13 +50,13 @@ Toutefois, dans le monde numérique, une marque solide ne se limite pas aux logo
 
 Pourquoi tenter de régler un problème que quelqu’un d’autre a déjà réglé?
 
-Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles «&nbsp;universels&nbsp;».
+Le système de conception comprendra une vaste bibliothèque d’options de conception et de mise en page. Il offrira des conseils sur les pratiques exemplaires, au lieu de mettre l’accent sur des modèles et des règles &laquo;&nbsp;universels&nbsp;&raquo;.
 
 En travaillant avec des éléments qui ont déjà prouvé leur efficacité, cela vous aidera à prendre des décisions de conception plus rapidement. Bien que la nécessité de tester le fruit de votre travail auprès de vos utilisateurs ne soit pas éliminée, vous partez d’une base solide. Vous pouvez commencer à améliorer l’expérience utilisateur plus tôt. Nul besoin de vous attarder aux questions fondamentales de style visuel ou de conformité en matière d’accessibilité. Vous pouvez consacrer votre précieux temps à créer du contenu de grande qualité qui aide les gens à accomplir leurs tâches.
 
 ### Permettre l’amélioration continue grâce à l’expérimentation
 
-Bien que les leçons apprises et les modèles mis à l’essai soient un excellent point de départ, ils ne doivent en aucun cas être considérés comme parfaits et «&nbsp;définitifs&nbsp;». Ils doivent évoluer en fonction des nouvelles données probantes.
+Bien que les leçons apprises et les modèles mis à l’essai soient un excellent point de départ, ils ne doivent en aucun cas être considérés comme parfaits et &laquo;&nbsp;définitifs&nbsp;&raquo;. Ils doivent évoluer en fonction des nouvelles données probantes.
 
 Le système de conception sera communautaire – il s’appuiera sur la créativité collective et les idées novatrices de collègues de tous les ministères. Vous avez une idée sur une meilleure façon d’afficher des renseignements dans un tableau ou de créer un assistant interactif? Notre environnement alpha permettra le prototypage et les tests, ainsi que la rétroaction et la collaboration communautaires. Les modèles qui se révèlent efficaces pour résoudre les problèmes de conception seront ajoutés à la bibliothèque du système de conception pour que d’autres puissent les utiliser.
 
@@ -87,7 +87,7 @@ Nous publierons d’autres mises à jour sur le système de conception du gouver
 
 * [Bibliothèque de configurations](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception/bibliotheque-modeles.html)
 * [Gov.uk design system](https://design-system.service.gov.uk/)&nbsp;(en anglais seulement)
-* [Australia design system](https://designsystem.gov.au/)&nbsp;(en anglais seulement)
+* [Australia design system](https://designsystemau.org/)&nbsp;(en anglais seulement)
 * [Shopify design system (Polaris)](https://polaris.shopify.com/)&nbsp;(en anglais seulement)
 * [Everything you need to know about design systems](https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969)&nbsp;(en anglais seulement)
 * [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/?utm_campaign=blog&utm_content=1554730300&utm_medium=social&utm_source=twitter)&nbsp;(en anglais seulement)

@@ -15,7 +15,7 @@ Les invitations à participer au sondage sur la réussite des tâches du GC ont 
 - évaluer son expérience quant à la facilité d’utilisation et la satisfaction;
 - formuler un commentaire dans ses propres mots.
 
-[Sondage sur la réussite des tâches du GC](https://conception.canada.ca/amelioration-continue/mesure/SRTGC.html)
+[Sondage sur la réussite des tâches du GC](https://conception.canada.ca/sondage/index.html)
 
 ## Utiliser la rétroaction pour découvrir des problèmes
 

@@ -51,8 +51,6 @@ Look at doing a plain language edit. Find out what words people are using when t
 
 [Labelling study: which words work best]( {{ "/2020/10/02/labelling-study" | prepend: site.urlalt[ page.language ] }} )
 
-[Web readability score - Experimental](https://readability-lisibilite.tbs.alpha.canada.ca/)
-
 ### 3. The answer is there, but something just isn’t working
 
 The web is an ecosystem. It’s not just about the words, or the structure, or any single element on a page. It’s about how everything works together.
@@ -95,4 +93,3 @@ Share this post with your colleagues who might be interested.
 * [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Collect feedback, find issues]( {{ "/2020/10/09/collect-feedback" | prepend: site.urlalt[ page.language ] }} )
 * [Designing for accessibility]( {{ "/2020/06/05/designing-for-accessibility" | prepend: site.urlalt[ page.language ] }} )
-

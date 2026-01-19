@@ -43,7 +43,7 @@ Le Secrétariat du Conseil du Trésor travaille avec des partenaires de projet d
 
 Ces équipes savent que les prototypes ont du succès parce qu’ils ont été testés auprès des utilisateurs. Avant de commencer, elles ont demandé aux Canadiens d’utiliser les services, et 40&nbsp;% des utilisateurs ont réussi à trouver les réponses dont ils avaient besoin. Une fois le contenu amélioré, le taux de réussite a grimpé à 77&nbsp;%. Pensez-y&nbsp;: les pages de Canada.ca reçoivent des millions de visites chaque année.  De telles améliorations feront une grande différence.
 
-Consultez l’[aperçu des projets]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} ) pour en savoir davantage sur ces services améliorés.
+Consultez l’[aperçu des projets]( https://design.canada.ca/partners/ ) pour en savoir davantage sur ces services améliorés.
 
 Lorsqu’il s’agit de rédiger du contenu pour le gouvernement numérique, de petits changements de contenu bien documentés peuvent faire une grande différence pour les Canadiens. Le contenu numérique nous oblige à nous concentrer sur la compréhension des principes de base, à savoir&nbsp;:
 
@@ -55,7 +55,7 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 
 ## Pour en savoir plus sur le Bureau de l’expérience Canada.ca
 
-- [Améliorer le contenu sur Canada.ca]( {{ "/pages/apercu-projet.html" | prepend: site.urlalt[ page.language ] }} )
+- [Améliorer le contenu sur Canada.ca]( https://design.canada.ca/partners/ )
 
 ## À propos de l'auteur
 
