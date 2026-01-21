@@ -172,14 +172,14 @@ Selon l'étude, la majorité (47&nbsp;%) des gens feraient davantage confiance �
 </figure>
 </div>
 </div>
-<p>Image 3&nbsp;: Fonction de clavardage IA Canada.ca</p>
+<p>Image 3&nbsp;: Maquette d’un résultat de clavardage IA personnalisé pour Canada.ca</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
     <img alt="Résultats du clavardage IA Canada.ca, description longue suit" class="img-responsive" src="/images/reponses-ia/IA-mo-canada-fr.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
             <details>
-    <summary>Description de l'image&nbsp;: fonction de clavardage IA Canada.ca</summary>
+    <summary>Description de l'image&nbsp;: Maquette d’un résultat de clavardage IA personnalisé pour Canada.ca</summary>
         <p>Capture d'écran d'un résultat de clavardage IA personnalisé Canada.ca par suite de la requête «&nbsp;J'ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». L'IA Canada.ca demande quand l'individu a fait sa demande et celui-ci répond «&nbsp;J'ai fait ma demande le 3 avril&nbsp;». La solution IA personnalisée fournit un lien vers Canada.ca afin que l'individu puisse vérifier l'état de sa demande de passeport en ligne.</p>
         </details>
     </figcaption>

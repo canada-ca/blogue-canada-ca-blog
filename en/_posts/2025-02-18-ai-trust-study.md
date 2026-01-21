@@ -151,7 +151,7 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
         <details>
     <summary>Image description: Bing AI chat function</summary>
-        <p>Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?". It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
+        <p>Screenshot of Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?". It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
         </details>
     </figcaption>
 </figure>
@@ -165,21 +165,21 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
       <details>
     <summary>Image description: Google AI chat</summary>
-        <p>Google AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Google indicates where guidance is from and links to the source. It provides a short summary of processing timelines, then links to more relevant resources, such as how to check the status of your application.</p>
+        <p>Screenshot of the Google AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Google indicates where guidance is from and links to the source. It provides a short summary of processing timelines, then links to more relevant resources, such as how to check the status of your application.</p>
         </details>
     </figcaption>
 </figure>
 </div>
 </div>
-<p>Image 3: Canada.ca AI chat function</p>
+<p>Image 3: Mock up of Canada.ca custom AI chat function</p>
 <div class="row">
 <div class="col-md-8 mrgn-tp-lg">
 <figure>
     <img alt="Canada.ca AI chat results, long description follows" class="img-responsive" src="/images/ai-answers/AI-mo-canada-en-1.png">
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
             <details>
-    <summary>Image description: Canada.ca AI chat function</summary>
-        <p>Canada.ca AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Canada.ca AI chat asks when the individual applied, and they responded with "I applied on April 3". The custom AI solution provides a Canada.ca link so the individual can check their passport application status online.</p>
+    <summary>Image description: Mock up of Canada.ca custom AI chat function</summary>
+        <p>Screenshot of the mock up custom Canada.ca AI chat results when asking "I submitted my passport application ages ago. When will I get it?" Canada.ca AI chat asks when the individual applied, and they responded with "I applied on April 3". The custom AI solution provides a Canada.ca link so the individual can check their passport application status online.</p>
         </details>
     </figcaption>
 </figure>
