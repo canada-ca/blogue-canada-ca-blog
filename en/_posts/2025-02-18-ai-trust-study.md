@@ -151,7 +151,7 @@ It was found that a majority (47%) would trust a custom AI chat over ones powere
     <figcaption class="mrgn-tp-0 mrgn-bttm-lg">
         <details>
     <summary>Image description: Bing AI chat function</summary>
-        <p>Screenshot of Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?". It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
+        <p>Screenshot of Bing AI chat results when asking "I submitted my passport application ages ago. When will I get it?" It lists general guidelines for passport application timelines by if you applied in-person or by mail. The source link isn't displayed at the top, and research shows there's less trust in the accuracy of the content compared to Google AI chat.</p>
         </details>
     </figcaption>
 </figure>
