@@ -1,7 +1,7 @@
 ---
 altLangPage: /2025/02/18/confiance-ia 
 date: 2025-02-18
-dateModified: 2026-01-20
+dateModified: 2026-01-26
 description: "In 2024, DTO undertook an Artificial Intelligence (AI) trust study to gauge the public’s trust of different AI design approaches for Canada.ca."
 title: "Results from the AI Trust study on Canada.ca"
 ---
