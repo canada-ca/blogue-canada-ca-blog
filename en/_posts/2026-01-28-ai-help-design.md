@@ -45,7 +45,7 @@ We will continue to update and evolve our design guidance as we learn more from 
 
 > "Transparency about whether a client is interacting with a person or a chatbot is essential to ensure that the client is not misled and to maintain trust in government."
 > 
-> Guide on the use of generative artificial intelligence
+> <span style="margin-left: 2em;">Guide on the use of generative artificial intelligence
 
 ## Content guidance
 
