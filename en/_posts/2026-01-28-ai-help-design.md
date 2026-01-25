@@ -9,7 +9,7 @@ Over the past year, we’ve worked closely with 18 government departments to bet
 
 ## Why this guidance exists
 
-Evidence from our [Trust studies](2025-12-17-ai-answers.html) suggested that it is important that all AI applications look and behave in a consistent manner across Canada.ca. Consistency helps users understand that they’re using a trustworthy service, that they’re interacting with an AI, not a human, and makes the experience predictable across all government programs and services.
+Evidence from our [Trust studies](2025-02-18-ai-trust-study.html) suggested that it is important that all AI applications look and behave in a consistent manner across Canada.ca. Consistency helps users understand that they’re using a trustworthy service, that they’re interacting with an AI, not a human, and makes the experience predictable across all government programs and services.
 
 In most cases, teams should be able to meet their users’ needs by using [AI&nbsp;Answers](https://ai-answers.alpha.canada.ca/en). This service helps people get answers from information already published on Canada.ca and other Government of Canada websites and is expected to launch in FY 2026-27. However, in some cases, specific topics may still require a separate AI help application. While you can limit a chat application to a certain topic, keep the Canada.ca vision in mind as you experiment and design. The Canada.ca vision is one where users don't need to know which department handles a specific task. Instead, they should be able to find the information they need seamlessly, regardless of departmental boundaries.
 
