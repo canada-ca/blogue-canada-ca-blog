@@ -1,7 +1,7 @@
 ---
-altLangPage: /2026/01/28/conception-aide-ia
-date: 2026-01-28
-dateModified: 2026-12-28
+altLangPage: /2026/01/25/conception-aide-ia
+date: 2026-01-25
+dateModified: 2026-01-25
 description: "Over the past year, we’ve worked closely with 18 government departments to better understand what makes an AI help application reliable, consistent, and useful for people using Canada.ca."
 title: "Designing AI help applications for Canada.ca"
 ---

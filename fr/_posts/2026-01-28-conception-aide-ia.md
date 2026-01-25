@@ -1,7 +1,7 @@
 ---
-altLangPage: /2026/01/28/ai-help-design
-date: 2026-01-28
-dateModified: 2026-12-28
+altLangPage: /2026/01/25/ai-help-design
+date: 2026-01-25
+dateModified: 2026-01-25
 description: "Au cours de la dernière année, nous avons travaillé en étroite collaboration avec 18 ministères afin de mieux comprendre ce qui fait qu'une application d'aide utilisant l'IA est fiable, uniforme et utile pour les utilisateurs de Canada.ca."
 title: "Concevoir des applications d'aide utilisant l'IA sur Canada.ca"
 ---
