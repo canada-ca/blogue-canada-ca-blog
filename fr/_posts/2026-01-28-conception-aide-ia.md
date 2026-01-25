@@ -45,7 +45,7 @@ Nous continuerons de mettre à jour et de faire évoluer nos lignes directrices 
 
 > «&nbsp;La transparence sur la question de savoir si un client interagit avec une personne ou un robot conversationnel est essentielle afin de veiller à ce que le client ne soit pas induit en erreur, et pour maintenir la confiance à l'égard du gouvernement.&nbsp;»
 > 
-> <span style="margin-left: 2em;">Guide sur l'utilisation de l'intelligence artificielle générative
+> <span style="margin-left: 2em;">-Guide sur l'utilisation de l'intelligence artificielle générative
 
 ## Lignes directrices sur le contenu
 
