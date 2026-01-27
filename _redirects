@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what design-system.ca serves
+/amelioration-continue/mesure/SRTGC.html /sondage/index.html 301!
+/amelioration-continue/mesure/retroaction.html /retroaction/index.html 301!
+/continuous-improvement/monitoring/GCTSS.html to /survey/index.html 301!
+/continuous-improvement/monitoring/feedback.html to /feedback/index.html 301!

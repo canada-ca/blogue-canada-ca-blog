@@ -52,8 +52,6 @@ Envisagez d’effectuer une révision en langage simple. Trouvez quels mots les 
 
 [Étude sur les étiquettes&nbsp;: quels mots fonctionnent le mieux]( {{ "/2020/10/02/etude-sur-les-etiquettes" | prepend: site.urlalt[ page.language ] }} )
 
-[Score de lisibilité Web – Expérimental](https://readability-lisibilite.tbs.alpha.canada.ca/?&lang=fr)
-
 ### 3. La réponse est là, mais quelque chose ne fonctionne tout simplement pas
 
 Le Web est un écosystème. Il ne s’agit pas seulement des mots, de la structure ou d’un élément en particulier sur une page. Il faut comprendre comment toutes les parties fonctionnent ensemble.
@@ -96,4 +94,3 @@ Transmettez cette publication à vos collègues qui pourraient être intéressé
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
 * [Recueillir la rétroaction, trouver les problèmes]( {{ "/2020/10/09/recueillir-la-retroaction" | prepend: site.urlalt[ page.language ] }} )
 * [Conception axée sur l’accessibilité]( {{ "/2020/06/05/concevoir-pour-laccessibilite" | prepend: site.urlalt[ page.language ] }} )
-

@@ -43,7 +43,7 @@ The Treasury Board Secretariat is working with project partners at Health Canada
 
 The teams know the prototypes are successful because they have tested them with users. Before any work started they asked Canadians to use the services, and 40% were successful finding the answers they needed. After they improved the content, the success rate jumped to 77%. If you think about the millions of visits these Canada.ca pages get every year, improvements like this will make a big difference.
 
-Check out the [projects overview](https://blog.canada.ca/pages/projectoverview.html) to learn more about these improved services.
+Check out the [projects overview](https://design.canada.ca/partners/) to learn more about these improved services.
 
 This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians. With digital content, it is even more critical to get the basics right:
 
@@ -55,7 +55,7 @@ There are many opportunities for a digital government to deliver better results 
 
 ## Learn more about the Canada.ca Experience Office
 
-- [Improving content on Canada.ca](https://blog.canada.ca/pages/projectoverview.html)
+- [Improving content on Canada.ca](https://design.canada.ca/partners/)
 
 ## About the author
 
