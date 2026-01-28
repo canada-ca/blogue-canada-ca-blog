@@ -23,7 +23,7 @@ The guidance brings together research evidence, policy, and practical design adv
 
 ## Central guidance and AI research
 
-All AI help applications must align with the [Treasury Board’s Guide on the Use of Generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html#toc-4). The guidance reinforces the importance of:
+All AI help applications must align with the [Treasury Board’s Guide on the Use of Generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html). The guidance reinforces the importance of:
 * identifying and managing risks
 * following established best practices
 * monitoring applications over time
