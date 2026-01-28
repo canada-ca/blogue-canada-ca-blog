@@ -23,7 +23,7 @@ Les lignes directrices mettent en commun des données de recherche, des politiqu
 
 ## Lignes directrices centrales et recherche en matière d'IA
 
-Toutes les applications d'aide utilisant l'IA doivent être conformes au [Guide sur l'utilisation de l'IA générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html#toc-4). Les lignes directrices soulignent l'importance&nbsp;:
+Toutes les applications d'aide utilisant l'IA doivent être conformes au [Guide sur l'utilisation de l'IA générative](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html). Les lignes directrices soulignent l'importance&nbsp;:
 * de cerner et de gérer les risques;
 * de suivre les pratiques exemplaires établies;
 * de surveiller les applications au fil du temps;
