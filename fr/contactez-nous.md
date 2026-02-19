@@ -2,6 +2,7 @@
 altLangPage: "/contact-us"
 breadcrumbs: false
 date: 2024-08-12
+dateModified: 2026-02-19
 description: "Contactez le Bureau de l’expérience Canada.ca au sujet du système de conception de Canada.ca."
 nomenu: true
 nositesearch: true
@@ -12,7 +13,7 @@ showFeedback: false
 title: "Contactez le Bureau de l’expérience Canada.ca"
 section-title: ""
 ---
-<p>Le Bureau de l’expérience Canada.ca fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
+<p>Le <a href="https://conception.canada.ca/a-propos/bureau-experience-canadaca.html">Bureau de l’expérience Canada.ca</a> fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
 <p>Notez que nous ne pouvons répondre qu’aux questions portant sur la conception ou les problèmes en lien avec Canada.ca. Pour obtenir les coordonnées d’autres ministères ou programmes, consultez&nbsp;:</p>
 <ul>
   <li><a href="https://www.canada.ca/fr/contact.html">Coordonnées du gouvernement du Canada</a></li>
