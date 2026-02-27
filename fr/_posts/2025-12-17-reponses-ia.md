@@ -19,44 +19,47 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Le concept était simple&nbsp;: permettre aux utilisateurs de poser des questions dans leurs propres mots et de recevoir instantanément des réponses précises dont le contenu provenait de sites Web du gouvernement.</p>
 
 <div class="row">
-<div class="col-md-8 mrgn-tp-lg">
-        <figure><img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/se-connecter.jpg">
-            <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-                <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
-                <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
-            </figcaption>
-        </figure>
-</div>
+  <div class="col-md-8 mrgn-tp-lg">
+    <figure>
+      <img alt="Capture d'écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada »." class="img-responsive" src="/images/reponses-ia/se-connecter.jpg">
+        <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
+          <p><strong>Capture d'écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</strong></p>
+          <p>Une page montrant les options d'ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
+        </figcaption>
+    </figure>
+  </div>
 </div>
 <details>
-    <summary>L'approche technique</summary>
-    <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
-    <p>Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d'extraire à l'avance du contenu Web. Ce système d'IA repose sur les renseignements fournis sur les sites Web du GC (<a href="https://reponses-ia.alpha.canada.ca/fr/about">À propos de Réponses IA</a>).</p>
-    <p>L'équipe de produit de Réponses IA a mis au point un système d'IA agentive (les utilisateurs interagissent avec un agent spécialisé) avec une invite détaillée pour faire en sorte que les réponses soient claires, concises et utiles. Nous avons intégré des systèmes d'évaluation par des experts humains et des systèmes de notation par l'IA, et avons fait en sorte de bloquer les renseignements personnels permettant d'identifier l'utilisateur afin de protéger sa vie privée.</p>
+  <summary>L'approche technique</summary>
+  <p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d'Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT.</p>
+  <p>Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d'extraire à l'avance du contenu Web. Ce système d'IA repose sur les renseignements fournis sur les sites Web du GC.</p>
+  <p>L'équipe de produit de Réponses IA a mis au point un système d'IA agentive (les utilisateurs interagissent avec un agent spécialisé) avec une invite détaillée pour faire en sorte que les réponses soient claires, concises et utiles. Nous avons intégré des systèmes d'évaluation par des experts humains et des systèmes de notation par l'IA, et avons fait en sorte de bloquer les renseignements personnels permettant d'identifier l'utilisateur afin de protéger sa vie privée.</p>
 </details>
+
 <h2>Participation à la mise à l'essai</h2>
 <p>Le taux de participation à la mise à l'essai a dépassé nos attentes&nbsp;: 1 227 sessions d'utilisateurs, 32 ministères et des questions portant sur plus de 120 tâches gouvernementales. Une tâche est la raison pour laquelle les utilisateurs consultent le contenu&nbsp;: il peut s'agir d'obtenir des réponses, comme se renseigner sur un sujet, ou d'effectuer une transaction, comme s'inscrire à un programme.</p>
-
 <ul>
-    <li><a href="https://conception.canada.ca/sondage/rediger-taches.html#quest-ce-quune-t%C3%A2che">Choisir et rédiger des tâches&nbsp;: Qu’est-ce qu’une tâche?</a></li>
+  <li><a href="https://conception.canada.ca/sondage/rediger-taches.html#quest-ce-quune-t%C3%A2che">Choisir et rédiger des tâches&nbsp;: Qu’est-ce qu’une tâche?</a></li>
 </ul>
+
 <p>La répartition des questions témoigne des priorités des utilisateurs&nbsp;:</p>
 <ul>
-    <li><strong>42&nbsp;% (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
-    <li><strong>25&nbsp;% (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
-    <li><strong>22&nbsp;% (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
+  <li><strong>42&nbsp;% (635 questions) concernaient les services d'IRCC&nbsp;:</strong> immigration, permis de travail et visas.</li>
+  <li><strong>25&nbsp;% (377 questions) concernaient les services d'EDSC&nbsp;:</strong> connexion et inscription à Mon dossier Service Canada, assurance-emploi, Régime de pensions du Canada et recherche d'emploi.</li>
+  <li><strong>22&nbsp;% (332 questions) concernaient les services de l'ARC&nbsp;:</strong> accès au compte et questions liées à l'impôt ou aux entreprises.</li>
 </ul>
 <p>Même les services gouvernementaux les moins utilisés ont généré plusieurs questions par sujet, et ce pour de nombreux ministères, ce qui indique que les utilisateurs ont un grand intérêt pour les interactions avec le gouvernement assistées par l'IA.</p>
 <div class="row">
-<div class="col-md-8 mrgn-tp-lg">
-        <figure><img alt="Capture d'écran de la page du service Réponses IA." class="img-responsive" src="/images/reponses-ia/reponses-IA.png">
-            <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-                <p><strong>Capture d'écran de la page du service Réponses IA.</strong></p>
-                <p>La page explique que l'outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
-            </figcaption>
-        </figure>
+  <div class="col-md-8 mrgn-tp-lg">
+    <figure><img alt="Capture d'écran de la page du service Réponses IA." class="img-responsive" src="/images/reponses-ia/reponses-IA.png">
+      <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
+        <p><strong>Capture d'écran de la page du service Réponses IA.</strong></p>
+        <p>La page explique que l'outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
+      </figcaption>
+    </figure>
+  </div>
 </div>
-</div>
+
 <h2>Quatre principales constatations</h2>
 <p><strong>Une exactitude qui répond aux normes organisationnelles&nbsp;:</strong> Nous avons obtenu un taux d'exactitude de 95&nbsp;% pour les questions en anglais et de 94&nbsp;% pour les questions en français. L'exactitude des réponses a été vérifiée au moyen d'une évaluation par des experts de 800 questions d'essai, réalisée en collaboration avec les ministères et les organismes partenaires du GC. Cette cohérence entre les deux langues officielles est rare dans les applications d'IA, car le français présente généralement un taux d'erreur plus élevé de 20&nbsp;%.</p>
 <p><strong>Une véritable valeur ajoutée, selon les utilisateurs&nbsp;:</strong> 88&nbsp;% des commentaires des utilisateurs étaient positifs. Il est important de noter que 22&nbsp;% des répondants ont déclaré qu'ils n'avaient plus besoin d'appeler les bureaux gouvernementaux ou de s'y rendre en personne, tandis que 52&nbsp;% ont indiqué qu'ils avaient passé moins de temps à effectuer des recherches et à lire.</p>
@@ -74,8 +77,8 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Grâce à une <strong>conception flexible et fondée sur un agent conversationnel</strong>, le produit est évolutif et prêt à répondre aux besoins futurs en matière d'IA.</p>
 <p>Plus important encore, il a montré que nous pouvons répondre aux besoins des utilisateurs là où ils se trouvent en leur fournissant une aide immédiate et précise directement sur Canada.ca.</p>
 <ul>
-    <li>Ce service fait gagner du temps et réduit le nombre d'appels téléphoniques et de visites aux bureaux, ce qui permet à ces modes de prestation de se concentrer sur les besoins plus complexes des personnes en matière de services.</li>
-    <li>Pour un gouvernement numérique, il ne s'agit pas seulement d'une mise à niveau technique, mais d'une amélioration considérable des services du gouvernement pour les personnes qui y ont recours tous les jours.</li>
+  <li>Ce service fait gagner du temps et réduit le nombre d'appels téléphoniques et de visites aux bureaux, ce qui permet à ces modes de prestation de se concentrer sur les besoins plus complexes des personnes en matière de services.</li>
+  <li>Pour un gouvernement numérique, il ne s'agit pas seulement d'une mise à niveau technique, mais d'une amélioration considérable des services du gouvernement pour les personnes qui y ont recours tous les jours.</li>
 </ul>
 
 <h2>Prochaines étapes</h2>
@@ -83,12 +86,10 @@ title: "Réponses IA : Mise à l'essai à l'échelle de l'organisation pour Cana
 <p>Nous améliorons la traduction et les requêtes de recherche conçues par l'IA, et élargissons les essais à d'autres pages de Canada.ca. L'objectif est que les utilisateurs reçoivent les renseignements les plus récents et les plus précis possibles, quelle que soit la langue qu'ils utilisent.</p>
 <p>Voici des exemples d'amélioration&nbsp;:</p>
 <ul>
-    <li>Les questions qui ne sont pas rédigées en anglais ou en français sont traduites en anglais avant que la recherche ne soit effectuée (l'IA utilise les résultats de la recherche pour aider à trouver des renseignements à jour).</li>
-    <li>Les questions des utilisateurs sont transformées en requêtes de recherche plus courtes au besoin.</li>
+  <li>Les questions qui ne sont pas rédigées en anglais ou en français sont traduites en anglais avant que la recherche ne soit effectuée (l'IA utilise les résultats de la recherche pour aider à trouver des renseignements à jour).</li>
+  <li>Les questions des utilisateurs sont transformées en requêtes de recherche plus courtes au besoin.</li>
 </ul>
 <p>Nous étudions également la possibilité d'intégrer des outils ministériels personnalisés et évaluons les applications possibles pour les agents des centres d'appel et les équipes des médias sociaux.</p>
 
 <h2>En savoir plus</h2>
 <p>L'équipe de Réponses IA publiera bientôt des billets de blogue sur la conception, la sécurité et les opérations de Réponses IA afin de permettre de mieux comprendre ce service expérimental. Nous espérons que notre travail aidera les équipes de développement de l'IA dans tout le secteur public à déployer des applications sûres et efficaces.</p>
-
-<p><a href="https://reponses-ia.alpha.canada.ca/fr">Visiter le site de la mise à l'essai de Réponses IA</a>.</p>
