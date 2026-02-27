@@ -1,5 +1,5 @@
 ---
-altLangPage: /2025/12/17/reponses-ia 
+altLangPage: /2025/12/17/reponses-ia
 date: 2025-12-17
 dateModified: 2025-12-22
 description: "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services."
@@ -21,28 +21,27 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <p>The concept was straightforward: let users ask questions in their own words and receive accurate, government-sourced answers instantly.</p>
 
 <div class="row">
-<div class="col-md-8 mrgn-tp-lg">
-        <figure><img alt="Screenshot of the Government of Canada online account sign-in page." class="img-responsive" src="/images/ai-answers/sign-in.jpg">
-            <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
-                <p><strong>Screenshot of the Government of Canada online account sign-in.</strong></p>
-                <p>A page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>
-            </figcaption>
-        </figure>
-</div>
+  <div class="col-md-8 mrgn-tp-lg">
+    <figure><img alt="Screenshot of the Government of Canada online account sign-in page." class="img-responsive" src="/images/ai-answers/sign-in.jpg">
+      <figcaption class="well mrgn-tp-0 mrgn-bttm-lg">
+        <p><strong>Screenshot of the Government of Canada online account sign-in.</strong></p>
+        <p>A page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>
+      </figcaption>
+    </figure>
+  </div>
 </div>
 <details>
-    <summary>The technical approach</summary>
-    <p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.</p>
-    <p>Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites (<a href="https://ai-answers.alpha.canada.ca/en/about">learn more about AI Answers</a>).</p>
-    <p>The AI Answers product team built a detailed agentic system (users interact with a specialized agent) prompt to make sure that answers are clear, concise, and helpful. We built in both human expert evaluation and AI scoring systems, with blocking of personal identifying information to protect user privacy.</p>
+  <summary>The technical approach</summary>
+  <p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.</p>
+  <p>Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites.</p>
+  <p>The AI Answers product team built a detailed agentic system (users interact with a specialized agent) prompt to make sure that answers are clear, concise, and helpful. We built in both human expert evaluation and AI scoring systems, with blocking of personal identifying information to protect user privacy.</p>
 </details>
 
 <h2>Trial participation</h2>
-
 <p>Trial participation exceeded our expectations: 1,227 user sessions, spanning 32 departments, with questions covering 120+ government tasks. Tasks are what people come to the content to do: That can mean getting answers, like learning about a subject, or performing a transaction, like applying for a program.</p>
 
 <ul>
-    <li><a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task">Choosing and writing tasks: What is a task</a></li>
+  <li><a href="https://design.canada.ca/survey/writing-tasks.html#what-is-a-task">Choosing and writing tasks: What is a task</a></li>
 </ul>
 
 <p>The question distribution revealed user priorities:</p>
@@ -87,7 +86,7 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <p>This trial demonstrates that enterprise-scale AI assistance can work across the full breadth of GC services, while maintaining accuracy and safety standards.</p>
 
 <p>The product's <strong>flexible, chat agent-based design</strong> makes it scalable and ready for future AI needs.</p>
-   
+
 <p>More importantly, it shows we can meet users where they are by providing immediate, accurate assistance right on Canada.ca.</p>
 <ul>
     <li>This saves time and reduces the need for phone calls and office visits, allowing those service channels to focus on people's more complex service needs.</li>
@@ -107,5 +106,3 @@ title: "AI Answers: Enterprise-scale trial for Canada.ca"
 <h2>Learn more</h2>
 
 <p>In the near future, the AI Answers team will publish blog posts about the design, safety, and operations of AI Answers to give deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.</p>
-
-<p><a href="https://ai-answers.alpha.canada.ca/en">Visit the AI Answers trial site</a>.</p>
