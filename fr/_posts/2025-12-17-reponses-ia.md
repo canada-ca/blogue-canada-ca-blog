@@ -8,7 +8,7 @@ latestChanges:
     definition: "Ajout des résultats des essais 2 et 3 et d’une nouvelle section&nbsp;: Les résultats des essais en un coup d’œil."
   - term: 2025-12-17
     definition: "Publication originale avec les résultats de l’essai 1 (1 763 questions, 94&nbsp;% d’exactitude)."
-title: "Réponses IA&nbsp;: Mise à l'essai à l'échelle de l'organisation pour Canada.ca"
+title: "Réponses IA&nbsp;: Essais à l'échelle de l'organisation pour Canada.ca"
 ---
 
 ## Sur cette page
