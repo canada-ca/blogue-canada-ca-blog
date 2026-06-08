@@ -1,20 +1,22 @@
 {%- assign file = site.static_files | where: "language", page.language | find_exp: "item", "item.path contains include.file" -%}
-<!-- For debug puroses 
-<pre>{% link {{ file.path }} %}</pre> 
+<!-- For debug puroses
+<pre>{% link {{ file.path }} %}</pre>
 -->
-<figure class="gc-complex-img" role="group">
-	<img alt="{{ include.alt }}" src="{{ file.path | remove_first: '/' | remove_first: page.language }}">
-	<figcaption>
-		{%- if include.summary -%}
-			{%- if include.caption != "" -%}
-		<small>{{ include.caption }}</small>
+<div class="col-md-8 mrgn-tp-lg">
+	<figure class="gc-complex-img" role="group">
+		<img alt="{{ include.alt }}" src="{{ file.path | remove_first: '/' | remove_first: page.language }}" class="img-responsive">
+		<figcaption>
+			{%- if include.summary -%}
+				{%- if include.caption != "" -%}
+			<small class="well mrgn-tp-0 mrgn-bttm-lg">{{ include.caption }}</small>
+				{%- endif -%}
+			<details>
+				<summary>{{ include.summary }}</summary>
+				{{ include.content }}
+			</details>
+			{%- elsif include.caption -%}
+			<small class="well mrgn-tp-0 mrgn-bttm-lg">{{ include.caption }}</small>
 			{%- endif -%}
-		<details>
-			<summary>{{ include.summary }}</summary>
-			{{ include.content }}
-		</details>
-		{%- elsif include.caption -%}
-		<small>{{ include.caption }}</small>
-		{%- endif -%}
-	</figcaption>
-</figure>
+		</figcaption>
+	</figure>
+</div>

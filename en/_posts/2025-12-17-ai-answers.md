@@ -82,6 +82,7 @@ Starting in the summer of 2025, the Canada.ca Experience Office tested a new app
 {% include components/gc-complex-img.html
   alt="Screenshot of the Government of Canada online account sign-in."
   file="/images/ai-answers/Sign-In.jpg"
+  caption="<p><b>Screenshot of the Government of Canada online account sign-in.</b></p><p>A page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>"
   summary="AI Answers technical approach"
   content="<p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: Crown-Indigenous Relations and Northern Affairs (<span class='text-uppercase'>cirnac</span>), Canada Revenue Agency (CRA), Employment and Social Development Canada (ESDC), Department of Finance (<span class='text-uppercase'>fin</span>), Health Canada (HC), Immigration and Citizenship Canada (IRCC), Indigenous Services Canada (<span class='text-uppercase'>isc</span>), Public Health Agency of Canada (<span class='text-uppercase'>phac</span>), Public Services and Procurement Canada (PSPC), and Treasury Board of Canada Secretariat (TBS).</p>
     <p>Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites.</p>
@@ -138,7 +139,7 @@ Even less-commonly used government services generated multiple questions per top
 
 For trial 2, we expanded testing beyond the Sign-in page. The invitation was displayed to randomly-selected visitors on 12 Canada.ca pages: Sign in, All services, Contact, Change address, Departments, and GCkey help (in both English and French).
 
-Over 16.5 days, this generated 2,866 questions in 1,983 user sessions, significantly more than Trial 1\. The broader entry points brought a wider range of topics:
+Over 16.5 days, this generated 2,866 questions in 1,983 user sessions, significantly more than Trial 1. The broader entry points brought a wider range of topics:
 
 * **38% (1,111) on IRCC services:** immigration, work permits, and visa questions continued to dominate
 * **18% (468) on ESDC services:** Employment Insurance (EI), Canada Pension Plan (CPP), and Service Canada account questions
@@ -149,7 +150,7 @@ Notably, 112 answers came from CBSA pages—90 of those specifically about the C
 
 ### Trial 2 key findings
 
-**Accuracy held steady at 95%:** Expert evaluation of 994 questions (35% of total, up from 13% in Trial 1\) showed continued strong performance. Answer errors dropped from 6% to 5%. The proportion of "golden" answers (fully correct and useful) increased from 66% to 80.5%.
+**Accuracy held steady at 95%:** Expert evaluation of 994 questions (35% of total, up from 13% in Trial 1) showed continued strong performance. Answer errors dropped from 6% to 5%. The proportion of "golden" answers (fully correct and useful) increased from 66% to 80.5%.
 
 **Positive feedback remained high at 77%:** 21% of the people who responded with a thumbs-up ‘Yes’ to ‘Was this helpful?’ went on to respond that it saved them a call (11%) or a visit (10%).
 

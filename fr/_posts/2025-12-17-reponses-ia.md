@@ -1,10 +1,10 @@
 ---
 altLangPage: /2025/12/17/ai-answers
 date: 2025-12-17
-dateModified: 2026-06-15
+dateModified: 2026-06-16
 description: "Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l'aide relativement aux services essentiels."
 latestChanges:
-  - term: 2026-06-12
+  - term: 2026-06-16
     definition: "Ajout des résultats des essais 2 et 3 et d’une nouvelle section&nbsp;: Les résultats des essais en un coup d’œil."
   - term: 2025-12-17
     definition: "Publication originale avec les résultats de l’essai 1 (1 763 questions, 94&nbsp;% d’exactitude)."
@@ -82,6 +82,7 @@ L’outil [Rétroaction GC](https://conception.canada.ca/configurations-concepti
 {% include components/gc-complex-img.html
   alt="Une page montrant les options d’ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA."
   file="/images/reponses-ia/se-connecter.jpg"
+  caption="<p><b>Capture d’écran de la page &laquo;&nbsp;Se connecter à un dossier ou un compte en ligne du gouvernement du Canada&nbsp;&raquo;.</b></p><p>Une page montrant les options d’ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>"
   summary="Approche technique des réponses générées par l’IA"
   content="<p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d’Azure Canada avec des invites propres aux ministères pour 10 institutions&nbsp;: Relations Couronne-Autochtones et Affaires du Nord Canada (RCAANC), Agence du revenu du Canada (ARC), Emploi et Développement social Canada (EDSC), Ministère des Finances (<span class='text-uppercase'>fin</span>), Santé Canada (SC), Immigration, Réfugiés et Citoyenneté Canada (IRCC), Services aux Autochtones Canada (<span class='text-uppercase'>sac</span>), Agence de la santé publique du Canada (ASPC), Services publics et Approvisionnement Canada (<span class='text-uppercase'>spac</span>) et Secrétariat du Conseil du Trésor du Canada (SCT).</p>
     <p>Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d’extraire à l’avance du contenu Web. Ce système d’IA repose sur les renseignements fournis sur des sites Web du gouvernement du Canada.</p>
@@ -105,7 +106,7 @@ Même les services gouvernementaux les moins utilisés ont généré plusieurs q
 {% include components/gc-complex-img.html
   alt="Capture d’écran de la page du service Réponses IA."
   file="/images/reponses-ia/Reponses-IA.png"
-  summary="Description de l'image&nbsp; Réponses IA"
+  summary="Description de l'image&nbsp;: Réponses IA"
   content="<p>Capture d'écran d'une page &laquo;&nbsp;Réponses IA&nbsp;&raquo; sur Canada.ca, illustrant un échange type entre un utilisateur et le service &laquo;&nbsp;Réponses IA&nbsp;&raquo;.</p>
            <p>L'en-tête de Canada.ca, qui affiche l'identifiant du gouvernement du Canada, se trouve en haut de la page. Le titre de la page est &laquo;&nbsp;Réponses IA&nbsp;&raquo;, suivi du texte &laquo;&nbsp;Obtenez des réponses à vos questions sur Canada.ca.&nbsp;&raquo;. En dessous, une clause de non-responsabilité précise que les réponses fournies par le service d’IA sont données à titre informatif uniquement, qu’il ne s’agit pas de conseils officiels, et que des améliorations sont en cours.</p>
            <p>Un lien repliable intitulé &laquo;&nbsp;Confidentialité et conditions d’utilisation de l’IA&nbsp;&raquo; apparaît en dessous.</p>
