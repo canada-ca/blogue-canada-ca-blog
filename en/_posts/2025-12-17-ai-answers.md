@@ -82,7 +82,7 @@ Starting in the summer of 2025, the Canada.ca Experience Office tested a new app
 {% include components/gc-complex-img.html
   alt="Screenshot of the Government of Canada online account sign-in."
   file="/images/ai-answers/Sign-In.jpg"
-  caption="<p><b>Screenshot of the Government of Canada online account sign-in.</b></p><p>A page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>"
+  caption="<b>Screenshot of the Government of Canada online account sign-in.</b><br>A page showing the login options and a pop up inviting users to try the new AI Answers Service."
   summary="AI Answers technical approach"
   content="<p>Our model-independent architecture uses Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: Crown-Indigenous Relations and Northern Affairs (<span class='text-uppercase'>cirnac</span>), Canada Revenue Agency (CRA), Employment and Social Development Canada (ESDC), Department of Finance (<span class='text-uppercase'>fin</span>), Health Canada (HC), Immigration and Citizenship Canada (IRCC), Indigenous Services Canada (<span class='text-uppercase'>isc</span>), Public Health Agency of Canada (<span class='text-uppercase'>phac</span>), Public Services and Procurement Canada (PSPC), and Treasury Board of Canada Secretariat (TBS).</p>
     <p>Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites.</p>
@@ -106,7 +106,7 @@ Even less-commonly used government services generated multiple questions per top
 {% include components/gc-complex-img.html
   alt="Screenshot of the AI Answers service page."
   file="/images/ai-answers/AI-answers.png"
-  summary="Image description: AI answers"
+  summary="Image description: AI Answers"
   content="<p>A screenshot of an AI Answers page on Canada.ca, showing a typical exchange between a user and the AI Answers service.</p>
           <p>The Canada.ca header, which displays the Government of Canada identifier, is at the top of the page. The page title is “AI Answers” followed by the text “Get answers to your Canada.ca questions.” Beneath this, a disclaimer states that answers provided by the AI service are for information only, not official advice, and that improvements are ongoing.</p>
           <p>A collapsible link labeled “Privacy and AI terms of use” appears below.</p>
@@ -199,7 +199,7 @@ Click-through rates to AI Answers varied by page type: the Contact page had the 
 
 **Citation specificity matters:** The most common "Needs improvement" feedback was that citations pointed to topic pages rather than the specific destination page users needed. Partners want more precise citation links.
 
-**AI as a diagnostic tool:** Partners reported that the evaluation process itself was valuable. It revealed content problems their web communications teams hadn't noticed. Several teams began content improvement work based on issues AI Answers surfaced. As one insight noted: “AI answers generated confusing responses when the source content was unclear, reinforcing the importance of regular website maintenance.”
+**AI as a diagnostic tool:** Partners reported that the evaluation process itself was valuable. It revealed content problems their web communications teams hadn't noticed. Several teams began content improvement work based on issues AI Answers surfaced. As one insight noted: “AI Answers generated confusing responses when the source content was unclear, reinforcing the importance of regular website maintenance.”
 
 ## Why this matters
 

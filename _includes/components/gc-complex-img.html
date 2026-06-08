@@ -1,22 +1,27 @@
 {%- assign file = site.static_files | where: "language", page.language | find_exp: "item", "item.path contains include.file" -%}
-<!-- For debug puroses
+<!-- For debug purposes
 <pre>{% link {{ file.path }} %}</pre>
 -->
-<div class="col-md-8 mrgn-tp-lg">
-	<figure class="gc-complex-img" role="group">
-		<img alt="{{ include.alt }}" src="{{ file.path | remove_first: '/' | remove_first: page.language }}" class="img-responsive">
-		<figcaption>
-			{%- if include.summary -%}
-				{%- if include.caption != "" -%}
-			<small class="well mrgn-tp-0 mrgn-bttm-lg">{{ include.caption }}</small>
-				{%- endif -%}
-			<details>
-				<summary>{{ include.summary }}</summary>
-				{{ include.content }}
-			</details>
-			{%- elsif include.caption -%}
-			<small class="well mrgn-tp-0 mrgn-bttm-lg">{{ include.caption }}</small>
-			{%- endif -%}
-		</figcaption>
-	</figure>
-</div>
+<figure class="gc-complex-img">
+{%- assign has_caption = include.caption and include.caption != blank -%}
+{%- assign has_details = include.summary and include.summary != blank and include.content and include.content != blank -%}
+
+{%- if has_caption -%}
+	<figcaption class="small well mrgn-tp-0 mrgn-bttm-lg">
+	{{ include.caption }}
+	</figcaption>
+{%- endif -%}
+
+<img
+	alt="{{ include.alt | default: '' }}"
+	src="{{ file.path | remove_first: '/' | remove_first: page.language }}"
+	class="img-responsive"
+>
+
+{%- if has_details -%}
+	<details class="mrgn-tp-md">
+	<summary>{{ include.summary }}</summary>
+	{{ include.content }}
+	</details>
+{%- endif -%}
+</figure>
