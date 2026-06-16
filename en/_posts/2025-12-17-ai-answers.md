@@ -1,10 +1,10 @@
 ---
 altLangPage: /2025/12/17/reponses-ia
 date: 2025-12-17
-dateModified: 2026-06-15
+dateModified: 2026-06-16
 description: "Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services."
 latestChanges:
-  - term: 2026-06-12
+  - term: 2026-06-16
     definition: "Added Trial 2 and Trial 3 results, and new section: Trial results at a glance."
   - term: 2025-12-17
     definition: "Original publication with Trial 1 results (1,763 questions, 94% accuracy)."
@@ -149,11 +149,11 @@ Notably, 112 answers came from CBSA pages—90 of those specifically about the C
 
 ### Trial 2 key findings
 
-**Accuracy held steady at 95%:** Expert evaluation of 994 questions (35% of total—up from 13% in Trial 1\) showed continued strong performance. Answer errors dropped from 6% to 5%. The proportion of "golden" answers (fully correct and useful) increased from 66% to 80.5%.
+**Accuracy held steady at 95%:** Expert evaluation of 994 questions (35% of total, up from 13% in Trial 1\) showed continued strong performance. Answer errors dropped from 6% to 5%. The proportion of "golden" answers (fully correct and useful) increased from 66% to 80.5%.
 
 **Positive feedback remained high at 77%:** 21% of the people who responded with a thumbs-up ‘Yes’ to ‘Was this helpful?’ went on to respond that it saved them a call (11%) or a visit (10%).
 
-**Budget 2025 tested real-time capability:** When Budget 2025 was announced on November 4, we added a custom Finance Canada scenario prompt within the hour. The team tested questions and refined URLs immediately after the Budget pages were launched. All public Budget questions asked about the announcement received clear, accurate answers—demonstrating the system can handle breaking government news.
+**Budget 2025 tested real-time capability:** When Budget 2025 was announced on November 4, we added a custom Finance Canada scenario prompt within the hour. The team tested questions and refined URLs immediately after the Budget pages were launched. All public Budget questions asked about the announcement received clear, accurate answers, demonstrating the system can handle breaking government news.
 
 **Enterprise breadth confirmed:** With answers sourced from 60 institutions, the trial confirmed this is genuinely an enterprise solution that works across the full scope of federal services.
 
@@ -176,7 +176,7 @@ The first Beta trial was run in collaboration with four federal department partn
 * **Indigenous Services Canada (ISC):** Indian Status pages
 * **Health Canada (HC):** Flu and measles pages
 
-Along with banner tests on the Canada.ca Contact page, this generated 3,222 questions—our largest trial yet. Partner team members evaluated at least 25% of questions related to their content during and after the trial ended.
+Along with banner tests on the Canada.ca Contact page, this generated 3,222 questions, our largest trial yet. Partner team members evaluated at least 25% of questions related to their content during and after the trial ended.
 
 Click-through rates to AI Answers varied by page type: the Contact page had the highest rate at 2.0%, while EI pages averaged 0.5% and health pages ranged from 0.03% to 0.04% of visitors trying the AI Answers beta test.
 
@@ -192,13 +192,13 @@ Click-through rates to AI Answers varied by page type: the Contact page had the 
 
 ### What we learned from Trial 3
 
-**Bottom banners outperform top banners:** Testing on the Contact page showed that bottom sticky banners achieved 2.0% click-through (201 clicks in 9,971 visits) compared to 0.8% for top banners (71 clicks in 8,772 visits)—2.5x more effective. Users appear more likely to try AI assistance after they've scanned the page content first. Banners will be positioned at the bottom of the page in future.
+**Bottom banners outperform top banners:** Testing on the Contact page showed that bottom sticky banners achieved 2.0% click-through (201 clicks in 9,971 visits) compared to 0.8% for top banners (71 clicks in 8,772 visits), 2.5x more effective. Users appear more likely to try AI assistance after they've scanned the page content first. Banners will be positioned at the bottom of the page in future.
 
 **Follow-up questions need work:** Questions asked as follow-ups in the same session were 2% more likely to contain errors. We're investigating causes and possible solutions.
 
 **Citation specificity matters:** The most common "Needs improvement" feedback was that citations pointed to topic pages rather than the specific destination page users needed. Partners want more precise citation links.
 
-**AI as a diagnostic tool:** Partners reported that the evaluation process itself was valuable. It revealed content problems their web communications teams hadn't noticed. Several teams began content improvement work based on issues AI Answers surfaced. As one insight noted: “AI answers generated confusing responses when the source content was unclear—reinforcing the importance of regular website maintenance.”
+**AI as a diagnostic tool:** Partners reported that the evaluation process itself was valuable. It revealed content problems their web communications teams hadn't noticed. Several teams began content improvement work based on issues AI Answers surfaced. As one insight noted: “AI answers generated confusing responses when the source content was unclear, reinforcing the importance of regular website maintenance.”
 
 ## Why this matters
 
