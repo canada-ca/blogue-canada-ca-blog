@@ -1,6 +1,9 @@
+[build]
+  command = "bundle exec rake build"
+
 [context.deploy-preview]
-    # const url = process.env.DEPLOY_URL
-	command = "bundle exec jekyll build --config _config.yml,_config.staging.yml"
+  # const url = process.env.DEPLOY_URL
+  command = "bundle exec rake build"
 
 # The following rule is for caching pages based on Adobe Analytics cookies.
 [[headers]]

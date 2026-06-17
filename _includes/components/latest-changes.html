@@ -1,0 +1,6 @@
+<dl class="dl-horizontal">
+    {% for item in include.items -%}
+    <dt><time>{{ item.term }}</time></dt>
+    <dd>{{ item.definition }}</dd>
+    {% endfor %}
+</dl>
