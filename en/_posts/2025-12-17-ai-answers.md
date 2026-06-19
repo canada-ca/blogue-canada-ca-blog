@@ -8,7 +8,7 @@ latestChanges:
     definition: "Added Trial 2 and Trial 3 results, and new section: Trial results at a glance."
   - term: 2025-12-17
     definition: "Original publication with Trial 1 results (1,763 questions, 94% accuracy)."
-title: "AI Answers: Enterprise-scale trial for Canada.ca"
+title: "AI Answers: Enterprise-scale trials for Canada.ca"
 ---
 
 ## On this page
