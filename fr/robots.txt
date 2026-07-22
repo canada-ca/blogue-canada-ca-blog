@@ -1,3 +1,10 @@
+---
+layout: null
+---
+{%- if site.staging -%}
+User-agent: *
+Disallow: /
+{%- else -%}
 User-agent: *
 Disallow: /images/
 Allow: /2021/
@@ -8,3 +15,4 @@ Allow: /2017/
 Allow: /resumes-recherche/
 Allow: /pages/
 Sitemap: {{ site.urlalt[page.lang] }}/sitemap.xml
+{%- endif -%}

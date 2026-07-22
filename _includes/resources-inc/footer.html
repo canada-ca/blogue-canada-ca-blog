@@ -1,12 +1,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
 <script src="{{ setting-resourcesBasePathWetboew }}/js/wet-boew{{ setting-minifiedSuffix }}.js"></script>
 <script src="{{ setting-resourcesBasePathTheme }}/js/theme{{ setting-minifiedSuffix }}.js"></script>
+{%- comment -%}
+  page.script is made baseurl-aware via relative_url so root-absolute defaults
+  (e.g. /js/url-swap.js) resolve under the staging preview subpath while
+  remaining unchanged in production where baseurl is empty (FR-20).
+{%- endcomment -%}
 {%- if page.script.first -%}
 	{%- for js in page.script -%}
-		<script src="{{ js }}"></script>
+		<script src="{{ js | relative_url }}"></script>
 	{%- endfor -%}
 {%- elsif page.script -%}
-	<script src="{{ page.script }}"></script>
+	<script src="{{ page.script | relative_url }}"></script>
 {%- endif -%}
 
 {% if site.analytics.provider.adobe %}{% include /providers/adobefooter.html %}{% endif %}

@@ -5,6 +5,7 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- unless site.staging -%}
   {%- for post in site.posts -%}
     {%- if post.language== page.language -%}
   <url>
@@ -35,6 +36,7 @@ sitemap:
       {%- endunless -%}
     {%- endif -%}
   {%- endfor -%}
+  {%- endunless -%}
 </urlset>
 {%- comment -%}
 source: http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/

@@ -36,6 +36,7 @@ exclude:
 - .github
 - "*.gpg"
 - "*.tmp"
+- _staging
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - copy-assets.sh
@@ -44,6 +45,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - LICENSE*
+- netlify.toml
 - node_modules
 - screenshot.png
 - SECURITY.md

@@ -37,8 +37,10 @@ Temporary Items
 # Jekyll
 .jekyll-cache
 _site
+_staging
 vendor
 en/css/*
 fr/css/*
 node_modules/
 *.py
+!.github/scripts/config_delta_gate.py

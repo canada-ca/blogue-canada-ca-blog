@@ -1,0 +1,207 @@
+name: Publish PR preview
+
+on:
+  pull_request:
+    branches:
+      - 'content/**'
+      - 'hotfix/**'
+      - 'feat/**'
+
+concurrency:
+  group: "preview-publish-pr-${{ github.event.pull_request.number }}"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    outputs:
+      short-sha: "${{ steps.sha.outputs.short-sha }}"
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Check out PR head
+        uses: actions/checkout@v4
+        with:
+          repository: "${{ github.event.pull_request.head.repo.full_name }}"
+          ref: "${{ github.event.pull_request.head.sha }}"
+          persist-credentials: false
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Build staging preview
+        env:
+          JEKYLL_ENV: staging
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+        run: bundle exec rake staging
+
+      - name: Build production-config artifact
+        run: bundle exec rake build
+
+      - name: Enforce English config delta
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+        run: |
+          python3 .github/scripts/config_delta_gate.py \
+            --staging "_staging/blog/en" \
+            --production "_site/en" \
+            --baseurl "/blog/pr-preview/pr-${PR_NUMBER}"
+
+      - name: Enforce French config delta
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+        run: |
+          python3 .github/scripts/config_delta_gate.py \
+            --staging "_staging/blogue/fr" \
+            --production "_site/fr" \
+            --baseurl "/blogue/pr-preview/pr-${PR_NUMBER}"
+
+      - name: Compute short SHA
+        id: sha
+        env:
+          PR_HEAD_SHA: "${{ github.event.pull_request.head.sha }}"
+        run: |
+          short_sha="${PR_HEAD_SHA::7}"
+          printf 'short-sha=%s\n' "${short_sha}" >> "${GITHUB_OUTPUT}"
+
+      - name: Upload staging English artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: staging-en
+          path: _staging/blog/en/
+          if-no-files-found: error
+
+      - name: Upload staging French artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: staging-fr
+          path: _staging/blogue/fr/
+          if-no-files-found: error
+
+      - name: Upload production-config English artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: prod-config-en
+          path: _site/en/
+          if-no-files-found: error
+
+      - name: Upload production-config French artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: prod-config-fr
+          path: _site/fr/
+          if-no-files-found: error
+
+  publish:
+    name: publish
+    needs: build
+    if: "${{ github.event.pull_request.head.repo.full_name == github.repository }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions: {}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Download staging English artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: staging-en
+          path: artifacts/staging-en
+
+      - name: Download staging French artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: staging-fr
+          path: artifacts/staging-fr
+
+      - name: Download production-config English artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: prod-config-en
+          path: artifacts/prod-config-en
+
+      - name: Download production-config French artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: prod-config-fr
+          path: artifacts/prod-config-fr
+
+      - name: Mint preview host token
+        id: preview-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: "${{ secrets.PUBLISH_APP_ID }}"
+          private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
+          owner: gc-proto
+          repositories: gc-proto.github.io
+
+      - name: Check out preview host
+        uses: actions/checkout@v4
+        with:
+          repository: gc-proto/gc-proto.github.io
+          ref: master
+          token: "${{ steps.preview-token.outputs.token }}"
+          path: preview-host
+          persist-credentials: true
+
+      - name: Copy preview and production-config artifacts
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+          SHORT_SHA: "${{ needs.build.outputs.short-sha }}"
+        run: |
+          en_preview="preview-host/blog/pr-preview/pr-${PR_NUMBER}"
+          fr_preview="preview-host/blogue/pr-preview/pr-${PR_NUMBER}"
+          en_prod="preview-host/blog/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+          fr_prod="preview-host/blogue/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+
+          rm -rf "${en_preview}" "${fr_preview}" "${en_prod}" "${fr_prod}"
+          mkdir -p "${en_preview}" "${en_preview}/${SHORT_SHA}" "${fr_preview}" "${fr_preview}/${SHORT_SHA}" "${en_prod}" "${fr_prod}"
+
+          cp -a "artifacts/staging-en/." "${en_preview}/"
+          cp -a "artifacts/staging-en/." "${en_preview}/${SHORT_SHA}/"
+          cp -a "artifacts/staging-fr/." "${fr_preview}/"
+          cp -a "artifacts/staging-fr/." "${fr_preview}/${SHORT_SHA}/"
+          cp -a "artifacts/prod-config-en/." "${en_prod}/"
+          cp -a "artifacts/prod-config-fr/." "${fr_prod}/"
+          touch "preview-host/.nojekyll"
+
+      - name: Commit and push preview host changes
+        working-directory: preview-host
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+          SHORT_SHA: "${{ needs.build.outputs.short-sha }}"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ".nojekyll" "blog/pr-preview/pr-${PR_NUMBER}" "blogue/pr-preview/pr-${PR_NUMBER}" "blog/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}" "blogue/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Publish PR ${PR_NUMBER} preview ${SHORT_SHA}"
+            git push origin master
+          else
+            echo "Preview host already contains PR ${PR_NUMBER} preview ${SHORT_SHA}."
+          fi
+
+      - name: Comment with preview URLs
+        env:
+          GH_TOKEN: "${{ steps.preview-token.outputs.token }}"
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+          REPOSITORY: "${{ github.repository }}"
+        run: |
+          body="$(cat <<EOF
+          Preview published:
+          - English: https://test.canada.ca/blog/pr-preview/pr-${PR_NUMBER}/
+          - French: https://test.canada.ca/blogue/pr-preview/pr-${PR_NUMBER}/
+          EOF
+          )"
+          gh api "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
+            --method POST \
+            -f "body=${body}"

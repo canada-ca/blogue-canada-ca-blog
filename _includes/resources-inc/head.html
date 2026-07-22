@@ -1,0 +1,37 @@
+{%- if site.global.gcds and site.global.gcds != false -%}
+	{%- capture gcds-version -%}
+		{%- if site.global.gcds == true -%}
+			latest
+		{%- else -%}
+			{{ site.global.gcds }}
+		{%- endif -%}
+	{%- endcapture -%}
+
+<!-- GC Design System -->
+<link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@{{ gcds-version }}/dist/gcds/gcds.css">
+<script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@{{ gcds-version }}/dist/gcds/gcds.esm.js"></script>
+{% endif %}
+{%- if page.loadGCDS -%}
+<script blocking="render" src="{{ setting-resourcesBasePathTheme }}/js/gcdsloader{{ setting-minifiedSuffix }}.js"></script>
+{% endif %}
+
+<link href="{{ setting-resourcesBasePathTheme }}/assets/favicon.ico" rel="icon" type="image/x-icon" />
+<link rel="stylesheet" href="{{ setting-resourcesBasePathTheme }}/css/theme{{ setting-minifiedSuffix }}.css" />
+<noscript><link rel="stylesheet" href="{{ setting-resourcesBasePathWetboew }}/css/noscript{{ setting-minifiedSuffix }}.css" /></noscript>
+
+{%- comment -%}
+  page.css is made baseurl-aware via relative_url so root-absolute defaults
+  (e.g. /css/custom.css) resolve under the staging preview subpath while
+  remaining unchanged in production where baseurl is empty (FR-20).
+{%- endcomment -%}
+{%- if page.css.first -%}
+	{%- for sheet in page.css -%}
+		{%- if sheet.first -%}
+			<link rel="stylesheet" href="{{ sheet.href | relative_url }}" integrity="{{ sheet.integrity }}" crossorigin="anonymous" />
+		{%- elsif sheet -%}
+			<link rel="stylesheet" href="{{ sheet | relative_url }}" />
+		{%- endif -%}
+	{%- endfor -%}
+{%- elsif page.css -%}
+	<link rel="stylesheet" href="{{ page.css | relative_url }}" />
+{%- endif -%}

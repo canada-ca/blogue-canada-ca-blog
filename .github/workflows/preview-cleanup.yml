@@ -1,0 +1,65 @@
+name: Clean up PR preview
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - 'content/**'
+      - 'hotfix/**'
+      - 'feat/**'
+
+jobs:
+  cleanup:
+    name: cleanup
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions: {}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Mint preview host token
+        id: preview-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: "${{ secrets.PUBLISH_APP_ID }}"
+          private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
+          owner: gc-proto
+          repositories: gc-proto.github.io
+
+      - name: Check out preview host
+        uses: actions/checkout@v4
+        with:
+          repository: gc-proto/gc-proto.github.io
+          ref: master
+          token: "${{ steps.preview-token.outputs.token }}"
+          path: preview-host
+          persist-credentials: true
+
+      - name: Delete preview and production-config paths
+        working-directory: preview-host
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+        run: |
+          rm -rf \
+            "blog/pr-preview/pr-${PR_NUMBER}" \
+            "blogue/pr-preview/pr-${PR_NUMBER}" \
+            "blog/prod-artifact/pr-${PR_NUMBER}" \
+            "blogue/prod-artifact/pr-${PR_NUMBER}"
+
+      - name: Commit and push cleanup
+        working-directory: preview-host
+        env:
+          PR_NUMBER: "${{ github.event.pull_request.number }}"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Clean up PR ${PR_NUMBER} preview"
+            git push origin master
+          else
+            echo "No preview host paths exist for PR ${PR_NUMBER}."
+          fi
