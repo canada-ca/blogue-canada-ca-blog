@@ -1,0 +1,114 @@
+<!--
+  Transitional: Netlify custom error page. The per-language error pages live
+  in en/ and fr/. DELETE this file at Netlify decommission.
+
+  This file has NO Jekyll front matter, so Jekyll copies it verbatim to
+  _site/403.html. Netlify serves the whole _site tree and reads custom error
+  pages from the repository root (/403.html), so this static fallback keeps a
+  branded 403 in place while the site is still hosted on Netlify. Once the site
+  moves to GitHub Pages, each language subtree (en/, fr/) ships its own
+  /403.html at its production-domain root and this root stub is no longer
+  needed. Styling is inlined because root-absolute /css/ and /js/ asset paths
+  used by the themed pages do not resolve at the Netlify serving root.
+-->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Access forbidden | Canada.ca blog</title>
+  <meta name="description" content="Access forbidden">
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      color: #333;
+      background: #fff;
+      line-height: 1.4375;
+      padding: 0;
+    }
+    a { color: #2454a0; text-decoration: underline; }
+    a:hover { color: #0535d2; }
+    .wb-srp {
+      position: absolute;
+      left: -9999px;
+      width: 1px; height: 1px; overflow: hidden;
+    }
+    .brand-banner {
+      border-bottom: 1px solid #e1e4e7;
+      padding: 0.5em 1em;
+    }
+    .brand-banner img { height: 30px; width: auto; }
+    main {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 1.5em 1em;
+    }
+    h1 {
+      font-size: 1.5em;
+      margin: 0 0 0.5em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.25em;
+    }
+    .label {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      font-size: 0.85em;
+      font-weight: 700;
+      color: #fff;
+      background: #d3080c;
+      border-radius: 3px;
+    }
+    ul { padding-left: 1.5em; }
+    li { margin: 0.25em 0; }
+    .lang-switch {
+      display: block;
+      margin: 0 0 1em;
+      font-size: 0.95em;
+    }
+    .footer {
+      border-top: 1px solid #e1e4e7;
+      margin-top: 2em;
+      padding: 1em;
+      font-size: 0.85em;
+      color: #555;
+      text-align: center;
+    }
+  </style>
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+  <a class="wb-srp" href="#wb-cont">Skip to main content</a>
+  <div class="brand-banner">
+    <img src="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-en.svg" alt="Government of Canada / Gouvernement du Canada">
+  </div>
+  <main property="mainContentOfPage" id="wb-cont">
+    <a class="lang-switch" lang="fr" hreflang="fr" href="/fr/403.html">Français</a>
+    <h1 property="name">Access forbidden</h1>
+    <p><span class="label">403 error</span></p>
+    <p>You don't have permission to access this page. This could be because:</p>
+    <ul>
+      <li>The page is restricted to authorized users only</li>
+      <li>Your session may have expired</li>
+      <li>You may need to sign in with proper credentials</li>
+      <li>The content requires specific access permissions</li>
+    </ul>
+    <p>You may be looking for:</p>
+    <ul>
+      <li><a href="https://design.canada.ca/">Design for the Government of Canada services</a></li>
+      <li><a href="https://www.canada.ca/en/">Canada.ca home page</a></li>
+      <li><a href="https://www.canada.ca/en/">Contact the Government of Canada</a></li>
+      <li><a href="https://www.canada.ca/en/">Sign in to an account</a></li>
+      <li><a href="https://www.canada.ca/en/">Benefits</a></li>
+      <li><a href="https://www.canada.ca/en/">Taxes</a></li>
+      <li><a href="https://www.canada.ca/en/">Visit or immigrate to Canada</a></li>
+    </ul>
+  </main>
+  <footer class="footer">
+    Government of Canada —
+    <a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a>
+    · <a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a>
+  </footer>
+</body>
+</html>

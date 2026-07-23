@@ -24,28 +24,28 @@ source repository's default `GITHUB_TOKEN` scope. A single GitHub App under the
 `gc-proto` org provides this; the workflows mint per-step installation tokens
 narrowed to the repository each step needs.
 
-- [ ] **1.1** Create a GitHub App under the `gc-proto` org (Settings → Developer
+- [x] **1.1** Create a GitHub App under the `gc-proto` org (Settings → Developer
       settings → GitHub Apps → New GitHub App), **or** install an existing
       `gc-proto`-owned GitHub App that meets the requirements below.
-- [ ] **1.2** Set the App name and webhook configuration as appropriate. Webhooks
+- [x] **1.2** Set the App name and webhook configuration as appropriate. Webhooks
       are not required for this migration; disable webhook delivery (or leave the
       webhook URL empty) unless the App is shared with other automation.
-- [ ] **1.3** Grant the App the **Repository permissions → Contents: Read and
+- [x] **1.3** Grant the App the **Repository permissions → Contents: Read and
       write** permission. This is the only repository permission the workflows
       require. Do not grant admin, secrets, or other write permissions.
-- [ ] **1.4** Install the App on the three target repositories it must write to:
+- [x] **1.4** Install the App on the three target repositories it must write to:
       - `gc-proto/gc-proto.github.io` (preview host)
       - `gc-proto/blog-canada-ca-pub` (English production publish)
       - `gc-proto/blogue-canada-ca-pub` (French production publish)
-- [ ] **1.5** Install the App on the source repository
+- [x] **1.5** Install the App on the source repository
       `canada-ca/blogue-canada-ca-blog` as well, **only if** a workflow step
       must write back to the source repo using the App token. PR-comment posting
       and label management use the default `GITHUB_TOKEN` and do **not** require
       the App to be installed on the source repo. Skip this install if no
       App-authenticated write to the source repo is planned.
-- [ ] **1.6** Record the App's numeric ID (shown on the App's "General" page as
+- [x] **1.6** Record the App's numeric ID (shown on the App's "General" page as
       "App ID"). This value is stored as a secret in step 2.1.
-- [ ] **1.7** Generate a private key for the App (App settings → "Private keys"
+- [x] **1.7** Generate a private key for the App (App settings → "Private keys"
       → Generate a private key). Save the downloaded `.pem` file securely; it is
       stored as a secret in step 2.2 and cannot be re-downloaded.
 
@@ -58,9 +58,9 @@ Store the App credentials as repository secrets in
 → New repository secret). Use the exact names below — the workflows reference
 these literal names.
 
-- [ ] **2.1** Create secret **`PUBLISH_APP_ID`** with the App's numeric ID from
+- [x] **2.1** Create secret **`PUBLISH_APP_ID`** with the App's numeric ID from
       step 1.6.
-- [ ] **2.2** Create secret **`PUBLISH_APP_PRIVATE_KEY`** with the full contents
+- [x] **2.2** Create secret **`PUBLISH_APP_PRIVATE_KEY`** with the full contents
       of the `.pem` file from step 1.7 (including the
       `-----BEGIN RSA PRIVATE KEY-----` / `-----END RSA PRIVATE KEY-----` lines).
 
@@ -72,9 +72,9 @@ Promotion approval is enforced by GitHub Actions deployment environments in the
 source repo `canada-ca/blogue-canada-ca-blog` (Settings → Environments). Create
 one environment per production site so each language promotes independently.
 
-- [ ] **3.1** Create the environment **`production-en`** (English →
+- [x] **3.1** Create the environment **`production-en`** (English →
       `gc-proto/blog-canada-ca-pub`).
-- [ ] **3.2** Create the environment **`production-fr`** (French →
+- [x] **3.2** Create the environment **`production-fr`** (French →
       `gc-proto/blogue-canada-ca-pub`).
 
 ### Required reviewers and the per-environment nuance
@@ -98,17 +98,17 @@ reviewers list must include **both** roles. GitHub does not restrict which
 listed reviewer clicks approve for a given branch type, so the correct approver
 is enforced by process discipline, not by the platform.
 
-- [ ] **3.3** On `production-en`, enable **Required reviewers** and add the
+- [x] **3.3** On `production-en`, enable **Required reviewers** and add the
       English content owners **and** the senior technical advisors. Recommended
       composition: all English content owners who approve web publishing
       requests, plus all senior technical advisors who approve feature and
       hotfix requests. Keep at least two reviewers per role for coverage.
-- [ ] **3.4** On `production-fr`, enable **Required reviewers** and add the
+- [x] **3.4** On `production-fr`, enable **Required reviewers** and add the
       French content owners **and** the senior technical advisors. Recommended
       composition: all French content owners who approve web publishing
       requests, plus all senior technical advisors (the same technical advisors
       as `production-en`, since technical approval is not language-specific).
-- [ ] **3.5** (Optional) On both environments, set the deployment branch policy
+- [x] **3.5** (Optional) On both environments, set the deployment branch policy
       to the source repo's `main` branch so promotions can only originate from
       merged `main`.
 
@@ -121,18 +121,18 @@ Both production publish repositories, `gc-proto/blog-canada-ca-pub` and
 will not enable a custom domain until the repository has at least one commit on
 the publishing branch, so seed each one before configuring Pages.
 
-- [ ] **4.1** In `gc-proto/blog-canada-ca-pub`, create an initial commit on the
+- [x] **4.1** In `gc-proto/blog-canada-ca-pub`, create an initial commit on the
       default branch containing exactly two files:
       - `CNAME` with the single line `blog.canada.ca`
       - `.nojekyll` (empty file)
-- [ ] **4.2** In `gc-proto/blogue-canada-ca-pub`, create an initial commit on the
+- [x] **4.2** In `gc-proto/blogue-canada-ca-pub`, create an initial commit on the
       default branch containing exactly two files:
       - `CNAME` with the single line `blogue.canada.ca`
       - `.nojekyll` (empty file)
-- [ ] **4.3** In `gc-proto/blog-canada-ca-pub`, enable GitHub Pages: Settings →
+- [x] **4.3** In `gc-proto/blog-canada-ca-pub`, enable GitHub Pages: Settings →
       Pages → Build and deployment → Source = **Deploy from a branch**; branch =
       the default branch; folder = **/ (root)**.
-- [ ] **4.4** In `gc-proto/blogue-canada-ca-pub`, enable GitHub Pages with the
+- [x] **4.4** In `gc-proto/blogue-canada-ca-pub`, enable GitHub Pages with the
       same settings: Source = **Deploy from a branch**; branch = default branch;
       folder = **/ (root)**.
 - [ ] **4.5** In `gc-proto/blog-canada-ca-pub`, under Settings → Pages, set the
@@ -154,6 +154,53 @@ the publishing branch, so seed each one before configuring Pages.
 > tree would unbind the custom domain and take the live site down until the
 > domain is re-verified.
 
+### If the custom domain is reported as already taken
+
+Steps 4.5 / 4.6 can fail with **"custom domain is already taken"** (or a
+similar "domain is already claimed" error). This happens when another GitHub
+repository — typically a stale or forgotten one — currently has
+`blog.canada.ca` or `blogue.canada.ca` set as its Pages custom domain. GitHub
+will not let a second repo bind the same apex/subdomain until the existing
+claim is released. Work through the steps below; do **not** attempt to bind the
+domain from a different account or repo, and do **not** change DNS to "force"
+the bind — the claim is a GitHub-side record, not a DNS check.
+
+- [ ] **4.A.1** **Verify domain ownership for the `gc-proto` organization.** In
+      the `gc-proto` org, go to Settings → Pages → Verified domains → Add, and
+      enter `blog.canada.ca` (then repeat for `blogue.canada.ca`). GitHub
+      returns a TXT record to create: host
+      `_github-pages-challenge-gc-proto.blog.canada.ca` (and the `blogue`
+      equivalent), with the value GitHub shows. Add each TXT record at the DNS
+      provider, then click **Verify** in GitHub.
+- [ ] **4.A.2** **Adding the TXT record does not change serving.** DNS for
+      `blog.canada.ca` / `blogue.canada.ca` still points at Netlify (the CNAME
+      → Netlify target). A TXT record is a separate name
+      (`_github-pages-challenge-gc-proto.<domain>`) and does not affect the
+      CNAME that Netlify serves, so live traffic is untouched while you verify.
+- [ ] **4.A.3** **Why verification matters.** Verifying a domain for the org
+      protects it from takeover: once `gc-proto` has verified
+      `blog.canada.ca` / `blogue.canada.ca`, no other GitHub account can add
+      those domains to a Pages site, and verification is the prerequisite
+      GitHub requires before it will release a stale claim held by another
+      repository.
+- [ ] **4.A.4** **If the domain is still taken after verification, open a
+      GitHub Support ticket.** Go to https://support.github.com and file a
+      ticket referencing the verified domain (`blog.canada.ca` and/or
+      `blogue.canada.ca`) and the `gc-proto` organization, asking GitHub to
+      release the stale custom-domain claim. GitHub confirms ownership via the
+      verified TXT record from 4.A.1; once it confirms, it removes the old
+      claim so step 4.5 / 4.6 can proceed.
+- [ ] **4.A.5** **Coordinate TXT records with the central DNS team.**
+      `canada.ca` subdomains are managed centrally, so creating the
+      `_github-pages-challenge-gc-proto.<subdomain>` TXT records usually
+      requires a change request with the central DNS team rather than direct
+      DNS access. Plan the lead time. Ideally verify **both**
+      `blog.canada.ca` and `blogue.canada.ca`; optionally also verify at the
+      `canada.ca` org level (a `canada.ca`-level verification covers its
+      subdomains) if the central DNS team can host the apex-level TXT record.
+
+Reference: <https://docs.github.com/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages>
+
 ---
 
 ## 5. Preview host repository — static-byte serving
@@ -164,14 +211,14 @@ must not run a host-side Jekyll build over the pushed artifacts, or files with
 front matter (feeds, `robots.txt`, sitemaps) would be re-rendered. The preview
 host's default branch is `master`.
 
-- [ ] **5.1** On the `master` branch of `gc-proto/gc-proto.github.io`, add an
+- [x] **5.1** On the `master` branch of `gc-proto/gc-proto.github.io`, add an
       empty **`.nojekyll`** file at the repository root and commit it. This tells
       GitHub Pages to serve the tree as-is without a Jekyll build.
-- [ ] **5.2** Confirm the existing **`CNAME`** file at the repository root
+- [x] **5.2** Confirm the existing **`CNAME`** file at the repository root
       contains `test.canada.ca` and leave it in place. Do **not** remove or
       rename it — the migration depends on previews being served from
       `test.canada.ca`.
-- [ ] **5.3** Confirm GitHub Pages is already enabled on
+- [x] **5.3** Confirm GitHub Pages is already enabled on
       `gc-proto/gc-proto.github.io` (Source = Deploy from branch, branch =
       `master`, folder = `/ (root)`). This is an existing repo; only verify.
 
@@ -184,23 +231,23 @@ review model that promotion depends on. Promotion pins to the approved PR head
 SHA and fails if the PR head changed after approval, so stale approvals must be
 dismissed automatically.
 
-- [ ] **6.1** On `canada-ca/blogue-canada-ca-blog`, add a branch protection rule
+- [x] **6.1** On `canada-ca/blogue-canada-ca-blog`, add a branch protection rule
       for `main` (Settings → Branches → Add branch protection rule).
-- [ ] **6.2** Enable **Require a pull request before merging**. Set the required
+- [x] **6.2** Enable **Require a pull request before merging**. Set the required
       number of approvals to at least 1.
-- [ ] **6.3** Enable **Dismiss stale pull request approvals when new commits are
+- [x] **6.3** Enable **Dismiss stale pull request approvals when new commits are
       pushed**. This is mandatory: it is what makes SHA-pinned promotion safe,
       because any push after approval invalidates the approval and forces
       re-review.
-- [ ] **6.4** Enable **Require status checks to pass before merging** and add the
+- [x] **6.4** Enable **Require status checks to pass before merging** and add the
       preview-build and config-delta workflow checks as required checks once the
       workflows are present, so a PR cannot be merged with a failed or skipped
       preview build.
-- [ ] **6.5** Enable **Require branches to be up to date before merging** so the
+- [x] **6.5** Enable **Require branches to be up to date before merging** so the
       approved SHA is built against the latest `main`.
-- [ ] **6.6** Enable **Require linear history** to keep the promotion-manifest
+- [x] **6.6** Enable **Require linear history** to keep the promotion-manifest
       path-pinning unambiguous.
-- [ ] **6.7** Do not restrict pushes to `main` to admins only if admins need to
+- [x] **6.7** Do not restrict pushes to `main` to admins only if admins need to
       merge Dependabot PRs directly; otherwise restrict direct pushes to `main`
       and require PRs for everyone. Dependabot merge-and-deploy relies on the
       merged `pull_request` event, not on direct pushes.
@@ -246,12 +293,12 @@ live. No checklist item creates them; they are inherited from GitHub Pages.
       `gc-proto.github.io`.
 - [ ] `https://blog.canada.ca` and `https://blogue.canada.ca` return a Pages
       response (even if only the seeded `CNAME`/`.nojekyll` tree is present).
-- [ ] `https://test.canada.ca` still resolves and serves the preview host.
-- [ ] `PUBLISH_APP_ID` and `PUBLISH_APP_PRIVATE_KEY` secrets are present in
+- [x] `https://test.canada.ca` still resolves and serves the preview host.
+- [x] `PUBLISH_APP_ID` and `PUBLISH_APP_PRIVATE_KEY` secrets are present in
       `canada-ca/blogue-canada-ca-blog`.
-- [ ] `production-en` and `production-fr` environments exist with required
+- [x] `production-en` and `production-fr` environments exist with required
       reviewers configured.
-- [ ] `main` branch protection on `canada-ca/blogue-canada-ca-blog` dismisses
+- [x] `main` branch protection on `canada-ca/blogue-canada-ca-blog` dismisses
       stale approvals on new pushes.
 
 Once every box above is checked, the migration workflows can be enabled in the

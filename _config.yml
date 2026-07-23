@@ -43,15 +43,6 @@ exclude:
 - CNAME
 # Internal operator runbook — must never ship to production (parity fix).
 - docs
-# en/403.md and fr/403.md (and 404) share permalink /403.html (/404.html) and
-# identical Page#name, so site.pages.sort_by!(&:name) leaves their write order
-# non-deterministic. Adding the redirect stub pages flipped the collision
-# winner from en to fr (lang="fr"). Excluding the fr sources lets the en
-# versions deterministically produce /403.html and /404.html with lang="en",
-# matching main's production output (the fr sources never produced a separate
-# file in production — they only ever collided and lost).
-- fr/403.md
-- fr/404.md
 - gcweb-jekyll.gemspec
 - Gemfile
 - Gemfile.lock
