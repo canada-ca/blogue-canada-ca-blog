@@ -105,7 +105,8 @@ jobs:
     if: "${{ (startsWith(github.head_ref, 'content/') || startsWith(github.head_ref, 'hotfix/') || startsWith(github.head_ref, 'feat/')) && github.event.pull_request.head.repo.full_name == github.repository }}"
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    permissions: {}
+    permissions:
+      pull-requests: write
     defaults:
       run:
         shell: bash
@@ -192,11 +193,22 @@ jobs:
 
       - name: Comment with preview URLs
         env:
-          GH_TOKEN: "${{ steps.preview-token.outputs.token }}"
+          GH_TOKEN: "${{ github.token }}"
           PR_NUMBER: "${{ github.event.pull_request.number }}"
           REPOSITORY: "${{ github.repository }}"
         run: |
+          existing_comments="$(gh api "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
+            -f per_page=100 \
+            --paginate \
+            --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id')"
+
+          if [ -n "${existing_comments}" ]; then
+            echo "Preview URLs comment already exists for PR ${PR_NUMBER}."
+            exit 0
+          fi
+
           body="$(cat <<EOF
+          <!-- preview-urls -->
           Preview published:
           - English: https://test.canada.ca/blog/pr-preview/pr-${PR_NUMBER}/
           - French: https://test.canada.ca/blogue/pr-preview/pr-${PR_NUMBER}/
