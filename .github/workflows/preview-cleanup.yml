@@ -5,13 +5,12 @@ on:
     types:
       - closed
     branches:
-      - 'content/**'
-      - 'hotfix/**'
-      - 'feat/**'
+      - main
 
 jobs:
   cleanup:
     name: cleanup
+    if: "${{ startsWith(github.head_ref, 'content/') || startsWith(github.head_ref, 'hotfix/') || startsWith(github.head_ref, 'feat/') }}"
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions: {}
