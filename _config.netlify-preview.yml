@@ -1,0 +1,18 @@
+# Netlify deploy-preview overrides.
+# Loaded AFTER _config.yml when ENV['CONTEXT'] == 'deploy-preview' (see Rakefile
+# `build` task) so preview traffic uses the staging Adobe analytics id and stays
+# out of production analytics.
+#
+# This file is intentionally minimal: it must NOT carry the `staging` flag,
+# staging_host, noindex, robots disallow, sitemap suppression, or urlalt
+# overrides that belong to the full _config.staging.yml staging split — Netlify
+# deploy-previews must remain byte-equivalent to production except for this
+# analytics id. Only the Adobe analytics block is overridden here (copied from
+# _config.staging.yml); Jekyll deep-merges this over _config.yml so the google
+# block and all other keys are inherited unchanged.
+analytics:
+  provider:
+    adobe:
+      tracking_id: "be5dfd287373/0127575cd23a/launch-913b1beddf7a-staging"
+      service: "ESDC_TEST-TEST_EDSC"
+      gcaaterms: "ESDC-EDSC_CanadacaBlog-BlogueCanadaca"

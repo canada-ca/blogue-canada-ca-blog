@@ -17,10 +17,39 @@ task :copy_assets do
   sh "sh copy-assets.sh"
 end
 
-# Production build. Unchanged behavior except the old Netlify CONTEXT gate is
-# gone and netlify.toml is excluded from the build (via _config.yml exclude).
+# Production build. Plain `bundle exec rake build` is a pure production build.
+# Transitional Netlify gate: when ENV['CONTEXT'] == 'deploy-preview' (set by
+# Netlify on deploy previews), swap in the minimal _config.netlify-preview.yml
+# so preview traffic uses the staging Adobe analytics id and stays out of
+# production analytics. The minimal config carries ONLY the analytics override
+# — it does NOT pull in _config.staging.yml (noindex, robots disallow, sitemap
+# suppression, urlalt overrides), so deploy previews remain byte-equivalent to
+# production except for the analytics id.
+# Remove this gate after the Netlify decommission.
 task :build => :copy_assets do
-  sh "bundle exec jekyll build"
+  if ENV['CONTEXT'] == 'deploy-preview'
+    sh "bundle exec jekyll build --config _config.yml,_config.netlify-preview.yml"
+    normalize_preview_robots
+  else
+    sh "bundle exec jekyll build"
+  end
+end
+
+# Transitional Netlify-preview normalization (remove after Netlify decommission).
+# The minimal _config.netlify-preview.yml never sets `staging: true`, so deploy
+# previews already avoid the staging disallow-all (`Disallow: /`) wired through
+# the `site.staging` gate in en/robots.txt / fr/robots.txt. They do, however,
+# inherit production's `Disallow: /images/` rule. Netlify deploy previews are
+# temporary review surfaces that should be fully crawlable, so strip every
+# `Disallow:` directive from the preview robots.txt after the build. Plain
+# `rake build` is untouched and still ships the full production robots
+# (`Disallow: /images/`), byte-equivalent to main.
+def normalize_preview_robots
+  Dir.glob("_site/**/robots.txt").each do |path|
+    next unless File.file?(path)
+    lines = File.readlines(path).reject { |line| line.strip.start_with?("Disallow:") }
+    File.write(path, lines.join)
+  end
 end
 
 namespace :staging do
