@@ -22,14 +22,38 @@ URLs, anchors `#`, `mailto:`, `tel:` and `data:` untouched. The rewrite is
 idempotent -- running it twice is a no-op because already-prefixed values are
 skipped.
 
+A second pass swaps the two production blog domains onto the preview host so
+PR previews are fully self-contained. The language toggle
+(`_includes/language/languagetoggle.html`, which reads `site.urlalt` -- not
+overridden in staging) and the hardcoded breadcrumb `link:` values in
+`_config.yml` `defaults` both emit `https://blog.canada.ca` /
+`https://blogue.canada.ca`, sending reviewers OUT of the preview. This pass
+replaces, in `*.html`, `*.css`, `*.xml` and `*.json` files, every
+`https://blog.canada.ca` / `https://blogue.canada.ca` host reference with the
+corresponding language preview base (derived from `--baseurl` plus
+`--preview-host`). BOTH mappings are applied in BOTH language trees because each
+tree links to the other (the EN toggle points at the FR preview and vice versa).
+Only the `https://` form is swapped: the config delta gate normalizes the
+swapped staging form back to the production `https://` domain, so any link whose
+production counterpart is `https://` round-trips cleanly. Content-authored
+`http://` (and protocol-relative `//`) forms are left untouched -- the gate
+cannot normalize them, so swapping them would make staging differ from
+production -- and they match production byte-for-byte. `https://www.canada.ca/`
+(the main Canada.ca site, used by the first breadcrumb entry) is a different
+host and is left untouched, as are all other external domains. This pass is also
+idempotent.
+
 The companion config delta gate (config_delta_gate.py) normalizes the staging
 tree by stripping the baseurl prefix before comparing to production, so the
 extra prefixed references this script introduces normalize back to the
-production form and the gate keeps passing.
+production form and the gate keeps passing. Its `urlalt_map` performs the
+inverse of the domain swap (preview host+baseurl -> production domain), so the
+swapped references normalize back too.
 
 Usage:
     python3 .github/scripts/staging_asset_rewrite.py \
-        --root <built-site-dir> --baseurl <prefix>
+        --root <built-site-dir> --baseurl <prefix> \
+        [--preview-host https://test.canada.ca]
 """
 
 import argparse
@@ -51,6 +75,29 @@ SRCSET_RE = re.compile(r'(?<![\w-])srcset\s*=\s*"([^"]*)"', re.IGNORECASE)
 # CSS url(...) values. The optional quote char (group 1) is mirrored back; the
 # URL is group 2.
 CSS_URL_RE = re.compile(r'url\(\s*(["\']?)([^"\')]+)\1\s*\)', re.IGNORECASE)
+
+# Production blog hosts whose absolute URLs must be repointed at the preview in
+# staging trees. The language toggle (site.urlalt, unoverridden in staging) and
+# the hardcoded breadcrumb `link:` values in _config.yml `defaults` both emit
+# https://blog.canada.ca / https://blogue.canada.ca, sending reviewers OUT of
+# the preview. This pass swaps them to the alternate/current language preview
+# base so every preview link stays on the preview host. Only the `https://`
+# form is swapped: the config delta gate's `urlalt_map` normalizes the swapped
+# form back to `https://blog.canada.ca` / `https://blogue.canada.ca`, so any
+# occurrence whose production counterpart is `https://` round-trips through the
+# gate cleanly. Content-authored `http://` (or protocol-relative `//`) forms are
+# NOT a config delta the gate knows how to normalize -- swapping them would
+# rewrite them to an `https://` staging form that normalizes to `https://` and
+# then differ from the production `http://` original -- so they are left
+# untouched (they match production byte-for-byte and the gate stays green). The
+# trailing path/slash is NOT consumed, so no double slash is introduced. A
+# negative lookahead prevents partial matches inside longer hostnames --
+# critically, `www.canada.ca` is a different host and is left untouched (the
+# first breadcrumb legitimately points there).
+PROD_DOMAIN_RE = re.compile(
+    r'https://(?P<host>blog(?:ue)?\.canada\.ca)(?![a-zA-Z0-9.\-])',
+    re.IGNORECASE,
+)
 
 
 def needs_prefix(value, baseurl):
@@ -128,12 +175,51 @@ def rewrite_css(text, baseurl):
     return CSS_URL_RE.sub(url_repl, text)
 
 
-def process_file(path, baseurl, stats):
+def preview_bases(baseurl, preview_host):
+    """Derive both language preview bases from the baseurl.
+
+    The English preview base is the baseurl with its leading `/blogue/` swapped
+    to `/blog/`; the French base swaps `/blog/` to `/blogue/`. This mirrors
+    config_delta_gate.py's `urlalt_map` exactly, so the gate normalizes our
+    output back to the production domains. Each base is prepended with the
+    preview host. Both bases are returned regardless of which language tree is
+    being rewritten, because each tree links to the other (the EN toggle points
+    at the FR preview and vice versa).
+    """
+    en_baseurl = re.sub(r'^/blogue/', '/blog/', baseurl)
+    fr_baseurl = re.sub(r'^/blog/', '/blogue/', baseurl)
+    host = preview_host.rstrip('/')
+    return host + en_baseurl, host + fr_baseurl
+
+
+def swap_domains(text, en_base, fr_base):
+    """Replace production blog hosts with the preview bases.
+
+    Both mappings are applied in every tree: an English page's language toggle
+    links to the French host, so the EN tree needs the FR swap, and the FR tree
+    needs the EN swap. Only `https://` occurrences are swapped (see
+    PROD_DOMAIN_RE); `http://` and protocol-relative forms are left untouched so
+    they match production byte-for-byte through the config delta gate. Idempotent
+    -- after the swap no `https://blog(ue)?.canada.ca` host remains, so a second
+    pass is a no-op.
+    """
+    def repl(m):
+        return en_base if m.group('host').lower() == 'blog.canada.ca' else fr_base
+
+    return PROD_DOMAIN_RE.sub(repl, text)
+
+
+def process_file(path, baseurl, en_base, fr_base, stats):
     lower = path.lower()
     if lower.endswith('.html'):
         kind = 'html'
     elif lower.endswith('.css'):
         kind = 'css'
+    elif lower.endswith('.xml') or lower.endswith('.json'):
+        # XML/JSON get only the production-domain swap (no attribute rewriting).
+        # feed.xml/flux.xml/sitemap.xml are gate-ignored, but the domain swap
+        # still keeps PR previews free of any production blog URL.
+        kind = 'data'
     else:
         return
 
@@ -153,8 +239,12 @@ def process_file(path, baseurl, stats):
 
     if kind == 'html':
         new_text = rewrite_html(text, baseurl)
-    else:
+        new_text = swap_domains(new_text, en_base, fr_base)
+    elif kind == 'css':
         new_text = rewrite_css(text, baseurl)
+        new_text = swap_domains(new_text, en_base, fr_base)
+    else:
+        new_text = swap_domains(text, en_base, fr_base)
 
     if new_text == text:
         return
@@ -170,10 +260,10 @@ def process_file(path, baseurl, stats):
     # Count rewritten references by diffing matches before/after is awkward;
     # approximate by counting qualifying root-absolute references in the
     # original text.
-    stats['rewritten'] += count_rewritten_refs(text, baseurl)
+    stats['rewritten'] += count_rewritten_refs(text, baseurl, en_base, fr_base)
 
 
-def count_rewritten_refs(text, baseurl):
+def count_rewritten_refs(text, baseurl, en_base, fr_base):
     n = 0
 
     def attr_count(m):
@@ -203,6 +293,8 @@ def count_rewritten_refs(text, baseurl):
         return m.group(0)
 
     CSS_URL_RE.sub(url_count, text)
+
+    n += len(PROD_DOMAIN_RE.findall(text))
     return n
 
 
@@ -214,12 +306,18 @@ def main(argv=None):
                         help='built site directory to rewrite in place')
     parser.add_argument('--baseurl', required=True,
                         help='preview baseurl prefix to prepend (e.g. /blog/pr-preview/pr-224)')
+    parser.add_argument('--preview-host', default='https://test.canada.ca',
+                        help='preview host serving staging artifacts '
+                             '(default: https://test.canada.ca)')
     args = parser.parse_args(argv)
 
     baseurl = args.baseurl.rstrip('/')
     if not baseurl.startswith('/'):
         print("ERROR: --baseurl must start with '/'", file=sys.stderr)
         return 2
+
+    preview_host = args.preview_host.rstrip('/')
+    en_base, fr_base = preview_bases(baseurl, preview_host)
 
     root = args.root
     if not os.path.isdir(root):
@@ -229,7 +327,7 @@ def main(argv=None):
     stats = {'scanned': 0, 'changed': 0, 'rewritten': 0}
     for dirpath, _dirnames, filenames in os.walk(root):
         for name in filenames:
-            process_file(os.path.join(dirpath, name), baseurl, stats)
+            process_file(os.path.join(dirpath, name), baseurl, en_base, fr_base, stats)
 
     print(
         "staging_asset_rewrite: scanned {scanned} files, "

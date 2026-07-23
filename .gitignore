@@ -44,3 +44,5 @@ fr/css/*
 node_modules/
 *.py
 !.github/scripts/config_delta_gate.py
+!.github/scripts/staging_asset_rewrite.py
+__pycache__/
