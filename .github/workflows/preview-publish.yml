@@ -197,7 +197,7 @@ jobs:
           PR_NUMBER: "${{ github.event.pull_request.number }}"
           REPOSITORY: "${{ github.repository }}"
         run: |
-          existing_comments="$(gh api "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
+          existing_comments="$(gh api --method GET "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
             -f per_page=100 \
             --paginate \
             --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id')"
