@@ -31,7 +31,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: gc-proto/gc-proto.github.io
-          ref: master
+          ref: main
           token: "${{ steps.preview-token.outputs.token }}"
           path: preview-host
           persist-credentials: true
@@ -58,7 +58,7 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Clean up PR ${PR_NUMBER} preview"
-            git push origin master
+            git push origin main
           else
             echo "No preview host paths exist for PR ${PR_NUMBER}."
           fi

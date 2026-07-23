@@ -147,7 +147,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: gc-proto/gc-proto.github.io
-          ref: master
+          ref: main
           token: "${{ steps.preview-token.outputs.token }}"
           path: preview-host
           persist-credentials: true
@@ -185,7 +185,7 @@ jobs:
 
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Publish PR ${PR_NUMBER} preview ${SHORT_SHA}"
-            git push origin master
+            git push origin main
           else
             echo "Preview host already contains PR ${PR_NUMBER} preview ${SHORT_SHA}."
           fi

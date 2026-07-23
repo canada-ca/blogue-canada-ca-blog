@@ -117,7 +117,7 @@ jobs:
           preview_dir="${RUNNER_TEMP}/preview-host"
           artifact_dir="${preview_dir}/${ARTIFACT_PATH}"
 
-          git clone --depth 1 --branch master "https://x-access-token:${PREVIEW_TOKEN}@github.com/gc-proto/gc-proto.github.io.git" "${preview_dir}"
+          git clone --depth 1 --branch main "https://x-access-token:${PREVIEW_TOKEN}@github.com/gc-proto/gc-proto.github.io.git" "${preview_dir}"
 
           if [[ ! -d "${artifact_dir}" ]]; then
             echo "::error::Production-config artifact '${ARTIFACT_PATH}' was not found in gc-proto/gc-proto.github.io for PR #${PR_NUMBER} at ${SHORT_SHA}."
@@ -132,7 +132,7 @@ jobs:
           manifest="${RUNNER_TEMP}/promotion-manifest.txt"
           {
             echo "source_repository=gc-proto/gc-proto.github.io"
-            echo "source_branch=master"
+            echo "source_branch=main"
             echo "source_path=${ARTIFACT_PATH}"
             echo "approved_sha=${CURRENT_HEAD_SHA}"
             echo "protected_paths:"

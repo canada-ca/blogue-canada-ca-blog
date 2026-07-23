@@ -11,7 +11,7 @@ later steps assume earlier ones are complete.
 | Role | Repository | Custom domain |
 |---|---|---|
 | Source | `canada-ca/blogue-canada-ca-blog` | — |
-| Preview host | `gc-proto/gc-proto.github.io` (default branch `master`) | `test.canada.ca` |
+| Preview host | `gc-proto/gc-proto.github.io` (default branch `main`) | `test.canada.ca` |
 | English production publish | `gc-proto/blog-canada-ca-pub` | `blog.canada.ca` |
 | French production publish | `gc-proto/blogue-canada-ca-pub` | `blogue.canada.ca` |
 
@@ -165,25 +165,25 @@ claim is released. Work through the steps below; do **not** attempt to bind the
 domain from a different account or repo, and do **not** change DNS to "force"
 the bind — the claim is a GitHub-side record, not a DNS check.
 
-- [ ] **4.A.1** **Verify domain ownership for the `gc-proto` organization.** In
+- [x] **4.A.1** **Verify domain ownership for the `gc-proto` organization.** In
       the `gc-proto` org, go to Settings → Pages → Verified domains → Add, and
       enter `blog.canada.ca` (then repeat for `blogue.canada.ca`). GitHub
       returns a TXT record to create: host
       `_github-pages-challenge-gc-proto.blog.canada.ca` (and the `blogue`
       equivalent), with the value GitHub shows. Add each TXT record at the DNS
       provider, then click **Verify** in GitHub.
-- [ ] **4.A.2** **Adding the TXT record does not change serving.** DNS for
+- [x] **4.A.2** **Adding the TXT record does not change serving.** DNS for
       `blog.canada.ca` / `blogue.canada.ca` still points at Netlify (the CNAME
       → Netlify target). A TXT record is a separate name
       (`_github-pages-challenge-gc-proto.<domain>`) and does not affect the
       CNAME that Netlify serves, so live traffic is untouched while you verify.
-- [ ] **4.A.3** **Why verification matters.** Verifying a domain for the org
+- [x] **4.A.3** **Why verification matters.** Verifying a domain for the org
       protects it from takeover: once `gc-proto` has verified
       `blog.canada.ca` / `blogue.canada.ca`, no other GitHub account can add
       those domains to a Pages site, and verification is the prerequisite
       GitHub requires before it will release a stale claim held by another
       repository.
-- [ ] **4.A.4** **If the domain is still taken after verification, open a
+- [x] **4.A.4** **If the domain is still taken after verification, open a
       GitHub Support ticket.** Go to https://support.github.com and file a
       ticket referencing the verified domain (`blog.canada.ca` and/or
       `blogue.canada.ca`) and the `gc-proto` organization, asking GitHub to
@@ -209,9 +209,9 @@ The preview host `gc-proto/gc-proto.github.io` serves pre-built preview
 artifacts and unpublished production-config artifacts as **static bytes**. It
 must not run a host-side Jekyll build over the pushed artifacts, or files with
 front matter (feeds, `robots.txt`, sitemaps) would be re-rendered. The preview
-host's default branch is `master`.
+host's default branch is `main`.
 
-- [x] **5.1** On the `master` branch of `gc-proto/gc-proto.github.io`, add an
+- [x] **5.1** On the `main` branch of `gc-proto/gc-proto.github.io`, add an
       empty **`.nojekyll`** file at the repository root and commit it. This tells
       GitHub Pages to serve the tree as-is without a Jekyll build.
 - [x] **5.2** Confirm the existing **`CNAME`** file at the repository root
@@ -220,7 +220,7 @@ host's default branch is `master`.
       `test.canada.ca`.
 - [x] **5.3** Confirm GitHub Pages is already enabled on
       `gc-proto/gc-proto.github.io` (Source = Deploy from branch, branch =
-      `master`, folder = `/ (root)`). This is an existing repo; only verify.
+      `main`, folder = `/ (root)`). This is an existing repo; only verify.
 
 ---
 
