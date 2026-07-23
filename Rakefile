@@ -92,6 +92,27 @@ def build_staging(lang_root, baseurl)
      "--config #{STAGING_CONFIG} " \
      "--baseurl #{baseurl} " \
      "--destination #{destination}"
+  rewrite_staging_assets(destination, baseurl)
+end
+
+# Staging-only post-processing pass (FR-224 image-404 fix). The Jekyll staging
+# build prefixes template/theme asset references (those routed through Liquid
+# filters like `relative_url` or baseurl-aware includes) with the preview
+# baseurl, but CONTENT-authored references in posts -- raw
+# `<img src="/images/foo.png">` in Markdown, plus `href` links to local files
+# -- stay root-absolute and so resolve to the domain root under the preview
+# subpath, 404'ing. This pass walks the built tree and prepends the baseurl to
+# root-absolute `src`/`href`/`poster`/`srcset` values in *.html and `url(...)`
+# values in *.css, leaving protocol-relative, full-URL, anchor, mailto:, tel:
+# and data: values untouched. It is idempotent.
+#
+# This runs ONLY for staging; the production `build` task is unaffected and its
+# `_site` output stays byte-identical. The config delta gate strips the baseurl
+# prefix before comparing to production, so the extra prefixed references
+# normalize back to the production form and the gate keeps passing.
+def rewrite_staging_assets(dir, baseurl)
+  script = File.join(".github", "scripts", "staging_asset_rewrite.py")
+  sh "python3 #{script} --root #{dir} --baseurl #{baseurl}"
 end
 
 # Assert the staging configuration is actually active by verifying the staging
