@@ -217,7 +217,7 @@ jobs:
           existing_comment_id="$(gh api --method GET "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
             -f per_page=100 \
             --paginate \
-            --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id' | head -n 1)"
+            --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id' | sort -n | head -n 1)"
 
           if [ -n "${existing_comment_id}" ]; then
             gh api "repos/${REPOSITORY}/issues/comments/${existing_comment_id}" \

@@ -14,7 +14,6 @@ from urllib.parse import quote
 MARKER = "<!-- preview-urls -->"
 PAGE_EXTENSIONS = {".md", ".markdown", ".html"}
 POST_RE = re.compile(r"^_posts/(\d{4})-(\d{2})-(\d{2})-([^/]+)\.(md|markdown|html)$")
-MAX_PAGE_PREVIEWS = 25
 MAX_OTHER_FILES = 15
 
 
@@ -22,6 +21,14 @@ MAX_OTHER_FILES = 15
 class PreviewTarget:
     base_url: str
     staging_dir: Path
+
+
+@dataclass(frozen=True)
+class PagePreview:
+    source_path: str
+    language: str
+    built_path: str
+    url: str
 
 
 def markdown_text(value: str) -> str:
@@ -56,38 +63,62 @@ def file_exists_under(root: Path, relative_path: str) -> bool:
     return (root / Path(*relative_path.split("/"))).is_file()
 
 
-def classify_path(path: str, repo: str, sha: str, en: PreviewTarget, fr: PreviewTarget) -> tuple[str, str]:
+def classify_path(path: str, repo: str, sha: str, en: PreviewTarget, fr: PreviewTarget) -> tuple[str, PagePreview | str]:
     target: PreviewTarget | None = None
     language_relative_path: str | None = None
+    language: str | None = None
 
     if path.startswith("en/"):
         target = en
         language_relative_path = path[3:]
+        language = "en"
     elif path.startswith("fr/"):
         target = fr
         language_relative_path = path[3:]
+        language = "fr"
 
-    if target is not None and language_relative_path is not None:
+    if target is not None and language_relative_path is not None and language is not None:
         built_path = built_relative_path(language_relative_path)
         if built_path and file_exists_under(target.staging_dir, built_path):
-            link = markdown_link(path, f"{target.base_url}/{url_path(built_path)}")
-            return "page", link
+            url = f"{target.base_url}/{url_path(built_path)}"
+            return "page", PagePreview(path, language, built_path, url)
 
     blob_url = f"https://github.com/{repo}/blob/{sha}/{url_path(path)}"
     return "other", markdown_link(path, blob_url)
 
 
-def capped_list(items: list[str], maximum: int, overflow_singular: str, overflow_plural: str) -> str:
-    if not items:
-        return ""
-
-    shown = items[:maximum]
-    rendered = "<br>".join(f"- {item}" for item in shown)
-    overflow = len(items) - len(shown)
+def build_other_rows(other_files: list[str]) -> list[str]:
+    shown = other_files[:MAX_OTHER_FILES]
+    rows = [f"| {item} |" for item in shown]
+    overflow = len(other_files) - len(shown)
     if overflow > 0:
-        overflow_word = overflow_singular if overflow == 1 else overflow_plural
-        rendered = f"{rendered}<br>*...and {overflow} more {overflow_word}*"
-    return rendered
+        overflow_word = "file" if overflow == 1 else "files"
+        rows.append(f"| *...and {overflow} more {overflow_word}* |")
+    return rows
+
+
+def build_page_rows(page_previews: list[PagePreview], en_base: str, fr_base: str) -> list[str]:
+    rows_by_page: dict[str, dict[str, PagePreview]] = {}
+
+    for preview in page_previews:
+        language_previews = rows_by_page.setdefault(preview.built_path, {})
+        existing = language_previews.get(preview.language)
+        if existing is None or preview.source_path < existing.source_path:
+            language_previews[preview.language] = preview
+
+    rows = [
+        f"| Site home | {markdown_link(f'{en_base}/', f'{en_base}/')} | {markdown_link(f'{fr_base}/', f'{fr_base}/')} |"
+    ]
+
+    for built_path in sorted(rows_by_page):
+        language_previews = rows_by_page[built_path]
+        en_preview = language_previews.get("en")
+        fr_preview = language_previews.get("fr")
+        en_cell = markdown_link(en_preview.source_path, en_preview.url) if en_preview else "—"
+        fr_cell = markdown_link(fr_preview.source_path, fr_preview.url) if fr_preview else "—"
+        rows.append(f"| {markdown_text(built_path)} | {en_cell} | {fr_cell} |")
+
+    return rows
 
 
 def build_comment(
@@ -106,40 +137,47 @@ def build_comment(
     en = PreviewTarget(en_base, Path(staging_en))
     fr = PreviewTarget(fr_base, Path(staging_fr))
 
-    page_previews: list[str] = []
+    page_previews: list[PagePreview] = []
     other_files: list[str] = []
 
     for path in changed_paths:
         if not path:
             continue
-        kind, link = classify_path(path, repo, sha, en, fr)
+        kind, preview_or_link = classify_path(path, repo, sha, en, fr)
         if kind == "page":
-            page_previews.append(link)
+            if isinstance(preview_or_link, PagePreview):
+                page_previews.append(preview_or_link)
         else:
-            other_files.append(link)
+            if isinstance(preview_or_link, str):
+                other_files.append(preview_or_link)
 
-    page_cell = capped_list(page_previews, MAX_PAGE_PREVIEWS, "page", "pages") or "_No content pages changed_"
-    other_cell = capped_list(other_files, MAX_OTHER_FILES, "file", "files") or "_No other files changed_"
+    page_rows = build_page_rows(page_previews, en_base, fr_base)
+    other_rows = build_other_rows(other_files)
     short_sha = sha[:7]
 
     lines = [
         MARKER,
-        "Preview published:",
-        f"- English: {markdown_link(f'{en_base}/', f'{en_base}/')}",
-        f"- French: {markdown_link(f'{fr_base}/', f'{fr_base}/')}",
-        "",
         "## 🚀 PR Preview",
         "",
-        "| Name | Link(s) |",
-        "| --- | --- |",
-        f"| **Latest commit** | {markdown_link(short_sha, f'https://github.com/{repo}/commit/{sha}')} |",
-        f"| **Page preview** | {page_cell} |",
-        f"| **Other changed files** | {other_cell} |",
+        f"Latest commit: {markdown_link(short_sha, f'https://github.com/{repo}/commit/{sha}')}",
         "",
+        "| Page | English | French |",
+        "| --- | --- | --- |",
+        *page_rows,
+        "",
+        "## 📁 Other changed files",
+        "",
+    ]
+    if other_rows:
+        lines.extend(["| File |", "| --- |", *other_rows, ""])
+    else:
+        lines.extend(["_None_", ""])
+
+    lines.extend([
         "---",
         "",
         "<sub><em>Preview updates automatically with each commit.</em></sub>",
-    ]
+    ])
     return "\n".join(lines) + "\n"
 
 
