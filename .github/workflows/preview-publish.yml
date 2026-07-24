@@ -106,6 +106,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
+      contents: read
       pull-requests: write
     defaults:
       run:
@@ -196,27 +197,37 @@ jobs:
           GH_TOKEN: "${{ github.token }}"
           PR_NUMBER: "${{ github.event.pull_request.number }}"
           REPOSITORY: "${{ github.repository }}"
+          PR_HEAD_SHA: "${{ github.event.pull_request.head.sha }}"
         run: |
-          existing_comments="$(gh api --method GET "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
+          mkdir -p .github/scripts
+          gh api --method GET "repos/${REPOSITORY}/contents/.github/scripts/preview_comment.py" \
+            -f ref="${PR_HEAD_SHA}" \
+            --jq '.content' | base64 -d > .github/scripts/preview_comment.py
+
+          gh api "repos/${REPOSITORY}/pulls/${PR_NUMBER}/files" \
+            --paginate \
+            --jq '.[].filename' | python3 .github/scripts/preview_comment.py \
+              --pr "${PR_NUMBER}" \
+              --repo "${REPOSITORY}" \
+              --sha "${PR_HEAD_SHA}" \
+              --preview-host "https://test.canada.ca" \
+              --staging-en "artifacts/staging-en" \
+              --staging-fr "artifacts/staging-fr" > body.md
+
+          existing_comment_id="$(gh api --method GET "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
             -f per_page=100 \
             --paginate \
-            --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id')"
+            --jq '.[] | select((.body // "") | contains("<!-- preview-urls -->")) | .id' | head -n 1)"
 
-          if [ -n "${existing_comments}" ]; then
-            echo "Preview URLs comment already exists for PR ${PR_NUMBER}."
-            exit 0
+          if [ -n "${existing_comment_id}" ]; then
+            gh api "repos/${REPOSITORY}/issues/comments/${existing_comment_id}" \
+              --method PATCH \
+              -F body=@body.md
+          else
+            gh api "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
+              --method POST \
+              -F body=@body.md
           fi
-
-          body="$(cat <<EOF
-          <!-- preview-urls -->
-          Preview published:
-          - English: https://test.canada.ca/blog/pr-preview/pr-${PR_NUMBER}/
-          - French: https://test.canada.ca/blogue/pr-preview/pr-${PR_NUMBER}/
-          EOF
-          )"
-          gh api "repos/${REPOSITORY}/issues/${PR_NUMBER}/comments" \
-            --method POST \
-            -f "body=${body}"
 
   route-fallthrough:
     name: route fallthrough
