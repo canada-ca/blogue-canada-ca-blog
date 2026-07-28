@@ -1,140 +1,99 @@
 name: Publish PR preview
 
-on:
-  pull_request:
-    branches:
-      - main
-
-concurrency:
-  group: "preview-publish-pr-${{ github.event.pull_request.number }}"
-  cancel-in-progress: true
+"on":
+  workflow_run:
+    workflows:
+      - Build PR preview
+    types:
+      - completed
 
 jobs:
-  build:
-    name: build
-    if: "${{ startsWith(github.head_ref, 'content/') || startsWith(github.head_ref, 'hotfix/') || startsWith(github.head_ref, 'feat/') }}"
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    permissions:
-      contents: read
-    outputs:
-      short-sha: "${{ steps.sha.outputs.short-sha }}"
-    defaults:
-      run:
-        shell: bash
-    steps:
-      - name: Check out PR head
-        uses: actions/checkout@v4
-        with:
-          repository: "${{ github.event.pull_request.head.repo.full_name }}"
-          ref: "${{ github.event.pull_request.head.sha }}"
-          persist-credentials: false
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.2"
-          bundler-cache: true
-
-      - name: Build staging preview
-        env:
-          JEKYLL_ENV: staging
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
-        run: bundle exec rake staging
-
-      - name: Build production-config artifact
-        run: bundle exec rake build
-
-      - name: Enforce English config delta
-        env:
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
-        run: |
-          python3 .github/scripts/config_delta_gate.py \
-            --staging "_staging/blog/en" \
-            --production "_site/en" \
-            --baseurl "/blog/pr-preview/pr-${PR_NUMBER}"
-
-      - name: Enforce French config delta
-        env:
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
-        run: |
-          python3 .github/scripts/config_delta_gate.py \
-            --staging "_staging/blogue/fr" \
-            --production "_site/fr" \
-            --baseurl "/blogue/pr-preview/pr-${PR_NUMBER}"
-
-      - name: Compute short SHA
-        id: sha
-        env:
-          PR_HEAD_SHA: "${{ github.event.pull_request.head.sha }}"
-        run: |
-          short_sha="${PR_HEAD_SHA::7}"
-          printf 'short-sha=%s\n' "${short_sha}" >> "${GITHUB_OUTPUT}"
-
-      - name: Upload staging English artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: staging-en
-          path: _staging/blog/en/
-          if-no-files-found: error
-
-      - name: Upload staging French artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: staging-fr
-          path: _staging/blogue/fr/
-          if-no-files-found: error
-
-      - name: Upload production-config English artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: prod-config-en
-          path: _site/en/
-          if-no-files-found: error
-
-      - name: Upload production-config French artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: prod-config-fr
-          path: _site/fr/
-          if-no-files-found: error
-
   publish:
     name: publish
-    needs: build
-    if: "${{ (startsWith(github.head_ref, 'content/') || startsWith(github.head_ref, 'hotfix/') || startsWith(github.head_ref, 'feat/')) && github.event.pull_request.head.repo.full_name == github.repository }}"
+    if: "${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository }}"
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
+      actions: read
       contents: read
       pull-requests: write
     defaults:
       run:
         shell: bash
     steps:
+      - name: Check out trusted repository
+        uses: actions/checkout@v4
+
+      - name: Download preview metadata artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: preview-metadata
+          path: artifacts/preview-metadata
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Read preview metadata
+        id: metadata
+        env:
+          EVENT_HEAD_SHA: "${{ github.event.workflow_run.head_sha }}"
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          data = json.loads(Path("artifacts/preview-metadata/metadata.json").read_text())
+          pr_number = str(data.get("pr_number", ""))
+          head_sha = str(data.get("head_sha", ""))
+          short_sha = str(data.get("short_sha", ""))
+
+          if not re.fullmatch(r"[1-9][0-9]*", pr_number):
+              raise SystemExit("Invalid pr_number in preview metadata")
+          if not re.fullmatch(r"[0-9a-f]{40}", head_sha):
+              raise SystemExit("Invalid head_sha in preview metadata")
+          if head_sha != os.environ["EVENT_HEAD_SHA"]:
+              raise SystemExit("Preview metadata head_sha does not match workflow_run head_sha")
+          if short_sha != head_sha[:7]:
+              raise SystemExit("Invalid short_sha in preview metadata")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"pr_number={pr_number}\n")
+              output.write(f"head_sha={head_sha}\n")
+              output.write(f"short_sha={short_sha}\n")
+          PY
+
       - name: Download staging English artifact
         uses: actions/download-artifact@v4
         with:
           name: staging-en
           path: artifacts/staging-en
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
 
       - name: Download staging French artifact
         uses: actions/download-artifact@v4
         with:
           name: staging-fr
           path: artifacts/staging-fr
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
 
       - name: Download production-config English artifact
         uses: actions/download-artifact@v4
         with:
           name: prod-config-en
           path: artifacts/prod-config-en
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
 
       - name: Download production-config French artifact
         uses: actions/download-artifact@v4
         with:
           name: prod-config-fr
           path: artifacts/prod-config-fr
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
 
       - name: Mint preview host token
         id: preview-token
@@ -156,8 +115,8 @@ jobs:
 
       - name: Copy preview and production-config artifacts
         env:
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
-          SHORT_SHA: "${{ needs.build.outputs.short-sha }}"
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
+          SHORT_SHA: "${{ steps.metadata.outputs.short_sha }}"
         run: |
           en_preview="preview-host/blog/pr-preview/pr-${PR_NUMBER}"
           fr_preview="preview-host/blogue/pr-preview/pr-${PR_NUMBER}"
@@ -178,8 +137,8 @@ jobs:
       - name: Commit and push preview host changes
         working-directory: preview-host
         env:
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
-          SHORT_SHA: "${{ needs.build.outputs.short-sha }}"
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
+          SHORT_SHA: "${{ steps.metadata.outputs.short_sha }}"
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -195,15 +154,10 @@ jobs:
       - name: Update PR description with preview URLs
         env:
           GH_TOKEN: "${{ github.token }}"
-          PR_NUMBER: "${{ github.event.pull_request.number }}"
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
           REPOSITORY: "${{ github.repository }}"
-          PR_HEAD_SHA: "${{ github.event.pull_request.head.sha }}"
+          PR_HEAD_SHA: "${{ steps.metadata.outputs.head_sha }}"
         run: |
-          mkdir -p .github/scripts
-          gh api --method GET "repos/${REPOSITORY}/contents/.github/scripts/preview_comment.py" \
-            -f ref="${PR_HEAD_SHA}" \
-            --jq '.content' | base64 -d > .github/scripts/preview_comment.py
-
           gh api "repos/${REPOSITORY}/pulls/${PR_NUMBER}/files" \
             --paginate \
             --jq '.[].filename' | python3 .github/scripts/preview_comment.py \
@@ -244,46 +198,3 @@ jobs:
 
           gh api --method PATCH "repos/${REPOSITORY}/pulls/${PR_NUMBER}" \
             -F body=@new-body.md
-
-  route-fallthrough:
-    name: route fallthrough
-    if: "${{ !startsWith(github.head_ref, 'content/') && !startsWith(github.head_ref, 'hotfix/') && !startsWith(github.head_ref, 'feat/') && !startsWith(github.head_ref, 'dependabot/') }}"
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
-      pull-requests: write
-    steps:
-      - name: Comment with routing decision
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const marker = '<!-- routing-fallthrough -->';
-            const branch = context.payload.pull_request.head.ref;
-            const body = `${marker}
-            Branch \`${branch}\` does not match a routed prefix (\`content/\`, \`hotfix/\`, \`feat/\`), so no preview will be published and no promotion path applies.`;
-
-            const { owner, repo } = context.repo;
-            const issue_number = context.issue.number;
-            const comments = await github.paginate(github.rest.issues.listComments, {
-              owner,
-              repo,
-              issue_number,
-              per_page: 100,
-            });
-            const existing = comments.find((comment) => comment.body?.includes(marker));
-
-            if (existing) {
-              await github.rest.issues.updateComment({
-                owner,
-                repo,
-                comment_id: existing.id,
-                body,
-              });
-            } else {
-              await github.rest.issues.createComment({
-                owner,
-                repo,
-                issue_number,
-                body,
-              });
-            }
