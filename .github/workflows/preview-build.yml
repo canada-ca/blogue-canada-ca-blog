@@ -83,35 +83,35 @@ jobs:
           PY
 
       - name: Upload preview metadata artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: preview-metadata
           path: metadata.json
           if-no-files-found: error
 
       - name: Upload staging English artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: staging-en
           path: _staging/blog/en/
           if-no-files-found: error
 
       - name: Upload staging French artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: staging-fr
           path: _staging/blogue/fr/
           if-no-files-found: error
 
       - name: Upload production-config English artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: prod-config-en
           path: _site/en/
           if-no-files-found: error
 
       - name: Upload production-config French artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: prod-config-fr
           path: _site/fr/
