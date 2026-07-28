@@ -284,6 +284,45 @@ live. No checklist item creates them; they are inherited from GitHub Pages.
       cannot set `Cache-Control`, do not promise instant hotfix visibility. The
       MVP accepts the ~10 minute freshness delay as a locked decision.
 
+## Build security model
+
+The source repository builds the Jekyll site before publishing static artifacts.
+Those builds run Ruby code from approved Jekyll plugin gems, so the plugin allow
+list is intentionally narrow.
+
+- The only approved Jekyll plugin is `jekyll-remote-theme`. It is declared in
+  `_config.yml` under `plugins:` and in the `Gemfile`, and is used to load the
+  `wet-boew/gcweb-jekyll` remote theme. No other Jekyll plugins are permitted.
+- Custom plugins are disabled via a build-time guard, not Jekyll's own
+  `safe: true`. **`safe: true` was evaluated and rejected**: `jekyll-remote-theme`
+  supplies the theme's includes/layouts from a clone outside the source tree,
+  and Jekyll's safe mode blocks exactly that cross-boundary access, breaking
+  every page (`Could not locate the included file 'variable-core.liquid' ...
+  not allowed in safe mode`). Do not re-enable `safe: true` in this repository
+  without first confirming the remote-theme mechanism no longer needs it.
+  Instead, the Rakefile's `guard_no_custom_plugins` task — a dependency of
+  every build entry point (`build`, `staging`, `staging:en`, `staging:fr`) —
+  fails the build immediately and loudly if a `_plugins/` directory exists at
+  all, in either the preview or production build path.
+- No secrets are available during builds. The unprivileged `preview-build.yml`
+  build job runs `bundle exec rake staging` and `bundle exec rake build` without
+  App credentials. The equivalent staging and production Rake tasks can also be
+  run locally without secrets. The App token used to publish previews is minted
+  only in the separate privileged `preview-publish.yml` workflow, which checks
+  out trusted repository code and never executes PR-authored code.
+- GitHub-hosted Actions build runners are ephemeral and disposable. Each build
+  run gets a fresh virtual machine that GitHub destroys after the run, so a
+  compromised build job cannot persist on the runner or reach later runs through
+  runner-local state.
+
+Residual risk: the `_plugins/` guard blocks arbitrary `_plugins/*.rb` files,
+but it does not block a contributor from adding a new plugin gem to the
+`Gemfile` and referencing it in `_config.yml`'s `plugins:` list. That would
+still be executable Ruby code from a same-repository branch. Closing that gap
+requires GitHub-side access control, such as branch protection and/or
+CODEOWNERS review on `Gemfile` and `_config.yml`; neither the Rakefile guard
+nor a workflow file can enforce that boundary by itself.
+
 ---
 
 ## Completion sign-off

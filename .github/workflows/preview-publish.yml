@@ -7,6 +7,10 @@ name: Publish PR preview
     types:
       - completed
 
+concurrency:
+  group: "preview-publish-${{ github.event.workflow_run.head_branch }}"
+  cancel-in-progress: false
+
 jobs:
   publish:
     name: publish

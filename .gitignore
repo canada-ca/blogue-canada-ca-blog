@@ -46,4 +46,5 @@ node_modules/
 !.github/scripts/config_delta_gate.py
 !.github/scripts/staging_asset_rewrite.py
 !.github/scripts/preview_comment.py
+!.github/scripts/scheduled_cleanup.py
 __pycache__/

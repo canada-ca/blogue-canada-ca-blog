@@ -17,6 +17,28 @@ task :copy_assets do
   sh "sh copy-assets.sh"
 end
 
+# Custom-plugin guard (build security model). Jekyll's own `safe: true` was
+# evaluated and rejected: this site's `jekyll-remote-theme` plugin supplies
+# includes/layouts from a theme clone outside the source tree, and Jekyll's
+# safe mode blocks exactly that kind of cross-boundary access, breaking every
+# page (see docs/github-pages-setup.md "Build security model"). This task is
+# the actual enforcement instead: it fails the build fast and loudly if a
+# `_plugins/` directory exists at all, since no custom plugin is approved —
+# the only approved plugin (jekyll-remote-theme) is a Gemfile/`plugins:`-
+# declared gem, never a `_plugins/*.rb` file. Every build entry point below
+# depends on this task.
+task :guard_no_custom_plugins do
+  if Dir.exist?("_plugins") && !Dir.empty?("_plugins")
+    abort(<<~MSG)
+      ERROR: a _plugins/ directory is present but not permitted.
+      Custom Jekyll plugins are disabled in this repository. The only
+      approved plugin is jekyll-remote-theme, declared via the Gemfile and
+      _config.yml's `plugins:` key — never a _plugins/*.rb file. Remove
+      _plugins/ before building.
+    MSG
+  end
+end
+
 # Production build. Plain `bundle exec rake build` is a pure production build.
 # Transitional Netlify gate: when ENV['CONTEXT'] == 'deploy-preview' (set by
 # Netlify on deploy previews), swap in the minimal _config.netlify-preview.yml
@@ -26,7 +48,7 @@ end
 # suppression, urlalt overrides), so deploy previews remain byte-equivalent to
 # production except for the analytics id.
 # Remove this gate after the Netlify decommission.
-task :build => :copy_assets do
+task :build => [:guard_no_custom_plugins, :copy_assets] do
   if ENV['CONTEXT'] == 'deploy-preview'
     sh "bundle exec jekyll build --config _config.yml,_config.netlify-preview.yml"
     normalize_preview_robots
@@ -54,19 +76,19 @@ end
 
 namespace :staging do
   desc "Build the English staging preview into _staging/blog/"
-  task :en => :copy_assets do
+  task :en => [:guard_no_custom_plugins, :copy_assets] do
     build_staging("blog", "/blog/pr-preview/pr-#{require_pr_number}")
   end
 
   desc "Build the French staging preview into _staging/blogue/"
-  task :fr => :copy_assets do
+  task :fr => [:guard_no_custom_plugins, :copy_assets] do
     build_staging("blogue", "/blogue/pr-preview/pr-#{require_pr_number}")
   end
 end
 
 # Full dual staging build used by the preview workflow.
 desc "Build both EN and FR staging previews for PR_NUMBER=<n>"
-task :staging => :copy_assets do
+task :staging => [:guard_no_custom_plugins, :copy_assets] do
   pr = require_pr_number
   build_staging("blog", "/blog/pr-preview/pr-#{pr}")
   build_staging("blogue", "/blogue/pr-preview/pr-#{pr}")
