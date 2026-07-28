@@ -26,7 +26,7 @@ jobs:
         shell: bash
     steps:
       - name: Check out trusted repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Download preview metadata artifact
         uses: actions/download-artifact@v4
@@ -109,7 +109,7 @@ jobs:
           repositories: gc-proto.github.io
 
       - name: Check out preview host
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: gc-proto/gc-proto.github.io
           ref: main
