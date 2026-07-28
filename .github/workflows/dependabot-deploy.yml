@@ -19,7 +19,7 @@ jobs:
       (github.actor == 'dependabot[bot]' || github.event.pull_request.user.login == 'dependabot[bot]')
     steps:
       - name: Check out merge commit
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event.pull_request.merge_commit_sha }}
 

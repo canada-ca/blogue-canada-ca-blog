@@ -28,7 +28,7 @@ jobs:
           repositories: gc-proto.github.io
 
       - name: Check out preview host
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: gc-proto/gc-proto.github.io
           ref: main
