@@ -37,8 +37,14 @@ Temporary Items
 # Jekyll
 .jekyll-cache
 _site
+_staging
 vendor
 en/css/*
 fr/css/*
 node_modules/
 *.py
+!.github/scripts/config_delta_gate.py
+!.github/scripts/staging_asset_rewrite.py
+!.github/scripts/preview_comment.py
+!.github/scripts/scheduled_cleanup.py
+__pycache__/

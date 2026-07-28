@@ -1,5 +1,35 @@
-<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}" />
-<link rel="alternate" href="{{ page.altLangPage | prepend: site.urlalt[ i18nText-altLang ] }}.html" hreflang="{{ i18nText-altLang }}" />
+{%- comment -%}
+  Staging-only anti-indexing (FR-4): emit robots noindex meta when the staging
+  flag is set. Driven entirely by _config.staging.yml so production is untouched.
+{%- endcomment -%}
+{%- if site.staging -%}
+<meta name="robots" content="noindex, nofollow" />
+{%- endif -%}
+
+{%- comment -%}
+  Compute the canonical/alternate/og base URLs. In production these come from
+  site.urlalt (blog.canada.ca / blogue.canada.ca). In staging they are rebuilt
+  from the preview host + the language-specific preview baseurl so reviewers
+  never leave the preview host and the language toggle points at the matching
+  PR preview path (FR-24). The config delta gate normalizes these domain swaps.
+{%- endcomment -%}
+{%- if site.staging -%}
+  {%- assign staging_en_base = site.staging_host | append: site.baseurl | replace_first: '/blogue/', '/blog/' -%}
+  {%- assign staging_fr_base = site.staging_host | append: site.baseurl | replace_first: '/blog/', '/blogue/' -%}
+  {%- if page.language == 'fr' -%}
+    {%- assign url_base = staging_fr_base -%}
+    {%- assign alt_base = staging_en_base -%}
+  {%- else -%}
+    {%- assign url_base = staging_en_base -%}
+    {%- assign alt_base = staging_fr_base -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign url_base = site.urlalt[ page.language ] -%}
+  {%- assign alt_base = site.urlalt[ i18nText-altLang ] -%}
+{%- endif -%}
+
+<link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.language | prepend: url_base }}" />
+<link rel="alternate" href="{{ page.altLangPage | prepend: alt_base }}.html" hreflang="{{ i18nText-altLang }}" />
 
 {%- if page.description %}
 <meta name="description" content="{{ page.description }}" />
@@ -34,16 +64,16 @@
 <meta property="twitter:title" content="{{ page.title }}" />
 {%- endif %}
 <meta property="og:locale" content="{{ page.language | append: '_CA' }}" />
-<meta property="og:url" content="{{ site.urlalt[ page.language ] }}{{ page.url | remove_first: '/' | remove_first: page.language }}" />
+<meta property="og:url" content="{{ url_base }}{{ page.url | remove_first: '/' | remove_first: page.language }}" />
 {%- if page.image %}
 	{%- capture ogimage -%}{{ page.language | prepend: '/' }}/images/{{ page.date | date: "%F" | prepend: "og-" }}.png{%- endcapture -%}
 	{%- assign file_exists = site.static_files | where: "path", ogimage -%}
 	{%- if file_exists[0].path %}
-<meta property="og:image" content="{{ site.urlalt[ page.language ] }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.language ] }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
+	<meta property="og:image" content="{{ url_base }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
+	<meta property="twitter:image" content="{{ url_base }}{{ ogimage | remove_first: '/' | remove_first: page.language }}" />
 	{%- else %}
-<meta property="og:image" content="{{ site.urlalt[ page.language ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
-<meta property="twitter:image" content="{{ site.urlalt[ page.language ] }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="og:image" content="{{ url_base }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
+<meta property="twitter:image" content="{{ url_base }}/images/thumbs/{{ page.date | date: "%F" }}.png" />
 	{%- endif %}
 	{%- if page.image.height %}
 <meta property="og:image:height" content="{{ page.image.height }}" />

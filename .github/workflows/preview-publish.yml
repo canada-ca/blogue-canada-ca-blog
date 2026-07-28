@@ -1,0 +1,204 @@
+name: Publish PR preview
+
+"on":
+  workflow_run:
+    workflows:
+      - Build PR preview
+    types:
+      - completed
+
+concurrency:
+  group: "preview-publish-${{ github.event.workflow_run.head_branch }}"
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: publish
+    if: "${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      actions: read
+      contents: read
+      pull-requests: write
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Check out trusted repository
+        uses: actions/checkout@v4
+
+      - name: Download preview metadata artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: preview-metadata
+          path: artifacts/preview-metadata
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Read preview metadata
+        id: metadata
+        env:
+          EVENT_HEAD_SHA: "${{ github.event.workflow_run.head_sha }}"
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          data = json.loads(Path("artifacts/preview-metadata/metadata.json").read_text())
+          pr_number = str(data.get("pr_number", ""))
+          head_sha = str(data.get("head_sha", ""))
+          short_sha = str(data.get("short_sha", ""))
+
+          if not re.fullmatch(r"[1-9][0-9]*", pr_number):
+              raise SystemExit("Invalid pr_number in preview metadata")
+          if not re.fullmatch(r"[0-9a-f]{40}", head_sha):
+              raise SystemExit("Invalid head_sha in preview metadata")
+          if head_sha != os.environ["EVENT_HEAD_SHA"]:
+              raise SystemExit("Preview metadata head_sha does not match workflow_run head_sha")
+          if short_sha != head_sha[:7]:
+              raise SystemExit("Invalid short_sha in preview metadata")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"pr_number={pr_number}\n")
+              output.write(f"head_sha={head_sha}\n")
+              output.write(f"short_sha={short_sha}\n")
+          PY
+
+      - name: Download staging English artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: staging-en
+          path: artifacts/staging-en
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Download staging French artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: staging-fr
+          path: artifacts/staging-fr
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Download production-config English artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: prod-config-en
+          path: artifacts/prod-config-en
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Download production-config French artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: prod-config-fr
+          path: artifacts/prod-config-fr
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+
+      - name: Mint preview host token
+        id: preview-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: "${{ secrets.PUBLISH_APP_ID }}"
+          private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
+          owner: gc-proto
+          repositories: gc-proto.github.io
+
+      - name: Check out preview host
+        uses: actions/checkout@v4
+        with:
+          repository: gc-proto/gc-proto.github.io
+          ref: main
+          token: "${{ steps.preview-token.outputs.token }}"
+          path: preview-host
+          persist-credentials: true
+
+      - name: Copy preview and production-config artifacts
+        env:
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
+          SHORT_SHA: "${{ steps.metadata.outputs.short_sha }}"
+        run: |
+          en_preview="preview-host/blog/pr-preview/pr-${PR_NUMBER}"
+          fr_preview="preview-host/blogue/pr-preview/pr-${PR_NUMBER}"
+          en_prod="preview-host/blog/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+          fr_prod="preview-host/blogue/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+
+          rm -rf "${en_preview}" "${fr_preview}" "${en_prod}" "${fr_prod}"
+          mkdir -p "${en_preview}" "${en_preview}/${SHORT_SHA}" "${fr_preview}" "${fr_preview}/${SHORT_SHA}" "${en_prod}" "${fr_prod}"
+
+          cp -a "artifacts/staging-en/." "${en_preview}/"
+          cp -a "artifacts/staging-en/." "${en_preview}/${SHORT_SHA}/"
+          cp -a "artifacts/staging-fr/." "${fr_preview}/"
+          cp -a "artifacts/staging-fr/." "${fr_preview}/${SHORT_SHA}/"
+          cp -a "artifacts/prod-config-en/." "${en_prod}/"
+          cp -a "artifacts/prod-config-fr/." "${fr_prod}/"
+          touch "preview-host/.nojekyll"
+
+      - name: Commit and push preview host changes
+        working-directory: preview-host
+        env:
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
+          SHORT_SHA: "${{ steps.metadata.outputs.short_sha }}"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ".nojekyll" "blog/pr-preview/pr-${PR_NUMBER}" "blogue/pr-preview/pr-${PR_NUMBER}" "blog/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}" "blogue/prod-artifact/pr-${PR_NUMBER}/${SHORT_SHA}"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Publish PR ${PR_NUMBER} preview ${SHORT_SHA}"
+            git push origin main
+          else
+            echo "Preview host already contains PR ${PR_NUMBER} preview ${SHORT_SHA}."
+          fi
+
+      - name: Update PR description with preview URLs
+        env:
+          GH_TOKEN: "${{ github.token }}"
+          PR_NUMBER: "${{ steps.metadata.outputs.pr_number }}"
+          REPOSITORY: "${{ github.repository }}"
+          PR_HEAD_SHA: "${{ steps.metadata.outputs.head_sha }}"
+        run: |
+          gh api "repos/${REPOSITORY}/pulls/${PR_NUMBER}/files" \
+            --paginate \
+            --jq '.[].filename' | python3 .github/scripts/preview_comment.py \
+              --pr "${PR_NUMBER}" \
+              --repo "${REPOSITORY}" \
+              --sha "${PR_HEAD_SHA}" \
+              --preview-host "https://test.canada.ca" \
+              --staging-en "artifacts/staging-en" \
+              --staging-fr "artifacts/staging-fr" > block.md
+
+          gh api "repos/${REPOSITORY}/pulls/${PR_NUMBER}" \
+            --jq '.body // ""' > body.md
+
+          python3 - <<'PY'
+          from pathlib import Path
+
+          start = "<!-- preview-urls:start -->"
+          end = "<!-- preview-urls:end -->"
+          block = Path("block.md").read_text()
+          body = Path("body.md").read_text()
+
+          if not block.endswith("\n"):
+              block += "\n"
+
+          # Strip any existing preview region wherever it sits, then always
+          # re-append the fresh block at the BOTTOM of the description.
+          start_index = body.find(start)
+          end_index = body.find(end, start_index + len(start)) if start_index != -1 else -1
+          if start_index != -1 and end_index != -1:
+              end_index += len(end)
+              body = body[:start_index] + body[end_index:]
+
+          body = body.strip("\n")
+          new_body = (body + "\n\n" + block) if body else block
+
+          Path("new-body.md").write_text(new_body)
+          PY
+
+          gh api --method PATCH "repos/${REPOSITORY}/pulls/${PR_NUMBER}" \
+            -F body=@new-body.md

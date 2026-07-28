@@ -1,0 +1,15 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: page.language | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.link }}">
+  <link rel="canonical" href="{{ page.redirect.link }}">
+  <title>{{ page.redirect.title }}</title>
+</head>
+<body>
+  <p>If you are not redirected automatically, follow this <a href="{{ page.redirect.link }}">link to {{ page.redirect.title }}</a>.</p>
+</body>
+</html>

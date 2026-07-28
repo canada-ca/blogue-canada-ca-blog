@@ -5,6 +5,7 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- unless site.staging -%}
   {%- for post in site.posts -%}
     {%- if post.language== page.language -%}
   <url>
@@ -24,17 +25,18 @@ sitemap:
       {%- unless single_page.sitemap.exclude -%}
   <url>
     <loc>{{ single_page.url | remove_first: '/' | remove_first: page.language | prepend: site.urlalt[ page.language ] }}</loc>
-      {%- if single_page.dateModified == null -%}
+        {%- if single_page.dateModified == null -%}
     <lastmod>{{ single_page.date | date: "%F" }}</lastmod>
-      {% else %}
+        {% else %}
     <lastmod>{{ single_page.dateModified | date: "%F" }}</lastmod>
-      {%- endif -%}
+        {%- endif -%}
     <changefreq>{{ single_page.sitemap.changefreq | default: 'yearly' }}</changefreq>
     <priority>{{ single_page.sitemap.priority | default: 0.8 }}</priority>
   </url>
       {%- endunless -%}
     {%- endif -%}
   {%- endfor -%}
+  {%- endunless -%}
 </urlset>
 {%- comment -%}
 source: http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/

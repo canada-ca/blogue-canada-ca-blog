@@ -36,14 +36,18 @@ exclude:
 - .github
 - "*.gpg"
 - "*.tmp"
+- _staging
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - copy-assets.sh
 - CNAME
+# Internal operator runbook — must never ship to production (parity fix).
+- docs
 - gcweb-jekyll.gemspec
 - Gemfile
 - Gemfile.lock
 - LICENSE*
+- netlify.toml
 - node_modules
 - screenshot.png
 - SECURITY.md
