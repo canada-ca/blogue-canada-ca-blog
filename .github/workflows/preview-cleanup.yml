@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Mint preview host token
         id: preview-token
-        uses: actions/create-github-app-token@v2
+        uses: actions/create-github-app-token@v3
         with:
           app-id: "${{ secrets.PUBLISH_APP_ID }}"
           private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
