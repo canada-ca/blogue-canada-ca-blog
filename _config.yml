@@ -84,6 +84,9 @@ defaults:
     scope:
       path: "en/"
     values:
+      breadcrumbs:
+      - title: "About Canada.ca"
+        link:  "https://www.canada.ca/en/government/about-canada-ca.html"
       contextualFooter:
         title: Canada.ca Experience Office (CEO)
         links:
@@ -94,6 +97,9 @@ defaults:
     scope:
       path: "fr/"
     values:
+      breadcrumbs:
+      - title: "À propos de Canada.ca"
+        link:  "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
       contextualFooter:
         title: Bureau de l’expérience Canada.ca (BEC)
         links:
@@ -107,7 +113,7 @@ defaults:
     values:
       breadcrumbs:
       - title: "About Canada.ca"
-        link:  "https://www.canada.ca/en/government/about.html"
+        link:  "https://www.canada.ca/en/government/about-canada-ca.html"
       - title: Canada.ca blog
         link: "https://blog.canada.ca/"
         type: "Blog"
@@ -117,8 +123,8 @@ defaults:
       type: "posts"
     values:
       breadcrumbs:
-      - title: "A propos de Canada.ca"
-        link:  "https://www.canada.ca/fr/gouvernement/a-propos.html"
+      - title: "À propos de Canada.ca"
+        link:  "https://www.canada.ca/fr/gouvernement/a-propos-canada-ca.html"
       - title: Blogue de Canada.ca
         link: "https://blogue.canada.ca/"
         type: "Blog"

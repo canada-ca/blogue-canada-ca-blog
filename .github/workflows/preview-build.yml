@@ -22,7 +22,7 @@ jobs:
         shell: bash
     steps:
       - name: Check out PR head
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: "${{ github.event.pull_request.head.repo.full_name }}"
           ref: "${{ github.event.pull_request.head.sha }}"
@@ -83,35 +83,35 @@ jobs:
           PY
 
       - name: Upload preview metadata artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: preview-metadata
           path: metadata.json
           if-no-files-found: error
 
       - name: Upload staging English artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: staging-en
           path: _staging/blog/en/
           if-no-files-found: error
 
       - name: Upload staging French artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: staging-fr
           path: _staging/blogue/fr/
           if-no-files-found: error
 
       - name: Upload production-config English artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: prod-config-en
           path: _site/en/
           if-no-files-found: error
 
       - name: Upload production-config French artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: prod-config-fr
           path: _site/fr/
@@ -126,7 +126,7 @@ jobs:
       pull-requests: write
     steps:
       - name: Comment with routing decision
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const marker = '<!-- routing-fallthrough -->';

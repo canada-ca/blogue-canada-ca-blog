@@ -19,7 +19,7 @@ jobs:
         shell: bash
     steps:
       - name: Check out source
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: List open pull requests
         env:
@@ -30,7 +30,7 @@ jobs:
 
       - name: Mint preview host token
         id: preview-token
-        uses: actions/create-github-app-token@v2
+        uses: actions/create-github-app-token@v3
         with:
           app-id: "${{ secrets.PUBLISH_APP_ID }}"
           private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
@@ -38,7 +38,7 @@ jobs:
           repositories: gc-proto.github.io
 
       - name: Check out preview host
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: gc-proto/gc-proto.github.io
           ref: main
