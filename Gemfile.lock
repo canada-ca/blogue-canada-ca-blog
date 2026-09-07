@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/benbalter/jekyll-remote-theme.git
-  revision: 1914c8947c78b0526184ac9a436f93caf75c71b6
+  revision: 0a18a10a6a2e6fff77e26618b9b8183ba18ea39f
   branch: master
   specs:
     jekyll-remote-theme (0.5.2)
@@ -87,11 +87,11 @@ GEM
     rouge (4.7.0)
     rubyzip (3.6.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.103.1-arm64-darwin)
+    sass-embedded (1.104.0-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.103.1-x86_64-darwin)
+    sass-embedded (1.104.0-x86_64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.103.1-x86_64-linux-gnu)
+    sass-embedded (1.104.0-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
