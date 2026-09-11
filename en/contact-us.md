@@ -1,5 +1,5 @@
 ---
-altLangPage: "/contactez-nous"
+altLangPage: "https://blogue-conception-bec.netlify.app/contactez-nous"
 breadcrumbs: false
 date: 2024-08-12
 dateModified: 2026-02-19
@@ -41,4 +41,4 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/acknowledgement.html" name="contact-dto" netlify=true %}
+{% include components/contact-form.html action="/acknowledgement" name="contact-dto" netlify=true %}
