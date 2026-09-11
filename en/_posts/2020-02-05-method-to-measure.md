@@ -15,7 +15,7 @@ Measuring online task completion helps us understand how design improvements aff
 
 <blockquote>
   <p>“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
-  <footer><a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes">Gerry McGovern, February 2018</a></footer>
+  <footer><a href="/2018/02/23/Improve-digital-services-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer>
 </blockquote>
 
 ## The pros and cons of each method
