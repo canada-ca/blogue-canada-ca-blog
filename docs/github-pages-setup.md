@@ -109,8 +109,9 @@ is enforced by process discipline, not by the platform.
       requests, plus all senior technical advisors (the same technical advisors
       as `production-en`, since technical approval is not language-specific).
 - [x] **3.5** (Optional) On both environments, set the deployment branch policy
-      to the source repo's `main` branch so promotions can only originate from
-      merged `main`.
+      to the source repo's `main` branch so promotion runs can only be
+      dispatched from `main`. This restricts the branch the workflow runs from;
+      it does not mean a PR is promoted after merging (see 7.5).
 
 ---
 
@@ -283,6 +284,20 @@ live. No checklist item creates them; they are inherited from GitHub Pages.
 - [ ] **7.4** **No custom `Cache-Control` on production.** Because GitHub Pages
       cannot set `Cache-Control`, do not promise instant hotfix visibility. The
       MVP accepts the ~10 minute freshness delay as a locked decision.
+- [ ] **7.5** **Promote before merging.** Merging a `content/`, `hotfix/`, or
+      `feat/` PR does **not** deploy it. Production changes only when
+      `promote.yml` is dispatched for that PR, once per language. Closing the PR
+      (including merging it) triggers `preview-cleanup.yml`, which deletes
+      `blog/prod-artifact/pr-<number>` and `blogue/prod-artifact/pr-<number>` —
+      the artifacts `promote.yml` publishes. A PR merged before promotion can no
+      longer be promoted and needs a new PR. The order is:
+      1. Wait for the preview build and config delta checks to pass.
+      2. Get the PR approved at its current head SHA.
+      3. Dispatch **Promote production artifact** with the PR number and
+         approved head SHA for `en`, then again for `fr`; each run waits for
+         approval in its `production-<language>` environment.
+      4. Confirm the live site (allow for the ~10 minute cache, see 7.2).
+      5. Merge the PR.
 
 ## Build security model
 

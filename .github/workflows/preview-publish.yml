@@ -103,7 +103,7 @@ jobs:
         id: preview-token
         uses: actions/create-github-app-token@v3
         with:
-          app-id: "${{ secrets.PUBLISH_APP_ID }}"
+          client-id: "${{ secrets.PUBLISH_APP_ID }}"
           private-key: "${{ secrets.PUBLISH_APP_PRIVATE_KEY }}"
           owner: gc-proto
           repositories: gc-proto.github.io
