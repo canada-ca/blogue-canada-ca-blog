@@ -1,5 +1,5 @@
 ---
-altLangPage: "/contact-us"
+altLangPage: "https://ceo-design-blog.netlify.app/contact-us"
 breadcrumbs: false
 date: 2024-08-12
 dateModified: 2026-02-19
@@ -42,4 +42,4 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/accuse-de-reception.html" name="contact-dto" netlify=true %}
+{% include components/contact-form.html action="/accuse-de-reception" name="contact-dto" netlify=true %}

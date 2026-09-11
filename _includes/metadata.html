@@ -28,8 +28,14 @@
   {%- assign alt_base = site.urlalt[ i18nText-altLang ] -%}
 {%- endif -%}
 
+{%- if page.altLangPage contains '://' -%}
+  {%- assign alt_href = page.altLangPage -%}
+{%- else -%}
+  {%- assign alt_href = page.altLangPage | prepend: alt_base | append: '.html' -%}
+{%- endif -%}
+
 <link rel="canonical" href="{{ page.url | remove_first: '/' | remove_first: page.language | prepend: url_base }}" />
-<link rel="alternate" href="{{ page.altLangPage | prepend: alt_base }}.html" hreflang="{{ i18nText-altLang }}" />
+<link rel="alternate" href="{{ alt_href }}" hreflang="{{ i18nText-altLang }}" />
 
 {%- if page.description %}
 <meta name="description" content="{{ page.description }}" />

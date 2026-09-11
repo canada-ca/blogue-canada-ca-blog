@@ -90,7 +90,7 @@ defaults:
       contextualFooter:
         title: Canada.ca Experience Office (CEO)
         links:
-          - url: "/contact-us.html"
+          - url: "https://ceo-design-blog.netlify.app/contact-us"
             text: Contact us
       language: "en"
   -
@@ -103,7 +103,7 @@ defaults:
       contextualFooter:
         title: Bureau de l’expérience Canada.ca (BEC)
         links:
-          - url: "/contactez-nous.html"
+          - url: "https://blogue-conception-bec.netlify.app/contactez-nous"
             text: Contactez-nous
       language: "fr"
   -
