@@ -42,4 +42,4 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/accuse-de-reception" name="contact-dto" netlify=true %}
+{% include components/contact-form.html action="https://blogue-conception-bec.netlify.app/accuse-de-reception" name="contact-dto" netlify=true %}

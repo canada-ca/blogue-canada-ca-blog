@@ -41,4 +41,4 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/acknowledgement" name="contact-dto" netlify=true %}
+{% include components/contact-form.html action="https://ceo-design-blog.netlify.app/acknowledgement" name="contact-dto" netlify=true %}

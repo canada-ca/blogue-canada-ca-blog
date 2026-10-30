@@ -1,7 +1,18 @@
 {%- assign locales = site.data.locales.contact-form -%}
 {%- assign lang = page.language -%}
+{%- if include.netlify %}
+{%- comment -%} Netlify does not process a form with an absolute action, so this hidden form registers the fields. {%- endcomment %}
+<form name="{{ include.name }}" netlify hidden>
+	<input name="email" type="email" />
+	<input name="subject" type="text" />
+	<textarea name="message"></textarea>
+</form>
+{%- endif %}
 <div class="wb-frmvld row">
-	<form action="{{ include.action }}" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="{{ include.name }}" {% if include.netlify %}netlify{% endif %}>
+	<form action="{{ include.action }}" method="post" class="gc-referrer mrgn-tp-lg col-md-8 gc-font-2019" name="{{ include.name }}">
+		{%- if include.netlify %}
+		<input type="hidden" name="form-name" value="{{ include.name }}" />
+		{%- endif %}
 		<div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true, "renderas":"radio", "gcChckbxrdio":true}'>
 			<p><span class="wb-fieldflow-label">{{ locales.feedback[ lang ] }}</span></p>
 			<ul>
