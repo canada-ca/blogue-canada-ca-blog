@@ -50,6 +50,11 @@ Netlify-handled contact form works:
 | `en/contact-us.md` | `https://blogue-conception-bec.netlify.app/contactez-nous` |
 | `fr/contactez-nous.md` | `https://ceo-design-blog.netlify.app/contact-us` |
 
+GitHub Pages rejects form POSTs, so the copies of these pages on
+`blog.canada.ca` and `blogue.canada.ca` post to the same Netlify deployments.
+The form `action` is an absolute URL and the form carries a hidden `form-name`
+field, which Netlify only adds to pages it hosts.
+
 ### Caveats
 
 - **Staging:** absolute URLs skip the staging base-URL rewrite, so on PR
