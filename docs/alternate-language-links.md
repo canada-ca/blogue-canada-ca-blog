@@ -52,13 +52,17 @@ Netlify-handled contact form works:
 
 GitHub Pages rejects form POSTs, so the copies of these pages on
 `blog.canada.ca` and `blogue.canada.ca` post to the same Netlify deployments.
-The form `action` is an absolute URL and the form carries a hidden `form-name`
-field, which Netlify only adds to pages it hosts.
+The visible form has an absolute `action` and a hidden `form-name` field.
+Netlify does not process a form with an absolute `action`, so a separate hidden
+form with the `netlify` attribute registers the fields. A field missing from
+that hidden form is dropped from submissions. The thank-you pages are served
+from Netlify, so their return links are absolute too.
 
 ### Caveats
 
 - **Staging:** absolute URLs skip the staging base-URL rewrite, so on PR
   previews these pages' toggle and `hreflang` links point at the live Netlify
-  sites, not the preview host.
+  sites, not the preview host. The contact forms also post to the live Netlify
+  sites from every preview, so a test submission reaches the real inbox.
 - **Include the full target:** the extension is not added, so write the URL
   exactly as it should resolve on the target host.

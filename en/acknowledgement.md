@@ -15,4 +15,4 @@ We’ve received your message. If you provided an email, a team member will get 
 
 We appreciate your feedback and questions.
 
-Return to the [ page you were previously viewing ]( / ){: .gc-referrer}
+Return to the [ page you were previously viewing ]( https://blog.canada.ca/ ){: .gc-referrer}
