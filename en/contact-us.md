@@ -2,7 +2,7 @@
 altLangPage: "https://blogue-conception-bec.netlify.app/contactez-nous"
 breadcrumbs: false
 date: 2024-08-12
-dateModified: 2026-02-19
+dateModified: 2026-11-02
 description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
 nomenu: true
 noReportProblem: true
@@ -12,11 +12,15 @@ share: false
 title: "Contact the Canada.ca Experience Office"
 section-title: ""
 ---
-<p>The <a href="https://design.canada.ca/about/canadaca-experience-office.html">Canada.ca Experience Office</a> is part of Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca.</p>
+<p>The <a href="https://design.canada.ca/about/canadaca-experience-office.html">Canada.ca Experience Office</a> is part of Employment and Social Development Canada. We welcome your questions and suggestions about the design of Canada.ca. To contact us, please send an email to:</p>
+<ul>
+  <li><a href="mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca">dsd.ceo-bec.dsn@servicecanada.gc.ca</a></li>
+</ul>
 <p>Please note that we can only respond to questions specifically about the design of, or issues related to, Canada.ca. For contact information for other departments or programs, please visit:</p>
 <ul>
   <li><a href="https://www.canada.ca/en/contact.html">Government of Canada contacts</a></li>
 </ul>
+{% comment %}
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
@@ -41,4 +45,5 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/acknowledgement" name="contact-dto" netlify=true %}
+{% endcomment %}
+{% comment %}{% include components/contact-form.html action="/acknowledgement" name="contact-dto" netlify=true %}{% endcomment %}
