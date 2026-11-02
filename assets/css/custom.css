@@ -359,8 +359,3 @@ h1 span.stacked span:nth-child(2) {
 	font-weight: 500;
 	margin-bottom: 0.17em;
 }
-
-/* Header line on pages with no menu: 1px grey to match GC Design System header */
-#wb-bnr + hr:not(:has(+ .container .gcweb-menu)) {
-	border-top: 1px solid #d9d9d9;
-}

@@ -1,6 +1,7 @@
 ---
 altLangPage: "https://blogue.canada.ca/contactez-nous"
 breadcrumbs: false
+css: "/css/no-menu.css"
 date: 2024-08-12
 dateModified: 2026-11-02
 description: "Contact the Canada.ca Experience Office about the Canada.ca design system."
