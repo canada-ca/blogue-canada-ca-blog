@@ -1,5 +1,5 @@
 ---
-altLangPage: "https://ceo-design-blog.netlify.app/contact-us"
+altLangPage: "https://blog.canada.ca/contact-us"
 breadcrumbs: false
 date: 2024-08-12
 dateModified: 2026-11-02
