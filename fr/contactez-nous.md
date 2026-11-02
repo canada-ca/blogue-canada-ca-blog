@@ -1,8 +1,9 @@
 ---
-altLangPage: "https://ceo-design-blog.netlify.app/contact-us"
+altLangPage: "https://blog.canada.ca/contact-us"
 breadcrumbs: false
+css: "/css/no-menu.css"
 date: 2024-08-12
-dateModified: 2026-02-19
+dateModified: 2026-11-02
 description: "Contactez le Bureau de l’expérience Canada.ca au sujet du système de conception de Canada.ca."
 nomenu: true
 nositesearch: true
@@ -13,11 +14,15 @@ showFeedback: false
 title: "Contactez le Bureau de l’expérience Canada.ca"
 section-title: ""
 ---
-<p>Le <a href="https://conception.canada.ca/a-propos/bureau-experience-canadaca.html">Bureau de l’expérience Canada.ca</a> fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues.</p>
+<p>Le <a href="https://conception.canada.ca/a-propos/bureau-experience-canadaca.html">Bureau de l’expérience Canada.ca</a> fait partie d’Emploi et Développement social Canada. Vos questions et suggestions sur la conception de Canada.ca sont les bienvenues. Pour communiquer avec nous, veuillez envoyer un courriel à l’adresse suivante&nbsp;:</p>
+<ul>
+  <li><a href="mailto:dsd.ceo-bec.dsn@servicecanada.gc.ca">dsd.ceo-bec.dsn@servicecanada.gc.ca</a></li>
+</ul>
 <p>Notez que nous ne pouvons répondre qu’aux questions portant sur la conception ou les problèmes en lien avec Canada.ca. Pour obtenir les coordonnées d’autres ministères ou programmes, consultez&nbsp;:</p>
 <ul>
   <li><a href="https://www.canada.ca/fr/contact.html">Coordonnées du gouvernement du Canada</a></li>
 </ul>
+{% comment %}
 <div class="row">
   <div class="col-md-8">
     <details class="mrgn-tp-lg">
@@ -42,4 +47,5 @@ section-title: ""
     </details>
   </div>
 </div>
-{% include components/contact-form.html action="/accuse-de-reception" name="contact-dto" netlify=true %}
+{% endcomment %}
+{% comment %}{% include components/contact-form.html action="/accuse-de-reception" name="contact-dto" netlify=true %}{% endcomment %}

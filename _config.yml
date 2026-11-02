@@ -57,6 +57,8 @@ exclude:
 
 include:
 - _page
+- en/_redirects
+- fr/_redirects
 
 # Jekyll settings
 defaults:
@@ -90,7 +92,7 @@ defaults:
       contextualFooter:
         title: Canada.ca Experience Office (CEO)
         links:
-          - url: "https://ceo-design-blog.netlify.app/contact-us"
+          - url: "https://blog.canada.ca/contact-us"
             text: Contact us
       language: "en"
   -
@@ -103,7 +105,7 @@ defaults:
       contextualFooter:
         title: Bureau de l’expérience Canada.ca (BEC)
         links:
-          - url: "https://blogue-conception-bec.netlify.app/contactez-nous"
+          - url: "https://blogue.canada.ca/contactez-nous"
             text: Contactez-nous
       language: "fr"
   -
