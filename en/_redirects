@@ -1,0 +1,3 @@
+# Old Netlify domains: send everything to the GitHub Pages blog (Netlify only)
+https://ceo-design-blog.netlify.app/*          https://blog.canada.ca/:splat     301!
+https://blogue-conception-bec.netlify.app/*    https://blogue.canada.ca/:splat   301!

@@ -57,6 +57,8 @@ exclude:
 
 include:
 - _page
+- en/_redirects
+- fr/_redirects
 
 # Jekyll settings
 defaults:
